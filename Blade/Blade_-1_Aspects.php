@@ -1,5 +1,5 @@
 <?php 
-include "header.php"
+include "../header.php"
 ?>
 <!DOCTYPE html>
 
@@ -24,6 +24,6 @@ include "header.php"
             $_SESSION["BLADE"] = 1;
         }
     ?>
-    <?php include '/footer.php';?>
+    <?php include '../footer.php';?>
 </body>
 </html>
