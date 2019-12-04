@@ -20,5 +20,8 @@
     else echo "<li>",$_SESSION["BLADE"],"</li>";
 ?>
 </ul>
+<ul>
+    <li><a href="/River/River_-1_Aspects.php">River Elf Aspects</a></li>
+</ul>
 </body>
 </html>
