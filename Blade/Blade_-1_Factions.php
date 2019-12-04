@@ -1,3 +1,6 @@
+<?php 
+include "header.php"
+?>
 <!DOCTYPE html>
 
 <head>
@@ -16,4 +19,6 @@
         their religion under the Lycans, their deep faith in Calaestros was hidden for many years.</p>
     <p>Now, this group has come to believe that the Blade elves were fated to be forged into the form they have now- the blade of Calaestros. They believe it is not just the duty but the destiny of the Blade elves to be eternal guardians against tyranny
         and evil. They will promote this goal- and the requisite “sword sharpening"- above all others.</p>
+    <?php include '/footer.php';?>
 </body>
+</html>

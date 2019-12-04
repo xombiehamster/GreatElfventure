@@ -1,6 +1,4 @@
-<?php
-    session_start();
-?>
+<?php include 'header.php'?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,12 +11,14 @@
 <?php
     echo "Hello World!";
 ?>
-<a href="Blade_-1_Aspects.php">Blade Elf Aspects</a>
+<ul>
+    <li><a href="Blade_-1_Aspects.php">Blade Elf Aspects</a></li>
 <?php
     if ($_SESSION["BLADE"] == 1){
-        echo "<a href=\"Blade_-1_Factions.php\">Blade Elf Factions</a>";
+        echo "<li><a href=\"/Blade/Blade_-1_Factions.php\">Blade Elf Factions</a></li>";
     }
-    else echo $_SESSION["BLADE"];
+    else echo "<li>",$_SESSION["BLADE"],"</li>";
 ?>
+</ul>
 </body>
 </html>
