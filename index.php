@@ -12,7 +12,7 @@
     echo "Hello World!";
 ?>
 <ul>
-    <li><a href="Blade_-1_Aspects.php">Blade Elf Aspects</a></li>
+    <li><a href="/Blade/Blade_-1_Aspects.php">Blade Elf Aspects</a></li>
 <?php
     if ($_SESSION["BLADE"] == 1){
         echo "<li><a href=\"/Blade/Blade_-1_Factions.php\">Blade Elf Factions</a></li>";
