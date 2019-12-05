@@ -22,7 +22,13 @@
             <td>3/3 Refresh</td>
             <td>0 Bonus</td>
         </tr>
+        <tr>
+            <th>Parager</th>
+            <td>(-12,8)</td>
+            <td>Goldfall River</td>
+        </tr>
     </table>
+    <p>Staurois paces uncomfortably across the porch of the Hylidae raft.  Smilisca sits on a stump that’s been bolted to the deck boards and works on tying a complicated knot in the map braid for the Goldfall River.  Acris watches his master’s hands intently from where he sits at his feet, practicing his own knots by tying them in fishing line next to Eina with her feet dangling in the cool clear water.  Litoria stands in the shallow water next to the raft, leaning gently on her hippopotamus while she grazes.</p>
     <p><b>Economic:</b> With Eina motivating the work efforts with the blessings of Calestros, work begins on building a lift - a “fall hopper” - made of pulleys and sturdy ropes with boulders for counterbalance.  They put to use the extra materials on hand that were left over from the original raft construction projects.  This makes use of the Investment trapping of Infrastructure with 2 Ability, 1 Proficiency, and 2 Boost dice: 5 advantage, 3 successes, 0 triumphs</p>
 
     <?php 
