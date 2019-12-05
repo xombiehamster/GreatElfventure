@@ -20,19 +20,19 @@ function getList($elf, $sequence){
             $ys = getStringYear($y);
             switch ($m){
                 case 1: 
-                    $list.= $ys.'_'.$m.'_'.$elf.'php">'.'Summer, year '.$y;
+                    $list.= $ys.'_'.$m.'_'.$elf.'.php">'.'Summer, year '.$y;
                     $m++;
                 break;
                 case 2:
-                    $list.= $ys.'_'.$m.'_'.$elf.'php">'.'Fall, year '.$y;
+                    $list.= $ys.'_'.$m.'_'.$elf.'.php">'.'Fall, year '.$y;
                     $m++;
                 break;
                 case 3:
-                    $list.= $ys.'_'.$m.'_'.$elf.'php">'.'Winter, year '.$y;
+                    $list.= $ys.'_'.$m.'_'.$elf.'.php">'.'Winter, year '.$y;
                     $m++;
                 break;
                 case 4:
-                    $list.= $ys.'_'.$m.'_'.$elf.'php">'.'Spring, year '.$y;
+                    $list.= $ys.'_'.$m.'_'.$elf.'.php">'.'Spring, year '.$y;
                     $y++;
                     $m = 1;
                 break;
