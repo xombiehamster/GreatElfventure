@@ -14,6 +14,7 @@ function getList($elf, $sequence){
     if($sequence >= 1){
         $y = 1;
         $m = 1;
+        echo $_SESSION[strtouppper($elf)]," session var<br/>";
         while($n<=$sequence){
             $list.='<li><a href="'.$elf."/Year/";
             $ys = getStringYear($y);

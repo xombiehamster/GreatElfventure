@@ -59,7 +59,6 @@
     </td>
     <td>
         <?php 
-            echo $_SESSION["RIVER"]," index var<br/>";
             echo getList("River",$_SESSION["RIVER"]);
         ?>
     </td>
