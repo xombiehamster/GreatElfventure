@@ -22,6 +22,7 @@
             $_SESSION["B_EXTRA"] = 1;
         }
     ?>
+    test
     <?php include '../footer.php';?>
 </body>
 </html>
