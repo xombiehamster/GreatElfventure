@@ -61,17 +61,17 @@
     <p>The elves at Fort Alfyr finally have enough provisions to set out into their new lands. And honestly, that property damage every turn is getting to be a pain. They are eager to set out, and quite thankful for all the help you have given then.</p>
     <p>As a celebration of surviving the long hardships it has taken to get this far, the leaders of all the elf peoples agree to throw a party. They also know the quality of your cooking, so they agree to bring food.</p>
     <p><b>Roleplaying Opportunity:</b> <a href="01_0.php">Goodbye Potluck!</a> Summer Year 0 to be resolved after the roleplaying event. </p>
-    
+
     <?php 
-        if ($_SESSION["BLADE"] < -1){
-            $_SESSION["BLADE"] = -1;
+        if ($_SESSION["BLADE"] <= 0){
+            $_SESSION["BLADE"] = 1;
         }
         echo $_SESSION["BLADE"]," index var<br/>";
     ?>
     <table style="width:100%">
         <tr>
-            <td><a href="../../index.php">BACK</a></td>
-            <td><a href="00_4_Blade.php">NEXT</a></td>
+            <td><a href="00_3_Blade.php">BACK</a></td>
+            <td><a href="01_1_Blade.php">NEXT</a></td>
         </tr>
     </table>
     <?php include '../footer.php'?>

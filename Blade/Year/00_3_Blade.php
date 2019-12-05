@@ -82,7 +82,7 @@
     <p>The Blade Elves decide they have no other actions to take. They decide against invoking any aspects to reroll a skill, and leave their division garrisoned.</p>
     <h2>Results</h2>
     <p>Hoo boy, here we go.</p>
-    <p>First off, the <b>Houseguests</p> Event is ongoing and has not been resolved. The blade elves take one point of property stress.</p>
+    <p>First off, the <b>Houseguests</b> Event is ongoing and has not been resolved. The blade elves take one point of property stress.</p>
     <p><b>Economic:</b> <i>The GM decides that what the Blade elves are trying to do to improve the fort is pretty reasonable. They're just trying to make it safe to live in, not do anything ambitious like turn it into a place. The GM decides that this is an <b>Easy</b> task.</i></p>
     <p>Rolling 1 difficulty die for the Easy task of renovations gives us a result of an 8. This gives a result of <kbd>1 failure and 1 threat</kbd>.</p>
     <p>Combined with the 2 successes the blade elves rolled, this gives us one success but also one threat. The blade elves have succeeded at their task! The aspect “one fort lightly used” has been removed and replaced with:</p>
@@ -127,9 +127,4 @@
         </tr>
     </table>
     <?php include '../footer.php'?>
-    <?php 
-        if($_SESSION["YEAR"]<1){
-            $_SESSION["YEAR"]=1;
-        }
-    ?>
 </body>

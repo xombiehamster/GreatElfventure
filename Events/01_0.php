@@ -21,9 +21,9 @@ include '../header.php'
     <p>“Bah,” Ehra sighs, “I will sit just as soon as I greet the first few visitors, I promise. Allow me at least a little pride!”</p>
     <p>“Yes sir,” Katiin nods.</p>
     <p>Siiri rolls her eyes, but nods as well.</p>
-    <ln/>
+    <hr/>
     <p><a href="../Blade/0_Aspects.php">More about Blade Elves.</a></p>
-    <ln/>
+    <hr/>
     <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. Shadimon and Baijani paused at the door to greet the blade elves, while Anasatri eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
     <p>Shadimon held out his hand to Ehra, looking up at the much taller elf, “A good party. I hope you haven’t spent it all in here?”</p>
     <p>Ehra smiles and takes Shadimon’s hand, “Not at all! I have managed to get around some, at least. Siiri seems to think I will fall apart if I move too much, but I have been able to see our people celebrating together. It warms my heart.”</p>
@@ -34,7 +34,7 @@ include '../header.php'
 
 
     <?php
-        if(is_null($_SESSION["YEAR"])){
+        if(is_null($_SESSION["YEAR"]) or $_SESSION["YEAR"]==1){
             $_SESSION["YEAR"] = 1;
             $_SESSION["BLADE"] = 1;
             $_SESSION["DARK"] = 1;
