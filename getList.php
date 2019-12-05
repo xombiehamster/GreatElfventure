@@ -1,8 +1,8 @@
 <?php
 function getStringYear($year){
-    $ys = "0x";
+
     if($year<10){
-        $ys = str_replace($ys,"x",$year);
+        $ys = '0'.$year;
     }else{
         $ys = $year;
     }
@@ -11,7 +11,7 @@ function getStringYear($year){
 function getList($elf, $sequence){
     $list = "<p>test list call".$elf.$sequence."</p>";
     $list .='<ol>';
-    $n = 0;
+    $n = 1;
     if($sequence >= 1){
         $y = 1;
         $m = 1;
