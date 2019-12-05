@@ -35,7 +35,7 @@
     <p>The erstwhile intelligence agents use the <i>Cloak and Dagger</i> trapping of <b>Spycraft</b> with 1 ability: <kbd>1 advantage, 0 successes, 0 triumphs</kbd></p>
     <p><b>Military:</b> Litoria broods darkly at the prospect of setting out into the great unknown with such lousy maps.  Her cousin agrees, this wiggly blue line on the linen map the Winged Elves let them copy is insufficient data.  She sends out <i>Pathfinders</i> using the <b>Reconnaissance</b> skill to scout the river ahead in their speedy little kayaks.  Rolling 2 ability: <kbd>1 advantage, 0 successes, 0 triumphs</kbd></p>
     <p><b>Mental:</b>  Eina is deeply concerned that she has forgotten something significant regarding the appropriate ways to embark on new journeys.  This feels momentus, like a great turning point.  She spends extra time searching her prayers for an answer as to how to honor this exciting time correctly.  It feels like an important question - how should this event be remembered and celebrated?  How do they honor their history while they create it?  She consults the elders, but as their texts are lost, she mostly meditates to speak with Calestros to seek Her answers.  </p>
-    <p>Using the <i>Research</i> trapping of <b>Spirituality</b> Eina searches for answers with 1 untrained ability: 1 advantage, 0 successes, 0 triumphs</p>
+    <p>Using the <i>Research</i> trapping of <b>Spirituality</b> Eina searches for answers with 1 untrained ability: <kbd>1 advantage, 0 successes, 0 triumphs</kbd></p>
     <h2>Results</h2>
     <p><b>Economic:</b> Congratulations! The founding of Partager is a success. The river elves don’t like sitting cooped up in a fort, and by this point it’s been several years since they have been able to live the way they prefer- free on the river.</p>
     <p>Many of your best raft-smiths had spent every waking moment since you left Colin’s Bluff planning their next raft, and it shows. They dive into building with boundless enthusiasm. Combined with the fact that your passengers actually do pitch in to help and the hopeful environment that the first river bond in some time creates, things go quite smoothly actually. Your raft-smiths are able to build what you need having only used a portion of the supplies they were given.</p>
@@ -44,7 +44,7 @@
     <ul>
         <li><b>Name:</b> Partager</li>
         <li><b>Description:</b> The first of the new flotillas is named for the word ‘to share’ in an old dialect of Sylvan that isn’t spoken on this side of the continental divide.  Partager is the first flotilla that’s embarked in this region, and has pride of place as the Oarmaster’s own raft travels in it.</li>
-        <li><b>Size:</li> Village</li>
+        <li><b>Size:</b><i> Village</i></li>
         <li>
             <b>Territory Aspects:</b>
             <ul><li><i>River:</i> Partager is currently about halfway up the Goldfall river.</li></ul>
