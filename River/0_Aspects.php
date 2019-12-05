@@ -62,7 +62,7 @@ include '../header.php'
 
     
     <?php 
-        if(isnull($_SESSION["R_EXTRA"]){
+        if(isnull($_SESSION["R_EXTRA"])){
             $_SESSION["R_EXTRA"] = 1;
         }
     ?>
