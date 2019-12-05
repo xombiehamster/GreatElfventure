@@ -88,11 +88,10 @@
         if ($_SESSION["RIVER"] < 2){
             $_SESSION["RIVER"] = 2;
         }
-        echo $_SESSION["RIVER"]," index var<br/>";
     ?>
     <table style="width:100%">
         <tr>
-            <td><a href="../index.php">BACK</a></td>
+            <td><a href="../../index.php">BACK</a></td>
             <td><a href="01_2_River.php">NEXT</a></td>
         </tr>
     </table>
