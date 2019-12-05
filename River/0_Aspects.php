@@ -59,10 +59,9 @@
 
 
     
-    <?php 
-        if(is_null($_SESSION["R_EXTRA"])){
-            $_SESSION["R_EXTRA"] = 1;
-        }
+    <?php
+    include '../settarget.php'; 
+    settarget("River",null,1);
     ?>
     <?php include '../footer.php';?>
 </body>

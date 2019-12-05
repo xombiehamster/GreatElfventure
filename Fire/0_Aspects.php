@@ -27,10 +27,9 @@
     <p><strong>Upgrade:</strong> <em>Infrastructure.</em></p>
     <h2><strong>Civile Praesidium</strong></h2>
     <p>Born from Ashwalker Tsun&rsquo;s speech in the fear and terror following the Tourist&rsquo;s incursion, the Civilie Praesidium is an organized volunteer militia from within the Fire Elf civilian population. They are firefighters, construction workers, civil engineers, guards, and even auxiliary soldiers in times of crisis.</p>
-    <?php 
-        if(is_null($_SESSION["F_EXTRA"])){
-            $_SESSION["F_EXTRA"] = 1;
-        }
+    <?php
+    include '../settarget.php'; 
+    settarget("Fire",null,1);
     ?>
     <?php include '../footer.php';?>
 </body>
