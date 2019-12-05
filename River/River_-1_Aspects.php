@@ -5,7 +5,7 @@ include '../header.php'
 
 <head>
     <title>
-        Blade Elf Overview
+        River Elf Overview
     </title>
 </head>
 
@@ -25,8 +25,8 @@ include '../header.php'
     <p><i>Do we have to say goodbye to the past?</i></p>
     <p>With all that they were and all routes to return seemingly severed, the river elves have some trouble letting go.  The pain of it leads them to tend toward bitterness, and makes relationships with humans very difficult.  They have to strive against this resentment when dealing with anyone they perceive as having lost less and abandoned less of their core identity in the rebellion.</p>    
     <?php 
-        if($_SESSION["RIVER"] == 0){
-            $_SESSION["RIVER"] = 1;
+        if($_SESSION["R_EXTRA"] == 0){
+            $_SESSION["R_EXTRA"] = 1;
         }
     ?>
     <?php include '../footer.php';?>
