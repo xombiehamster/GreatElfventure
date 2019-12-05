@@ -22,7 +22,7 @@
     to the point where it becomes relevant. There will be links within the text to anything extra.</p>
 </ln>
 <p>Please understand that this is very much an Early Access Pre-Alpha project at the moment. It is far from complete. Submit your bug 
-    reports to me through <a href="mailto:deep_space@stories.com">email</a>.
+    reports to me through <a href="mailto:deep_space@writing.com">email</a>.
 </p>
 <ln/>
 <p>Every year starts with a <a href="/Events/01_0.php">Potluck</a>, so one point of entry is to start reading from the very first one.</p>

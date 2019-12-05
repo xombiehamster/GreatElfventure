@@ -32,7 +32,7 @@ function getBonus($elf,$sequence){
         $i = 0;
         $arr = getArray($elf);
         while($i<=$sequence){
-            $list .= '<li><a href="'.$i.'_'.$elf.'.php">';
+            $list .= '<li><a href="'.$i.'_'.$arr[$i].'.php">';
             $list .= $arr[$i];
             $list .= '</a></li>';
             $i ++;

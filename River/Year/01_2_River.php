@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>Year 1 - Fall</h>
+    <h1>Year 1 - Fall</h1>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
