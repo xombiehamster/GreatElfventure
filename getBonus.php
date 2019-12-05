@@ -7,8 +7,22 @@ function getStringYear($year){
     }
     return $ys;
 }
-function getFileName($elf,$sequence){
-    return "yep";
+function getArray($elf){
+    $arr = array();
+    switch($elf){
+        case "Blade":
+            $arr[0] = "Aspects";
+            $arr[1] = "Factions";
+            $arr[2] = "Skills and Stunts";
+        break;
+        case "River":
+            $arr[0] = "Aspects";
+            $arr[1] = "Factions";
+            $arr[2] = "Skills and Stunts";
+            $arr[3] = "A Measure of Hospitality";
+        break;
+    }
+    return $arr;
 }
 function getBonus($elf,$sequence){
     if(is_null($sequence)){
@@ -16,13 +30,14 @@ function getBonus($elf,$sequence){
     }else{
         $list = '<ol>';
         $i = 0;
-        while($i<$sequence){
-            $list.='<li><a href="'.$i.'_'.$elf.'.php">';
-            $list.=getFileName($elf,$sequence);
-            $list.='</a></li>';
-            $i++;
+        $arr = getArray($elf);
+        while($i<=$sequence){
+            $list .= '<li><a href="'.$i.'_'.$elf.'.php">';
+            $list .= $arr[$i];
+            $list .= '</a></li>';
+            $i ++;
         }
-        $list.='</ol>';
+        $list .= '</ol>';
         return $list;
     }
 }
