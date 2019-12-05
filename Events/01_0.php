@@ -65,7 +65,7 @@
     <p>There is a small angry bleat from across the room.  <p>
     <p>Squirrel Boy looks in Pebble’s direction. “Same, little one.” </p>
     <hr/>
-    <p>More about Fire Elves</p>
+    <p><a href="../Fire/0_Aspects.php">More about Fire Elves</a></p>
     <hr/>
     <p>A small group of river elves arrives a bit belatedly.  Staurois and Litoria are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  Eina and Smilisca are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
     <p>"Pfoo-wee!" Staurois exclaims, "I hope the party ain't all over a-ready!"  He rubs the spots on his bald head, smiling but clearly exhausted from the task.  Litoria absently pats the hippopotamus on the nose, scratching her coarse whiskers.  She and Eina shrug at each other.  Smilisca's eyes dart around the room hopefully, but he appears somewhat disappointed by what he doesn't see, and he puts a bundle of large leaves on the table next to the crock.</p>
@@ -101,7 +101,7 @@
     <p>With that, the blade elves take their plates and begin to sample the various foods in front of them. Against Siiri’s protests, Ehra even samples the sausages the Cryptid brought. He makes… an interesting face, but smiles afterwards.</p>
     <p>“Very savory!”</p>
     <hr/>
-    <p>What even are Cryptid elves?</p>
+    <p>What even are Cryptid Elves?</p>
     <hr/>
     <p>The dreamdust elves get up, helping themselves to the food. They stare at the raw crabs with some confusion. Dust pokes at one but adds it to his plate with some doubt. Food acquired, the four scatter across the room. Dust heads for the river elves, Pebble heads for the cryptid elf, Dave heads for Baijani with the winged elves, and Steve wanders in an apparently random direction, winding up by the dark elves.</p>
     <p>Rasputin seems to eagerly pile bits of everything onto his plate, Greg only half-heartedly trying to convince him not to while being a bit more picky with his own.</p>
