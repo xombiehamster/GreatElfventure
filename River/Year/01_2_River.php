@@ -8,6 +8,20 @@
 </head>
 
 <body>
+    <table style="width:100%">
+        <tr>
+            <th>Stress</th>
+            <td>Economic 0/5</td>
+            <td>Morale 0/5</td>
+            <td>Property 0/4</td>
+            <td>Military 0/5</td>
+        </tr>
+        <tr>
+            <th>Fate Points</th>
+            <td>3/3 Refresh</td>
+            <td>0 Bonus</td>
+        </tr>
+    </table>
     <p><b>Economic:</b> With Eina motivating the work efforts with the blessings of Calestros, work begins on building a lift - a “fall hopper” - made of pulleys and sturdy ropes with boulders for counterbalance.  They put to use the extra materials on hand that were left over from the original raft construction projects.  This makes use of the Investment trapping of Infrastructure with 2 Ability, 1 Proficiency, and 2 Boost dice: 5 advantage, 3 successes, 0 triumphs</p>
 
     <?php 
@@ -19,10 +33,8 @@
     ?>
     <table style="width:100%">
         <tr>
-            <a href="01_1_River.php">BACK</a>
-        </tr>
-        <tr>
-            <a href="01_3_River.php">NEXT</a>
+            <td><a href="01_1_River.php">BACK</a></td>
+            <td><a href="01_3_River.php">NEXT</a></td>
         </tr>
     </table>
     <?php include '../footer.php'?>

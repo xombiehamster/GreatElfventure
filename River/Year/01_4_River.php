@@ -20,10 +20,8 @@
     ?>
     <table style="width:100%">
         <tr>
-            <a href="01_1_River.php">BACK</a>
-        </tr>
-        <tr>
-            <a href="01_3_River.php">NEXT</a>
+            <td><a href="01_1_River.php">BACK</a></td>
+            <td><a href="01_3_River.php">NEXT</a></td>
         </tr>
     </table>
     <?php include '../footer.php'?>
