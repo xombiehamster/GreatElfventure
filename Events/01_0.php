@@ -34,7 +34,7 @@ include '../header.php'
 
 
     <?php
-        if(($_SESSION["YEAR"]<1) or is_null($_SESSION["YEAR"])){
+        if(is_null($_SESSION["YEAR"])){
             $_SESSION["YEAR"] = 1;
             $_SESSION["BLADE"] = 1;
             $_SESSION["DARK"] = 1;
