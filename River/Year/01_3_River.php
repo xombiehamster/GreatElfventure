@@ -14,11 +14,9 @@
     <p>Meanwhile, Staurois recalls that their Fire Elf cousins have settled on the river headed away from the swamp to the North, and they desired wood.  Unaware of the unorganized attempt by the common elves to add an aspect to their settlement, he spends a Fate point to motivate the Economic branch to a second action this season.  Using the Merchants trapping of Trade, Staurois gets help carefully harvesting wood from the forested swamp to bring with them on the upriver journey.</p>
     <p>This picks up the Territory Aspect: Forest, for later trade.  They roll: 2 Ability, 1 Proficiency: 3 advantage, 1 successes, 0 triumphs.</p>
 
-    <?php 
-        if ($_SESSION["RIVER"] < 4){
-            $_SESSION["RIVER"] = 4;
-        }
-        echo $_SESSION["RIVER"]," index var<br/>";
+    <?php
+    include '../../settarget.php'; 
+    settarget("River",4,3);
     ?>
     <table style="width:100%">
         <tr>

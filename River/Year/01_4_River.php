@@ -13,11 +13,9 @@
     <p>They hurry to float the lumber shipment up to Surt so they can turn around and get out of this awful pond as soon as possible.  While making the hand off, Staurois asks the local fire elves what they’ve named the river that leads to them.  In trade, they request a load of volcanic ash to deliver back to Fort Alfyr to help with their concrete needs during their renovations.  Smilisca begs a barrel of charcoal into the deal, for use in making long-burning incense.  Acris quickly realizes that this means he will be doing a lot more sticky, smelly work in the next few months.</p>
     <p>Using the Merchants trapping of Trade to offload this lumber with the fire elves, they roll 2 Ability and 1 Proficiency dice: 2 advantage, 3 successes, 0 triumphs.</p>
 
-    <?php 
-        if ($_SESSION["RIVER"] < 5){
-            $_SESSION["RIVER"] = 5;
-        }
-        echo $_SESSION["RIVER"]," index var<br/>";
+    <?php
+    include '../../settarget.php'; 
+    settarget("River",5,null);
     ?>
     <table style="width:100%">
         <tr>

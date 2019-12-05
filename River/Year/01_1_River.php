@@ -95,11 +95,6 @@
     settarget("River",2,null);
     ?>
    
-    <?php 
-        if ($_SESSION["RIVER"] < 2){
-            $_SESSION["RIVER"] = 2;
-        }
-    ?>
     <table style="width:100%">
         <tr>
             <td><a href="../../index.php">BACK</a></td>
