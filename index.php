@@ -58,7 +58,10 @@
         <?php echo getList("Fire",$_SESSION["FIRE"]);?>
     </td>
     <td>
-        <?php echo getList("River",$_SESSION["RIVER"]);?>
+        <?php 
+            echo $_SESSION["RIVER"]," index var<br/>";
+            echo getList("River",$_SESSION["RIVER"]);
+        ?>
     </td>
     <td>
         <?php echo getList("Winged",$_SESSION["WINGED"]);?>
