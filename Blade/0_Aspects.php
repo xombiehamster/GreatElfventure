@@ -1,6 +1,4 @@
-<?php 
-include "../header.php"
-?>
+<?php session_start(); ?>
 <!DOCTYPE html>
 
 <head>
