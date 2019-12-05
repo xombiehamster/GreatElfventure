@@ -15,9 +15,10 @@ include '../header.php'
     <p>Using the Merchants trapping of Trade to offload this lumber with the fire elves, they roll 2 Ability and 1 Proficiency dice: 2 advantage, 3 successes, 0 triumphs.</p>
 
     <?php 
-        if ($_SESSION["RIVER"] < 4){
-            $_SESSION["RIVER"] = 4;
+        if ($_SESSION["RIVER"] < 5){
+            $_SESSION["RIVER"] = 5;
         }
+        echo $_SESSION["RIVER"]," index var<br/>";
     ?>
     <table style="width:100%">
         <tr>

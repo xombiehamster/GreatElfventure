@@ -16,9 +16,10 @@ include '../header.php'
     <p>This picks up the Territory Aspect: Forest, for later trade.  They roll: 2 Ability, 1 Proficiency: 3 advantage, 1 successes, 0 triumphs.</p>
 
     <?php 
-        if ($_SESSION["RIVER"] < 3){
-            $_SESSION["RIVER"] = 3;
+        if ($_SESSION["RIVER"] < 4){
+            $_SESSION["RIVER"] = 4;
         }
+        echo $_SESSION["RIVER"]," index var<br/>";
     ?>
     <table style="width:100%">
         <tr>

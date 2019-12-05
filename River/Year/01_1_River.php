@@ -15,9 +15,10 @@ include '../header.php'
     <p>Partager has a large number of extra passengers as they travel upriver this season.  Winged elves, their goats, dark elves, dreamdust elves, and their goats, makes for a crowded journey.  But it keeps spirits up to not have to head out completely alone right away.  Everyone slowly splits off of the flotilla at different forks in the river until finally the river elves have the water to themselves.</p>
 
     <?php 
-        if ($_SESSION["RIVER"] < 1){
-            $_SESSION["RIVER"] = 1;
+        if ($_SESSION["RIVER"] < 2){
+            $_SESSION["RIVER"] = 2;
         }
+        echo $_SESSION["RIVER"]," index var<br/>";
     ?>
     <table style="width:100%">
         <tr>

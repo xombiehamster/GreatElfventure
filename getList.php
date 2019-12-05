@@ -9,8 +9,7 @@ function getStringYear($year){
     return $ys;
 }
 function getList($elf, $sequence){
-    $list = "<p>test list call".$elf.$sequence."</p>";
-    $list .='<ol>';
+    $list ='<ol>';
     $n = 1;
     if($sequence >= 1){
         $y = 1;
