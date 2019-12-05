@@ -22,7 +22,7 @@ include '../header.php'
     <p>“Yes sir,” Katiin nods.</p>
     <p>Siiri rolls her eyes, but nods as well.</p>
     <ln/>
-    <p><a href="../Blade/Blade_-1_Aspects.php">More about Blade Elves.</a></p>
+    <p><a href="../Blade/0_Aspects.php">More about Blade Elves.</a></p>
     <ln/>
     <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. Shadimon and Baijani paused at the door to greet the blade elves, while Anasatri eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
     <p>Shadimon held out his hand to Ehra, looking up at the much taller elf, “A good party. I hope you haven’t spent it all in here?”</p>

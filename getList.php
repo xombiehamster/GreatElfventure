@@ -9,8 +9,14 @@ function getStringYear($year){
     return $ys;
 }
 function getList($elf, $sequence){
-    $list ='<ol>';
+    $list ='<ul>';
     $n = 1;
+    if($elf=="Blade"){
+        $list.='<li><a href="Blade/Year/00_4_Blade.php">Winter, year 0</a></li>';
+        if($sequence==0){
+            $list.='<li><a href="Blade/Year/00_4_Blade.php">Spring, year 0</a></li>';
+        }
+    }
     if($sequence >= 1){
         $y = 1;
         $m = 1;
@@ -40,7 +46,7 @@ function getList($elf, $sequence){
             $n++;
         }
     }
-    $list.= '</ol>';
+    $list.= '</ul>';
     return $list;
 }
 ?>
