@@ -16,7 +16,7 @@ function getList($elf, $sequence){
         $y = 1;
         $m = 1;
         while($n<=$sequence){
-            $list.='<li><a href="';
+            $list.='<li><a href="'.$elf."\/Year/";
             $ys = getStringYear($y);
             switch ($m){
                 case 1: 
