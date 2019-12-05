@@ -46,7 +46,7 @@
     </td>
     <?php
     if($_SESSION["CRAG"]>0){
-        echo '<tr>'.getList("Crag",$_SESSION["CRAG"]).'</tr>';
+        echo '<td>'.getList("Crag",$_SESSION["CRAG"]).'</td>';
     }?>
     <td>
         <?php echo getList("Dark",$_SESSION["DARK"]);?>
@@ -66,19 +66,31 @@
         <?php echo getList("Winged",$_SESSION["WINGED"]);?>
     </td>
 </tr>
+<tr>
+    <td>
+        <?php echo getBonus("Blade",$_SESSION["B_EXTRA"]);?>
+    </td>
+    <?php if($_SESSION["CRAG"]>0){
+        echo '<td>'.getBonus("Crag",$_SESSION["C_EXTRA"]).'</td>';
+    }?>
+    <td>
+        <?php echo getBonus("Dark",$_SESSION["DA_EXTRA"]);?>
+    </td>
+    <td>
+        <?php echo getBonus("Dreamdust",$_SESSION["DR_EXTRA"]);?>
+    </td>
+    <td>
+        <?php echo getBonus("Fire",$_SESSION["F_EXTRA"]);?>
+    </td>
+    <td>
+        <?php 
+            echo getBonus("River",$_SESSION["R_EXTRA"]);
+        ?>
+    </td>
+    <td>
+        <?php echo getBonus("Winged",$_SESSION["W_EXTRA"]);?>
+    </td>
+</tr>
 </table>
-
-<ul>
-    <li><a href="/Blade/Blade_-1_Aspects.php">Blade Elf Aspects</a></li>
-<?php
-    if ($_SESSION["BLADE"] == 1){
-        echo '<li><a href=/Blade/Blade_-1_Factions.php>Blade Elf Factions</a></li>';
-    }
-    else echo "<li>",$_SESSION["BLADE"],"</li>";
-?>
-</ul>
-<ul>
-    <li><a href="/River/River_-1_Aspects.php">River Elf Aspects</a></li>
-</ul>
 </body>
 </html>
