@@ -60,7 +60,7 @@
 
     
     <?php 
-        if(isnull($_SESSION["R_EXTRA"])){
+        if(is_null($_SESSION["R_EXTRA"])){
             $_SESSION["R_EXTRA"] = 1;
         }
     ?>
