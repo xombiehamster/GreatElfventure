@@ -28,7 +28,7 @@
     <p>The community at large were still river tradesmen, nomadic by nature, and lived on great barges that were pulled by truly massive hippopotamuses.  These behemoths were so rarely seen above the surface of the water that most outsiders assumed that the rafts were moved by magic.  The river elves at this time kept to marshy terrain and deeper rivers because their hippos limited the depth that the rafts could travel.  Their trade network reached from Highelf in the north to the foothills of the Hobgoblin Satrapies in the south, and they butted heads with sea elves along its western shore.</p>
     <p>
         <p>
-            <b>Upgrade:<b> Trade Network Administrators<br/>
+            <b>Upgrade:</b> Trade Network Administrators<br/>
             River Elves have significant experience maintaining a vast network of river tradesmen.  They fundamentally understand the ebb and flow of wealth.  This provides a permanent upgrade to the <i>Trade</i> skill.
         </p>
     </p>
@@ -39,7 +39,7 @@
     <p>This was the final straw.  The river elves gathered their war hippopotamuses, made a daring journey across the mountainous continental divide, and brought their grievances directly to the Lycan Imperial Lord’s doorstep.  It was not the rebels hiding in the swamp that made the decision, but the laborers who did not think it wise to continue building untenable forts on unstable ground who opted to pick up and leave with no warning and no notice.  The entire flotilla took the journey, knowing that their home marsh would be undefended from the were-crocodiles with the war hippopotamuses on the march.</p>
     <p>
         <p>
-            <b>Upgrade:<b> Engineering Practice<br/>
+            <b>Upgrade:</b> Engineering Practice<br/>
             River elves gain permanent upgrade to <i>Infrastructure</i> due to having set up and torn down so many buildings despite not really building many for themselves.
         </p>
     </p>
@@ -52,7 +52,7 @@
     <p>After the grand battle, there were no behemoths left.  The Lycan Empire suffered a great defeat, but the river elves paid dearly for it.  And the price they paid has left them stranded.  They do not have the ability to make the crossing back to their home marsh without their behemoth hippopotamuses.</p>
     <p>
         <p>
-            <b>Upgrade:<b> Guerilla Specialists<br/>
+            <b>Upgrade:</b> Guerilla Specialists<br/>
             Their wartime experience in laying deadly ambushes has given the River Elves a permanent upgrade to the Special Operations skill.
         </p>
     </p>

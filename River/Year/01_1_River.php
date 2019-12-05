@@ -90,6 +90,11 @@
     <p>Partager is grounded. The recovery will be difficult, but worse, your people’s confidence has been shaken. Some are starting to say that your way of life isn’t even possible in this type of river, that it’s too dangerous. Bufo was one of your most experienced oarsmen, and even he was taken by surprise. Grim talk passes through Partager, causing doubt among your people and slowing recovery.</p>
     <p>You have taken two points of Property stress, and Partager cannot move until the confidence of its people is restored.</p>
     <p>Bufo is still missing.</p>
+    <?php
+    include '../../settarget.php'; 
+    settarget("River",2,null);
+    ?>
+   
     <?php 
         if ($_SESSION["RIVER"] < 2){
             $_SESSION["RIVER"] = 2;

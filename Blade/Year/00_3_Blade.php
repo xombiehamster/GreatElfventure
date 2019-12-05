@@ -111,14 +111,9 @@
 
 
 
-    <?php 
-        if ($_SESSION["BLADE"] < -1){
-            $_SESSION["BLADE"] = -1;
-        }
-        echo $_SESSION["BLADE"]," index var<br/>";
-        if ($_SESSION["B_EXTRA"]<0) {
-            $_SESSION["B_EXTRA"] = 0;
-        }
+    <?php
+    include '../../settarget.php'; 
+    settarget("Blade",0,0);
     ?>
     <table style="width:100%">
         <tr>
