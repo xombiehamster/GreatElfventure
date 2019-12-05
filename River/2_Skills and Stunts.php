@@ -58,14 +58,6 @@ include '../header.php'
             Their wartime experience in laying deadly ambushes has given the River Elves a permanent upgrade to the Special Operations skill.
         </p>
     </p>
-
-
-    
-    <?php 
-        if(isnull($_SESSION["R_EXTRA"]){
-            $_SESSION["R_EXTRA"] = 1;
-        }
-    ?>
     <?php include '../footer.php';?>
 </body>
 </html>

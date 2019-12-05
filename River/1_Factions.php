@@ -62,8 +62,8 @@ include '../header.php'
 
     
     <?php 
-        if(isnull($_SESSION["R_EXTRA"]){
-            $_SESSION["R_EXTRA"] = 1;
+        if($_SESSION["R_EXTRA"] < 2){
+            $_SESSION["R_EXTRA"] = 2;
         }
     ?>
     <?php include '../footer.php';?>

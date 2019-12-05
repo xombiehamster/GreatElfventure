@@ -1,6 +1,7 @@
 <?php 
     include 'header.php';
     include 'getList.php';
+    include 'getBonus.php';
 ?>
 <!DOCTYPE html>
 <html>
@@ -83,9 +84,7 @@
         <?php echo getBonus("Fire",$_SESSION["F_EXTRA"]);?>
     </td>
     <td>
-        <?php 
-            echo getBonus("River",$_SESSION["R_EXTRA"]);
-        ?>
+        <?php echo getBonus("River",$_SESSION["R_EXTRA"]);?>
     </td>
     <td>
         <?php echo getBonus("Winged",$_SESSION["W_EXTRA"]);?>

@@ -1,12 +1,4 @@
 <?php
-function getStringYear($year){
-    if($year<10){
-        $ys = '0'.$year;
-    }else{
-        $ys = $year;
-    }
-    return $ys;
-}
 function getArray($elf){
     $arr = array();
     switch($elf){
@@ -32,7 +24,7 @@ function getBonus($elf,$sequence){
         $i = 0;
         $arr = getArray($elf);
         while($i<=$sequence){
-            $list .= '<li><a href="'.$i.'_'.$arr[$i].'.php">';
+            $list .= '<li><a href="'.$elf.'/'.$i.'_'.$arr[$i].'.php">';
             $list .= $arr[$i];
             $list .= '</a></li>';
             $i ++;
