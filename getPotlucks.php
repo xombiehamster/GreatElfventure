@@ -19,12 +19,12 @@ function getPotlucks($year){
     }
     #CRAG
     if($_SESSION["CRAG"]>0){
-        $str .= '<td></br></td>';
+        $str .= '<td></td>';
     }
     #DARK
-    $str .= '<td></br></td>';
+    $str .= '<td></td>';
     #DREAMDUST
-    $str .= '<td></br></td>';
+    $str .= '<td></td>';
     #FIRE
     $str .= '<td>';
     if(!is_null($arr[2])){
@@ -38,7 +38,7 @@ function getPotlucks($year){
     }
     $str .= '</td>';
     #WINGED
-    $str .= '<td></br></td>';
+    $str .= '<td></td>';
     ####
     $str .= "</tr>";
     return $str;
