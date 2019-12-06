@@ -16,6 +16,8 @@ function getList($elf, $sequence){
         if($sequence>0){
             $list.='<li><a href="Blade/Year/00_4_Blade.php">Spring, year 0</a></li>';
         }
+        $list .= '</ul>';
+        return $list;
     }
     if($sequence >= 1){
         $y = 1;

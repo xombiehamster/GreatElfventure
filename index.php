@@ -28,6 +28,7 @@
 </p>
 <ln/>
 <p>Every year starts with a <a href="/Events/01_0.php">Potluck</a>, so one point of entry is to start reading from the very first one.</p>
+<p>Alternatively, you can jump right in to reading the yearly tales of the lives of the elves with the Blade Elves' first turns.</p>
 
 <table style="width:100%">
 <tr>

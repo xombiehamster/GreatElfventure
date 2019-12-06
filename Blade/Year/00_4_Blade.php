@@ -71,7 +71,7 @@
     <table style="width:100%">
         <tr>
             <td><a href="00_3_Blade.php">BACK</a></td>
-            <td><a href="01_1_Blade.php">NEXT</a></td>
+            <td><a href="../../Events/01_0.php">NEXT</a></td>
         </tr>
     </table>
     <?php include '../footer.php'?>
