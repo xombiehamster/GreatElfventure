@@ -3,12 +3,12 @@
 
 <head>
     <title>
-        River Elf Year 1 - Fall
+        Crag Elf Year 1 - Summer
     </title>
 </head>
 
 <body>
-    <h1>Year 1 - Fall</h1>
+    <h1>Year 1 - Summer</h1>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
