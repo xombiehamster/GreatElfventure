@@ -6,9 +6,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-    Great Elfventure
-</title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>
+        Great Elfventure
+    </title>
 </head>
 <body>
 <H1> Great ElfVenture Read Through </H1>
@@ -67,6 +68,12 @@
         <?php echo getList("Winged",$_SESSION["WINGED"]);?>
     </td>
 </tr>
+<tr><td colspan = "7"><hr/></td></tr>
+<?php
+    include 'getPotlucks.php';
+    echo getPotlucks($_SESSION["YEAR"]);
+?>
+<tr><td colspan = "7"><hr/></td></tr>
 <tr>
     <td>
         <?php echo getBonus("Blade",$_SESSION["B_EXTRA"]);?>
@@ -90,6 +97,8 @@
         <?php echo getBonus("Winged",$_SESSION["W_EXTRA"]);?>
     </td>
 </tr>
+<tr><td colspan = "7"><hr/></td></tr>
 </table>
+<img src="Images/Elfwiggle.gif" alt="Elfwiggle" class="center">
 </body>
 </html>

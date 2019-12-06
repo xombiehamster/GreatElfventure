@@ -29,3 +29,12 @@
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
+
+
+/* Center item in page */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
