@@ -38,13 +38,7 @@
     }
     include '../settarget.php'; 
     settarget("River",null,3);
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="1_Factions.php">BACK</a></td>
-            <td><a href="3_Leadership.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php';?>
+    include '../footer.php';
+    echo getarrows("1_Factions.php","3_Leadership.php");?>
 </body>
 </html>

@@ -73,15 +73,10 @@
     <li><i>Reunion/Return</i></li></ul>
 
     <?php
-    include '../settarget.php'; 
-    settarget("River",null,4);
+        include '../settarget.php'; 
+        settarget("River",null,4);
+        include '../footer.php';
+        echo getarrows("2_Stunts and Rituals.php","4_Details.php");
     ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="2_Stunts and Rituals.php">BACK</a></td>
-            <td><a href="4_Details.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php';?>
 </body>
 </html>

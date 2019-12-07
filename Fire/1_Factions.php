@@ -72,7 +72,7 @@
 <?php
     include '../settarget.php'; 
     settarget("Fire",null,2);
-    ?>
-    <?php include '../footer.php';?>
+    include '../footer.php';
+    echo getarrows("0_Aspects.php",null);?>
 </body>
 </html>

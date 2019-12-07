@@ -5,7 +5,8 @@ function getArray($elf){
         case "Blade":
             $arr[0] = "Aspects";
             $arr[1] = "Factions";
-            $arr[2] = "Skills and Stunts";
+            $arr[2] = "Stunts and Rituals";
+            $arr[3] = "Leadership";
         break;
         case "Fire":
             $arr[0] = "Aspects";

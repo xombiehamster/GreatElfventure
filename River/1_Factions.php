@@ -19,13 +19,7 @@
     <?php
     include '../settarget.php'; 
     settarget("River",null,2);
-    ?>
-        <table style="width:100%">
-        <tr>
-            <td><a href="0_Aspects.php">BACK</a></td>
-            <td><a href="2_Stunts and Rituals.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php';?>
+    include '../footer.php';
+    echo getarrows("0_Aspects.php","2_Stunts and Rituals.php");?>
 </body>
 </html>

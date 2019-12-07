@@ -65,15 +65,11 @@
     Having been through so very much together, River Elves have a deep sense of responsibility to their fellow elves.  Their goal to connect their fellows and keep the bonds forged in wartime as strong as ever leads them to have an upgrade to their <i>Loyalty</i>.</p></p>
         
     <?php
+    #Update bonus sequence
     include '../settarget.php'; 
     settarget("River",null,1);
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="../index.php">BACK</a></td>
-            <td><a href="1_Factions.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php';?>
+    #Footer content
+    include '../footer.php';
+    echo getarrows(null,"1_Factions.php");?>
 </body>
 </html>
