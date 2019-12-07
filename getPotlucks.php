@@ -3,7 +3,7 @@ function getPotlucks($year){
     $str = "<tr>";
     $ind = 1;
     $arr = array("");
-    while ($ind < $year){
+    while ($ind <= $year){
         $arr[$ind] = 'Events/'.getStringYear($ind).'_0.php';
         $ind++;
     }
