@@ -82,7 +82,7 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("River",5,null);
+    settarget("River",5,5);
     ?>
     <table style="width:100%">
         <tr>
