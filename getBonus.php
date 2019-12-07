@@ -9,12 +9,16 @@ function getArray($elf){
         break;
         case "Fire":
             $arr[0] = "Aspects";
+            $arr[1] = "Factions";
         break;
         case "River":
             $arr[0] = "Aspects";
             $arr[1] = "Factions";
-            $arr[2] = "Skills and Stunts";
-            $arr[3] = "A Measure of Hospitality";
+            $arr[2] = "Stunts and Rituals";
+            $arr[3] = "Leadership";
+            $arr[4] = "Details";
+            $arr[5] = "A Measure of Hospitality";
+            $arr[6] = "Settlements";
         break;
     }
     return $arr;

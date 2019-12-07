@@ -56,13 +56,24 @@
             Their wartime experience in laying deadly ambushes has given the River Elves a permanent upgrade to the Special Operations skill.
         </p>
     </p>
-
-
-    
+    <h2>The Post-War Dream</h2>
+    <p><i>Sure as the current, we will keep moving on.</i></p>
+    <p>While not all of the river elves have given up on the idea of making the crossing again and returning to the home marsh, most have settled on the idea of rebuilding what they can where they are now.  They know that there are some hippopotamuses that escaped into the swamp in the chaos, and while none are the behemoth war hippopotamuses, they could grow to that size if they could be found and given enough time.  For now, they are training giant turtles to fill the role of the hippopotamus in pulling the rafts upstream as they travel.</p>
+    <p>Travel will always be of great importance to the river elves of the flotilla, and they take great pride in seeing as much of the world as their rivers can reach.  They are adventurous sorts of elves, and always hope to be able to reach other people and see other places in their long lifetimes.  They take great pride in being able to connect other peoples to each other through their river networks.  They look forward to the opportunity to create a new empire of river commerce on this side of the continent.</p>
+    <p>They also harbor a strong desire to connect with other elves.  Their goal is not to gather wealth for wealth’s sake.  They wish to be the glue between elven societies, to bring the unique riches of each to the markets of the others.  The aim of the river elves’ trade goals is to be certain that all elves are able to share in the uniquely elven riches they create.</p>
+    <p><p><b>Upgrade:</b> Siblings of Strife<br/>
+    Having been through so very much together, River Elves have a deep sense of responsibility to their fellow elves.  Their goal to connect their fellows and keep the bonds forged in wartime as strong as ever leads them to have an upgrade to their <i>Loyalty</i>.</p></p>
+        
     <?php
     include '../settarget.php'; 
     settarget("River",null,1);
     ?>
+    <table style="width:100%">
+        <tr>
+            <td><a href="../index.php">BACK</a></td>
+            <td><a href="1_Factions.php">NEXT</a></td>
+        </tr>
+    </table>
     <?php include '../footer.php';?>
 </body>
 </html>
