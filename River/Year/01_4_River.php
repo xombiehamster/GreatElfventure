@@ -86,8 +86,8 @@
     ?>
     <table style="width:100%">
         <tr>
-            <td><a href="01_1_River.php">BACK</a></td>
-            <td><a href="01_3_River.php">NEXT</a></td>
+            <td><a href="01_3_River.php">BACK</a></td>
+            <td><a href="02_1_River.php">NEXT</a></td>
         </tr>
     </table>
     <?php include '../footer.php'?>
