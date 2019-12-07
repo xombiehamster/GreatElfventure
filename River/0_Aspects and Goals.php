@@ -63,6 +63,11 @@
     <p>They also harbor a strong desire to connect with other elves.  Their goal is not to gather wealth for wealth’s sake.  They wish to be the glue between elven societies, to bring the unique riches of each to the markets of the others.  The aim of the river elves’ trade goals is to be certain that all elves are able to share in the uniquely elven riches they create.</p>
     <p><p><b>Upgrade:</b> Siblings of Strife<br/>
     Having been through so very much together, River Elves have a deep sense of responsibility to their fellow elves.  Their goal to connect their fellows and keep the bonds forged in wartime as strong as ever leads them to have an upgrade to their <i>Loyalty</i>.</p></p>
+    <h1>Goals</h1>
+    <ol>
+        <li><i>Blood in the Elven body.</i><br/>To found a continent-spanning trade network, connecting their fellow elves to exotic resources far and wide.</li>
+        <li><i>Growth like duckweed.</i><br/>To infest every moving body of fresh water on the continent with elves on rafts with wares to sell.</i>
+    </ol>
         
     <?php
     #Update bonus sequence
