@@ -345,7 +345,8 @@
     ?>
 
     <?php
-        include '../footer.php'
+        include '../footer.php';
+        echo getarrows(null,null);
     ?>
 </body>
 </html>

@@ -4,7 +4,7 @@ function getPotlucks($year){
     $ind = 0;
     $arr = array();
     while ($ind < $year){
-        $arr[$ind] = 'Events/'.getStringYear($year).'_'.$ind.'.php';
+        $arr[$ind] = 'Events/'.getStringYear($ind).'_0.php';
         $ind++;
     }
     #BLADE
