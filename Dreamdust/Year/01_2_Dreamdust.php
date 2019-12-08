@@ -34,12 +34,6 @@
     <?php
     include '../../settarget.php'; 
     settarget("Dreamdust",3,null);
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="01_1_Dreamdust.php">BACK</a></td>
-            <td><a href="01_3_Dreamdust.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
+    include '../footer.php';
+    echo getarrows("01_1_Dreamdust.php","01_3_Dreamdust.php");?>
 </body>

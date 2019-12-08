@@ -34,12 +34,6 @@
     <?php
     include '../../settarget.php'; 
     settarget("Winged",3,null);
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="01_1_Winged.php">BACK</a></td>
-            <td><a href="01_3_Winged.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
+    include '../footer.php';
+    echo getarrows("01_1_Winged.php","01_3_Winged.php");?>
 </body>

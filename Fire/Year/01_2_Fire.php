@@ -34,12 +34,6 @@
     <?php
     include '../../settarget.php'; 
     settarget("Fire",3,null);
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="01_1_Fire.php">BACK</a></td>
-            <td><a href="01_3_Fire.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
+    include '../footer.php';
+    echo getarrows("01_1_Fire.php","01_3_Fire.php");?>
 </body>

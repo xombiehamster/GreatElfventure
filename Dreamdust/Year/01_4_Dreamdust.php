@@ -35,12 +35,6 @@
     include '../../settarget.php'; 
     settarget("Dreamdust",5,null);
     if($_SESSION["YEAR"]<2){$_SESSION["YEAR"]=2;}
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="01_3_Dreamdust.php">BACK</a></td>
-            <td><a href="02_1_Dreamdust.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
+    include '../footer.php';
+    echo getarrows("01_3_Dreamdust.php","02_1_Dreamdust.php");?>
 </body>

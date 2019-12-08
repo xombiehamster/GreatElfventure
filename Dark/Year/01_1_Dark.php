@@ -34,12 +34,6 @@
     <?php
     include '../../settarget.php'; 
     settarget("Dark",2,null);
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="../../index.php">BACK</a></td>
-            <td><a href="01_2_Dark.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
+    include '../footer.php';
+    echo getarrows(null,"01_2_Dark.php");?>
 </body>

@@ -34,12 +34,6 @@
     <?php
     include '../../settarget.php'; 
     settarget("Crag",2,null);
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="../../index.php">BACK</a></td>
-            <td><a href="01_2_Crag.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
+    include '../footer.php';
+    echo getarrows(null,"01_2_Crag.php");?>
 </body>
