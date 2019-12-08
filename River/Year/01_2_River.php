@@ -98,14 +98,9 @@
     <p>With the river elves’ spending time to say farewell to those they’ve lost, they grow more attuned to their more contemplative natures.  They gain an upgrade to the Spirituality skill through the lessons learned at Oarsman’s Rest.</p>
 
     <?php
-    include '../../settarget.php'; 
-    settarget("River",3,null);
+        include '../../settarget.php'; 
+        settarget("River",3,null);
+        include '../footer.php';
+        echo getarrows("01_1_River.php","01_3_River.php");
     ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="01_1_River.php">BACK</a></td>
-            <td><a href="01_3_River.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
 </body>

@@ -89,14 +89,9 @@
     <p>That said, it’s not a total failure and progress is made. Using the Spirituality trapping side steps a lot of the complexity by lumping it onto pure faith, and your diviners are able to make some progress at least in creating a framework for the ritual. The progress made determines that it will indeed be possible to create such a ritual, and <i>your next check to develop the ritual will get a boost die.</i></p>
 
     <?php
-    include '../../settarget.php'; 
-    settarget("River",4,3);
+        include '../../settarget.php'; 
+        settarget("River",4,3);
+        include '../footer.php';
+        echo getarrows("01_2_River.php","01_4_River.php");
     ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="01_2_River.php">BACK</a></td>
-            <td><a href="01_4_River.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
 </body>

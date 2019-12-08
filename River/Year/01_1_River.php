@@ -91,17 +91,9 @@
     <p>You have taken two points of Property stress, and Partager cannot move until the confidence of its people is restored.</p>
     <p>Bufo is still missing.</p>
     <?php
-    include '../../settarget.php'; 
-    settarget("River",2,null);
-    ?>
-   
-    <table style="width:100%">
-        <tr>
-            <td><a href="../../index.php">BACK</a></td>
-            <td><a href="01_2_River.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php
-        include '../footer.php'
+        include '../../settarget.php'; 
+        settarget("River",2,null);
+        include '../footer.php';
+        echo getarrows("../../index.php","01_2_River.php");
     ?>
 </body>

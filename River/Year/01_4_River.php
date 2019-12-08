@@ -81,17 +81,10 @@
     <p>Representing their more settled nature, and the work they’ve put into creating their homes, the river elves spend their first earned skill point on increasing the Development skill, and spend the refresh point to create the Elf Express stunt.</p>
 
     <?php
-    include '../../settarget.php'; 
-    settarget("River",5,5);
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="01_3_River.php">BACK</a></td>
-            <td><a href="02_1_River.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
-    <?php 
+        include '../../settarget.php'; 
+        settarget("River",5,5);
+        include '../footer.php';
+        echo getarrows("01_3_River.php","02_1_River.php");
         if($_SESSION["YEAR"]<2){
             $_SESSION["YEAR"]=2;
         }
