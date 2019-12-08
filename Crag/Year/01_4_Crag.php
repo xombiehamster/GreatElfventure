@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+    <link rel="stylesheet" type="text/css" href="../style.css">
     <title>
         Crag Elf Year 1 - Spring
     </title>

@@ -1,7 +1,8 @@
 <?php session_start(); ?>
 <!DOCTYPE html>
 
-<head>
+<head>    
+    <link rel="stylesheet" type="text/css" href="../style.css">
     <title>
         Crag Elf Year 1 - Winter
     </title>
