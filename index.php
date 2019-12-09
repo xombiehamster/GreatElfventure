@@ -48,6 +48,7 @@
         <?php echo getList("Blade",$_SESSION["BLADE"]);?>
     </td>
     <?php
+    #Making sure there's no mysterious blank Crag space.
     if($_SESSION["CRAG"]>0){
         echo '<td>'.getList("Crag",$_SESSION["CRAG"]).'</td>';
     }?>
@@ -69,7 +70,7 @@
         <?php echo getList("Winged",$_SESSION["WINGED"]);?>
     </td>
 </tr>
-<!-- Literally just a line. -->
+    <!-- Literally just a line. -->
     <tr><td colspan = "7"><hr/></td>
 </tr>
 <?php
@@ -78,7 +79,7 @@
     echo getPotlucks($_SESSION["YEAR"]);
 ?>
 <tr>
-<!-- Literally just a line. -->
+    <!-- Literally just a line. -->
     <td colspan = "7"><hr/></td>
 </tr>
 <tr>
@@ -86,7 +87,9 @@
     <td>
         <?php echo getBonus("Blade",$_SESSION["B_EXTRA"]);?>
     </td>
-    <?php if($_SESSION["CRAG"]>0){
+    <?php 
+    #Crag removal.
+    if($_SESSION["CRAG"]>0){
         echo '<td>'.getBonus("Crag",$_SESSION["C_EXTRA"]).'</td>';
     }?>
     <td>
@@ -105,10 +108,16 @@
         <?php echo getBonus("Winged",$_SESSION["W_EXTRA"]);?>
     </td>
 </tr>
-<tr><td colspan = "7"><hr/></td></tr>
+<tr>
+    <!-- Literally just a line. -->
+    <td colspan = "7"><hr/></td>
+</tr>
 </table>
 <?php include 'footer.php';
-    echo '<br/>Status string: ',getstatus();?>
+    #Displaying the status of all session variables.
+    echo '<br/>Status string: ',getstatus();
+?>
+<!-- Link to form to set all session variables. -->
 <p><a href="resume.php">Pick up where you left off.</a></p>
 <img src="Images/Elfwiggle.gif" alt="Elfwiggle" class="center">
 </body>

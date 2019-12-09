@@ -49,7 +49,7 @@
                 <li><i>Houseguests:</i> Several other elf groups are camped out in this settlement.</li>
             </ul>
         </li>
-        <li><b>Garrison:</b> Currently full with the <i>Angry Alligators</i></li>
+        <li><b>Garrison:</b> <i>Alpha Division</i></li>
         <li><b>Location:</b> (0,0)</li>
     </ul>
     <p>Well, so far so good I guess/</p>
