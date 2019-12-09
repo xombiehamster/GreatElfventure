@@ -100,7 +100,7 @@
     <p>“My name is Bryti.”</p>
     <?php 
         include '../footer.php';
-        echo getarrows(null,null);
+        echo getarrows("Year/01_4_River.php#jump",null);
     ?>
 </body>
 </html>
