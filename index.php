@@ -100,6 +100,9 @@
 </tr>
 <tr><td colspan = "7"><hr/></td></tr>
 </table>
+<?php include 'footer.php';
+    echo '<br/>Status string: ',getstatus();?>
+<p><a href="resume.php">Pick up where you left off.</a></p>
 <img src="Images/Elfwiggle.gif" alt="Elfwiggle" class="center">
 </body>
 </html>

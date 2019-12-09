@@ -12,4 +12,67 @@ function getarrows($back,$next){
     $str .= '</tr></table>';
     return $str;
 }
+function elfOrd($ind){
+    switch ($ind){
+        case 0:
+            return "YEAR";
+        break;
+        case 1:
+            return "BLADE";
+        break;
+        case 2:
+            return "CRAG";
+        break;
+        case 3:
+            return "DARK";
+        break;
+        case 4:
+            return "DREAMDUST";
+        break;
+        case 5:
+            return "FIRE";
+        break;
+        case 6:
+            return "RIVER";
+        break;
+        case 7:
+            return "WINGED";
+        break;
+        case 8:
+            return "B_EXTRA";
+        break;
+        case 9:
+            return "C_EXTRA";
+        break;
+        case 10:
+            return "DA_EXTRA";
+        break;
+        case 11:
+            return "DR_EXTRA";
+        break;
+        case 12: 
+            return "F_EXTRA";
+        break;
+        case 13:
+            return "R_EXTRA";
+        break;
+        case 14:
+            return "W_EXTRA";
+        break;
+    }
+    return null;
+}
+function getstatus(){
+$ret = "";
+$i = 0;
+while($i<15){
+    if(is_null($_SESSION[elford($i)])){
+        $ret .= "-1 ";
+    }else{
+        $ret.=$_SESSION[elford($i)]." ";
+    }
+    $i++;
+}
+return $ret;
+}
 ?>
