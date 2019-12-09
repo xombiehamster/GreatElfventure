@@ -5,6 +5,7 @@
     <title>
         River Elf Factions
     </title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
 </head>
 
 <body>
