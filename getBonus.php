@@ -12,6 +12,12 @@ function getArray($elf){
             $arr[0] = "Aspects";
             $arr[1] = "Factions";
             $arr[2] = "Stunts and Rituals";
+            $arr[3] = "Leadership";
+            $arr[4] = "Details and Design Notes";
+            $arr[5] = "Ecology of the Burning Maar";
+            $arr[6] = "Settlements";
+            $arr[7] = "Divisions";
+            $arr[8] = "A Tourist in Surt";
         break;
         case "River":
             $arr[0] = "Aspects and Goals";
