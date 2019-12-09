@@ -13,9 +13,6 @@
 </head>
 <body>
 <H1> Great ElfVenture Read Through </H1>
-<?php
-    echo "Hello World!";
-?>
 
 <p>This story is built out of many interconnected chains created over the course of a game of CivElf. 
     These include Roleplay Events, Turn Actions, and various Stories. As a reader, you have the choice of which order to read the text. 
@@ -32,8 +29,10 @@
 
 <table style="width:100%">
 <tr>
+    <!-- Headers -->
     <th>Blade Elves</th>
     <?php
+    #Crag elves don't appear until after the 2nd Potluck is read.
     if($_SESSION["CRAG"]>0){
         echo '<th>Crag Elves</th>';
     }?>
@@ -44,6 +43,7 @@
     <th>Winged Elves</th>
 </tr>
 <tr>
+    <!-- Turn Documents -->
     <td>
         <?php echo getList("Blade",$_SESSION["BLADE"]);?>
     </td>
@@ -69,13 +69,20 @@
         <?php echo getList("Winged",$_SESSION["WINGED"]);?>
     </td>
 </tr>
-<tr><td colspan = "7"><hr/></td></tr>
+<!-- Literally just a line. -->
+    <tr><td colspan = "7"><hr/></td>
+</tr>
 <?php
+    # Potluck documents
     include 'getPotlucks.php';
     echo getPotlucks($_SESSION["YEAR"]);
 ?>
-<tr><td colspan = "7"><hr/></td></tr>
 <tr>
+<!-- Literally just a line. -->
+    <td colspan = "7"><hr/></td>
+</tr>
+<tr>
+    <!-- Bonus documents -->
     <td>
         <?php echo getBonus("Blade",$_SESSION["B_EXTRA"]);?>
     </td>

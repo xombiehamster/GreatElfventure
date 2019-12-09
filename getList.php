@@ -1,4 +1,6 @@
 <?php
+#This function converts a numeric year value to a string.
+#It's my own fault for numbering the turn docs with a prepended 0.
 function getStringYear($year){
 
     if($year<10){
@@ -8,9 +10,11 @@ function getStringYear($year){
     }
     return $ys;
 }
+#Given an elf and a point in the yearly sequence, this function builds the list of visible turns.
 function getList($elf, $sequence){
     $list ='<ul>';
     $n = 1;
+    #Blade elves are a special case. We'll handle their two shiny documents here.
     if($elf=="Blade"){
         $list.='<li><a href="Blade/Year/00_3_Blade.php">Winter, year 0</a></li>';
         if($sequence>0){
@@ -19,6 +23,7 @@ function getList($elf, $sequence){
         $list .= '</ul>';
         return $list;
     }
+    #Loop through sequence to build file names.
     if($sequence >= 1){
         $y = 1;
         $m = 1;

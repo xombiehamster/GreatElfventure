@@ -1,4 +1,5 @@
 <?php
+#This function builds the table row for potlucks, placing them under their correct host elf type.
 function getPotlucks($year){
     $str = "<tr>";
     $ind = 1;
