@@ -23,28 +23,28 @@ function getList($elf, $sequence){
         $y = 1;
         $m = 1;
         while($n<=$sequence){
-            $list.='<li><a href="'.$elf."/Year/";
             $ys = getStringYear($y);
+            $list.='<li><a href="'.$elf.'/Year/'.$ys.'_'.$m.'_'.$elf.'.php">';
             switch ($m){
                 case 1: 
-                    $list.= $ys.'_'.$m.'_'.$elf.'.php">'.'Summer, year '.$y;
+                    $list.= 'Summer, year ';
                     $m++;
                 break;
                 case 2:
-                    $list.= $ys.'_'.$m.'_'.$elf.'.php">'.'Fall, year '.$y;
+                    $list.= 'Fall, year ';
                     $m++;
                 break;
                 case 3:
-                    $list.= $ys.'_'.$m.'_'.$elf.'.php">'.'Winter, year '.$y;
+                    $list.= 'Winter, year ';
                     $m++;
                 break;
                 case 4:
-                    $list.= $ys.'_'.$m.'_'.$elf.'.php">'.'Spring, year '.$y;
+                    $list.= 'Spring, year ';
                     $y++;
                     $m = 1;
                 break;
             }
-            $list.= '</a></li>';
+            $list.= $y.'</a></li>';
             $n++;
         }
     }
