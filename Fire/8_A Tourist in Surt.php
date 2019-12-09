@@ -1,5 +1,14 @@
- 
- 
+<?php session_start(); ?>
+<!DOCTYPE html>
+
+<head>
+    <title>
+        A Tourist in Surt
+    </title>
+</head>
+
+<body>
+    <h1> A Tourist in Surt</h1> 
 <p>At this point, a bit over a month has passed since you first set down stakes at your new location. The exterior walls are complete, as well as the core government buildings and lodgings for most of your citizenry. Most of the city is still under construction with shops, forges, and whatever other commercial structures are needed coming up by the day. The sound of hammers and progress is a constant din.</p>
 <p>The Hunger instructed the guards to keep out extra watch for those pesky blade elves for a few months. None of the Triumvirate believe that Ehra would intentionally try to sabotage them, but he is a busybody know it all who might send a &ldquo;friend&rdquo; to &ldquo;check up on them.&rdquo; The fire elves want their privacy, and want their distance from the blade elves. The self-righteous &ldquo;wisdom&rdquo; of the blade elves and their insulting pity can stay at the gate.</p>
 <p>Late in both the season and the day, Hunger catches a break. One of the gate guards comes tromping up to his office, wearing a somewhat concerned expression.</p>
@@ -125,3 +134,8 @@
 <p>With that, the werewolf&rsquo;s form fades slightly, then disappears into scattered motes of pale light. Both the Hunger and the Terror know enough about magic to recognize an illusion being dismissed when they see it.</p>
 <p>The dust finally settles from the collapsed building. The crowds pressed to the edges of the Agora slowly fall silent. The guards bring up their shields and wait. Several seconds pass, but nothing happens. It seems the werewolf is indeed gone.</p>
 <p>Both the Hunger and the Terror feel the ache of their wounds.</p>
+<?php
+    include '../footer.php';
+    echo getarrows("/01_1_Fire.php#back","/01_1_Fire.php#back");?>
+</body>
+</html>
