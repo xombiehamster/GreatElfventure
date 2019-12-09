@@ -1,6 +1,6 @@
 <head>
     <title>
-        Fire Elf Overview
+        Fire Elf Leadership
     </title>
 </head>
 
@@ -61,3 +61,10 @@
 <p><strong>High Concept:</strong> A dashing elf&rsquo;s elf with a stirring battlefield reputation that is more luck and showmanship than bravery.</p>
 <p><strong>Trouble Concept: </strong>On the Threshold of Adventure(r)<br />.Bad luck tends to follow Barrabus, or at least crash into him at high speed, playing merry hell on his preference to lie around and not get up to much. If anyone is likely to be dragged off on a quest unwillingly, its him.</p>
 <h2><strong>Character Levels</strong>: Bard (Buccaneer) 2 / Unchained Rogue (Rake) 2 / Swashbuckler 3</h2>
+<?php
+    include '../settarget.php'; 
+    settarget("Fire",null,4);
+    include '../footer.php';
+    echo getarrows("2_Stunts and Rituals.php","4_Details and Design Notes.php");?>
+</body>
+</html>

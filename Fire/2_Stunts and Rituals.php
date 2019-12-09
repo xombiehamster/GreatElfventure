@@ -3,7 +3,7 @@
 
 <head>
     <title>
-        Fire Elf Overview
+        Fire Elf Stunts and Rituals
     </title>
 </head>
 
@@ -55,6 +55,6 @@
     include '../settarget.php'; 
     settarget("Fire",null,3);
     include '../footer.php';
-    echo getarrows("0_Aspects.php",null);?>
+    echo getarrows("1_Factions.php","3_Leadership.php");?>
 </body>
 </html>

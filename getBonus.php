@@ -1,4 +1,7 @@
 <?php
+#This function builds an array that holds the list of file titles for each elf.
+#Yes, I do have to manually update it when new files get added.
+#It is what it is.
 function getArray($elf){
     $arr = array();
     switch($elf){
@@ -31,11 +34,13 @@ function getArray($elf){
     }
     return $arr;
 }
+#This function creates the list of available bonus content
+#Given an elf and their point in their sequence, it generates the unlocked list.
 function getBonus($elf,$sequence){
     if(is_null($sequence)){
         return null;
     }else{
-        $list = '<ol>';
+        $list = '<ul>';
         $i = 0;
         $arr = getArray($elf);
         while($i<=$sequence){
@@ -44,7 +49,7 @@ function getBonus($elf,$sequence){
             $list .= '</a></li>';
             $i ++;
         }
-        $list .= '</ol>';
+        $list .= '</ul>';
         return $list;
     }
 }

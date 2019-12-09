@@ -92,7 +92,7 @@
 </ul>
 <p>In addition, the abundance of materials you find mean the large body of building materials from Lock&rsquo;s supplies are unneeded. They are currently stored in a warehouse in Surt. At any time, these materials may be used to give a <strong>bonus die</strong> to building or improving structures in Surt.</p>
 <p><strong>Political</strong></p>
-<p><a href="https://docs.google.com/document/d/1U0Cww0Edqm6JLHUzs-WQniicHzwtEFAmJrEnSZO4Y4E">Things get a little exciting.</a></p>
+<p><a href="../8_A Tourist in Surt.php">Things get a little exciting.</a></p>
 <p>No doubt.&nbsp;</p>
 <p>After his bite, the Hunger consumes his prescribed dose of wolfsbane. There is nothing more to be done- there are no clerics of level 12 that could reach him in time, even if they wanted to help him.</p>
 <p>The Hunger has a simple test for Lycanthropy. After resting until his injury is healed, he takes a simple phial. A dagger and a funnel are enough to capture an amount of his blood- not a great amount, but enough to be clearly visible.</p>
@@ -118,7 +118,7 @@
 <p>You take one point of Morale stress from the howl. In addition starting next turn you will take one point of Economic stress damage every turn until the populace is placated.</p>
     <?php
     include '../../settarget.php'; 
-    settarget("Fire",2,null);
+    settarget("Fire",2,8);
     include '../footer.php';
     echo getarrows(null,"01_2_Fire.php");?>
 </body>
