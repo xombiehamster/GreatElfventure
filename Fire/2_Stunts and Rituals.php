@@ -1,4 +1,13 @@
-<p><strong>Rituals:</strong></p>
+<?php session_start(); ?>
+<!DOCTYPE html>
+
+<head>
+    <title>
+        Fire Elf Overview
+    </title>
+</head>
+
+<body><p><strong>Rituals:</strong></p>
 <p><strong>DETECT ORES</strong></p>
 <p><strong>Risk- </strong>Low</p>
 <p><strong>Range</strong>- 15 squares</p>
@@ -42,3 +51,10 @@
 <h2><strong>Red Gold</strong></h2>
 <p>The Marr is a natural source of alchemical components, and the Fire Elves of Surt were quick to exploit it. By adopting some of these components into their currency (the base unit of which was the Firebird, a one-ounce piece featuring an unusual red tint), the Fire Elves made it possible for the currency itself to be used in spellcasting and magic item creation.&nbsp;</p>
 <p>Nations that conduct in Trade or Mercantilism checks within Surt gain a boost die to the next Research, Creation, Trade, or Mercantilism check involving magical or alchemical materials they make. This boost die expires within the next three seasons.</p>
+<?php
+    include '../settarget.php'; 
+    settarget("Fire",null,3);
+    include '../footer.php';
+    echo getarrows("0_Aspects.php",null);?>
+</body>
+</html>

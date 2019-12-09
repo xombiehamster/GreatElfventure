@@ -11,6 +11,7 @@ function getArray($elf){
         case "Fire":
             $arr[0] = "Aspects";
             $arr[1] = "Factions";
+            $arr[2] = "Stunts and Rituals";
         break;
         case "River":
             $arr[0] = "Aspects and Goals";
