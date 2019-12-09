@@ -5,6 +5,7 @@
     <title>
         Blade Elf Stunts and Rituals
     </title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
 </head>
 
 <body>
@@ -24,6 +25,7 @@
     <p><b>Character Levels:</b> Unchained Monk (War Scholar)</p>
     <h2>Military</h2>
     <!-- INSERT IMAGE HERE -->
+    <img class="avatar" src="Images/Warmaster.png">
     <p><b>Warmaster Katiin Paavi</b> is a young elf and the daughter of the previous Warmaster, Edvin Paavi. She distinguished herself as an excellent commander and led the Hussars, elite light cavalry derived from the highly mobile Lycan warfare practices, during the closing months of the war. Some were curious as to why the young daughter of the Warmaster received such a major role, but it was solely due to her competence. Blade elves don't do nepotism.</p>
     <p>During the battle of Skaplyndi, her father was killed and the Hussars suffered horrific casualties. The Hussars were essentially wiped out fighting toe to toe with Lycan elite cavalry. Her father’s last act was to take command of the Hussars and order Katiin to stay behind and take overall command if he fell. Having watched her father and closest friends die, she was immediately thrust into the role of Warmaster and commanded all Blade elves for the rest of the battle. Post war, this means she is the highest ranking officer and thus has the final say on most matters. She has held the position ever since, and acquitted herself well so far.</p>
     <p>Katiin has an intense personality and is prone to react with strong emotions, but is a kind and empathetic person at her core and keeps her emotions in check with professionalism most of the time. She is a passionate believer in the future of her people and of her newfound elven kin.</p>
@@ -37,6 +39,7 @@
     <p><b>Character Levels:</b> Cavalier (Hussar) 6</p>
     <h2>Economy</h2>
     <!-- INSERT IMAGE HERE -->
+    <img class="avatar" src="Images/Quartermaster.png">
     <p><b>Quartermaster Terje Paavi</b> is Katiin's older brother. He lacks his sister's passion and is stable and easygoing, at least for a blade elf. He had something of a troubled upbringing, causing trouble for the Lycans he resented. His father convinced him to stay out of trouble for everyone’s safety, but he was not cut out to be a general. Keen to stay out of the spotlight, he took on the role of quartermaster which has evolved into a central economic planner. His quietly rebellious attitude made him one of the first to embrace rebellion. Patient and observant, he is more than happy to take a backseat and support others.</p>
     <p><p><b>High Concept:</b> Grease for the gold machine<br/>
         Terje's laid back and likeable personality combined with his keen observation skills and intellect make him the grease that will get the gears of industry going.
@@ -48,6 +51,7 @@
     <p><b>Character Levels:</b> Rogue (Rake) 6</p>
     <h2>Spymaster</h2>
     <!-- INSERT IMAGE HERE -->
+    <img class="avatar" src="Images/Bowmaster.png">
     <p><b>Bowmaster Taavet Rein</b> is the leader of the rangers, and de facto spymaster. Blade elf rangers have a reputation for being exceptional in battle and in special operations, but it remains to be seen how this applies to defense. Taavet is better at recon than spying, but his paranoia and attention to detail means he has a knack for counter espionage. He was Bowmaster for the rangers the entire war and for some time before, meaning he is paranoid and hypervigilant. Extremely slow to trust, somewhat abrasive. He is very slow to change his mind, and was one of the last to join Ehra's faction. He is highly critical and defensive, but believes in the future of the elves. His deeply held belief is that the Lycans will return, making him the founder of the secret society known as the Whetstones.</p>
     <p><p><b>High Concept:</b> Vigilant guardian of the elves<br/>
         Taavet is by far the most suspicious and devious minded of the blade elves, making him one of the few skilled at countering subterfuge.

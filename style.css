@@ -64,3 +64,10 @@ p {
     padding-right: 25px;
     /*text-indent: 15px;*/
 }
+
+
+/* Tidying up the portraits. */
+
+.avatar {
+    border-radius: 50%;
+}
