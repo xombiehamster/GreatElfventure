@@ -13,7 +13,8 @@ function getPotlucks($year){
         $str .= '<ul><li><a href="'.$arr[1].'">Year 1: Goodbye Potluck</a></li>';
     }
     if(!is_null($arr[2])){
-        $str .= '<li><a href="'.$arr[2].'">Year 2: A New Year</a></li></ul></td>';
+        $str .= '<li><a href="'.$arr[2].'">Year 2: A New Year</a></li>';
+        $str .= '<li><a href="Events/02_0b.php">Year 2: A War of Words</a></li></ul></td>';
     }else{
         $str .= '</ul></td>';
     }

@@ -21,7 +21,7 @@
     <p>“Yes sir,” Katiin nods.</p>
     <p>Siiri rolls her eyes, but nods as well.</p>
     <hr/>
-    <p><a href="../Blade/0_Aspects.php">More about Blade Elves.</a></p>
+    <p><a href="../Blade/0_Aspects and Goals.php">More about Blade Elves.</a></p>
     <hr/>
     <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. Shadimon and Baijani paused at the door to greet the blade elves, while Anasatri eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
     <p>Shadimon held out his hand to Ehra, looking up at the much taller elf, “A good party. I hope you haven’t spent it all in here?”</p>
@@ -71,7 +71,7 @@
     <p>"Pfoo-wee!" Staurois exclaims, "I hope the party ain't all over a-ready!"  He rubs the spots on his bald head, smiling but clearly exhausted from the task.  Litoria absently pats the hippopotamus on the nose, scratching her coarse whiskers.  She and Eina shrug at each other.  Smilisca's eyes dart around the room hopefully, but he appears somewhat disappointed by what he doesn't see, and he puts a bundle of large leaves on the table next to the crock.</p>
     <p>Eina pops the lid to the crock and she and Staurois start to remove raw crabs from the crock and arrange them carefully on the leaves.</p>
     <hr/>
-    <p><a href="../River/0_Aspects.php">More about River Elves</a></p>
+    <p><a href="../River/0_Aspects and Goals.php">More about River Elves</a></p>
     <hr/>
     <p>Trailing behind the armored figure (by a few minutes it seems) is a much smaller man, also in a mask, but this time unarmored and carrying a large tray of actively smoking meats and vegetables. "Ah! How lovely. Thank you for this delightful idea, Ehra." He gives the general a quick glance, before turning to haul his tray to the nearest table. "...And there are goats for some reason. Wonderful." </p>
     <p>The dark elves finally slink in, all wearing their dark surface garb though it looks like some of the usual equipment was forgon for looser garments on the two taller figures.  The tallest of them, in fact, looked to be bouncing like an excited child while holding a rather large basket that...was   slightly glowing?</p>
@@ -342,9 +342,6 @@
             $_SESSION["RIVER"] = 1;
             $_SESSION["WINGED"] = 1;
         }
-    ?>
-
-    <?php
         include '../footer.php';
         echo getarrows(null,null);
     ?>

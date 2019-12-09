@@ -23,7 +23,6 @@
     <?php
         include '../settarget.php'; 
         settarget("Blade",null,3);
-
         include '../footer.php';
         echo getarrows("1_Factions.php","3_Leadership.php");
     ?>
