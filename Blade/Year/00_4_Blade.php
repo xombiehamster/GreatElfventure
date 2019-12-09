@@ -5,6 +5,7 @@
     <title>
         Blade Elf Year 0 - Spring
     </title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
 </head>
 
 <body>
@@ -67,15 +68,8 @@
             $_SESSION["BLADE"] = 1;
         }
         echo $_SESSION["BLADE"]," index var<br/>";
-    ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="00_3_Blade.php">BACK</a></td>
-            <td><a href="../../Events/01_0.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
-    <?php 
+        include '../footer.php';
+        echo getarrows("00_3_Blade.php","../../Events/01_0.php"); 
         if($_SESSION["YEAR"]<1){
             $_SESSION["YEAR"]=1;
         }

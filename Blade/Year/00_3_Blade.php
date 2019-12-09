@@ -5,6 +5,7 @@
     <title>
         Blade Elf Year 0 - Winter
     </title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
 </head>
 
 <body>
@@ -112,14 +113,9 @@
 
 
     <?php
-    include '../../settarget.php'; 
-    settarget("Blade",0,0);
+        include '../../settarget.php'; 
+        settarget("Blade",0,0);
+        include '../footer.php';
+        echo getarrows(null,"00_4_Blade.php");
     ?>
-    <table style="width:100%">
-        <tr>
-            <td><a href="../../index.php">BACK</a></td>
-            <td><a href="00_4_Blade.php">NEXT</a></td>
-        </tr>
-    </table>
-    <?php include '../footer.php'?>
 </body>
