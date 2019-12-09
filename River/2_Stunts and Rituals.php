@@ -16,7 +16,7 @@
     <h2>It Just Fell Over We Swear!</h2>
     <p>When River Elves know how to build something, it’s just as easy for them to take it down.  They are able to use the Infrastructure skill to disassemble buildings instead of Conventional Warfare to Raze, and when doing so maintain a pretense at plausible deniability.  This also limits casualties for the Raze action when they are taking down structures.</p>
     <?php
-    if($_SESSION["B_EXTRA"]>=5){
+    if($_SESSION["RIVER"]>=5){
         echo 
         '<h2>Elf Express</h2>
         <p>One of the benefits of being nomadic is that River Elves are able to make deliveries of trade goods possible.  When a River Elf settlement is within two squares of another settlement they are able to complete a Trade action with the other settlement without expending the other settlement’s Economic action for the turn because the other settlement just needs to accept the offer instead of having to also make a delivery of their own.</p>';
@@ -24,7 +24,7 @@
     ?>
     <h1>Rituals</h1>
     <?php
-    if($_SESSION["B_EXTRA"]>=5){
+    if($_SESSION["RIVER"]>=5){
         echo
         '<h2>River Augury</h2>
         <ul><li><b>Risk:</b> Low</li>
