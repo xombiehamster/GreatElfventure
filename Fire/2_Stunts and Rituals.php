@@ -9,13 +9,15 @@
 </head>
 
 <body><p><strong>Rituals:</strong></p>
+
 <p><strong>DETECT ORES</strong></p>
 <p><strong>Risk- </strong>Low</p>
 <p><strong>Range</strong>- 15 squares</p>
 <p><strong>Target</strong>- Up to 4 squares, which must be touching</p>
 <p><strong>Difficulty</strong>- 2</p>
 <p><strong>Effect</strong>- This ritual will tell you which, if any, of the targeted squares contain any Aspects related to usable deposits of valuable minerals. It will not tell you the specific Aspects or their exact location in the square, only that they exist and which squares they are in</p>
-<p><strong>DEEP SCAN</strong></p>
+    
+    <p><strong>DEEP SCAN</strong></p>
 <ul>
 <li><strong>Risk </strong>- Low</li>
 <li><strong>Range </strong>- One Territory</li>
@@ -23,11 +25,8 @@
 <li><strong>Difficulty </strong>- 1</li>
 <li><strong>Effect </strong>- This ritual provides a detailed look at the geology under a territory that has already been explored. It reveals any Aspects relating to subsurface features that may have been missed by surface pathfinders, such as hidden caves, volcanic activity, deep mineral deposits, and seismic faults. In addition, the detailed geological information it provides gives an automatic Upgrade to the next use of any Aspects in that territory related to underground features.</li>
 </ul>
-<p>Partial rituals (have the basis for but are not completed yet);</p>
-<p><strong>&ldquo;Intent to harm&rdquo; ward</strong></p>
-<p>Basically, you cast it, it lasts 1d4 turns, if anyone attempts to spy on you the ward triggers and alerts your leaders, allowing you a reflexive C&amp;D or a bonus proficiency die if you already made one</p>
-<p>May also have roleplaying consequences, as the ritual delivered is set to trigger on anyone "intending to do harm on the settlement or its occupants"</p>
-<p><strong>Bad Dog, No Treat!</strong></p>
+    
+    <p><strong>Bad Dog, No Treat!</strong></p>
 <p><strong>Risk- </strong>Medium</p>
 <p><strong>Range</strong>- 5 squares from casting location (Allied Settlement)</p>
 <p><strong>Target</strong>- 1 Square</p>
@@ -39,6 +38,13 @@
 <p>Note that it is possible for spies to evade detection even with this ritual going off. As with all magic, there are countermeasures. If a spy is indoors, able to flee, or able to counter with alchemy or spells of their own, it may not work. This will be decided by nation level dice, and it is <em>not</em> an automatic "detect spies" button.</p>
 <p>If it comes down to character scale, this ritual will be treated as a <em>Stinking Cloud</em> spell, except 5 foot radius that is both centered on and travels with each wolf elf in the area. The spell has saving throws and duration as if Fury had used her highest available spell slot to cast it, and can be countered by any means that could counter Fury actually casting a spell.&nbsp;</p>
 <p>Also at character scale, affected creatures are marked with orange stains and a foul scent. The scent provides a +10 bonus to any opposed perception checks to identify them by scent. The pigment immediately ruins most disguises and must be covered with another disguise check at a -5 penalty. These effects can only be removed with magic or alchemical detergents and last 2d4 days.</p>
+
+    <p><strong>Partial rituals (have the basis for but are not completed yet);</strong></p>
+
+    <p><strong>&ldquo;Intent to harm&rdquo; ward</strong></p>
+<p>Basically, you cast it, it lasts 1d4 turns, if anyone attempts to spy on you the ward triggers and alerts your leaders, allowing you a reflexive C&amp;D or a bonus proficiency die if you already made one</p>
+<p>May also have roleplaying consequences, as the ritual delivered is set to trigger on anyone "intending to do harm on the settlement or its occupants"</p>
+    
 <h1><strong>STUNTS</strong></h1>
 <h2><strong>Fire for Effect</strong></h2>
 <p>The Fire Elves have been known to use their natural resistances (fire) to great effect in combat, but doing so comes at a strong resource cost, as much of their supplies literally go up in smoke.</p>
