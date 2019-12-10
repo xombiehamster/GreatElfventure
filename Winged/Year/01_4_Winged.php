@@ -48,7 +48,7 @@
 
 <p>“Ohh, good idea…”</p>
 
-They talked for a little longer about colors and styles, and the artist cheerfully returned to her makeshift studio, leaving the finished feather with Shadimon. He tilted one wing forward and ran his hand through the smaller covert feathers until he found one that was ready to come out. Plucking the feather free, he clipped it to the little chain and smoothed out the fibers. Lacking anything better for now, he set it in the center of the table. It could be hung up later to mark whatever the official town center ended up being.</p>
+<p>They talked for a little longer about colors and styles, and the artist cheerfully returned to her makeshift studio, leaving the finished feather with Shadimon. He tilted one wing forward and ran his hand through the smaller covert feathers until he found one that was ready to come out. Plucking the feather free, he clipped it to the little chain and smoothed out the fibers. Lacking anything better for now, he set it in the center of the table. It could be hung up later to mark whatever the official town center ended up being.</p>
 
     <p><b>Economic:</b></p>
 <p>Spring is a good time for planting, let’s make another stab at getting that garden established!</p>
