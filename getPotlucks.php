@@ -40,7 +40,11 @@ function getPotlucks($year){
     }
     $str .= '</td>';
     #WINGED
-    $str .= '<td></td>';
+    $str .= '<td>';
+    if(!is_null($arr[5])){
+        $str .= '<ul><li><a href="'.$arr[5].'">Year 5: A Potluck with a View</a></li></ul>';
+    }
+    $str .= '</td>';
     ####
     $str .= "</tr>";
     return $str;
