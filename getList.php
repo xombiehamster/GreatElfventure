@@ -33,23 +33,26 @@ function getList($elf, $sequence){
             switch ($m){
                 case 1: 
                     $list.= 'Summer, year ';
+                    $list.= $y.'</a></li>';
                     $m++;
                 break;
                 case 2:
                     $list.= 'Fall, year ';
+                    $list.= $y.'</a></li>';
                     $m++;
                 break;
                 case 3:
                     $list.= 'Winter, year ';
+                    $list.= $y.'</a></li>';
                     $m++;
                 break;
                 case 4:
                     $list.= 'Spring, year ';
+                    $list.= $y.'</a></li>';
                     $y++;
                     $m = 1;
                 break;
             }
-            $list.= $y.'</a></li>';
             $n++;
         }
     }
