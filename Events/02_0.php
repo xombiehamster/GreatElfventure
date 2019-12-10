@@ -635,7 +635,6 @@
 <?php
 if(is_null($_SESSION["CRAG"])){
     $_SESSION["CRAG"]=1;
-    $_SESSION["C_EXTRA"]=0;
 }
 if($_SESSION["YEAR"]<2){
     $_SESSION["YEAR"]=2;
