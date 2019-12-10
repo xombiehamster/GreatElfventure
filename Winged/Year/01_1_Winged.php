@@ -3,13 +3,13 @@
 
 <head>
     <title>
-        Winged Elf Year 1 - Fall
+        Winged Elf Year 1 - Summer
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 
 <body>
-<h1>Year 1 - Fall</h1>
+<h1>Year 1 - Summer</h1>
 <p>“Yes we’re ready for the party, and yes we’re ready to go tomorrow.” Baijani leaned down to shift one of the carrying baskets. “Now come. Satri took care of food, and everything will still be here when we get back.”</p>
 
 <p>The enormous farewell feast had been a huge hit; the winged elves went where they pleased, usually carrying samples of food with them to share with friends. They clustered together with each other as well as others, handling cheerful - or tearful - goodbyes.</p>
