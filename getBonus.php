@@ -31,6 +31,9 @@ function getArray($elf){
             $arr[5] = "A Measure of Hospitality";
             $arr[6] = "Settlements";
         break;
+        case "Winged":
+            $arr[0] = "A Moody Visitor";
+        break;
     }
     return $arr;
 }
