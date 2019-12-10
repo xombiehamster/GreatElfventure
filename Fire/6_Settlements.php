@@ -1,3 +1,14 @@
+<?php session_start(); ?>
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>
+        Fire Elf Details and Design Notes
+    </title>
+</head>
+
+<body>
 <ul>
 <li>
 <h2><strong>Surt, the City of Bronze</strong></h2>
@@ -107,3 +118,10 @@
 <h2><strong>Garrison (0/1):</strong> </h2>
 </li>
 </ul>
+<?php
+    include '../settarget.php'; 
+    settarget("Fire",null,7);
+    include '../footer.php';
+    echo getarrows("5_Ecology of the Burning Maar.php","7_Divisions.php");?>
+</body>
+</html>

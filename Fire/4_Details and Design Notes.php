@@ -1,3 +1,14 @@
+<?php session_start(); ?>
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>
+        Fire Elf Details and Design Notes
+    </title>
+</head>
+
+<body>
 <p>Surt&rsquo;s inn, <em>the Howl</em>, year 1:</p>
 <ul>
 <li>Owner: Phobos Tallflower, bard, writer of the extremely popular ballad <em>Leafstorm</em></li>
@@ -163,3 +174,10 @@
 <li>Vox Populists</li>
 </ul>
 </ul>
+<?php
+    include '../settarget.php'; 
+    settarget("Fire",null,5);
+    include '../footer.php';
+    echo getarrows("3_Leadership.php","5_Ecology of the Burning Maar.php");?>
+</body>
+</html>

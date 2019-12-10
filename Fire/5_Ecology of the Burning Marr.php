@@ -1,3 +1,14 @@
+<?php session_start(); ?>
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>
+        Ecology of the Burning Maar
+    </title>
+</head>
+
+<body>
 <ul>
 <li>
 <p><strong>The Ecology of the Burning Marr</strong></p>
@@ -70,3 +81,10 @@
 <p><a href="https://www.d20pfsrd.com/bestiary/monster-listings/animals/snake/snake-viper/">Splitviper</a> -- named for its peculiar physical form, the splitviper is an odd venomous snake naturally adapted to blend in with its local environment. Splitvipers are &ldquo;flat&rdquo; on their right side, much like flounder fish, which allows them to blend in with the natural contours of the terrain. This also cocks their jaw to the side, putting them at a perfect natural angle to launch for the throat of their prey (such as jackrabbits), or launch for important bits of predators (such as the legs, throat, and nose of Switchback Jackals). While not naturally aggressive, splitvipers are infamous for &ldquo;leaping before they look&rdquo;, and more than a few unwary travelers have been surprised by splitvipers launching themselves out of the underbrush.</p>
 </li>
 </ul>
+<?php
+    include '../settarget.php'; 
+    settarget("Fire",null,6);
+    include '../footer.php';
+    echo getarrows("4_Details and Design Notes.php","6_Settlements.php");?>
+</body>
+</html>

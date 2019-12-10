@@ -1,3 +1,14 @@
+<?php session_start(); ?>
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>
+        Fire Elf Divisions
+    </title>
+</head>
+
+<body>
 <ul>
 <li>
 <h1><strong>DIVISIONS</strong></h1>
@@ -70,3 +81,8 @@
 <p><strong>Location:</strong> Gerdr, granting condition: <em>Fortified</em></p>
 </li>
 </ul>
+<?php
+    include '../footer.php';
+    echo getarrows("6_Settlements.php",null);?>
+</body>
+</html>
