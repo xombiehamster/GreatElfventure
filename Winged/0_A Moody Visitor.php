@@ -1,5 +1,14 @@
-<html>
+<?php session_start(); ?>
+<!DOCTYPE html>
 
+<head>
+    <title>
+        A Moody Visitor
+    </title>
+    <link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+
+<body>
 <p><b>A Moody Visitor</b></p>
 
 <p>“...Say again?”</p>
@@ -151,3 +160,13 @@
 <p>He was not entirely sure why he thought the winged elves would be more rigid to his presence than they were turning out to be.  They were a warm people with a warm culture to go with it.  He made a quiet vow to himself to rectify his misgivings and learn more of who they were while he was staying in the city.</p>
 
 <p>The night was long, but eventually he forced himself to at least doze for a short period of time. </p>
+
+      <?php
+    #Update bonus sequence
+    include '../settarget.php'; 
+    settarget("Winged",null,0);
+    #Footer content
+    include '../footer.php';
+    echo getarrows("/Year/01_3_Winged.php#jump","/Year/01_3_Winged.php#jump");?>
+</body>
+</html>
