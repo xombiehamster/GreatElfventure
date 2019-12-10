@@ -65,7 +65,8 @@
 <p>Using Research trapping of Academics to get us ready to start making use of those copper veins. Rolling 4 ability and that shiny boost die from the first turn: 2 advantage, 4 successes, 0 triumphs</p>
 
     <p><b>Results:</b></p>
-    <p><b>Misc:</b></p>
+    <h4 id="jump"></h4>
+    <p><b>Misc:</b> <a href="../0_A Moody Visitor.php">A Moody Visitor</a></p>
 <p>Your patrols find a Dark Elf named Amenidal wandering around one of the side canyons near Asavardi. He seems quite pleasant and says he just wanted to meet some winged elves and see how you’re doing. Oh, and tell you that the dark elves’ new home of Hilt’Inn is nearly overrun by hundreds of skeletons. They’re probably fine though, Amenidal explains.</p>
 
     <p><b>Economic:</b></p>
