@@ -290,7 +290,8 @@
     <p>Ehra laughs, “In seriousness, travel is becoming more difficult for me. I would, however, love to see what you make of your new home. Perhaps if Siiri isn't afraid of heights…”</p>
     <p>Siiri shrugs, “I go where you need me, grandfather.”</p>
     <p>“... we would be glad to come, once we are able.”<p>
-    <hr/>As he sees the conversations start to wind down, Ehra looks over the rest of the group pensively. He takes a moment to look at each group of elves- and give another quiet consideration to the Terror. He turns back to the rest of the group. </p>
+    <hr/>
+    <p>As he sees the conversations start to wind down, Ehra looks over the rest of the group pensively. He takes a moment to look at each group of elves- and give another quiet consideration to the Terror. He turns back to the rest of the group. </p>
     <p>Ehra places his hands on the table and slowly stands.</p>
     <p>“Friends,” He begins in a voice loud enough to carry over the whole room. He pauses briefly to let conversation die down.</p>
     <p>“I thank you for indulging an old man’s wishes. We have all been through a very long period of pain and loss, after which none of us are the same. We are all in a precarious position. We have times ahead of us that will no doubt test our limits once again. For tonight, though… we are at peace, for the first time in a very, very long time. Even by my standards.”</p>
