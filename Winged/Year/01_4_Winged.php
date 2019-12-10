@@ -5,6 +5,7 @@
     <title>
         Winged Elf Year 1 - Spring
     </title>
+    <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 
 <body>
