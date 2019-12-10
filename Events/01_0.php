@@ -333,7 +333,7 @@
 
 
     <?php
-        if(is_null($_SESSION["YEAR"]) or $_SESSION["YEAR"]==1){
+        if(is_null($_SESSION["YEAR"]) or $_SESSION["YEAR"]<=1){
             $_SESSION["YEAR"] = 1;
             $_SESSION["BLADE"] = 1;
             $_SESSION["DARK"] = 1;
