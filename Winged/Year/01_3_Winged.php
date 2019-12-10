@@ -110,7 +110,7 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("Winged",4,null);
+    settarget("Winged",4,0);
     include '../footer.php';
     echo getarrows("01_2_Winged.php","01_4_Winged.php");?>
 </body>
