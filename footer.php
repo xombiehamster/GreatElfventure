@@ -1,7 +1,7 @@
 <?php
 echo 'Current year:', $_SESSION["YEAR"];
 function getarrows($back,$next){
-    $str ='<table style="width:100%"><tr>';
+    $str ='<table id="nav"><tr>';
     if(!is_null($back)){
         $str .= '<td><a href="'.$back.'">BACK</a></td>';
     }

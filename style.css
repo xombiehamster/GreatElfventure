@@ -71,3 +71,30 @@ p {
 .avatar {
     border-radius: 50%;
 }
+
+
+/* Special tables */
+
+table#special {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table#special tr:nth-child(even) {
+    background-color: #eee;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+table#special tr:nth-child(odd) {
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+table#special th {
+    color: white;
+    background-color: black;
+    padding: 10px;
+}

@@ -5,6 +5,7 @@
     <title>
         Dark Elf Year 1 - Winter
     </title>
+    <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 
 <body>
@@ -83,7 +84,7 @@
     <p>You solved the event fast enough that you did not take stress this turn, and your stress begins healing next turn.</p>
     <p>Your sappers and engineers have come up with a new weapon! In the chaos surrounding the skeleton war, the light daggers and knives preferred by the dark elves proved ineffective against fleshless bone. Sappers improvised many weapons during the time, but compact collapsible shovels ended up being extremely agile and adaptable weapons in the brutal close quarters fighting. Your Sappers have refined the design into an actual weapon:</p>
     <h4>Light Exotic Melee Weapons</h4>
-    <table style="width:100%">
+    <table id="special">
         <tr>
             <th>Weapon</th>
             <th>Cost</th>
