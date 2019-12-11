@@ -86,7 +86,7 @@ function elfOrd($ind){
 function getstatus(){
 $ret = "";
 $i = 0;
-while($i<15){
+while($i<21){
     if(is_null($_SESSION[elford($i)])){
         $ret .= "-1 ";
     }else{
