@@ -56,7 +56,7 @@
     <p>Squirrel Boy grins in Steve’s direction. “Always!”</p>
     <p>Mad Wolf groans and greets the room. “We have brought a tribute to your banquet.” She gestures behind her and five totem elves bring in a metric shit ton of raw and cooked meat and place it on an empty stop on the tables. “We hope it pleases you.” </p>
     <hr/>
-    <p>A note about Totem Elves</p>
+    <p>A note about Totem Elves - their player ended up having time conflicts, and did not continue in the game after this event.  We don't actually have more information about them available.</p>
     <hr/>
     <p>“Very much so,” Ehra bows his head slightly to Mad Wolf, “Thank you for-”</p>
     <p>A crackle like thunder interrupts the conversation, and the door slams open, revealing a tall elf in bronze plate, with a thick formal cloak sweeping over her back. Her face is covered by an old legionairre's helm and a blank bronze mask, with an amber glow visible at its mouth and edges. She storms into the room, shoving past the tables, and stops to glare at General Ehra before instead making her way to the hearth.</p>
