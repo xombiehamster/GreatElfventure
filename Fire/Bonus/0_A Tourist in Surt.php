@@ -138,7 +138,7 @@
 <p>The dust finally settles from the collapsed building. The crowds pressed to the edges of the Agora slowly fall silent. The guards bring up their shields and wait. Several seconds pass, but nothing happens. It seems the werewolf is indeed gone.</p>
 <p>Both the Hunger and the Terror feel the ache of their wounds.</p>
 <?php
-    include '../footer.php';
+    include '../../footer.php';
     echo getarrows("../Year/01_1_Fire.php#back","../Year/01_1_Fire.php#back");?>
 </body>
 </html>
