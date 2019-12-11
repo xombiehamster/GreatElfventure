@@ -27,7 +27,7 @@ function getbonusindex($elf,$type){
 }
 function settarget($elf,$tar,$mtar,$btar){
     $index = strtoupper($elf);
-    $bonus = getbonusindex($elf,"BONUS");
+    $bonus = getbonusindex($elf,"EXTRA");
     $meta = getbonusindex($elf,"META");
     if (!is_null($tar)){
         if(!is_null($_SESSION[$index])){
@@ -56,6 +56,6 @@ function settarget($elf,$tar,$mtar,$btar){
             $_SESSION[$meta] = $mtar;
         }
     }
-    echo $_SESSION[$index]," tar ",$_SESSION[$bonus]," mtar ",$_SESSION[$meta]," btar";
+    echo $_SESSION[$index]," tar ",$_SESSION[$meta]," mtar ",$_SESSION[$bonus]," btar";
     return 0;
 }

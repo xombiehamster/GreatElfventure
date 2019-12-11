@@ -28,7 +28,7 @@
  
  
 <p>True to description, the Blade elf is quite an imposing figure. She is clad in simple black and grey traveling clothes and indeed wearing a mithral breastplate - though it is completely plain and unadorned. She stands several inches taller than the Captain. Strapped to her back is what does appear to be an absurdly large two-handed executioner's sword, though it is wrapped in black cloth. She has traditional sharp blade elf features, tan skin, long platinum white hair, and bright blue eyes that are currently giving the Captain a withering glare.</p>
-<img class="avatar" src="Images/01_1_Tourist.png">
+<img class="avatar" src="../Images/01_1_Tourist.png">
 <p>The Captain is currently stammering out some kind of excuse while she stands with arms crossed. The Captain is pale faced, his eyes wide. This is out of character for him. The Captain is not a coward, he was at the battle of Skaplyndi.</p>
 <p>As the Hunger approaches the Agora her eyes snap up and focus on him, though she does not move.</p>
 <p>"Trouble, Captain Doukas?" the Hunger said, his eyes fixed on the Captain's. He spread out his hands, keeping the palms open and pointed towards intruder -- a placating gesture, that coincidentally happened to keep his hands close to the ceramic bottles concealed under his tunic.</p>
@@ -70,7 +70,7 @@
 <p>They are all far too slow. The Hunger is barely able to perceive motion- a flash of platinum white fur- and searing pain shoots through his chest. Faster than he could blink, she shifted and was upon him. Hunger feels the horrifying pain of teeth digging into his shoulder before he is hurled to the ground like a chew toy.</p>
 <p>The wolf stands well over seven feet tall. Her fur is the same platinum white as the elf&rsquo;s hair, her eyes the same blue- now staring at him as if he were a piece of meat. She slowly draws the sword from her back and the black cloth falls away.</p>
 <p>Hunger has a brief moment to notice that the heavy executioner&rsquo;s blade is, bizarrely, made of silver and covered in intricate runes before a thought crosses his mind.</p>
-<img src="Images/01_1_WereWolf.png">
+<img src="../Images/01_1_WereWolf.png">
  
  
  
@@ -84,7 +84,7 @@
  
 <p>The crowd split, dashing for the Agora's exits, trampling over the guards and anyone else who happened to be in the way. Anyone except the Terror, whom they skirted like the sea parting around a rock. A very angry rock.</p>
 <p>The Terror charged, a blurred mass of mail and hammer, stopping just in front of where the Lycan had dropped the Hunger, and letting momentum carry her earthshaker towards the wolf's left kneecap. There was a slight hesitancy to the motion; her eyes stayed warily focused on the Lycan's face.</p>
-<img src="Images/01_1_TheTerror.png">
+<img src="../Images/01_1_TheTerror.png">
 <p>The wolf twisted; the hammer caught on its shin and scraped off, taking a large scrap of skin with it. Blood poured onto the newly-finished cobbles.</p>
 <p>The wolf howls in pain, staggering from the heavy blow. It looks for a brief moment like she might fall, but instead she throws her weight into the spin. She places both hands on her sword and turns that momentum into a heavy blow.</p>
 <p>With a furious snarl that sprays blood soaked spittle onto the Terror&rsquo;s mask, the wolf brings the executioner&rsquo;s blade over her head and brings it down straight onto the top of the Terror&rsquo;s helmet. The blade passes through an inch or so of the feathers on the crest before the Terror&rsquo;s body snaps into a magical mist.</p>
@@ -138,7 +138,7 @@
 <p>The dust finally settles from the collapsed building. The crowds pressed to the edges of the Agora slowly fall silent. The guards bring up their shields and wait. Several seconds pass, but nothing happens. It seems the werewolf is indeed gone.</p>
 <p>Both the Hunger and the Terror feel the ache of their wounds.</p>
 <?php
-    include '../../footer.php';
+    include '../footer.php';
     echo getarrows("../Year/01_1_Fire.php#back","../Year/01_1_Fire.php#back");?>
 </body>
 </html>

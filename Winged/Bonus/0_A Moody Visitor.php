@@ -166,7 +166,7 @@
     include '../../settarget.php'; 
     settarget("Winged",null,null,0);
     #Footer content
-    include '../../footer.php';
+    include '../footer.php';
     echo getarrows("../Year/01_3_Winged.php#jump","../Year/01_3_Winged.php#jump");?>
 </body>
 </html>

@@ -99,7 +99,7 @@
     <p>With that, she turns to quietly leave. After a few steps, she pauses and turns back to Litoria.</p>
     <p>“My name is Bryti.”</p>
     <?php 
-        include '../../footer.php';
+        include '../footer.php';
         echo getarrows("../Year/01_4_River.php#jump",null);
     ?>
 </body>

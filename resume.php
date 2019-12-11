@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         $arr = explode(" ",$name);
         $ind = 0;
-        while ($ind<15){
+        while ($ind<22){
             $_SESSION[elford($ind)] = numfix($arr[$ind]);
             $ind++;
         }
