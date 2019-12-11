@@ -8,6 +8,9 @@ function getBArray($elf){
          case "Fire":
             $arr[0] = "A Tourist in Surt";
         break;
+        case "Dark":
+            $arr[0] = "A Moody Visitor";
+        break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
             $arr[1] = "A Hitchhiker in Partager";

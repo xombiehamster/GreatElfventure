@@ -68,9 +68,11 @@
     <h3>Event: Tourism Disaster</h3>
     <p><b>Status: <span style="color:red">Critical</span></b></p>
     <p>The skeletons have found their way to Hilt’Inn, and the tunnels are not sealed. Your soldiers are fending off attacks from skeletons daily, and it’s only a matter of time until a big clump of skeletons rushes the barricade. They aren’t intelligent or planning anything, but they have a base cunning to them that makes them understand to follow if a bunch of other skeletons run towards something. Not to mention you still have dozens of engineers unaccounted for in the tunnels, including Volodia and Tunnel Rat One.</p>
-    <p>Speaking of Tunnel Rat One, it’s not all gloom and doom. Tunnel Rat One and the engineers’ heroic - no, legendary - actions have had the following effects:</p>
-    <p>Your people are inspired to action by the tale, and you do not take more morale stress this turn, despite the dire circumstances. Your stress is still not able to heal naturally.</p>
-    <p>Though you suffered many losses, the engineers destroyed quite a few skeletons in the fighting and with tunnel collapses. Any further actions taken to get rid of them will have the difficulty reduced by one.</p>
+    <p>Speaking of Tunnel Rat One, it’s not all gloom and doom. Tunnel Rat One and the engineers’ heroic - no, <i>legendary</i> - actions have had the following effects:</p>
+    <ul>
+        <li><p>Your people are inspired to action by the tale, and you do not take more morale stress this turn, despite the dire circumstances. Your stress is still not able to heal naturally.</p></li>
+        <li><p>Though you suffered many losses, the engineers destroyed quite a few skeletons in the fighting and with tunnel collapses. Any further actions taken to get rid of them will have the difficuly reduced by one.</p></li>
+    </ul>
     <p>So while the situation is grim, the dark elves are prepared for what’s ahead. And as far as what’s ahead… it seems that this problem has escalated past the point where containment is possible. Whatever happens, the dark elves are going to have to handle this directly. Until the doomed warren is somehow brought under control, Hilt’Inn will not be safe.</p>
     
     <?php
