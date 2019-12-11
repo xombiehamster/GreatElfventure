@@ -116,7 +116,7 @@
 <p>Take one point of Morale stress, and you will take one point of morale stress per round until your people are confident that they are safe and that the fate of that settlement will not befall them as well.</p>
     <?php
     include '../../settarget.php'; 
-    settarget("Winged",2,null);
+    settarget("Winged",2,0,null);
     include '../footer.php';
     echo getarrows(null,"01_2_Winged.php");?>
 </body>

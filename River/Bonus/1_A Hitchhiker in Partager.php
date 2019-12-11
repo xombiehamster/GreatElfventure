@@ -5,7 +5,7 @@
     <title>
         A Hitchhiker in Partager
     </title>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 <body>
     <h1>A Hitchhiker in Partager</h1>

@@ -5,7 +5,7 @@
     <title>
         A Measure of Hospitality
     </title>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 <body>
     <h1>A Measure of Hospitality</h1>
@@ -100,7 +100,7 @@
     <p>“My name is Bryti.”</p>
     <?php 
         include '../footer.php';
-        echo getarrows("Year/01_4_River.php#jump",null);
+        echo getarrows("../Year/01_4_River.php#jump",null);
     ?>
 </body>
 </html>

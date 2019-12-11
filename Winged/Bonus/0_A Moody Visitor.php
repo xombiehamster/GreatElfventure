@@ -5,7 +5,7 @@
     <title>
         A Moody Visitor
     </title>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 
 <body>
@@ -164,9 +164,9 @@
       <?php
     #Update bonus sequence
     include '../settarget.php'; 
-    settarget("Winged",null,0);
+    settarget("Winged",null,null,0);
     #Footer content
     include '../footer.php';
-    echo getarrows("Year/01_3_Winged.php#jump","Year/01_3_Winged.php#jump");?>
+    echo getarrows("../Year/01_3_Winged.php#jump","../Year/01_3_Winged.php#jump");?>
 </body>
 </html>
