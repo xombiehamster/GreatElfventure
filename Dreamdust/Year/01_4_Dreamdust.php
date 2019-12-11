@@ -33,7 +33,7 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("Dreamdust",5,null);
+    settarget("Dreamdust",5,null,null);
     if($_SESSION["YEAR"]<2){$_SESSION["YEAR"]=2;}
     include '../footer.php';
     echo getarrows("01_3_Dreamdust.php","02_1_Dreamdust.php");?>

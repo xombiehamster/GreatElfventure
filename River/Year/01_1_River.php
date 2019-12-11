@@ -93,7 +93,7 @@
     <p>Bufo is still missing.</p>
     <?php
         include '../../settarget.php'; 
-        settarget("River",2,null);
+        settarget("River",2,0,null);
         include '../footer.php';
         echo getarrows("../../index.php","01_2_River.php");
     ?>

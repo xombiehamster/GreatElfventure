@@ -54,7 +54,7 @@
 <p>Nations that conduct in Trade or Mercantilism checks within Surt gain a boost die to the next Research, Creation, Trade, or Mercantilism check involving magical or alchemical materials they make. This boost die expires within the next three seasons.</p>
 <?php
     include '../settarget.php'; 
-    settarget("Fire",null,3);
+    settarget("Fire",null,3,null);
     include '../footer.php';
     echo getarrows("1_Factions.php","3_Leadership.php");?>
 </body>

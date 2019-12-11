@@ -59,6 +59,27 @@ function elfOrd($ind){
         case 14:
             return "W_EXTRA";
         break;
+        case 15:
+            return "B_META";
+        break;
+        case 16:
+            return "C_META";
+        break;
+        case 17:
+            return "DA_META";
+        break;
+        case 18:
+            return "DR_META";
+        break;
+        case 19: 
+            return "F_META";
+        break;
+        case 20:
+            return "R_META";
+        break;
+        case 21:
+            return "W_META";
+        break;
     }
     return null;
 }

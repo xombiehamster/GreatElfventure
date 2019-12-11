@@ -2,6 +2,7 @@
     include 'header.php';
     include 'getList.php';
     include 'getBonus.php';
+    include 'getMeta.php';
 ?>
 <!DOCTYPE html>
 <html>
@@ -78,6 +79,36 @@
     include 'getPotlucks.php';
     echo getPotlucks($_SESSION["YEAR"]);
 ?>
+<tr>
+    <!-- Literally just a line. -->
+    <td colspan = "7"><hr/></td>
+</tr>
+<tr>
+    <!-- Meta documents -->
+    <td>
+        <?php echo getMeta("Blade",$_SESSION["B_META"]);?>
+    </td>
+    <?php 
+    #Crag removal.
+    if($_SESSION["CRAG"]>0){
+        echo '<td>'.getMeta("Crag",$_SESSION["C_META"]).'</td>';
+    }?>
+    <td>
+        <?php echo getMeta("Dark",$_SESSION["DA_META"]);?>
+    </td>
+    <td>
+        <?php echo getMeta("Dreamdust",$_SESSION["DR_META"]);?>
+    </td>
+    <td>
+        <?php echo getMeta("Fire",$_SESSION["F_META"]);?>
+    </td>
+    <td>
+        <?php echo getMeta("River",$_SESSION["R_META"]);?>
+    </td>
+    <td>
+        <?php echo getMeta("Winged",$_SESSION["W_META"]);?>
+    </td>
+</tr>
 <tr>
     <!-- Literally just a line. -->
     <td colspan = "7"><hr/></td>

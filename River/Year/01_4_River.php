@@ -83,7 +83,7 @@
 
     <?php
         include '../../settarget.php'; 
-        settarget("River",5,5);
+        settarget("River",5,null,0);
         include '../footer.php';
         echo getarrows("01_3_River.php","02_1_River.php");
         if($_SESSION["YEAR"]<2){

@@ -34,7 +34,7 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("Crag",2,null);
+    settarget("Crag",2,0,null);
     include '../footer.php';
     echo getarrows(null,"01_2_Crag.php");?>
 </body>

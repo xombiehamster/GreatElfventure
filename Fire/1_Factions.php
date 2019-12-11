@@ -16,7 +16,7 @@
 <p>A vocal minority of Fire Elves have removed themselves from the Conflagration discussion. Whether out of a desire to &ldquo;let the past die&rdquo;, as the Hunger himself as put it, or because they view the Conflagration as a moment of rebirth for their people, followers of the Phoenix Imperialis (whose symbol is of course a golden phoenix) are expansion-oriented and democratic, likely to push for anything that grows their people&rsquo;s (and faction&rsquo;s) overall power and voice. Members tend to be architects, businesselves, and smithmasters, and their designs tend to be a mix of Lycan-style stonework and smooth Elven curves. Though ostensibly aligned with the Hunger, since the Triumvirate is banned from involvement in political factions, their leader is the &ldquo;Phoenix Lord&rdquo; (a grandiose title popular with the public) Barrabus Leafstorm.</p>
 <?php
     include '../settarget.php'; 
-    settarget("Fire",null,2);
+    settarget("Fire",null,2,null);
     include '../footer.php';
     echo getarrows("0_Aspects.php","2_Stunts and Rituals.php");?>
 </body>

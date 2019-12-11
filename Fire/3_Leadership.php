@@ -75,7 +75,7 @@ This has, of course, led to numerous rumors about who the Hunger truly is. Most 
 <h2><strong>Character Levels</strong>: Bard (Buccaneer) 2 / Unchained Rogue (Rake) 2 / Swashbuckler 3</h2>
 <?php
     include '../settarget.php'; 
-    settarget("Fire",null,4);
+    settarget("Fire",null,4,null);
     include '../footer.php';
     echo getarrows("2_Stunts and Rituals.php","4_Details and Design Notes.php");?>
 </body>

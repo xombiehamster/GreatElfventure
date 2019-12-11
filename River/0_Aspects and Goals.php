@@ -73,7 +73,7 @@
     <?php
     #Update bonus sequence
     include '../settarget.php'; 
-    settarget("River",null,1);
+    settarget("River",null,1,null);
     #Footer content
     include '../footer.php';
     echo getarrows(null,"1_Factions.php");?>

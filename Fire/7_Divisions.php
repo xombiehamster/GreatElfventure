@@ -83,6 +83,6 @@
 </ul>
 <?php
     include '../footer.php';
-    echo getarrows("6_Settlements.php",null);?>
+    echo getarrows("6_Settlements.php",null,null);?>
 </body>
 </html>

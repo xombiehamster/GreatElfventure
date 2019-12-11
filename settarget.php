@@ -1,33 +1,34 @@
 <?php
-function getbonusindex($elf){
+function getbonusindex($elf,$type){
     switch ($elf){
         case "Blade": 
-            return "B_EXTRA";
+            $ret = "B";
         break;
         case "Crag":
-            return "C_EXTRA";
+            $ret = "C";
         break;
         case "Dark":
-            return "DA_EXTRA";
+            $ret = "DA";
         break;
         case "Dreamdust":
-            return "DR_EXTRA";
+            $ret = "DR";
         break;
         case "Fire":
-            return "F_EXTRA";
+            $ret = "F";
         break;
         case "River":
-            return "R_EXTRA";
+            $ret = "R";
         break;
         case "Winged":
-            return "W_EXTRA";
+            $ret = "W";
         break;
     }
-    return null;
+    return $ret.'_'.$type;
 }
-function settarget($elf,$tar,$btar){
+function settarget($elf,$tar,$mtar,$btar){
     $index = strtoupper($elf);
-    $bonus = getbonusindex($elf);
+    $bonus = getbonusindex($elf,"BONUS");
+    $meta = getbonusindex($elf,"META");
     if (!is_null($tar)){
         if(!is_null($_SESSION[$index])){
             if ($_SESSION[$index] < $tar){
@@ -46,6 +47,15 @@ function settarget($elf,$tar,$btar){
             $_SESSION[$bonus] = $btar;
         }
     }
-    echo $_SESSION[$index]," tar ",$_SESSION[$bonus]," btar";
+    if(!is_null($mtar)){
+        if(!is_null($_SESSION[$meta])){
+            if ($_SESSION[$meta]< $mtar) {
+                $_SESSION[$meta] = $mtar;
+            }
+        }else{
+            $_SESSION[$meta] = $mtar;
+        }
+    }
+    echo $_SESSION[$index]," tar ",$_SESSION[$bonus]," mtar ",$_SESSION[$meta]," btar";
     return 0;
 }

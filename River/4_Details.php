@@ -66,7 +66,7 @@
     <p>There are four major holidays on the flotilla’s yearly calendar.  Three of these holidays happen in the winter months, when all river elves are hosted in the same location.  The major holidays are: Elven New Year, [Name TBD], Elfmas, and Departing’s Eve.</p>
             
     <?php include '../footer.php';
-        if($_SESSION["R_EXTRA"]>=6){ $next = "6_Settlements.php"; }
+        if($_SESSION["R_META"]>=6){ $next = "6_Settlements.php"; }
         echo getarrows("3_Leadership.php",$next);
     ?>
 </body>

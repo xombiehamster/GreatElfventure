@@ -33,7 +33,7 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("Fire",4,null);
+    settarget("Fire",4,null,null);
     include '../footer.php';
     echo getarrows("01_2_Fire.php","01_4_Fire.php");?>
 </body>

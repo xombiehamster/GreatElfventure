@@ -20,7 +20,7 @@
         and evil. They will promote this goal- and the requisite “sword sharpening"- above all others.</p>
     <?php
         include '../settarget.php'; 
-        settarget("Blade",null,2);
+        settarget("Blade",null,2,null);
         include '../footer.php';
         echo getarrows("0_Aspects.php","2_Stunts and Rituals.php");
     ?>

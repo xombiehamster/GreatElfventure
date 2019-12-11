@@ -2,34 +2,16 @@
 #This function builds an array that holds the list of file titles for each elf.
 #Yes, I do have to manually update it when new files get added.
 #It is what it is.
-function getArray($elf){
+function getBArray($elf){
     $arr = array();
     switch($elf){
-        case "Blade":
-            $arr[0] = "Aspects and Goals";
-            $arr[1] = "Factions";
-            $arr[2] = "Stunts and Rituals";
-            $arr[3] = "Leadership";
-        break;
-        case "Fire":
-            $arr[0] = "Aspects";
-            $arr[1] = "Factions";
-            $arr[2] = "Stunts and Rituals";
-            $arr[3] = "Leadership";
-            $arr[4] = "Details and Design Notes";
-            $arr[5] = "Ecology of the Burning Maar";
-            $arr[6] = "Settlements";
-            $arr[7] = "Divisions";
-            $arr[8] = "A Tourist in Surt";
+         case "Fire":
+            $arr[0] = "A Tourist in Surt";
         break;
         case "River":
-            $arr[0] = "Aspects and Goals";
-            $arr[1] = "Factions";
-            $arr[2] = "Stunts and Rituals";
-            $arr[3] = "Leadership";
-            $arr[4] = "Details";
-            $arr[5] = "A Measure of Hospitality";
-            $arr[6] = "Settlements";
+            $arr[0] = "A Measure of Hospitality";
+            $arr[1] = "A Hitchhiker in Partager";
+            $arr[2] = "A Special Delivery";
         break;
         case "Winged":
             $arr[0] = "A Moody Visitor";
@@ -45,9 +27,9 @@ function getBonus($elf,$sequence){
     }else{
         $list = '<ul>';
         $i = 0;
-        $arr = getArray($elf);
+        $arr = getBArray($elf);
         while($i<=$sequence){
-            $list .= '<li><a href="'.$elf.'/'.$i.'_'.$arr[$i].'.php">';
+            $list .= '<li><a href="'.$elf.'/Bonus/'.$i.'_'.$arr[$i].'.php">';
             $list .= $arr[$i];
             $list .= '</a></li>';
             $i ++;

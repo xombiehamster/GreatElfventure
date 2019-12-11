@@ -89,7 +89,7 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("River",5,7);
+        settarget("River",6,null,2);
         include '../footer.php';
         echo getarrows("01_4_River.php","02_2_River.php");
     ?>

@@ -176,7 +176,7 @@
 </ul>
 <?php
     include '../settarget.php'; 
-    settarget("Fire",null,5);
+    settarget("Fire",null,5,null);
     include '../footer.php';
     echo getarrows("3_Leadership.php","5_Ecology of the Burning Maar.php");?>
 </body>

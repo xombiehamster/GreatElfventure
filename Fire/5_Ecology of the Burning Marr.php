@@ -83,7 +83,7 @@
 </ul>
 <?php
     include '../settarget.php'; 
-    settarget("Fire",null,6);
+    settarget("Fire",null,6,null);
     include '../footer.php';
     echo getarrows("4_Details and Design Notes.php","6_Settlements.php");?>
 </body>
