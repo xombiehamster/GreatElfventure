@@ -1,4 +1,7 @@
-<?php session_start(); ?>
+<?php 
+    session_start(); 
+    include '../firstcontact.php';
+?>
 <!DOCTYPE html>
 
 <head>
@@ -13,17 +16,17 @@
     <p>In the center of Fort Álfyr lies what was once the great hall. This two story building was once the home of a wealthy Skati, who ruled over this territory. Those days are long gone. What was once a greatroom for feasting Lycans nobility is now an open room for you to enjoy.</p>
     <p>On the second story of the great hall, this room has open arches allowing a stunning view of the stars slowly becoming visible over the ocean. The room has a high ceiling, with the blade elves having quite courteously placed hooded lanterns near the top casting their light upwards. The reflected light casts the room in a warm glow that’s bright enough for everyone to see, but not blindingly bright for the nocturnal ones.</p>
     <p>The center of the room is dominated by a large circular table that is covered in a blue table cloth. It has many plates of various foods prepared by the blade elves. Thankfully, their cooking has improved a bit. Small roast potatoes, a few chargrilled oysters, and grilled fish- simple fare still, but at least they know how to season things now.</p>
-    <p>Ehra stands near the entrance, at his full height, dressed in his best blue robes with his mourning blade polished and sheathed at his back. Siiri, dressed in her official healer’s uniform, stands at his side supporting his arm. Katiin stands at military attention beside him, in her best dress uniform.</p>
+    <p><?php echo firstcontact("Ehra Indrek");?> stands near the entrance, at his full height, dressed in his best blue robes with his mourning blade polished and sheathed at his back. <?php echo firstcontact("Siiri Maar");?>, dressed in her official healer’s uniform, stands at his side supporting his arm. Katiin stands at military attention beside him, in her best dress uniform.</p>
     <p>“You should sit, grandfather, I know standing for too long hurts your back.” Siiri comments.</p>
     <p>“Nonsense,” he waves her off with a smile, “I’m old, not dying. I can stand for a few minutes  until guests arrive. What kind of host would I be, waving guests in from the table?”</p>
-    <p>“Sir, I can handle this part,” Katiin adds.</p>
+    <p>“Sir, I can handle this part,” <?php echo firstcontact("Katiin Paavi");?> adds.</p>
     <p>“Bah,” Ehra sighs, “I will sit just as soon as I greet the first few visitors, I promise. Allow me at least a little pride!”</p>
     <p>“Yes sir,” Katiin nods.</p>
     <p>Siiri rolls her eyes, but nods as well.</p>
     <hr/>
     <p><a href="../Blade/0_Aspects and Goals.php">More about Blade Elves.</a></p>
     <hr/>
-    <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. Shadimon and Baijani paused at the door to greet the blade elves, while Anasatri eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
+    <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. <?php echo firstcontact("Shadimon");?> and <?php echo firstcontact("Baijani");?> paused at the door to greet the blade elves, while <?php echo firstcontact("Anasatri");?> eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
     <p>Shadimon held out his hand to Ehra, looking up at the much taller elf, “A good party. I hope you haven’t spent it all in here?”</p>
     <p>Ehra smiles and takes Shadimon’s hand, “Not at all! I have managed to get around some, at least. Siiri seems to think I will fall apart if I move too much, but I have been able to see our people celebrating together. It warms my heart.”</p>
     <p>At Ehra’s comment, Siiri mutters quietly. “<small>Grandfather…</small>”</p>
@@ -34,7 +37,7 @@
     <p>More about Winged Elves</p>
     <hr/>
     <p>A cluster of dreamdust elves enter, pausing to shove goats back out of the room, and approach.  They are in bright blues and yellows and reds, eyesearingly saturated.  </p>
-    <p>Dust approaches first, waving Pebble and Dave to set down the platters of flatbreads, goat cheese, and small pastries (carefully labeled “Drugged” and “Not drugged”).  Steve stands nearby, smiling pleasantly while staring off into the middle distance.  </p>
+    <p><?php echo firstcontact("Dust");?> approaches first, waving <?php echo firstcontact("Pebble");?> and <?php echo firstcontact("Dave");?> to set down the platters of flatbreads, goat cheese, and small pastries (carefully labeled “Drugged” and “Not drugged”).  <?php echo firstcontact("Steve");?> stands nearby, smiling pleasantly while staring off into the middle distance.  </p>
     <p>“Thank you for the invitation.”  Dust starts.</p>
     <p>“Of course!” Ehra turns with a warm smile, “Where would we be without you?”</p>
     <p>Ehra glances at the pastries, and Siiri views them with apparently extreme suspicion. Regardless, Ehra waves her off slightly without the slightest waver in his smile.</p>
@@ -45,13 +48,13 @@
     <hr/>
     <p>More about Dreamdust Elves</p>
     <hr/>
-    <p>The totem elves arrive in their finest loin cloths and beads and the tail end of a conversation can be heard from Squirrel Boy and Rising Bear as they enter.</p>
+    <p>The totem elves arrive in their finest loin cloths and beads and the tail end of a conversation can be heard from <?php echo firstcontact("Squirrel Boy");?> and <?php echo firstcontact("Rising Bear");?> as they enter.</p>
     <p>“This has to be the place!” Squirrel Boy insists. “Do you see the number of goats outside this room?”</p>
     <p>Rising Bear’s dreads swing back and forth down his back as he shakes his head at Squirrel Boy. “Alpha, you cannot go on that alone. You could be wrong-”</p>
     <p>Rising Bears looks ahead at the room filled with a variety of elves and strange food and groans. </p>
     <p>Squirrel Boy dons a shit eating grin. “You were saying?”</p>
     <p>A tall female totem elf comes up behind them both and cuffs them on the back of their heads. “Stop being rude,” she snarls.</p>
-    <p>“Sorry, Mad Wolf,” they both say begrudgingly. </p>
+    <p>“Sorry, <?php echo firstcontact("Mad Wolf");?>,” they both say begrudgingly. </p>
     <p>From across the room, Steve solemnly intones, “Listen to the goats.”</p>
     <p>Squirrel Boy grins in Steve’s direction. “Always!”</p>
     <p>Mad Wolf groans and greets the room. “We have brought a tribute to your banquet.” She gestures behind her and five totem elves bring in a metric shit ton of raw and cooked meat and place it on an empty stop on the tables. “We hope it pleases you.” </p>
@@ -67,7 +70,7 @@
     <hr/>
     <p><a href="../Fire/0_Aspects.php">More about Fire Elves</a></p>
     <hr/>
-    <p>A small group of river elves arrives a bit belatedly.  Staurois and Litoria are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  Eina and Smilisca are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
+    <p>A small group of river elves arrives a bit belatedly.  <?php echo firstcontact("Staurois Ranidae");?> and <?php echo firstcontact("Litoria Hylidae");?> are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  <?php echo firstcontact("Eina LEptodactylidae");?> and <?php echo firstcontact("Smilisca Hylidae");?> are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
     <p>"Pfoo-wee!" Staurois exclaims, "I hope the party ain't all over a-ready!"  He rubs the spots on his bald head, smiling but clearly exhausted from the task.  Litoria absently pats the hippopotamus on the nose, scratching her coarse whiskers.  She and Eina shrug at each other.  Smilisca's eyes dart around the room hopefully, but he appears somewhat disappointed by what he doesn't see, and he puts a bundle of large leaves on the table next to the crock.</p>
     <p>Eina pops the lid to the crock and she and Staurois start to remove raw crabs from the crock and arrange them carefully on the leaves.</p>
     <hr/>
@@ -75,12 +78,12 @@
     <hr/>
     <p>Trailing behind the armored figure (by a few minutes it seems) is a much smaller man, also in a mask, but this time unarmored and carrying a large tray of actively smoking meats and vegetables. "Ah! How lovely. Thank you for this delightful idea, Ehra." He gives the general a quick glance, before turning to haul his tray to the nearest table. "...And there are goats for some reason. Wonderful." </p>
     <p>The dark elves finally slink in, all wearing their dark surface garb though it looks like some of the usual equipment was forgon for looser garments on the two taller figures.  The tallest of them, in fact, looked to be bouncing like an excited child while holding a rather large basket that...was   slightly glowing?</p>
-    <p>The shortest one in the front turns with a raised finger to her companions.  “Behave, Uncle.”  She thinks about that for a moment before turning the finger to the other.  “Make sure he behaves, Greg.”</p>
+    <p>The shortest one in the front turns with a raised finger to her companions.  “Behave, Uncle.”  She thinks about that for a moment before turning the finger to the other.  “Make sure he behaves, <?php echo firstcontact("Greg");?>.”</p>
     <p>At the long suffering sigh from Greg, she turns back to the others clustered in the room and moves their little group forward to add the large basket of various glowing mushrooms to the growing food on the table.  </p>
-    <p>Greg smacks Rasputin’s hand as it not so subtly tries to reach for the specialty labeled pastries.</p>
+    <p>Greg smacks <?php echo firstcontact("Rasputin");?>’s hand as it not so subtly tries to reach for the specialty labeled pastries.</p>
     <p>“But they smell like fun and rainbows!”</p>
     <p>“No.  I’m not dealing with that again.”</p>
-    <p>Shyrendora ignores them and respectfully begins to remove her hood and mask while resolutely not making eye contact with anyone else occupying the room.  “Greetings all.” </p>
+    <p><?php echo firstcontact("Shyrendora");?> ignores them and respectfully begins to remove her hood and mask while resolutely not making eye contact with anyone else occupying the room.  “Greetings all.” </p>
     <hr/>
     <p>More about Dark Elves</p>
     <hr/>
@@ -107,7 +110,7 @@
     <p>Rasputin seems to eagerly pile bits of everything onto his plate, Greg only half-heartedly trying to convince him not to while being a bit more picky with his own.</p>
     <p>Shyrendora quietly slides some pastries onto both of their plates and smiles at Greg’s aggravated look. He pointedly shifts them off of Rasputin’s growing pile and plops them back onto Shyrendora’s plate.</p>
     <p>Staurois samples a bit of everything, but the other river elves pointedly avoid everything that looks to contain cheese.  They partake of the drugged pastries only in very small quantities.</p>
-    <p>For their part, the two masked Fire Elves seem uninterested in the food. The Terror seems content to stand in front of the hearth, placing her back to the party in general, and instead focus on the flames. The Hunger, meanwhile, slid himself down across the table from Ehra (plus or minus a few seats), and propped his head up on his elbows. “That’s not cinnamon, is it?” he said, pointing towards a pastry or two on Ehra’s plate. “Smells positively divine.” </p>
+    <p>For their part, the two masked Fire Elves seem uninterested in the food. <?php echo firstcontact("The Terror");?> seems content to stand in front of the hearth, placing her back to the party in general, and instead focus on the flames. <?php echo firstcontact("The Hunger");?>, meanwhile, slid himself down across the table from Ehra (plus or minus a few seats), and propped his head up on his elbows. “That’s not cinnamon, is it?” he said, pointing towards a pastry or two on Ehra’s plate. “Smells positively divine.” </p>
     <p>Ehra picks one of the confections up off his plate (assuming it’s not the drugged one from earlier, that’s long gone) and sniffs it.</p>
     <p>“Yes, actually I think it is. I didn’t think we had any left.”</p>
     <p>Ehra pulls the pastry into two pieces,</p>

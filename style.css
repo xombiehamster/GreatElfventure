@@ -15,15 +15,19 @@
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 120px;
+    width: 250px;
     background-color: darkslategray;
     color: rgb(245, 252, 233);
-    text-align: center;
+    text-align: left;
     padding: 5px 0;
     border-radius: 6px;
-    /* Position the tooltip text - see examples below! */
     position: absolute;
     z-index: 1;
+}
+
+.tooltip img {
+    float: left;
+    margin: 0px 8px 8px 0;
 }
 
 
