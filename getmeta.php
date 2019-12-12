@@ -8,14 +8,14 @@ function getMArray($elf){
         case "Blade":
             $arr[0] = "Aspects and Goals";
             $arr[1] = "Factions";
-            $arr[2] = "Stunts and Rituals";
-            $arr[3] = "Leadership";
+            $arr[2] = "Leadership";
+            $arr[3] = "Stunts and Rituals";
         break;
         case "Fire":
             $arr[0] = "Aspects";
             $arr[1] = "Factions";
-            $arr[2] = "Stunts and Rituals";
-            $arr[3] = "Leadership";
+            $arr[2] = "Leadership";
+            $arr[3] = "Stunts and Rituals";
             $arr[4] = "Details and Design Notes";
             $arr[5] = "Ecology of the Burning Maar";
             $arr[6] = "Settlements";
@@ -24,8 +24,8 @@ function getMArray($elf){
         case "River":
             $arr[0] = "Aspects and Goals";
             $arr[1] = "Factions";
-            $arr[2] = "Stunts and Rituals";
-            $arr[3] = "Leadership";
+            $arr[2] = "Leadership";
+            $arr[3] = "Stunts and Rituals";
             $arr[4] = "Details";
             $arr[5] = "Settlements";
         break;

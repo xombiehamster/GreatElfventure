@@ -75,9 +75,9 @@
     <p><b>Character Levels:</b> Alchemist (Herbalist) 6</p>
     <?php
         include '../settarget.php'; 
-        settarget("Blade",null,3,null);
+        settarget("Blade",null,2,null);
         include '../footer.php';
-        echo getarrows("2_Stunts and Rituals.php",null);
+        echo getarrows("1_Factions.php","3_Stunts and Rituals.php");
     ?>
 </body>
 </html>

@@ -79,9 +79,9 @@
 
     <?php
         include '../settarget.php'; 
-        settarget("River",null,4,null);
+        settarget("River",null,3,null);
         include '../footer.php';
-        echo getarrows("2_Stunts and Rituals.php","4_Details.php");
+        echo getarrows("1_Factions.php","3_Stunts and Rituals.php");
     ?>
 </body>
 </html>

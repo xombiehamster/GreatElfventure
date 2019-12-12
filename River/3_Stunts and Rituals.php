@@ -38,8 +38,8 @@
         echo '<p>No rituals created... yet!</p>';
     }
     include '../settarget.php'; 
-    settarget("River",null,3,null);
+    settarget("River",null,4,null);
     include '../footer.php';
-    echo getarrows("1_Factions.php","3_Leadership.php");?>
+    echo getarrows("2_Leadership.php","4_Details.php");?>
 </body>
 </html>
