@@ -70,7 +70,7 @@
     <hr/>
     <p><a href="../Fire/0_Aspects.php">More about Fire Elves</a></p>
     <hr/>
-    <p>A small group of river elves arrives a bit belatedly.  <?php echo firstcontact("Staurois Ranidae");?> and <?php echo firstcontact("Litoria Hylidae");?> are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  <?php echo firstcontact("Eina LEptodactylidae");?> and <?php echo firstcontact("Smilisca Hylidae");?> are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
+    <p>A small group of river elves arrives a bit belatedly.  <?php echo firstcontact("Staurois Ranidae");?> and <?php echo firstcontact("Litoria Hylidae");?> are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  <?php echo firstcontact("Edalorhina Leptodactylidae");?> and <?php echo firstcontact("Smilisca Hylidae");?> are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
     <p>"Pfoo-wee!" Staurois exclaims, "I hope the party ain't all over a-ready!"  He rubs the spots on his bald head, smiling but clearly exhausted from the task.  Litoria absently pats the hippopotamus on the nose, scratching her coarse whiskers.  She and Eina shrug at each other.  Smilisca's eyes dart around the room hopefully, but he appears somewhat disappointed by what he doesn't see, and he puts a bundle of large leaves on the table next to the crock.</p>
     <p>Eina pops the lid to the crock and she and Staurois start to remove raw crabs from the crock and arrange them carefully on the leaves.</p>
     <hr/>
@@ -128,7 +128,7 @@
     <p>“That… is very flavorful. But, yes indeed, Staurois, we have so much ground to cover, we’ll have to make sure to share what we find. I’m sure we’ll all be able to… come together.”</p>
     <p>"We appreciate the offer, Staurois," the Hunger says, "though I'll admit my concern was less for trade, and more for how many sets of eyes will be staring over our shoulders." There's a glow to his eyes as he says this -- a glow that extends just barely to the slight amount of skin visible beneath his mask. Within a second, the glow recedes, pulling back to only his eyes.</p>
     <p>"Try some of the stuffed turnips, Ehra," he says. "You'll enjoy them. I used some of the cardamom we had been saving for teas, and agave leaves and garlic in the stuffing."</p>
-    <p>"But as for what we need... how *are* we on silver these days? It would never hurt to have more."</p>
+    <p>"But as for what we need... how <i>are</i> we on silver these days? It would never hurt to have more."</p>
     <p>“Our accountin’ dunn’t look good, sha.”  Staurois hangs his head sadly.  His face turns a little greener as he swallows a bite of goat cheese.  “Thems dwarves says we’re under deep mud with them.”</p>
     <p>Ehra holds up a hand slightly, “There’ll be time enough to talk finances and strategy in the days ahead. This is a time to relax and enjoy ourselves for but a moment, which we all sorely need right now. Speaking of, agave? I don’t think I have ever had that before, which is a rare experience for old bones like mine. Could you please pass me one?”</p>
     <p>Ehra gestures politely.</p>
@@ -236,7 +236,7 @@
     <p>The cryptid pauses for a moment, considering Pebble's words.</p>
     <p>“Yes, this is… good.”</p>
     <p>He stares at Pebbles for a few seconds more.</p>
-    <p>“Please call me Ink.”</p>
+    <p>“Please call me <?php echo firstcontact("Ink");?>.”</p>
     <p>“Ink, huh?  Good to meet you!”  She waved her fingers at the cryptid elf.  “So, I think a bunch of us-- the winged elves, and river elves, maybe the dark elves?-- are all heading south from here.  Have you decided where you’re headed?”</p>
     <p>“Yes,” Ink answers rather flatly.</p>
     <p>“Oh good!  Can you tell me where?  Or is it a secret?”</p>
