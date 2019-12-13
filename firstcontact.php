@@ -24,6 +24,7 @@ function getImage($elf){
         break;
         case "Slabal":
             $ret = '../Crag/Images/Slabal.png';
+        break;
         # Cryptid Elves
         case "Ink":
             $ret = null;
@@ -70,8 +71,14 @@ function getImage($elf){
         case "The Hunger":
             $ret = '../Fire/Images/Hunger.png';
         break;
+        case "Barrabus Leafstorm":
+            $ret = '../Fire/Images/Barrabus Leafstorm.png';
+        break;
         case "The Terror":
             $ret = '../Fire/Images/Terror.png';
+        break;
+        case "Ashburn Tsun":
+            $ret = '../Fire/Images/Ashburn Tsun.png';
         break;
         # River Elves
         case "Acris Hylidae":
@@ -196,8 +203,14 @@ function getDescr($elf){
         case "The Hunger":
             $ret = 'Civil leader, sneaky, generally civil';
         break;
+        case "Barrabus Leafstorm":
+            $ret = 'Unprofessional Troublemaker';
+        break;
         case "The Terror":
             $ret = 'Leader, Strong Silent Type';
+        break;
+        case "Ashburn Tsun":
+            $ret = 'Professional Troublemaker';
         break;
         # River Elves
         case "Acris Hylidae":
