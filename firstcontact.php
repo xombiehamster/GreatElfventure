@@ -37,16 +37,16 @@ function getImage($elf){
             $ret = null;
         break;
         case "Greg":
-            $ret = null;
+            $ret = '../Dark/Images/Greg.png';
         break;
         case "Rasputin":
-            $ret = null;
+            $ret = '../Dark/Images/Rasputin.png';
         break;
         case "Shyrendora":
-            $ret = null;
+            $ret = '../Dark/Images/Shyrendora.png';
         break;
         case "Trischal":
-            $ret = null;
+            $ret = '../Dark/Images/Trischal.png';
         break;
         # Dreamdust Elves
         case "Dave":
