@@ -228,7 +228,7 @@
     <p>“That, my friend, is a damn good goal. I’ll join you in that.”</p>
     <p>Litoria raises her mouthful of turnip in toast.  And in doing so, catches a glimpse of the navigator looking a little more tipsy than he ought to be the night before an important task of his.  Her chopsticks snap as she grips them a bit too hard.</p>
     <p>“Excuse.”  She stands and heads in Smilisca’s direction with an aggressive posture, pausing to grab a cup of water on the way.</p>
-    <p>Katiin glances towards Smilisca, then to Litoria as she passes, “Hey, if you’re talking to Smilisca, I think Terje was looking for him, sounded important…”</p>
+    <p>Katiin glances towards Smilisca, then to Litoria as she passes, “Hey, if you’re talking to Smilisca, I think <?php echo firstcontact("Terje");?> was looking for him, sounded important…”</p>
     <p>She trails off as Litoria storms towards the drunk navigator. Katiin shakes her head and takes a bite of turnip.</p>
     <p>“Family is right….”</p>
     <hr/>

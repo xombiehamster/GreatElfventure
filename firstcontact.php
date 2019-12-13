@@ -9,7 +9,7 @@ function getImage($elf){
         case "Siiri Maar":
             $ret = null;
         break;
-        case "Terje Paavi":
+        case "Terje":
             $ret = '../Blade/Images/Quartermaster.png';
         break;
         case "Katiin Paavi":
@@ -17,6 +17,107 @@ function getImage($elf){
         break;
         case "Taavet Rein":
             $ret = '../Blade/Images/Bowmaster.png';
+        break;
+        # Crag Elves
+        case "Esteemed":
+            $ret = null;
+        break;
+        # Cryptid Elves
+        case "Ink":
+            $ret = null;
+        break;
+        case "Skulk":
+            $ret = null;
+        break;
+        # Dark Elves
+        case "Amenidal":
+            $ret = null;
+        break;
+        case "Greg":
+            $ret = null;
+        break;
+        case "Rasputin":
+            $ret = null;
+        break;
+        case "Shyrendora":
+            $ret = null;
+        break;
+        case "Trischal":
+            $ret = null;
+        break;
+        # Dreamdust Elves
+        case "Dave":
+            $ret = null;
+        break;
+        case "Dust":
+            $ret = null;
+        break;
+        case "Pebble":
+            $ret = null;
+        break;
+        case "Steve":
+            $ret = null;
+        break;
+        case "Tik'Tak":
+            $ret = null;
+        break;
+        # Fire Elves
+        case "The Fury":
+            $ret = '../Fire/Images/Fury.png';
+        break;
+        case "The Hunger":
+            $ret = '../Fire/Images/Hunger.png';
+        break;
+        case "The Terror":
+            $ret = '../Fire/Images/Terror.png';
+        break;
+        # River Elves
+        case "Acris Hylidae":
+            $ret = null;
+        break;
+        case "Litoria Hylidae":
+            $ret = '../River/Images/Military.png';
+        break;
+        case "Smilisca Hylidae":
+            $ret = '../River/Images/Navigator.png';
+        break;
+        case "Edalorhina Leptodactylidae":
+            $ret = '../River/Images/Faith.png';
+        break;
+        case "Staurois Ranidae":
+            $ret = '../River/Images/Leader.png';
+        break;
+        # Totem Elves
+        case "Fierce Moose":
+            $ret = null;
+        break;
+        case "Mad Wolf":
+            $ret = null;
+        break;
+        case "Rising Bear":
+            $ret = null;
+        break;
+        case "Squirrel Boy":
+            $ret = null;
+        break;
+        # Winged Elves:
+        case "Anasatri":
+            $ret = null;
+        break;
+        case "Baijani":
+            $ret = null;
+        break;
+        case "Dhakamari":
+            $ret = null;
+        break;
+        case "Shadimon":
+            $ret = null;
+        break;
+        case "Shrike":
+            $ret = null;
+        break;
+        case "Varna":
+            $ret = null;
         break;
     }
     return $ret;
@@ -31,7 +132,7 @@ function getDescr($elf){
         case "Siiri Maar":
             $ret = 'Salty healer alchemist.<br/>Overprotective of Ehra<br/>Has had enough of your bullshit already';
         break;
-        case "Terje Paavi":
+        case "Terje":
             $ret = 'Economy, the closest a blade elf gets to being a hippy.<br/>In a <s>on-and-off</s> apparently solid relationship with a river elf.<br/>';
         break;
         case "Katiin Paavi":
@@ -124,7 +225,7 @@ function getDescr($elf){
         break;
         # Winged Elves:
         case "Anasatri":
-            $ret = 'Loremaster, so curious<br/>Understands personal boundaries, chooses to ignore them<br/><br/>Barn owl feathers';
+            $ret = 'Loremaster, so curious<br/>Understands personal boundaries, chooses to ignore them<br/>Barn owl feathers';
         break;
         case "Baijani":
             $ret = 'Quartermaster, sarcastic, Old<br/>Uses her age as a weapon<br/>Harris hawk feathers';
