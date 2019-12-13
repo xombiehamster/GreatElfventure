@@ -121,7 +121,7 @@
 <p>“This offering is to you, as was required.  We are here now.  We will be received in the correct manner.  We do not know what that is.”</p>
 <p>Katiin pushes the door away from where it was practically thrown in her face, with a pained expression.</p>
 <p>“Thank you for bringing such a generous offering,” Katiin states, “You are welcome to sit at our table and partake of our shared bounty.”</p>
-<p>“Please, come,” Ehra motions to them, “My friends, I introduce Slabal of the crag elves. We may not have met, but we have shared the same battlefields. We appear to have set ourselves near their homes. Slabal came to us a few days ago, so that we may be formally introduced. Please, Slabal, join us.”</p>
+<p>“Please, come,” Ehra motions to them, “My friends, I introduce <?php echo firstcontact("Slabal");?> of the crag elves. We may not have met, but we have shared the same battlefields. We appear to have set ourselves near their homes. Slabal came to us a few days ago, so that we may be formally introduced. Please, Slabal, join us.”</p>
 <p>Slabal, as she has been correctly identified, glances at the aforementioned seats. There is a distinct pause.</p>
 <p>She then proceeds forwards, and sits, the chair creaking slightly as she settles.</p>
 <p>Slabal looks at the other assembled elves, before speaking again.  Her tone is without inflection.</p>
@@ -143,7 +143,7 @@
 <p>Slabal nods at Anasatri, looking more like she’s mimicking the action than doing it naturally.</p>
 <p>“It is not yet pleasing to meet you, but there is potential.  I see little that should interfere, apart from this challenge.”</p>
 <p>The wallelf, who has assumed a traditional-coolkid-leaning-on-a-wall posture, does not partake. When addressed she just points a finger and looks straight at Anasatri.</p>
-<p>“Embebi.  Thus is this name. It will be (easy for?) you to remember.”</p>
+<p>“<?php echo firstcontact("Embebi");?>.  Thus is this name. It will be (easy for?) you to remember.”</p>
 <p>Her use of language is… odd.  Unlike Slabal, she speaks in elf… but an absurdly old dialect.  It’s near incomprehensible.</p>
 <p>“Embebi, thank you. I hope it becomes pleasing to know you.”</p>
 <p>Embebi issues a short bark of laughter.</p>

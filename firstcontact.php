@@ -19,9 +19,11 @@ function getImage($elf){
             $ret = '../Blade/Images/Bowmaster.png';
         break;
         # Crag Elves
-        case "Esteemed":
-            $ret = null;
+        case "Embebi":
+            $ret = '../Crag/Images/Embebi.png';
         break;
+        case "Slabal":
+            $ret = '../Crag/Images/Slabal.png';
         # Cryptid Elves
         case "Ink":
             $ret = null;
@@ -142,8 +144,11 @@ function getDescr($elf){
             $ret = 'Paranoid spymaster.  Old bald guy.<br/>Doesn’t get invited to parties<br/>Not actually a spy';
         break;
         # Crag Elves
-        case "Esteemed":
-            $ret = '';
+        case "Embebi":
+            $ret = 'Stalks things';
+        break;
+        case "Slabal":
+            $ret = 'Pathologic workaholic.<br/>Wants to do all the things.<br/>Only has enough time in the day to do half of all the things.<br/>Oh well.<br/>Probably the sanest, which is telling.<br/>';
         break;
         # Cryptid Elves
         case "Ink":
