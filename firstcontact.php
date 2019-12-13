@@ -120,13 +120,13 @@ function getImage($elf){
             $ret = null;
         break;
         case "Shadimon":
-            $ret = null;
+            $ret = '../Winged/Images/Shadimon.png';
         break;
         case "Shrike":
             $ret = null;
         break;
         case "Varna":
-            $ret = null;
+            $ret = '../Winged/Images/Varna.png';
         break;
     }
     return $ret;
