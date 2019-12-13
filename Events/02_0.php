@@ -246,7 +246,7 @@
 <p>Advancing through the doorway was a slight young elf in simple peasant clothes, with a thin line of grey ash pasted across her forehead. She glanced briefly around the room, and then quickly marched at Ehra's seat at the table.</p>
 <p>"One second, please, Acris," Barrabus said. He moved to follow the young elf, a puzzled expression on his face, but instead he swept back to the door and shoved it back open -- just in time to catch a red-haired Fire Elf collapsing through it.</p>
 <p>The Fury propped herself up on Barrabus' shoulder, wheezing heavily through her bronze mask, light pouring from her exposed flesh like the sun through a silk curtain. She staggered, and then pulled herself to her feet, and began tugging her sunset-colored chiton back into reasonable shape. "Tried," she wheezed. "Tried to keep her out for a bit longer, but she's... really fast. And really hard to distract."</p>
-<p>"Grandmaster Ehra," the ash-bearing elf said. She gave the older elf a sharp bow. "I am <?php echo firstcontact("Auburn Tsun");?>, master of the Surt school and Ashwalker of Surt. Before these esteemed guests, I challenge you to a formal contest, for the honor of both our schools."</p>
+<p>"Grandmaster Ehra," the ash-bearing elf said. She gave the older elf a sharp bow. "I am <?php echo firstcontact("Ashburn Tsun");?>, master of the Surt school and Ashwalker of Surt. Before these esteemed guests, I challenge you to a formal contest, for the honor of both our schools."</p>
 <p>Ehra is up and moving before Tsun has finished speaking.</p>
 <p>"Grandfather your-" Siiri tries to stop Ehra, but he silences her with a cold look.</p>
 <p>The placid grandfatherly smile is gone from Ehra's face as he turns to Tsun, replaced by a face as still as steel.</p>
