@@ -29,6 +29,12 @@ function getMArray($elf){
             $arr[4] = "Details";
             $arr[5] = "Settlements";
         break;
+        case "Winged":
+            $arr[0] = "Aspects and Goals";
+            $arr[1] = "Factions";
+            $arr[2] = "Leadership";
+            $arr[3] = "Stunts and Rituals";
+            $arr[4] = "Details";
     }
     return $arr;
 }
