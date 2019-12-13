@@ -34,7 +34,7 @@
     <p>“A stiff wind <i>did</i> blow you over,” Anasatri added from her place arranging food on the table.</p>
     <p>“Details,” Baijani waved it off, going to find a seat herself.</p>
     <hr/>
-    <p>More about Winged Elves</p>
+    <p><a href="../Winged/0_Aspects and Goals.php">More about Winged Elves</a></p>
     <hr/>
     <p>A cluster of dreamdust elves enter, pausing to shove goats back out of the room, and approach.  They are in bright blues and yellows and reds, eyesearingly saturated.  </p>
     <p><?php echo firstcontact("Dust");?> approaches first, waving <?php echo firstcontact("Pebble");?> and <?php echo firstcontact("Dave");?> to set down the platters of flatbreads, goat cheese, and small pastries (carefully labeled “Drugged” and “Not drugged”).  <?php echo firstcontact("Steve");?> stands nearby, smiling pleasantly while staring off into the middle distance.  </p>
