@@ -40,7 +40,7 @@
 <p>“Ny’s not feeling up to travelin’ at speed, so it’s just us.  Weh, we ken make better time ‘en ‘em.  Seems I lost Smilisca somewhere in the fort though.  ‘Yall seen him this mornin?”  Litoria looks to Ehra’s companions.</p>
 <p>Acris, meanwhile, is pilfering potatoes.  </p>
 <p>Katiin sighs, “About the same time I lost track of Terje. Odd, that.” </p>
-<p>The Dreamdust elves are next to arrive.  Pebble waves enthusiastically at everyone in the room, clinging to a box of pastries with the other.  Dust and Dave follow, flanking a small spiky lizardfolk.  “We made friends!  This is Tik’Tak!”  Tik’Tak tries to hide behind Dust.</p>
+<p>The Dreamdust elves are next to arrive.  Pebble waves enthusiastically at everyone in the room, clinging to a box of pastries with the other.  Dust and Dave follow, flanking a small spiky lizardfolk.  “We made friends!  This is <?php echo firstcontact("Tik'Tak");?>!”  Tik’Tak tries to hide behind Dust.</p>
 <p>Anasatri hops up to go give Pebble a hug, “I’ve missed you! How have you been? And you made friends!” She looks at the spiky head peeking around Dust, “Tik’Tak, was it? Hello!” </p>
 <p>“We’ve been good!  Some misunderstandings with the Machakw, Tik’Tak’s folk, but that’s all resolved.  We’ve also got some news about other elves in the area, but we don’t know much more than that.”</p>
 <p>"You are all so tall," Tik'Tak looks back and forth at the group, "What do they feed you all, and where do I get some?" He gives the winged elf a curious look, "You most! Wings look fun."</p>
