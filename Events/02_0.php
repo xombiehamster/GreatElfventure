@@ -51,9 +51,9 @@
 <p>At some point, two dark elves peal themselves from the shadows of a hallway and hover in a relatively secluded corner.  Shyrendora is recognizable, but the other is new and younger - also being gently nudged towards the large group.</p>
 <p>The young elf practically launches forward to join, sidling up next to the winged-elves mainly out of familiarity.  “Hi guys!  Whoa that is a spiky elf there.  How are things?  Good?”</p>
 <p>Shyrendora sighs loudly from her corner...fondly...sort of. </p>
-<p>“Amenidal! Glad to see you made it back safely.” Anasatri leans around and hugs him too. “Good since you last saw is, happily.”</p>
+<p>“<?php echo firstcontact("Amenidal");?>! Glad to see you made it back safely.” Anasatri leans around and hugs him too. “Good since you last saw is, happily.”</p>
 <p>Shadimon nods toward Shyrendora, “We were worried you might not make it. Good to see you.” </p>
-<p>Amenidal returns the hug with gusto before puffing his chest out in pride.  “Trischal made me Shyrendora’s escort!  I’m not great at sneaking but she said I make a good walking target…” his brow furrows for a second, “no wait she said I make a good distraction.  Yeah that.”</p>
+<p>Amenidal returns the hug with gusto before puffing his chest out in pride.  “<?php echo firstcontact("Trischal");?> made me Shyrendora’s escort!  I’m not great at sneaking but she said I make a good walking target…” his brow furrows for a second, “no wait she said I make a good distraction.  Yeah that.”</p>
 <p>Shyrendora makes as if to try and quell the boy’s words, but stops with yet another sigh.  She looks to Shadimon with a tired nod of her own.  “We almost didn’t.  But I stressed the importance of this to my fellow leaders and they relented.”</p>
 <p>Amenidal leans closer to Anasatri and whispers, “Trischal being a worried wife forever and always.”</p>
 <p>“Not married.”</p>

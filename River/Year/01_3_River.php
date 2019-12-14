@@ -75,7 +75,7 @@
         <li><i>Mysterious Mangroves</i> - This previously unknown and unnamed white mangrove tree grows in this area, though it is rare enough that large scale use of it may require careful planning to be sustainable.</li>
     </ul>
     <p>The unnamed mangrove wood has the following stats as a special material:
-    <table style="width:100%">
+    <table id="special">
         <tr>
             <td>8 HP/inch</td>
             <td>8 Hardness</td>
