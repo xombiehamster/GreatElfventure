@@ -16,18 +16,18 @@
 <p>Whenever the winged elves use the Research trapping under Academics on a completely new topic, they receive a bonus ability die. If the GM rules this is a particularly interesting or unusual topic, they instead receive an Upgrade. If they ever use the Research trapping on a different topic after failing a Research check, they receive one Setback die and do not get the bonus if it is a novel topic.</p>
 
     <h2>Natural Explorers</h2>
-    <p>Winged elves can travel farther and faster than most others, and their natural curiosity has them always wanting to see what�s over the horizon.</p>
+    <p>Winged elves can travel farther and faster than most others, and their natural curiosity has them always wanting to see what's over the horizon.</p>
 
 <p>Their pathfinders and rangers are able to explore one additional square without an increase in difficulty.</p>
 
  
     <h1>Rituals</h1>
     <h2>Detect Interlopers</h2>
-<b>Risk</b>- Low
-<b>Duration</b>- 1d4 turns
-<b>Target</b>- One settlement
-<b>Difficulty</b>- 2
-<b>Effect</b>- This ritual places a subtle ward on the targeted settlements. If any hostile faction attempts an Espionage check on the warded settlement, their Espionage roll is automatically compared to the total number of successes the ritual received (not net.) If the ritual has more successes, the ward is discharged. The settlement leaders immediately become aware that there is a spy in their midst and may roll a Cloak and Dagger check to find them. If the settlement had already rolled cloak and dagger, they may instead roll a proficiency die and add those results to their opposed check.
+<ul><li><b>Risk</b>- Low</li>
+<li><b>Duration</b>- 1d4 turns</li>
+<li><b>Target</b>- One settlement</li>
+<li><b>Difficulty</b>- 2</li>
+<li><b>Effect</b>- <p>This ritual places a subtle ward on the targeted settlements. If any hostile faction attempts an Espionage check on the warded settlement, their Espionage roll is automatically compared to the total number of successes the ritual received (not net.) If the ritual has more successes, the ward is discharged. The settlement leaders immediately become aware that there is a spy in their midst and may roll a Cloak and Dagger check to find them. If the settlement had already rolled cloak and dagger, they may instead roll a proficiency die and add those results to their opposed check.</p></li></ul>
 
 <p>Note that the specific wording of the ward states "intent to harm the settlement or its people" and the ward will not trigger if these conditions are not met.</p>
 
