@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 ?>
-<p><a href="index.php">Pick up where you left off.</a></p>
+<p><a href="index.php">Go home.</a></p>
 
 </body>
 </html>
