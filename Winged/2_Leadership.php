@@ -94,7 +94,7 @@ Baijani is one of the oldest surviving winged elves, and is the defacto high pri
 
     <?php
         include '../settarget.php'; 
-        settarget("Winged",null,3);
+        settarget("Winged",null,3,null);
         include '../footer.php';
         echo getarrows("1_Factions.php","3_Stunts and Rituals.php");
     ?>
