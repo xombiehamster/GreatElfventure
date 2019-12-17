@@ -23,8 +23,8 @@ function getflapstory($local,$point){
     $str .= '</tr></table>';
     return $str;
 }
-function getflapnext($tar,$point){
-    if($tar>=1){
+function getflapnext($tar,$get,$point){
+    if($tar>$get){
         return $point;
     } else {
         return null;

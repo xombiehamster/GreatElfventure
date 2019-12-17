@@ -107,6 +107,6 @@
     #Footer content
     include '../footer.php';
     echo getflapstory("../Year/01_2_Winged.php",null);
-    echo getarrows("0_Summer.php",getflapnext($_SESSION["W_EXTRA"],"3_Winter.php"));?>
+    echo getarrows("0_Summer.php",getflapnext($_SESSION["W_EXTRA"],1,"3_Winter.php"));?>
 </body>
 </html>
