@@ -1,5 +1,6 @@
 <?php
 echo 'Current year:', $_SESSION["YEAR"];
+# Function builds the table for navigation arrows.
 function getarrows($back,$next){
     $str ='<table style="width:100%"><tr>';
     if(!is_null($back)){
@@ -12,6 +13,7 @@ function getarrows($back,$next){
     $str .= '</tr></table>';
     return $str;
 }
+# Function adds a block for a narrative/turns hop.
 function getflapstory($local,$point){
     $str ='<table style="width:100%"><tr>';
     if(!is_null($local)){
@@ -23,6 +25,7 @@ function getflapstory($local,$point){
     $str .= '</tr></table>';
     return $str;
 }
+# Function makes certain that the next narrative link isn't available unless it's been reached through the turn sequence.
 function getflapnext($tar,$get,$point){
     if($tar>$get){
         return $point;
