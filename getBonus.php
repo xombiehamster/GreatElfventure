@@ -9,9 +9,7 @@ function getBArray($elf){
             $arr[0] = "A Tourist in Surt";
         break;
         case "Dark":
-            $arr[0] = "Summer";
-            $arr[1] = "Fall";
-            $arr[2] = "A Moody Visitor";
+            $arr[0] = "A Moody Visitor";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
@@ -19,7 +17,9 @@ function getBArray($elf){
             $arr[2] = "A Special Delivery";
         break;
         case "Winged":
-            $arr[0] = "A Moody Visitor";
+            $arr[0] = "Summer";
+            $arr[1] = "Fall";
+            $arr[2] = "A Moody Visitor";
         break;
     }
     return $arr;
