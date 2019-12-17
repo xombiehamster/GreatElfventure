@@ -66,7 +66,7 @@
 
     <p><b>Results:</b></p>
     <h4 id="jump"></h4>
-    <p><b>Misc:</b> <a href="../Bonus/0_A Moody Visitor.php">A Moody Visitor</a></p>
+    <p><b>Misc:</b> <a href="../Bonus/2_A Moody Visitor.php">A Moody Visitor</a></p>
 <p>Your patrols find a Dark Elf named Amenidal wandering around one of the side canyons near Asavardi. He seems quite pleasant and says he just wanted to meet some winged elves and see how you’re doing. Oh, and tell you that the dark elves’ new home of Hilt’Inn is nearly overrun by hundreds of skeletons. They’re probably fine though, Amenidal explains.</p>
 
     <p><b>Economic:</b></p>
@@ -110,7 +110,8 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("Winged",4,null,0);
+    settarget("Winged",4,null,3);
     include '../footer.php';
+    echo getflapstory(null,"../Bonus/3_Winter.php");
     echo getarrows("01_2_Winged.php","01_4_Winged.php");?>
 </body>

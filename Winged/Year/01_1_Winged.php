@@ -114,9 +114,13 @@
 <p>News of the destroyed settlement leaks quickly and spreads like wildfire in your population. Gawkers fly out to the destroyed settlement to see it for themselves. They come back worried. The more cautious members of your settlement begin to openly question whether you made the right choice by coming here. There are quite a few talking about abandoning Asavardi and heading for those coastal forests. The fact that fire was involved in the other settlement’s destruction only makes people more nervous. This canyon didn’t protect its previous occupants, why will it protect you?</p>
 
 <p>Take one point of Morale stress, and you will take one point of morale stress per round until your people are confident that they are safe and that the fate of that settlement will not befall them as well.</p>
+
+
+
     <?php
     include '../../settarget.php'; 
-    settarget("Winged",2,0,null);
+    settarget("Winged",2,0,0);
     include '../footer.php';
+    echo getflapstory(null,"../Bonus/0_Summer.php");
     echo getarrows(null,"01_2_Winged.php");?>
 </body>
