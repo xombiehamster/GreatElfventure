@@ -106,7 +106,7 @@
     settarget("Winged",null,null,1);
     #Footer content
     include '../footer.php';
-
-    echo getarrows("0_Summer.php",getflapnext($_SESSION["W_EXTRA"],"2_Winter.php"));?>
+    echo getflapstory("../Year/01_2_Winged.php",null);
+    echo getarrows("0_Summer.php",getflapnext($_SESSION["W_EXTRA"],"3_Winter.php"));?>
 </body>
 </html>
