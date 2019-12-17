@@ -111,10 +111,10 @@ function getImage($elf){
         break;
         # Winged Elves:
         case "Anasatri":
-            $ret = null;
+            $ret = '../Winged/Images/Anasatri.png';
         break;
         case "Baijani":
-            $ret = null;
+            $ret ='../Winged/Images/Baijani.png';
         break;
         case "Dhakamari":
             $ret = null;
