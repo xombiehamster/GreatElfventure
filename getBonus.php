@@ -13,6 +13,7 @@ function getBArray($elf){
         break;
         case "Dreamdust":
             $arr[0] = "A Chance Encounter";
+            $arr[1] = "A Summit of Chieftans";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
