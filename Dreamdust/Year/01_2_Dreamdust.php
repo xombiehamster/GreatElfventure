@@ -87,7 +87,7 @@
 
 </p>
 <p><b>Military-</b> Your newly trained rangers lie in wait for raiders. For like, a couple weeks. The boredom of sitting around hiding and annoyance of having to do so wears on them quite a bit. It’s good training though, as they’ll need patience. When the raid actually happens, they aren’t as effective as they could have been. Many shots miss in the glare of the sun. Response is slower than it should be. Still, they were undetected until they attacked and the sheer fact that armed resistance happened this time caught the lizardfolk off guard. They still got away with an amount of supplies, but far less than last time and without any casualties on your end. Your rangers mark it up as a learning experience.
-
+<h2 id="jump"><a href="../Bonus/0_A Chance Encounter.php">A Chance Encounter</a></h2>
 </p>
 <p><b>Mental-</b> Frustratingly, no one you have spoken to knows anything about these specific lizardfolk. You do get some information about lizardfolk in general, however. It seems that while lizardfolk are spread out all over the continent in various forms, they share a common language root. If you learn the lizardfolk language that you are aware of, you may be able to communiacte with them, at least in basic concepts. You also find a winged elf who knows lizardfolk and is willing to teach.
 </p>
@@ -97,7 +97,6 @@
 <p><b>Event:</b> Raiders
 </p>
 <p>Status: Unknown
-
 </p>
 <p>The season ends before the scheduled meeting. The dreamdust elves do not know if the attacks have truly stopped or nor, or the status of Tik’Tak’s message. Still, they haven’t suffered any attacks in the meantime. They are hopeful.
 </p>
@@ -107,7 +106,7 @@
 </p>
     <?php
     include '../../settarget.php'; 
-    settarget("Dreamdust",3,null,null);
+    settarget("Dreamdust",3,null,0);
     include '../footer.php';
     echo getarrows("01_1_Dreamdust.php","01_3_Dreamdust.php");?>
 </body>
