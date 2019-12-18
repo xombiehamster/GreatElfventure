@@ -20,7 +20,7 @@ Most Fire Elves credit her with pulling the survivors of the Conflagration toget
 Its well known that the Charred Eagles, the Fire Elves' most veteran unit, and the only company to entirely survive the Battle of Skaplyndi and the end of the war, started as the remnants of the Black Eagles. Its also well known that the Charred Eagles serve as the Terror's personal command. Beyond that? Rumors run wild. All that is really known is the Terror is a skilled commander and a horrifying combatant.</p>
     <p><strong>High Concept</strong>: A silent, bronze-armored warrior-knight whose tenacity dragged the survivors of Mispelham from their ashen graves, now committed to protect against shackles real and imagined.</p>
 <p><strong>Trouble Concept: </strong>Inferno<br />Once committed to an action, physically or emotionally, the Terror cannot and will not stop until the finished.</p>
-<h1><strong>Character Levels: </strong>Bloodrager 10</h1>
+<p><strong>Character Levels: </strong>Bloodrager 10</p>
 <p><strong>Cohort: the Smoke</strong></p>
 <!--<p>The daughter of a farm family that lived outside of Mispelham, Vita Grassforest and her parents and siblings had the ill-luck to be in town making necessary trades when the Conflagration hit. Emerging from the ashes terrified and coldly furious, Vita latched onto the Terror as the sole source of stability in her changed world. At first she tried to serve the Terror as a page and squire, but her keen intellect (and poor physical strength) rapidly pushed her into logistics and strategic support, where she showed subtlety, a keen eye for weaknesses, and a skill at turning a disadvantage into an edge. That, combined with her early tendency to follow the Terror around, earned her the nickname &ldquo;the Smoke&rdquo; from some of her less respectful coworkers.</p>
 <p>Since Skaplyndi, Grassforest has been leading and coordinating several of the largest bands of lost Fire Elves, using her good forestry skills and spellcasting ability to guide them safely through the wilds of the former Lycan territories; some refugees were even considering creating a new Triumvirate with her at the lead, should it have turned out that the battle of Skaplyndi had been lost. That said, for all of her subtlety in battlefield tactics, her tendency to browbeat the opposition and flood the forum with her ideas has earned her more than a few enemies.</p>
@@ -64,7 +64,7 @@ This has, of course, led to numerous rumors about who the Hunger truly is. Most 
 <p>In person, Tsun is quiet and reserved; friendly but distant to most, especially outsiders.&nbsp;</p>
 <p><strong>High Concept</strong>: A grim monk who sees strong relations with outsiders as risking the Fire Elves&rsquo; future in the name of their lost past.</p>
 <p><strong>Trouble Concept</strong>: All Will Be Fire<br />From her position, to be a Fire Elf must mean to exclude outside influences and embrace solely your origin and your rebirth. Outsiders who have not been reborn as such will inevitably try to tear you back down to your roots. Thus, Fire Elves must be united and of the same culture, or they will be lost.</p>
-<h2><strong>Character Levels: </strong>Unchained Monk 6</h2>
+<p><strong>Character Levels: </strong>Unchained Monk 6</p>
 <h2><strong>Phoenix Lord</strong></h2>
 <p><strong>Phoenix Lord Barrabus Leafstorm</strong> -- Barry to his friends, &ldquo;Barrabus!&rdquo; to his numerous enemies -- is a well-established gentleelf, known for his fashionable clothing, derring-do, and bravery in the face of insurmountable odds. Of those, only the first is truly accurate.</p>
 <p>Barrabas was once a lowly musician in the governor&rsquo;s court, content to a menial and generally unnoticed life of music, relative comfort, and the semi-freedom of a low-level lackey. The Conflagration changed him, and not just in flesh -- while he *did* run into burning buildings to save innocents from the flames (as described in the popular ballad &ldquo;Leafstorm&rdquo;, written by a now-rich fellow bard), it was only a small number of innocents, and his twiglike bard arms made him almost more a hindrance than a help; still, the image stuck, and Barrabas was transformed overnight from third-chair violinist to dashing, confident hero.</p>
@@ -72,7 +72,7 @@ This has, of course, led to numerous rumors about who the Hunger truly is. Most 
 <p>&ldquo;Phoenix Lord&rdquo; is a heavily over-aggrandized title, given to him as part of setting Barrabus up as *the* Imperialis figurehead. Barrabus himself does not think it's going to stick, but to be fair, a new people deserve fancy new titles.</p>
 <p><strong>High Concept:</strong> A dashing elf&rsquo;s elf with a stirring battlefield reputation that is more luck and showmanship than bravery.</p>
 <p><strong>Trouble Concept: </strong>On the Threshold of Adventure(r)<br />.Bad luck tends to follow Barrabus, or at least crash into him at high speed, playing merry hell on his preference to lie around and not get up to much. If anyone is likely to be dragged off on a quest unwillingly, its him.</p>
-<h2><strong>Character Levels</strong>: Bard (Buccaneer) 2 / Unchained Rogue (Rake) 2 / Swashbuckler 3</h2>
+<p><strong>Character Levels</strong>: Bard (Buccaneer) 2 / Unchained Rogue (Rake) 2 / Swashbuckler 3</p>
 <?php
     include '../settarget.php'; 
     settarget("Fire",null,3,null);
