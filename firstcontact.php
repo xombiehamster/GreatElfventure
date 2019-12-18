@@ -4,10 +4,10 @@ function getImage($elf){
     $ret = null;
     switch($elf){
         case "Ehra Indrek":
-            $ret = null;
+            $ret = '../Blade/Images/Grandmaster.png';
         break;
         case "Siiri Maar":
-            $ret = null;
+            $ret = '../Blade/Images/Corpsmaster.png';
         break;
         case "Terje":
             $ret = '../Blade/Images/Quartermaster.png';
@@ -27,14 +27,14 @@ function getImage($elf){
         break;
         # Cryptid Elves
         case "Ink":
-            $ret = null;
+            $ret = '../Blade/Images/Ink.png';
         break;
         case "Skulk":
-            $ret = null;
+            $ret = '../Blade/Images/Skulk.png';
         break;
         # Dark Elves
         case "Amenidal":
-            $ret = null;
+            $ret = '../Dark/Images/Amenidal.png';
         break;
         case "Greg":
             $ret = '../Dark/Images/Greg.png';
@@ -50,19 +50,19 @@ function getImage($elf){
         break;
         # Dreamdust Elves
         case "Dave":
-            $ret = null;
+            $ret = '../Dreamdust/Images/Dave.png';
         break;
         case "Dust":
-            $ret = null;
+            $ret = '../Dreamdust/Images/Dust.png';
         break;
         case "Pebble":
-            $ret = null;
+            $ret = '../Dreamdust/Images/Pebble.png';
         break;
         case "Steve":
-            $ret = null;
+            $ret = '../Dreamdust/Images/Steve.png';
         break;
         case "Tik'Tak":
-            $ret = null;
+            $ret = '../Dreamdust/Images/TikTak.png';
         break;
         # Fire Elves
         case "The Fury":
@@ -82,7 +82,7 @@ function getImage($elf){
         break;
         # River Elves
         case "Acris Hylidae":
-            $ret = null;
+            $ret = '../River/Images/Apprentice.png';
         break;
         case "Litoria Hylidae":
             $ret = '../River/Images/Military.png';
@@ -117,13 +117,13 @@ function getImage($elf){
             $ret ='../Winged/Images/Baijani.png';
         break;
         case "Dhakamari":
-            $ret = null;
+            $ret = '../Winged/Images/Dhakamari.png';
         break;
         case "Shadimon":
             $ret = '../Winged/Images/Shadimon.png';
         break;
         case "Shrike":
-            $ret = null;
+            $ret = '../Winged/Images/Shrike.png';
         break;
         case "Varna":
             $ret = '../Winged/Images/Varna.png';
