@@ -35,6 +35,27 @@ if ($_SESSION["RIVER"]>=5){
     <li><b>Garrison:</b> Currently full with the Brave Beavers
     </li></ul>";
 }
+if ($_SESSION["RIVER"]>=11){
+    echo "<h2>Arpenter</h2>
+    <p>The second flotilla is named for the word “to survey,” and it is their mission to go beyond the expected, safe routes and explore the world around them.  They must boldly go where no flotilla has gone before, to seek new people to trade with and new things to trade for.  They are the explorers, the adventurers, and those who seek a life of thrilling novelty.</p>
+<ul><li><b>Aspects:</b>
+    <li><b>Settlement Aspects:</b>
+    <li><i>Brightwood Nomads:</i> This flotilla has been created with lightweight, fast moving rafts made of Brightwood. When moving through water, this flotilla moves with a +10 Bonus to its speed- so 30 when traveling upstream, 50 when traveling downstream, and 20 when moving along a coastline. The lighter weight boats do make travelling overland easier, providing a move speed of 15. While fast, Brightwood is fragile and this flotilla is more vulnerable to Events that might cause damage to the flotilla, upgrading the difficulty made to withstand such tragedies once.</li></li>
+    <li><b>Size:</b> Village</li>
+    <li><b>Garrison:</b> Currently full with the Crafty Crawfish
+    </li></ul>";
+}
+if ($_SESSION["RIVER"]>=15){
+    echo "<h2>Envoyer</h2>
+    <p>The third flotilla created on the Eastern shores is named for the Sylvan word, “to travel,” and it is designed to do that in a way that has not been attempted before.  The new flotilla design is built to cross open water across the vast and salty oceans.  It is an attempt at trying something completely new and different, and is very experimental.</p>
+<ul><li><b>Aspects:</b>
+    <li><b>Settlement Aspects:</b>
+    <li><i>Ocean Nomads - Ironsides:</i> This flotilla has been created with heavy, durable ships made for resisting the absolute worst the ocean has to throw at them and going days or weeks on open water. They can move at their normal speed along coastlines, and unlike a normal flotilla they can cross deep ocean albeit at half speed.
+    <li><i>Ironsides:</li> Due to the unique and durable construction of these ships, Envoyer receives a boost die on any check made to resist physical damage to the flotilla, including Events and military attacks.</li></li></li>
+    <li><b>Size:</b> Village</li>
+    <li><b>Garrison:</b> None
+    </li></ul>";
+}
         include '../footer.php';
         echo getarrows("4_Details.php",null);
     ?>
