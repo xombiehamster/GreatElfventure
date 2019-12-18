@@ -19,6 +19,6 @@
     include '../settarget.php'; 
     settarget("Dreamdust",null,2,null);
     include '../footer.php';
-    echo getarrows("0_Aspects.php","2_Stunts and Rituals.php");?>
+    echo getarrows("0_Aspects.php","2_Leadership.php");?>
 </body>
 </html>
