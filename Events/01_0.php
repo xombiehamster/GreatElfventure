@@ -46,7 +46,7 @@
     <p>“I’m sure we’ll have a great time.”  Dust nods to the blade elves, then turns to Shadimon.  “I don’t, but Pebble still has one on her.”  He gestures, and Pebble indeed has a pouch with a kid in it slung under one arm, half-hidden by robes.  There is a tiny bleat. </p>
     <p>As the dreamdust elves step towards the table, Ehra sneaks a very small piece of the “special” pastries with lightning fast fingers, apparently too fast for Siiri to notice. He gives Dust a sly wink. </p>
     <hr/>
-    <p>More about Dreamdust Elves</p>
+    <p><a href="../Dreamdust/0_Aspects and Goals.php">More about Dreamdust Elves</a></p>
     <hr/>
     <p>The totem elves arrive in their finest loin cloths and beads and the tail end of a conversation can be heard from <?php echo firstcontact("Squirrel Boy");?> and <?php echo firstcontact("Rising Bear");?> as they enter.</p>
     <p>“This has to be the place!” Squirrel Boy insists. “Do you see the number of goats outside this room?”</p>

@@ -11,6 +11,9 @@ function getMArray($elf){
             $arr[2] = "Leadership";
             $arr[3] = "Stunts and Rituals";
         break;
+        case "Dreamdust":
+            $arr[0] = "Aspects and Goals";
+        break;
         case "Fire":
             $arr[0] = "Aspects";
             $arr[1] = "Factions";
