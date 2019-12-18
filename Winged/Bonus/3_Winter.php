@@ -9,83 +9,41 @@
 </head>
 
 <body>
-<h1>Spring Year 1: Turn 4</h1>
+<h1>Winter Year 1: Turn 3</h1>
 
-<p>“You’re nervous; your feathers are fluffed.”</p>
+<p>Working stone continued to be hard. Some of their artisans had done stone-carving before, but never on such a huge scale. The most they were experienced with was sculpting small pieces, and they all lamented that the cliffs were a different type of stone that didn’t behave at all like they expected. Fortunately, through all the trial and error, there were mercifully few injuries, and no deaths. A few people sported patches of mismatched feathers, where broken ones had to be replaced by donations from friends, but most wore those as a mark of chagrined pride. </p>
 
-<p>Shadimon resettled his wings and grimaced. The table in front of him was scattered with small slates and waxed tablets, reports from the scouts and Harrier patrols. “On edge, yes. We haven’t found anyone else in this area at all.”</p>
+<p>The first attempts at establishing a garden on the cliff walls had failed. Some patches that had been seeded were still under close observation, but the locations with live plants had mostly fallen apart. Flying through the canyon, Shadimon could see the darker streaks where people were lining ledges with richer soil to try to get plants to take. Ledges around developing house fronts were quickly acquiring soil, and some people were beginning to carve planters under windows, or plant climbing vines at the bases of door posts. </p>
 
-<p>Baijani sat down across from him, “And that worries you.”</p>
+<p>A knot of people were clustered around a native patch of greenery, and Shadimon glided closer for a better look. One of them waved him in, and he found a narrow edge to land on. “Shadi! Still trying to be everywhere I see.” </p>
 
-<p>“We haven’t been exactly quiet and stealthy here. Anyone in the area should have come to see what’s going on.”</p>
+<p>Shadimon snorted, leaning against the wall, “Since there never seems to be a lack of work to be done, and <i>someone</i> decided to leave it all to me.”</p>
 
-<p>“And we haven’t seen any such thing.”</p>
+<p>Kirien batted his eyelashes, “I was sure you could handle it. I deserved my retirement.”</p>
 
-<p>Shadimon squinted at her, “No, which is what worries me.”</p>
+<p>“Yes, ‘retirement’ in the form of a very large rock, if I recall…”</p>
 
-<p>“Maybe there’s no one here anymore.” She raised her eyebrows at his scowl, “But that’s too easy.”</p>
+<p>Kirien laughed and patted his leg. It had been healed magically, but the shattering damage that had taken him out of the war had left it weakened. “Yes indeed. A perfect excuse. Look here, we’re looking at these plants that are already growing for ideas on how to do it ourselves. Half of them are just growing out of bare rock, it looks like. But some of them have made their own soil, as they die back for the winter. It doesn’t seem to get as cold here, so the growing season might be better. We want to try again in the spring, see if we can get some things established as everything already here starts growing again. Could protect some of our shade-loving plants down here too.”</p>
 
-<p>“And we didn’t just survive the most vicious war in recorded history to rely on ‘maybe’. But we aren’t finding anything.”</p>
+<p>“Good to know you have it in hand. Plants were never my specialty, at least not like that.”</p>
 
-<p>Baijani tilted her head, “Have you considered a magic approach? A large-scale ward around our area of the canyon, further if we can make it work.”</p>
+<p>“Mhm, Tassimir has mostly taken charge of it. He was the one that grew the canopy orchids before, you remember. He’s good with difficult plants. But speaking of...well, it was his idea, and I’ll let him propose it formally, but it’s a good one.” He grinned at Shadimon’s aggrieved sigh, “It’s an important one, so you’ll have to receive it properly as the wingleader.” </p>
 
-<p>“That would interfere with us, wouldn’t it?”</p>
+<p>“Fine, but now I’m curious. Make sure he finds me soon.”</p>
 
-<p>“No, not a barricade. Just a spider web, say. Set it to detect people other than winged elves, maybe. But we have our three dreamdust elves, so it would be going off all the time.” She picked up one of the blank tablets and a stylus, “We’re looking for people who shouldn’t be here. But how do we define that? Do we care if people are just looking? Curious?” She looked up, “You’re the security head.”</p>
+<p>Kirien and his helpers waved as Shadimon stepped off the ledge. Kirien was right that the canyon walls could be an ideal place to grow some of their plants, but it was going to take time. They’d had canopy gardens in the forest, but growing plants on living trees was significantly easier than on bare rock. They were, once again, having to learn new techniques.</p>
 
-<p>Shadimon drummed his fingers on the table, “No, we don’t have a reason to discourage any locals yet. Those are still potential allies or trade opportunities, and not automatically threatening. How specific can this kind of ward be? Can you set it to detect...I don’t know, intent?”</p>
+<p>Shadimon angled his wings and flew higher, above the walls of the canyon and up until the people working on the rim dwindled to tiny specks. The air was cold and thin, but the sun warmed his feathers as he spread his wings and let the wind carry him. The cold wind blew his busy thoughts clear, and he settled into the comfortable minutiae of flight. </p>
 
-<p>Baijani rolled the stylus through her fingers, “Possibly. This kind of scale isn’t my area of expertise. I’ll have to check with our other mages. What do you have in mind?”</p>
+<p>Winged elves could feel and move all of their feathers independently, one of the facts that made them so agile in the air. It took years to master the complex tiny movements that could alter a flightpath, where a single feather shifted at just the right moment could be the difference between a fatal collision and a near miss. Many spent their adolescent years learning that control, often at the expense of injuries, but most adults settled into saner flying patterns. Scouts and rangers, like Shadimon, were chosen from among the best flyers, and honed those skills further. When the War came and the Harriers were made, they pushed themselves to the utmost of speed and precision. Nothing less would have served.</p>
 
-<p>“Malicious intent. Anyone, or thing I suppose, meaning harm to the village or any of our people.”</p>
+<p>Shadimon looked down at the canyon system spreading below, from the main canyon they had claimed to the many, many smaller branches. He flexed his wings, feeling his feathers ripple in a wave, then folded his wings and plummeted. He had flown high, but the ground raced toward him as the wind roared in his ears. In open air, it was easy. He aimed his path toward one of the smaller canyons, picking up speed. Part of him was exasperated, knowing perfectly well that this was stupid. But a greater part of him had absolute trust in himself.</p>
 
-<p>She jotted a few scribbled notes on the tablet, “I’ll start the idea through the gossip mill and see what shakes out.</p>
+<p>The canyon mouth loomed up and swallowed him.</p>
 
-<hr/>
+<p>He’d chosen one of the twisting slot canyons. It was barely wide enough to fully spread his wings, and he felt his feathers brushing the walls. Shadimon had never flown this particular canyon before, and at the speed he was traveling, there was no time for conscious thought. Everything from the angle of his head to the position of his hands came into play as he raced through the twists and turns and around unexpected stone spires. One came close enough to leave a painful scrape across his chest that he didn’t find until later.</p>
 
-<p>While establishing a cliffside garden was being difficult, they were all pleased at the progress the researchers had made on extracting and working copper. Shadimon turned over one of the pieces they had presented before passing it to Baijani. “That simple? Truly?”</p>
-
-<p>“I know! We were surprised too! But the copper here appears to be metallic, and all you have to do is chip it out of the rock. We have a good sized basket of bits that we’ve gotten out while testing tools.” The lead researcher brandished a sheaf of papers, “And we found records of many possible uses for it, and ways of treating and working it. It’ll take time to develop the veins into anything resembling an actual mine,” his wings twitched, “And well...being far underground isn’t exactly comfortable for us. We might need help to really explore what we have here.”</p>
-
-<p>Varna shivered dramatically, “Not for me, no thank you!”</p>
-
-<p>Baijani handed the piece of raw copper back to Shadimon, “But there’s enough near the surface that we can work with for now?”</p>
-
-<p>“Oh certainly!” He dipped his wings to Shadimon, “It’ll take some time to build up any kind of stock, but if you want copper as a trade item, we can have it any time.”</p>
-
-<p>Shadimon studied the piece of copper in his hands, tracing the irregular shapes. “Satri, how long is it until Year’s End?”</p>
-
-<p>“About two months. A little less.”</p>
-
-<p>He nodded, “We’ll be returning to the Fort for Year’s End. I’d like to set aside some of the copper to make tokens for the others. I don’t know what exactly…” He trailed off as Anasatri nearly bounced off of her stool. “Yes?”</p>
-
-<p>“I do! Oh and I know exactly who to talk to! I’ll take care of it, Shadi, and it’ll be ready to go when it’s time to leave!” She leaped up and darted out the door.</p>
-
-<p>“Well, one thing off my plate then,” Shadimon said. “Now about this ward Jani proposed…”</p>
-
-<hr/>
-
-<p>Shadimon stared at the copper feather sitting on the table. It was the size of a dagger and lovingly detailed, from the individual fibers to the sculpted puff of down at the base. Two polished beads had been fitted onto the shaft, one blue, one white. He went to pick it up and paused, looking at the play of light on one edge, “Is this <i>sharp?</i>”</p>
-
-<p>The artist grinned wider, “It is. We thought that was a good symbol.”</p>
-
-<p>“Goddess is it.” He picked it up, and noticed a small string of tiny metal beads. “What’s this?”?</p>
-
-<p>“For attaching a real feather.”</p>
-
-<p>“Ahh,” Shadimon drew the sound out, running the short chain through his fingers. “Yes, yes that’s important. This is tremendous. You’re up for doing more?”</p>
-
-<p>She folded her arms and grinned wider. “I already have the next couple started. That one was a successful prototype, and is meant to be ours,” Shadimon glanced up as she continued, “Wouldn’t be right to give them to everyone else and not have one ourselves.” She laughed, “And it was easier to practice, knowing it wasn’t meant as a gift.</p>
-
-<p>“Satri and I have been discussing ideas, but I also wanted to talk with you. Make sure I’m doing the right number, and see if you have any ideas on what might be important to the others.”</p>
-
-<p>Shadimon picked up a tablet and stylus, “Let’s see...us, the blade elves, the fire elves, dark elves, dreamdust elves, the cryptid elves, river elves, ah...oh, totem elves. I believe that’s everyone who stayed. So that’s eight.” He tapped the stylus, leaving small impressions in the wax, “I don’t know that I’d know more than anyone else does. Though...for the blade elves. One of the beads should be taken from a piece of armor, or a weapon. That’s how they remember people.” He grimaced, “Your guess is as good as mine for the cryptid elves.”</p>
-
-<p>“Yes, that one might be, ah, generic. But black and white goes well with anything.”</p>
-
-<p>“Maybe a cloth or leather wrapping, too. That’s what they seem to wear most often.”</p>
-
-<p>“Ohh, good idea…”</p>
+<p>The canyon started to narrow too much and he was losing momentum, so he tilted his wings and shot upward and out into clear air. Looking down, the canyon tapered off to nothing very quickly, and the point where he had left was almost the last place he could have safely done so. The hot air rising from the rocky ground easily lifted him back up as he made a long turn back toward the village. A leisurely glide home and maybe a meal, and he felt like he’d be able to deal with being a leader again.</p>
 
 <p>They talked for a little longer about colors and styles, and the artist cheerfully returned to her makeshift studio, leaving the finished feather with Shadimon. He tilted one wing forward and ran his hand through the smaller covert feathers until he found one that was ready to come out. Plucking the feather free, he clipped it to the little chain and smoothed out the fibers. Lacking anything better for now, he set it in the center of the table. It could be hung up later to mark whatever the official town center ended up being.</p>
       <?php
