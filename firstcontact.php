@@ -4,18 +4,23 @@ function getImage($elf){
     $ret = null;
     switch($elf){
         case "Ehra Indrek":
+        case "Ehra":
             $ret = '../Blade/Images/Grandmaster.png';
         break;
         case "Siiri Maar":
+        case "Siiri":
             $ret = '../Blade/Images/Corpsmaster.png';
         break;
+        case "Terje Paavi":
         case "Terje":
             $ret = '../Blade/Images/Quartermaster.png';
         break;
         case "Katiin Paavi":
+        case "Katiin":
             $ret = '../Blade/Images/Warmaster.png';
         break;
         case "Taavet Rein":
+        case "Taavet":
             $ret = '../Blade/Images/Bowmaster.png';
         break;
         # Crag Elves
@@ -70,31 +75,41 @@ function getImage($elf){
             $ret = '../Fire/Images/Fury.png';
         break;
         case "The Hunger":
+        case "Hunger":
             $ret = '../Fire/Images/Hunger.png';
         break;
         case "Barrabus Leafstorm":
+        case "Barrabus":
+        case "Barry":
             $ret = '../Fire/Images/Barrabus Leafstorm.png';
         break;
         case "The Terror":
+        case "Terror":
             $ret = '../Fire/Images/Terror.png';
         break;
         case "Ashburn Tsun":
+        case "Tsun":
             $ret = '../Fire/Images/Ashburn Tsun.png';
         break;
         # River Elves
         case "Acris Hylidae":
+        case "Acris":
             $ret = '../River/Images/Apprentice.png';
         break;
         case "Litoria Hylidae":
+        case "Litoria":
             $ret = '../River/Images/Military.png';
         break;
         case "Smilisca Hylidae":
+        case "Smilisca":
             $ret = '../River/Images/Navigator.png';
         break;
         case "Edalorhina Leptodactylidae":
+        case "Eina":
             $ret = '../River/Images/Faith.png';
         break;
         case "Staurois Ranidae":
+        case "Staurois":
             $ret = '../River/Images/Leader.png';
         break;
         # Totem Elves
@@ -137,18 +152,23 @@ function getDescr($elf){
     switch($elf){
         # Blade Elves
         case "Ehra Indrek":
+        case "Ehra":
             $ret = 'Grandmaster oldman.<br/>Battle Grandpa<br/>Tends to ramble';
         break;
         case "Siiri Maar":
+        case "Siiri":
             $ret = 'Salty healer alchemist.<br/>Overprotective of Ehra<br/>Has had enough of your bullshit already';
         break;
+        case "Terje Paavi":
         case "Terje":
             $ret = 'Economy, the closest a blade elf gets to being a hippy.<br/>In a <s>on-and-off</s> apparently solid relationship with a river elf.<br/>';
         break;
         case "Katiin Paavi":
+        case "Katiin":
             $ret = 'Terrible at small talk<br/>New to the job<br/>Lost her unit and  father late in the war';
         break;
         case "Taavet Rein":
+        case "Taavet":
             $ret = 'Paranoid spymaster.  Old bald guy.<br/>Doesn’t get invited to parties<br/>Not actually a spy';
         break;
         # Crag Elves
@@ -203,31 +223,41 @@ function getDescr($elf){
             $ret = 'Arcane Leader, loud, erratic';
         break;
         case "The Hunger":
+        case "Hunger":
             $ret = 'Civil leader, sneaky, generally civil';
         break;
         case "Barrabus Leafstorm":
+        case "Barrabus":
+        case "Barry":
             $ret = 'Unprofessional Troublemaker';
         break;
         case "The Terror":
+        case "Terror":
             $ret = 'Leader, Strong Silent Type';
         break;
         case "Ashburn Tsun":
+        case "Tsun":
             $ret = 'Professional Troublemaker';
         break;
         # River Elves
         case "Acris Hylidae":
+        case "Acris":
             $ret = 'Worst apprentice ever<br/>Acris the Awesome<br/>Forms instant fanboy crushes on anyone who shows him the slightest bit of attention';
         break;
         case "Litoria Hylidae":
+        case "Litoria":
             $ret = 'Military leader, sads, therapy hippo.<br/>Grey skin with freckles, long green hair, tidy bun.';
         break;
         case "Smilisca Hylidae":
+        case "Smilisca":
             $ret = 'Navigator, wizard, doesn’t do well with people<br/>Grey skin with freckles, messy blue hair, stupid goatee.<br/>In an <s>off-again-on-again</s> apparently solid relationship with a blade elf.<br/>Shitty hat.';
         break;
         case "Edalorhina Leptodactylidae":
+        case "Eina":
             $ret = 'Cleric, hugs<br/>Tan skin with gold blazes, long brown hair, tied back.';
         break;
         case "Staurois Ranidae":
+        case "Staurois":
             $ret = 'Leader, optimist, people-person, druid<br/>Green skin with greener spots, bald.';
         break;
         # Totem Elves
