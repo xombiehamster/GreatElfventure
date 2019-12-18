@@ -23,7 +23,7 @@
             <td>3/4 Refresh</td>
         </tr>
 		</table>
-<h2 id="jump"><a href="../Bonus/1_A Summit of Chieftans.php">A Summit of Chieftans</a><h2>
+<h2 id="jump"><a href="../Bonus/1_A Summit of Chieftans.php">A Summit of Chieftans</a></h2>
 <p>The meeting with the Machakw went better than we could have hoped.  We have an information trade agreement, and they’re willing to be allies against the Coyote elves if it comes to that.  Things are looking up!  Not literally, Steve.  Steve, what are you-- you know what, I don’t want to know.  
 </p>
 
