@@ -172,7 +172,7 @@ Turns, Year One
 <p>Unfortunately there’s a minor incident during the ritual research. One of your magi fails to remember that nearly everything - from people to the air itself - technically contains water. For about six seconds, everyone in your magi is briefly aware of every mass of water greater than a drop in a two hundred mile radius. They’re able to shut down the ritual before anyone actually gets hurt, but your magi will be sleeping off a collective migraine for a few, oh, months. Any magic-related checks next turn will take a setback die.
 </p>
 
-<p></b>Event<b>
+<p><b>Event</b>
 </p>
 <p>Things are going pretty well for a few months, but as your settlement starts to get established some concerning events start happening.
 </p>
