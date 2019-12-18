@@ -7,6 +7,7 @@ function getBArray($elf){
     switch($elf){
          case "Fire":
             $arr[0] = "A Tourist in Surt";
+            $arr[1] = "A Minor Miscalculation";
         break;
         case "Dark":
             $arr[0] = "A Moody Visitor";
@@ -24,6 +25,8 @@ function getBArray($elf){
             $arr[0] = "Summer";
             $arr[1] = "Fall";
             $arr[2] = "A Moody Visitor";
+            $arr[3] = "Winter";
+            $arr[4] = "Spring";
         break;
     }
     return $arr;
