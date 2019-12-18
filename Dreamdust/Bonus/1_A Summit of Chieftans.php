@@ -219,7 +219,7 @@
 </p>
 <?php 
         include '../footer.php';
-        echo getarrows("../Year/01_2_Dreamdust.php#jump","../Year/01_2_Dreamdust.php#jump");
+        echo getarrows("../Year/01_4_Dreamdust.php#jump","../Year/01_4_Dreamdust.php#jump");
     ?>
 </body>
 </html>
