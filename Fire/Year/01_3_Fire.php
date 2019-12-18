@@ -100,7 +100,7 @@
 <p>She manages to abort the ritual and will be fine, but will be nursing a migraine for a few oh, months. Still salty about the rockslide, the Fury is just not having a good year. Any actions involving her next turn take a <strong>setback die.</strong></p>
 <p>The Fury, however is not the only one who is having a bad month&hellip;</p>
 <h2 id="back"></h2>
-<p><strong><a href="../Bonus/0_B A Minor Miscalculation.php">A Minor Miscalculation.</a></strong></p>
+<p><strong><a href="../Bonus/1_A Minor Miscalculation.php">A Minor Miscalculation.</a></strong></p>
 <p>The Hunger now has the Aspect <strong>Dark Secret</strong></p>
 <h2><strong>Status at start of Spring, Year 1</strong></h2>
 <table>
