@@ -66,6 +66,7 @@ function getImage($elf){
         break;
         # Fire Elves
         case "The Fury":
+        case "Fury":
             $ret = '../Fire/Images/Fury.png';
         break;
         case "The Hunger":
@@ -198,6 +199,7 @@ function getDescr($elf){
         break;
         # Fire Elves
         case "The Fury":
+        case "Fury":
             $ret = 'Arcane Leader, loud, erratic';
         break;
         case "The Hunger":
