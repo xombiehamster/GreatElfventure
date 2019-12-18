@@ -1,5 +1,13 @@
 <?php session_start(); ?>
 <!DOCTYPE html>
+<head>
+    <link rel="stylesheet" type="text/css" href="../../style.css">
+    <title>
+        Fire Elf Year 1 - Winter
+    </title>
+</head>
+
+<body>
 
 <head><strong>Winter, Year 1</strong></head>
 <table>
