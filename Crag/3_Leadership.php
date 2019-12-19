@@ -77,7 +77,7 @@
     <p><b>Character Levels:</b> Slayer(Sniper)</p>
     <?php
         include '../settarget.php'; 
-        settarget("Crag",null,3);
+        settarget("Crag",null,3,null);
         include '../footer.php';
         echo getarrows("2_Stunts and Rituals.php",null);
     ?>

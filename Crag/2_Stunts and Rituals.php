@@ -21,7 +21,7 @@
     <p>Crag elves don't have any rituals yet... That anyone knows of.</p>
     <?php
         include '../settarget.php'; 
-        settarget("Crag",null,3);
+        settarget("Crag",null,3,null);
         include '../footer.php';
         echo getarrows("1_Factions.php","3_Leadership.php");
     ?>

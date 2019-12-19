@@ -18,7 +18,7 @@
     <p>The ultimate goal of The Tome of Physical Perfection was to create an Ideal Elf, one free from infirmity, a perfect body to match a perfect mind.  All around them, Crag Elves bemoan their incomplete state, that they have not reached perfection, that they are not all they could be.  To The Unmoved, this is disgusting mewling.  The lessons of the Lycan war were plain for all to see, but nobody is learning the correct lesson; unprepared for war, armed only for internal conflict, and inexperienced in battle, the Crag Elves survived.  Their losses may have been devastating, but considering the scope of the Lycan military, had they been weaker, they would have been extinguished.  While others bemoan their lost path, the Unmoved see the truth; the difference between Almost Perfect and Perfect is not worth fretting over.  The Crag Elves in their current state are implacable engines of war.  None can face them in equal numbers and prevail.  The time has come for new leadership, one freed from mysticism and castes; the time has come to revel, for the Ideal Elves are here.</p>
     <?php
         include '../settarget.php'; 
-        settarget("Crag",null,2);
+        settarget("Crag",null,2,null);
         include '../footer.php';
         echo getarrows("0_Aspects.php","2_Stunts and Rituals.php");
     ?>
