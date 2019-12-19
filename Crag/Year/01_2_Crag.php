@@ -7,7 +7,7 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("Crag",3,null,0);
+    settarget("Crag",3,0,0);
     include '../footer.php';
     echo getarrows("01_1_Crag.php","01_3_Crag.php");?>
 </body>

@@ -5,9 +5,8 @@
 function getBArray($elf){
     $arr = array();
     switch($elf){
-         case "Fire":
-            $arr[0] = "A Tourist in Surt";
-            $arr[1] = "A Minor Miscalculation";
+        case "Crag":
+            $arr[0] = "A Seeker to Eschaton";
         break;
         case "Dark":
             $arr[0] = "A Moody Visitor";
@@ -15,6 +14,10 @@ function getBArray($elf){
         case "Dreamdust":
             $arr[0] = "A Chance Encounter";
             $arr[1] = "A Summit of Chieftans";
+        break;
+        case "Fire":
+            $arr[0] = "A Tourist in Surt";
+            $arr[1] = "A Minor Miscalculation";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";

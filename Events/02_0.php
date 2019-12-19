@@ -131,6 +131,9 @@
 <p>“...how you otherelves conduct your business.”</p>
 <p>“<span class="tooltip">Dit mon la verite'!<span class="tooltiptext">“Tell me the truth.” Response when told something unbelievable.</span></span>” Litoria exclaims, “It’s them <span class="tooltip">couillons<span class="tooltiptext">Idiot, stupid, or testicle.</span></span> that lef’ us when the walls fell.  Mais, I for shore thought them all fer restin’ eternal.”  She waves to Acris enthusiastically.  “Fix ‘em a plate al’ready!”</p>
 <p>The apprentice does as ordered, begrudgingly.</p>
+<hr/>
+<p><a href="../Crag/0_Aspects and Goals.php">More about Crag Elves</a></p>
+<hr/>
 <p>As the meal begins awkwardly, a couple of things happen. First, as Katiin goes to close the door, Smilisca and Terje awkwardly slide into the room. They seem to be in good spirits. As the two try to head towards the least noticeable seats off to the side, there is something of a clatter of confusion.</p>
 <p>“Sorry.” A raspy voice answers.</p>
 <p>Apparently, Terje tried to sit on a Cryptid. Somehow. Apparently, they arrived at the table at some point while everyone else was distracted by Slabal. And indeed it is a they, as for the first time there’s more than one of them. Ink, the tattooed one from the first potluck, is there. There is also another cryptid, apparently female, with ash grey skin and wearing black wraps that hood her face. The two have set down a tray of what appears to be fine cuts of raw fish wrapped in what appears to be some kind of waxy tree bark.</p>
