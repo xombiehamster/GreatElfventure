@@ -104,7 +104,7 @@
     <p>With that, the blade elves take their plates and begin to sample the various foods in front of them. Against Siiri’s protests, Ehra even samples the sausages the Cryptid brought. He makes… an interesting face, but smiles afterwards.</p>
     <p>“Very savory!”</p>
     <hr/>
-    <p>What even are Cryptid Elves?</p>
+    <p id="jump"><a href="../Blade/0_Cryptids.php">What even are Cryptid Elves?</a></p>
     <hr/>
     <p>The dreamdust elves get up, helping themselves to the food. They stare at the raw crabs with some confusion. Dust pokes at one but adds it to his plate with some doubt. Food acquired, the four scatter across the room. Dust heads for the river elves, Pebble heads for the cryptid elf, Dave heads for Baijani with the winged elves, and Steve wanders in an apparently random direction, winding up by the dark elves.</p>
     <p>Rasputin seems to eagerly pile bits of everything onto his plate, Greg only half-heartedly trying to convince him not to while being a bit more picky with his own.</p>
