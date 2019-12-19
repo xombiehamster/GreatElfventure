@@ -21,7 +21,7 @@ body {
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 300px;
-    background-color: slategray;
+    background-color: lightgray;
     color: navy;
     text-align: left;
     padding: 15px 15px 15px 15px;
@@ -74,6 +74,75 @@ p {
     padding-left: 25px;
     padding-right: 25px;
     /*text-indent: 15px;*/
+}
+
+p#cline {
+    font-family: cursive;
+    font-weight: bolder;
+    color: green;
+}
+
+
+/* Randos */
+
+p#purple {
+    color: mediumpurple;
+}
+
+p#magenta {
+    color: magenta;
+}
+
+p#brightpink {
+    color: mediumorchid;
+}
+
+p#green {
+    color: lightgreen;
+}
+
+p#lime {
+    color: lime;
+}
+
+p#darkgreen {
+    color: darkgreen;
+}
+
+p#sky {
+    color: skyblue;
+}
+
+p#cornflower {
+    color: lightblue;
+}
+
+p#maroon {
+    color: maroon;
+}
+
+p#tan {
+    color: tan;
+}
+
+
+/* Named Characters */
+
+p#Jagal {
+    color: orange;
+}
+
+p#Bryti {
+    color: red;
+}
+
+p#Esteemed {
+    color: lightblue;
+}
+
+p#Echo {
+    color: olive;
+    font-weight: bolder;
 }
 
 
