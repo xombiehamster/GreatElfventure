@@ -71,6 +71,11 @@ p {
     /*text-indent: 15px;*/
 }
 
+.redacted {
+    color: black;
+    background-color: black;
+}
+
 
 /* Tidying up the portraits. */
 
