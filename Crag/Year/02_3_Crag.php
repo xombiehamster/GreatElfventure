@@ -433,8 +433,7 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("Crag",5,null,null);
-    if($_SESSION["YEAR"]<2){$_SESSION["YEAR"]=2;}
+    settarget("Crag",8,null,null);
     include '../footer.php';
     echo getarrows("02_2_Crag.php","02_4_Crag.php");?>
 </body>
