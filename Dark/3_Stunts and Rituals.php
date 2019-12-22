@@ -17,8 +17,8 @@
     
     <?php
     include '../settarget.php'; 
-    settarget("Dark",null,4,null);
+    settarget("Dark",null,null,null);
     include '../footer.php';
-    echo getarrows("2_Leadership.php","4_Details.php");?>
+    echo getarrows("2_Leadership.php",null);?>
 </body>
 </html>
