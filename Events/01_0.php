@@ -85,7 +85,7 @@
     <p>“No.  I’m not dealing with that again.”</p>
     <p><?php echo firstcontact("Shyrendora");?> ignores them and respectfully begins to remove her hood and mask while resolutely not making eye contact with anyone else occupying the room.  “Greetings all.” </p>
     <hr/>
-    <p>More about Dark Elves</p>
+    <p><a href="../Dark/0_Aspects and Goals.php">More about Dark Elves</a></p>
     <hr/>
     <p>The dreamdust elves wave at the new arrivals. </p>
     <p>Ehra politely greets the new arrivals as they enter, apparently unbothered by the hippopotamus and odd ramblings of some of the guests. In fact, they seem to have a small metal plate of raw vegetables set aside for the hippo.</p>

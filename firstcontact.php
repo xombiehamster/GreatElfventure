@@ -180,7 +180,7 @@ function getDescr($elf){
         break;
         # Cryptid Elves
         case "Ink":
-            $ret = '???<br/>Apparently crippling social anxiety<br/>Kidnaps people';
+            $ret = '???<br/>Apparently crippling social anxiety';
         break;
         case "Skulk":
             $ret ='Kind of an asshole';
