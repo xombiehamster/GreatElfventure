@@ -17,6 +17,12 @@ function getMArray($elf){
             $arr[2] = "Stunts and Rituals";
             $arr[3] = "Leadership";
         break;
+        case "Dark":
+            $arr[0] = "Aspects and Goals";
+            $arr[1] = "Factions";
+            $arr[2] = "Leadership";
+            $arr[3] = "Stunts and Rituals";
+        break;
         case "Dreamdust":
             $arr[0] = "Aspects and Goals";
             $arr[1] = "Factions";
@@ -47,6 +53,7 @@ function getMArray($elf){
             $arr[2] = "Leadership";
             $arr[3] = "Stunts and Rituals";
             $arr[4] = "Details";
+        break;
     }
     return $arr;
 }
