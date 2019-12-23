@@ -1,8 +1,8 @@
 <?php
 #Generates navigation arrows to the desingated targets.
 function getarrows($back,$next){
-    echo 'Current year:', $_SESSION["YEAR"];
-    $str ='<table id="nav"><tr>';
+    $str = 'Current year: '.$_SESSION["YEAR"];
+    $str .='<table id="nav"><tr>';
     if(!is_null($back)){
         $str .= '<td><a href="'.$back.'">BACK</a></td>';
     }
