@@ -94,6 +94,8 @@ function numfix($var){
         return null;
     }
 }
+
+#Gets the current status of all session variables.
 function getstatus(){
 $ret = "";
 $i = 0;
@@ -107,6 +109,8 @@ while($i<22){
 }
 return $ret;
 }
+
+#Sets the status of all session variables.
 function setstatus($str){
     $arr = explode(" ",$str);
     $ind = 0;
@@ -116,6 +120,8 @@ function setstatus($str){
     }
     return null;
 }
+
+#Compares two status strings to see which is greater.
 function statuscomp($s1,$s2){
     $arr1 = explode(" ",$s1);
     $arr2 = explode(" ",$s2);
@@ -130,4 +136,5 @@ function statuscomp($s1,$s2){
         ind++;
     }
     return $ret;
+}
 ?>
