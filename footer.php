@@ -1,5 +1,7 @@
 <?php
 echo 'Current year:', $_SESSION["YEAR"];
+
+#Generates navigation arrows to the desingated targets.
 function getarrows($back,$next){
     $str ='<table id="nav"><tr>';
     if(!is_null($back)){
@@ -12,6 +14,8 @@ function getarrows($back,$next){
     $str .= '</tr></table>';
     return $str;
 }
+
+#This is the order of the status string.
 function elfOrd($ind){
     switch ($ind){
         case 0:
@@ -83,6 +87,8 @@ function elfOrd($ind){
     }
     return null;
 }
+
+#Returns null if given a negative - this permits the status string to contain the null values of unset session variables.
 function numfix($var){
     if(is_numeric($var)){
         if($var<0){
@@ -97,17 +103,18 @@ function numfix($var){
 
 #Gets the current status of all session variables.
 function getstatus(){
-$ret = "";
-$i = 0;
-while($i<22){
-    if(is_null($_SESSION[elford($i)])){
-        $ret .= "-1 ";
-    }else{
-        $ret.=$_SESSION[elford($i)]." ";
+    $ret = "";
+    $i = 0;
+    while($i<22){
+        echo $i;
+        if(is_null($_SESSION[elford($i)])){
+            $ret .= "-1 ";
+        }else{
+            $ret.=$_SESSION[elford($i)]." ";
+        }
+        $i++;
     }
-    $i++;
-}
-return $ret;
+    return $ret;
 }
 
 #Sets the status of all session variables.
