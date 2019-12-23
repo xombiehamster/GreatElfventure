@@ -638,7 +638,7 @@
 <p>Thank you all for playing! See you next turn.</i></p>
 <?php
 if(is_null($_SESSION["CRAG"])){
-    $_SESSION["CRAG"]=1;
+    $_SESSION["CRAG"]=2;
 }
 if($_SESSION["YEAR"]<2){
     $_SESSION["YEAR"]=2;
