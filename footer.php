@@ -83,6 +83,17 @@ function elfOrd($ind){
     }
     return null;
 }
+function numfix($var){
+    if(is_numeric($var)){
+        if($var<0){
+            return null;
+        }else{
+            return $var;
+        }
+    }else {
+        return null;
+    }
+}
 function getstatus(){
 $ret = "";
 $i = 0;
@@ -96,4 +107,27 @@ while($i<22){
 }
 return $ret;
 }
+function setstatus($str){
+    $arr = explode(" ",$str);
+    $ind = 0;
+    while ($ind<22){
+        $_SESSION[elford($ind)] = numfix($arr[$ind]);
+        $ind++;
+    }
+    return null;
+}
+function statuscomp($s1,$s2){
+    $arr1 = explode(" ",$s1);
+    $arr2 = explode(" ",$s2);
+    $ret = 0;
+    $ind = 0;
+    while ($ind<22){
+        if($arr1[$ind]<$arr2[$ind]){
+            $ret--;
+        }else if($arr1[$ind]>$arr2[$ind]){
+            $ret++;
+        }
+        ind++;
+    }
+    return $ret;
 ?>
