@@ -26,13 +26,13 @@ $curr = getstatus();
 
 <body>
     <!--<p>Cookie saved status:
-        <?php
-              if(!isset($_COOKIE[$cookiename])) {
-                echo $cookie_name.' is not set';
-               } else {
-                    echo $_COOKIE[$cookiename];
-              }
-              ?></p>
+        #<?php
+         #     if(!isset($_COOKIE[$cookiename])) {
+          #      echo $cookie_name.' is not set';
+           #    } else {
+            #        echo $_COOKIE[$cookiename];
+             # }
+              #?></p>
     <p>This page uses a cookie to save your current status.  You can override it using the form below.</p>!-->
 <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
   Status: <input type="text" name="fname">
