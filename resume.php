@@ -1,4 +1,4 @@
-<?php session_start();
+<?php 
 include 'footer.php';
 
 $cookiename = "savestate";
@@ -12,7 +12,7 @@ if(!isset($_COOKIE[$cookiename])) {
         setstatus($_COOKIE[$cookiename]);
     }
 }
-
+session_start();
 
 ?>
 <!DOCTYPE html>
