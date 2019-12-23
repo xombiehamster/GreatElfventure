@@ -134,7 +134,7 @@
 </p>
 
 <p>If a faction performs Pathfinders or Rangers on a settlement containing one of your nomadic settlements of Village size or smaller, they do not automatically detect it. Instead, you roll an opposed Rangers or Pathfinders check in secret. If you receive more successes than the opponent, they do not detect your settlement or any divisions garrisoned within even if they successfully scout the square or detect any divisions outside the settlement.
-
+<h3><a href="../../Events/02_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
     include '../../settarget.php'; 
     settarget("Dreamdust",5,null,1);

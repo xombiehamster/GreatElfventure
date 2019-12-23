@@ -528,7 +528,7 @@
 <p class="c18 c16"><span class="c21 c19">The options below list the most likely sources of solution, although others may present themselves in the future. &nbsp;Needless to say, any progress that a leader may make towards one of these solutions will contribute to which facet of the Crag deserve development.</span></p> 
 <ol class="c25 lst-kix_jghjhjqs0b57-0 start" start="1"><li class="c14"><span class="c10">Our Wayward Kin</span><span class="c21 c19">: It has become clear that many of the other settlements were not completely Exterminated; survivors and refugees still live, scraping by in hostile environs. &nbsp;It is possible that their distinctiveness holds the key.</span></li><li class="c14"><span class="c10">The Lowland Ilk:</span><span class="c21 c19">&nbsp;Though separated for many centuries, Crag are still elves, as are all the myriad forms that populate the lowlands. &nbsp; While immediately available, the result of such incorporation, and exactly how to enact it, are currently pending research.</span></li><li class="c14"><span class="c10">A Future Concern</span><span class="c21 c19">: Though ultimately damning, there is always the First&rsquo;s first suggestion; it is possible, through careful pairing, to avoid significant expression of undesired traits in The Next Generation; the problem lies further ahead. &nbsp;Should no other objective be complete, this must be the default solution, as unpalatable as it is.</span></li><li class="c14"><span>???</span></li></ol><div><p class="c0"><span class="c21 c19"></span></p> 
 </div>
-
+<h3><a href="../../Events/03_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
     include '../../settarget.php'; 
     settarget("Crag",9,null,null);

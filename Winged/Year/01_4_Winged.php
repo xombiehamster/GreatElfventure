@@ -135,7 +135,7 @@
 <p>‘Home’ is only a word. To the winged elves, it's something of a loaded term. The last place that they called home was put to the torch, taken from them for reasons they scarcely understood at the time. For over a century since they have known nothing but war and hardship. No place has ever felt like home, hardly ever lasting more than a few weeks or months. There are adult elves who do not even remember what it is to have a home or be at peace. That, however, is beginning to change. After so many weeks and  months of quiet tension, the winged elves are beginning to settle. For the first time in many years, you begin to hear the word ‘home’ spoken aloud.</p>
 
 <p>You are refugees no more.</p>
-
+<h3><a href="../../Events/02_0.php">The Elves Gather for Their Annual Potluck</a></h3>
 
     <?php
     include '../../settarget.php'; 

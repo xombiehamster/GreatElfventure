@@ -155,6 +155,7 @@
 </tbody>
 </table>
 <p><br /><br /></p>
+<h3><a href="../../Events/02_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
     include '../../settarget.php'; 
     settarget("Fire",5,null,null);

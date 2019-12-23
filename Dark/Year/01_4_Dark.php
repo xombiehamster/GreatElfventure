@@ -65,7 +65,7 @@
     <ul><li>Due to their heroism and prestigious status, all further attempts to recruit Sappers specifically will have the <b>difficulty reduced by one</b>.</li>
         <li>*In addition, since you were able to settle directly in the abandoned town you have used only a small amount of the building supplies you brought. You may choose to use these supplies on <b>one future Investment or Establishment check to downgrade the difficulty by one</b>.</li>
     </ul>
-    
+    <h3><a href="../../Events/02_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
     include '../../settarget.php'; 
     settarget("Dark",5,null,null);

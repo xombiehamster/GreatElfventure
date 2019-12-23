@@ -112,7 +112,7 @@
     <p>While they don’t find anything shockingly exciting, they also don’t find anything dangerous. In addition, both these squares are suitable for farming and would be quite habitable for a flotilla to stop in.</p>
     <p><b>Mental:</b>   It quickly becomes apparent that a ritual like this will be a significant undertaking. It should be achievable - the sensitive skin of the river elves is a big advantage here. But what will the signal be? How will it travel water, something quite resistant to magic? How will you make it safe? How will it give the receiver information? How will they be able to interpret that information? It is a daunting task, but not an impossible one.</p>
     <p>It seems that frustratingly, all your elves are able to do is come up with more potential problems with the ritual. The good news is that they found these problems in research, not while actually trying to craft the spell. No one gets any migraines or anything, at the very least!</p>
-    
+    <h3><a href="../../Events/03_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
         settarget("River",9,null,null);

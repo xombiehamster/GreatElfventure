@@ -80,7 +80,7 @@
     <p>You are refugees no more.</p>
     <p>For completing your first turn and forging a new home for the river elves, you are rewarded with one skill point to distribute wherever you would like. In addition, you receive one refresh point which may at this time be exchanged for a stunt of your choosing.</p>
     <p>Representing their more settled nature, and the work they’ve put into creating their homes, the river elves spend their first earned skill point on increasing the Development skill, and spend the refresh point to create the Elf Express stunt.</p>
-
+    <h3><a href="../../Events/02_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
         settarget("River",5,null,0);
