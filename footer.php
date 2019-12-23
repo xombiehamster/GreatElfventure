@@ -155,7 +155,7 @@ function statuscomp($s1,$s2){
                 $ret++;
             }
         }
-        ind++;
+        $ind++;
     }
     return $ret;
 }
