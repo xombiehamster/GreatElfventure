@@ -109,3 +109,7 @@ table#special th {
     background-color: black;
     padding: 10px;
 }
+
+p#BrytiLetter {
+    font: 'calligraffiti', fantasy;
+}
