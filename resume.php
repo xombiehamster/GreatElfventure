@@ -33,7 +33,7 @@ if(!isset($_COOKIE[$cookiename])) {
                     echo $_COOKIE[$cookiename];
               }
               ?></p>
-    <p>This page uses a cookie to save your current status.  You can override it using the form below.</p<
+    <p>This page uses a cookie to save your current status.  You can override it using the form below.</p>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
   Status: <input type="text" name="fname">
   <input type="submit">
