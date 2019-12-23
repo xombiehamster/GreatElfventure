@@ -1,7 +1,7 @@
 <?php session_start();
 include 'footer.php';
 
-ini_set('display_errors', 1);
+ini_set('display_errors', on);
 
 $cookiename = "savestate";
 $curr = getstatus();
