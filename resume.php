@@ -26,7 +26,7 @@ if(!isset($_COOKIE[$cookiename])) {
 
 <body>
     <p>Cookie saved status:
-        <php?
+        <?php
               if(!isset($_COOKIE[$cookiename])) {
                 echo $cookie_name.' is not set';
                } else {
