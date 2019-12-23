@@ -1,8 +1,6 @@
 <?php session_start();
 include 'footer.php';
 
-ini_set('display_errors', on);
-
 $cookiename = "savestate";
 $curr = getstatus();
 if(!isset($_COOKIE[$cookiename])) {
@@ -14,7 +12,7 @@ if(!isset($_COOKIE[$cookiename])) {
         setstatus($_COOKIE[$cookiename]);
     }
 }
-}
+
 
 ?>
 <!DOCTYPE html>
