@@ -155,10 +155,11 @@
 </tbody>
 </table>
 <p><br /><br /></p>
+<h4 id="back"><a href="../Bonus/2_A Wolf Walks into a Bar.php">A Wolf Walks into a Bar</a></h4>
 <h3><a href="../../Events/02_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
     include '../../settarget.php'; 
-    settarget("Fire",5,null,null);
+    settarget("Fire",5,null,2);
     if($_SESSION["YEAR"]<2){$_SESSION["YEAR"]=2;}
     include '../footer.php';
     echo getarrows("01_3_Fire.php","02_1_Fire.php");?>

@@ -19,8 +19,9 @@ function getBArray($elf){
         case "Fire":
             $arr[0] = "A Tourist in Surt";
             $arr[1] = "A Minor Miscalculation";
-            $arr[2] = "A Painful Memory";
-            $arr[3] = "A Mystery Deepens";
+            $arr[2] = "A Wolf Walks into a Bar";
+            $arr[3] = "A Painful Memory";
+            $arr[4] = "A Mystery Deepens";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
