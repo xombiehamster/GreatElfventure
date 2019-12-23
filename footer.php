@@ -136,14 +136,20 @@ function statuscomp($s1,$s2){
     $ind = 0;
     while ($ind<22){
         if(is_null($arr1[$ind])){
-            if(!is_null($arr2[$ind])){
-                $ret++;
-            }
-            else{
-                $ret--;
-            }
-        }else{
-            if($arr1[$ind]<$arr2[$ind]){
+            $arr1[$ind] = -1;
+        }
+        $ind++;
+    }
+    $ind = 0;
+    while ($ind<22){
+        if(is_null($arr2[$ind])){
+            $arr2[$ind] = -1;
+        }
+        $ind++;
+    }
+    $ind = 0;
+    while ($ind<22){
+             if($arr1[$ind]<$arr2[$ind]){
                 $ret--;
             }else if($arr1[$ind]>$arr2[$ind]){
                 $ret++;
