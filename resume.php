@@ -1,4 +1,5 @@
 <?php 
+session_start();
 include 'footer.php';
 
 $cookiename = "savestate";
@@ -12,7 +13,6 @@ $curr = getstatus();
     #setstatus($_COOKIE[$cookiename]);
     #}
 #}
-session_start();
 
 ?>
 <!DOCTYPE html>
@@ -25,7 +25,7 @@ session_start();
 </head>
 
 <body>
-    <p>Cookie saved status:
+    <!--<p>Cookie saved status:
         <?php
               if(!isset($_COOKIE[$cookiename])) {
                 echo $cookie_name.' is not set';
@@ -33,7 +33,7 @@ session_start();
                     echo $_COOKIE[$cookiename];
               }
               ?></p>
-    <p>This page uses a cookie to save your current status.  You can override it using the form below.</p>
+    <p>This page uses a cookie to save your current status.  You can override it using the form below.</p>!-->
 <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
   Status: <input type="text" name="fname">
   <input type="submit">
