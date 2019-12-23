@@ -6,10 +6,10 @@ ini_set('display_errors', 1);
 $cookiename = "savestate";
 $curr = getstatus();
 if(!isset($_COOKIE[$cookiename])) {
-    setcookie($cookiename, $curr, time() + 3600, '/');
+    setcookie($cookiename, $curr, time() + 3600);
 }else{
     if(statuscomp($_COOKIE[$cookiename],$curr)<0){
-        setcookie($cookiename,$curr,time() + 3600, '/');
+        setcookie($cookiename,$curr,time() + 3600);
     }else{
         setstatus($_COOKIE[$cookiename]);
     }
