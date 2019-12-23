@@ -30,7 +30,8 @@ function getPotlucks($year){
     #FIRE
     $str .= '<td>';
     if(!is_null($arr[3])){
-        $str .= '<ul><li><a href="'.$arr[3].'">Year 3: Summer Potluck</a></li></ul>';
+        $str .= '<ul><li><a href="'.$arr[3].'">Year 3: Summer Potluck</a></li>';
+        $str .= '<li><a href="Events/03_b.php">Year 3: The Troublesome Duo (Trio?)</a></li></ul>';
     }
     $str .= '</td>';
     #RIVER

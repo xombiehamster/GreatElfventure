@@ -1,3 +1,5 @@
+@import "https://fonts.googleapis.com/css?family=Calligraffitti";
+
 /* Tooltip container */
 
 .tooltip {
@@ -119,6 +121,8 @@ table#special th {
     padding: 10px;
 }
 
+@import "https://fonts.googleapis.com/css?family=Calligraffitti";
 p#BrytiLetter {
-    font: 'calligraffiti', fantasy;
+    font-family: 'Calligraffitti', fantasy;
+    font-size: 15px;
 }

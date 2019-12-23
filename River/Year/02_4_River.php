@@ -4,12 +4,12 @@
 <head>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <title>
-        River Elf Year 2 - Fall
+        River Elf Year 2 - Spring
     </title>
 </head>
 
 <body>
-    <h1>Year 2 - Fall</h1>
+    <h1>Year 2 - Spring</h1>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -115,7 +115,10 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("River",7,5,null);
+        settarget("River",9,null,null);
+        if($_SESSION["YEAR"]<3){
+            $_SESSION["YEAR"] = 3;
+        }
         include '../footer.php';
         echo getarrows("02_1_River.php","02_3_River.php");
     ?>
