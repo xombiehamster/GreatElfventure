@@ -153,8 +153,7 @@ function statuscomp($s1,$s2){
                 $ret--;
             }else if($arr1[$ind]>$arr2[$ind]){
                 $ret++;
-            }
-        }
+             }
         $ind++;
     }
     return $ret;
