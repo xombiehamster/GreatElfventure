@@ -27,6 +27,8 @@ function getBArray($elf){
             $arr[0] = "A Measure of Hospitality";
             $arr[1] = "A Hitchhiker in Partager";
             $arr[2] = "A Special Delivery";
+            $arr[3] = "A Cold Reunion";
+            $arr[4] = "A Concerned Cousin";
         break;
         case "Winged":
             $arr[0] = "Summer";
