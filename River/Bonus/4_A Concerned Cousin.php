@@ -10,7 +10,7 @@
 <body>
     <h1>A Concerned Cousin</h1>
     <p>Terje has looked over the after action report dozens of times, and here he sits reading it again. His office was always kind of sparse, but now he has moved any unnecessary furniture to the edges of the small room or removed it entirely. Just a couple of chairs and his filing system now. Got to have clear lines of sight.</p>
-    <p>They were good enough to get around the Cryptids, and they were looking for me…</p>
+    <p><i>They were good enough to get around the Cryptids, and they were looking for me…</i></p>
     <p>He hasn't had the courage to go back to his apartment. He glances up to make sure his door is still locked. He glances down at his report again. He has lost his place. He starts reading it again, from the beginning. </p>
     <p>Litoria is not used to proper doors anymore.  The raft she shares with her cousin has none.  What is the proper etiquette again?  Right.  Announce your presence.  Do not just walk right in.  She debates internally a moment.</p>
     <p>And knocks.</p>
