@@ -17,7 +17,7 @@
 
 <p>This story is built out of many interconnected chains created over the course of a game of CivElf. 
     These include Roleplay Events, Turn Actions, and various Stories. As a reader, you have the choice of which order to read the text. 
-    You can chose to follow a single Elven nation's story, or you can retun to the index at any time to change to a different path.</p>
+    You can chose to follow a single Elven nation's story, or you can return to the index at any time to change to a different path.</p>
 <p>Some bonus text will be unlocked by following a story thread to its reveal.  Other metadata type text will also be unlocked by reading 
     to the point where it becomes relevant. There will be links within the text to anything extra.</p>
 </ln>

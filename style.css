@@ -1,4 +1,5 @@
 @import "https://fonts.googleapis.com/css?family=Calligraffitti";
+@import "https://fonts.googleapis.com/css?family=Pacifico";
 
 /* Tooltip container */
 
@@ -121,8 +122,18 @@ table#special th {
     padding: 10px;
 }
 
-@import "https://fonts.googleapis.com/css?family=Calligraffitti";
+
+/* Letters from Bryti */
+
 p#BrytiLetter {
     font-family: 'Calligraffitti', fantasy;
     font-size: 15px;
+}
+
+
+/* Letters from Skulk */
+
+p#SkulkLetter {
+    font-family: 'Pacifico', fantasy, sans-serif;
+    font-size: 20px;
 }
