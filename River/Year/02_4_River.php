@@ -32,7 +32,7 @@
     <p><b>Economic:</b> Smilisca and Staurois realize that assembling something to fit the needs of the dark elves for handling their refugee crisis at the Hilt’Inn is going to be more involved than it was to gather food for the crag elves.  It won’t be something they can finish in the same season that they’re supposed to be making the delivery.  Understanding this issue, Staurois asks Partager’s residents for help.</p>
 	<p>Collecting the advice from the flotilla, assembling food, building materials, and tools to deliver to the Hilt’Inn is something Staurois does using the <i>Ventures</i> trapping of <b>Mercantilism</b>.  This rolls 2 Ability dice: <kbd>1 advantage, 1 successes, 0 triumphs</kbd>.</p>
     <p><b>Political:</b> With Partager feeling vulnerable as their garrison heads out on the march late in the season, Staurois trusts that the Eyes in the Dark know that their number one duty is to spot anyone approaching the settlement before the flotilla is noticed.  They’re going to keep doing their <i>Cloak and Dagger</i> trapping of <b>Spycraft</b> like their lives depend on it.  Because with just one Ability die, they kind of do: <kbd>1 advantage, 1 successes, 0 triumphs</kbd>.</p>
-    <h3 id="back">Roleplay Event 02.4: <a href="../Bonus/n_An Unexpected Arrival.php">An Unexpected Arrival</a></h3>
+    <h3 id="back">Roleplay Event 02.4: <a href="../Bonus/6_An Unexpected Arrival.php">An Unexpected Arrival</a></h3>
 	<p><b>Military: </b> Returning from the meeting with Bryti, Litoria has a lot of work on her hands.  And the first step in digging herself out from under the heaping pile of tasks is to delegate.</p>
     <p>Step 1: Speak with Staurois, Eina, Smilisica, Prosalirus - it is important to let people know what the fight is for before taking the military on the march.</p>
     <p>Step 2: Get Smilisica to use that Feather thing to ask Ehra at Ft. Alfyr for any help he can send.  The blade elves have a strong military.  Surely they can provide assistance on the flanks.</p>
@@ -72,7 +72,7 @@
     <h3><a href="../../Events/03_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
-        settarget("River",9,null,null);
+        settarget("River",9,null,6);
         if($_SESSION["YEAR"]<3){
             $_SESSION["YEAR"] = 3;
         }
