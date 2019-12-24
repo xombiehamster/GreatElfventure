@@ -44,6 +44,13 @@
     <p>Acris is permitted to watch, but he does not have much time to do so while also handling the Hylidae Family raft, even with the help of one of the Eyes.  He is not permitted to touch anything at all.  Eina knows better than to let him try.</p>
 	<p>This time, they’re using the <i>Research</i> trapping of <b>Spirituality</b> because that’s something they can do without a wizard present.  This rolls one Proficiency die: <kbd>0 advantage, 2 successes, 0 triumphs</kbd>.</p>
     <p>Staurois and Ny leave late in the season to make it to Surt on time for the yearly Potluck.  Two of the Eyes travel with them, a pair of recently reunited cousins, Teratohyla and Rulyrana Centrolenidae.  Teratohyla has recently traveled overland across a lot of the area they’re going to have to walk, and is a helpful guide for the journey toward Surt.  Traveling with little Natator is challenging, but with four adults they make it work.</p>
+	<h3>Feather Log</h3>
+	<p>To: all ; From: Baijani: <br/>
+		“Asavardi under attack by Coyote elves. Casualties, hostages, looting in progress. No assistance expected now, but revenge would be lovely. Fuckem.”</p>
+	<p>To: Everyone but winged elves; From: Dust; <br/>
+		“Received dream message that flappies' feather stolen in attack. Communicate misinformation only to their feather.”</p>
+	<p>To: all; From: Smilisca: <br/>
+		"Bit busy. Afflicted army."</p>
     <h2>Results</h2>
     <p><b>Economic:</b>Unfortunately, Staurois gets a bit of a distraction while trying to gather supplies for the trade with the dark elves. The unexpected military operation is a large drain on resources. Deployed soldiers need food, medical supplies, and support staff. Staurois finds himself wildly undermanned in trying to gather resources. He is unable to build up as comprehensive of an aid package as he had hoped to. Most of the extra food and medicinal herbs he had gathered together immediately go to the Angry Alligators and their operation, especially once it turns out that they take casualties.</p>
     <p>It’s not a total loss, however. Though they aren’t able to get food or relief supplies, Staurois does manage to use the construction rafts to gather a decent amount of timber on the way, and Litoria at least doesn’t run away with that.</p>
