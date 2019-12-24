@@ -149,7 +149,7 @@
     echo '<br/>Status string: ',getstatus();
 ?>
 <!-- Link to form to set all session variables. -->
-<p><a href="resume.php">Pick up where you left off.</a></p>
+<p><a href="resume.php">Save progress or pick up where you left off.</a></p>
 <img src="Images/Elfwiggle.gif" alt="Elfwiggle" class="center">
 </body>
 </html>
