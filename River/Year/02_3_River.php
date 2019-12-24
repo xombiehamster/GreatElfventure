@@ -60,7 +60,28 @@
     <p>"We axe you for advice, grand-mère grand-père Calestros,” Eina speaks again, “will this river stay in its banks, or will it pass us to our rests?”  Eina then lowers a copy of Smilisca’s rope map of the Goldfall River into the ocean.  Water soaks the silken cords, and the tide, now retreating, pulls it from her webbed hands.  Someone, somewhere, rolls 1 Proficiency die for the <i>Magic</i> trapping of the <b>Spirituality</b> skill: <kbd>1 advantage, 1 successes, 0 triumphs</kbd>.</p>
     <p>The gathered river elves wait in silence for the answer.  Incense smoke drifts over calm water.</p>
     <img class="center" src="../Images/02_3a_Winter_RitualWait.png">
-    <h2>Results</h2>
+<h3>Feather Log</h3>
+<p>To: Rasputin; From: Smilisca; <br/>
+	"Partager headed to Crater Lake. Is there anything yall need?"</p>
+<p>To: all; From: Shyrendora; <br/>
+“Be on guard.  Spy found disguised as fire elf.  Wolf elf named Titus Skoda.  Adept at magic and espionage.  Uses unknown poisons.”</p>
+<p>To: all, From: Dust; <br/>
+"Refugee housing created, need words with fishers and gardeners about food.  Small Dreamdust group headed towards caldera.  Can message Lock, where should he send refugees?"</p>
+<p>To: Smilisca; From: Rasputin;  <br/>
+"Oh hello feather thing!  Food help would be most appreciated!  And wood!  Of tree variety for building supplies, we are running low with big influx -"</p>
+<p>To: all; From: the Triumvirate; <br/>
+"The Triumvirate cordially invites all to the annual Potluck, at Surt this upcoming New Year."</p>
+<p>To: all; From: Smilisca; <br/>
+"Alert: spies spotted using alchemical weapons, poisons, at Alfyr.  Be careful."</p>
+<p>Reply to all; From: Skulk; <br/>
+“Spy used alchemical weapons specifically designed to target us. Unable to ascertain identity or apprehend. Spy intercepted before any intelligence was compromised. Fuckem.”</p>
+<p>Reply to all; From: Greg;  <br/>
+“If you got any blood, I have ideas.  Regardless it would be beneficial to have the divinely inclined look into wards.”</p>
+<p>Reply to all; From: Hunger; <br/>
+"Possible spy detection at Surt water filters. Twice is coincidence, thrice is enemy action."</p>
+<p>To: Dust; From: Smilisca (it's like he's the only one who's figured out how to Feather or something); <br/>
+	"Two names for Coyotes: Breaker, Coyote. Keep em paranoid, ami."</p>
+<h2>Results</h2>
     <p><b>Economic:</b>The blade elves are absolutely thrilled for the shipments of iron and ash you bring them. They have been planning on using them for some time. They have already been planning in depth how to put them to good use. The trade goes well, thanks to your excellent planning and well-defined route.</p>
     <p>In fact, it goes so incredibly well it's like your two logistics experts have been spending a large amount of time together and get along really well for some reason. Odd that.</p>
     <p>For the results of the Blade Elves’ military training, see below.</p>
