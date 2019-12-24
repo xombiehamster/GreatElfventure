@@ -110,7 +110,7 @@
     
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/02_3_River.php#back","../Year/02_3_River.php#back");
+        echo getarrows("../Year/02_3_River.php#back","4_A Brave Fool.php");
     ?>
 </body>
 </html>

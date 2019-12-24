@@ -79,7 +79,7 @@
     <p id="SkulkLetter">Response: Operatives will increase security on all high value personnel and target locations. Operatives will cooperate with local authorities in future apprehension efforts to minimize exploitation of weaknesses. Quartermaster Paavi advised to secure all information about river elves that may be contained in personal locations. Review of specific countermeasures used against operatives ongoing.</p>
     <p id="SkulkLetter">Report Concludes</p>
     <p id="SkulkLetter">This report contains sensitive information. Either secure or commit to memory and dispose.</p>
-    <h3 id="back2">Roleplay Event 2.3.2: <a href="../Bonus/4_A Concerned Cousin.php">A Concerned Cousin</a></h3>
+    <h3 id="back2">Roleplay Event 2.3.2: <a href="../Bonus/5_A Concerned Cousin.php">A Concerned Cousin</a></h3>
     <p><b>Military:</b>  Once the trade goes down, Ehra requests a meeting with Litoria and a few other river elf leaders. He lets you know that he has been planning on making the barracks and training grounds at Fort Alfyr into a proper military academy. He wants to do this not just for the blade elves, but for all of the assembled elves. Military training is difficult, and he wants his war scholars and advanced training facilities to be ready for every elf.</p>
     <p>He realizes, however, that Blade Elf training methods are limited to, well, blade elves. He requests time with Litoria and any of your other experienced soldiers and military personnel to train the war scholars in their method of fighting. With this, the planned academy at Fort Alfyr can be a repository of all the assembled martial knowledge of elves. Then, their knowledge may be passed on to future generations.</p>
     <p>The Brave Beavers turn out  to be something of a proof of concept. Litoria leads the planning in training them, but the facilities and wealth of knowledge available to the blade elves makes her job far, far easier. The war scholars get involved in the process as well, not just to teach but to learn more about how the river elves fight.</p>
@@ -98,7 +98,7 @@
         
     <?php
         include '../../settarget.php'; 
-        settarget("River",8,null,4);
+        settarget("River",8,null,5);
         include '../footer.php';
         echo getarrows("02_1_River.php","02_3_River.php");
     ?>
