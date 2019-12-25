@@ -120,6 +120,13 @@ function setstatus($str){
     $arr = explode(" ",$str);
     $ind = 0;
     while ($ind<22){
+        if(!is_numeric($arr[$ind])){
+            return 1;
+        }
+        $ind++;
+    }
+    $ind = 0;
+    while ($ind<22){
         $_SESSION[elford($ind)] = numfix($arr[$ind]);
         $ind++;
     }

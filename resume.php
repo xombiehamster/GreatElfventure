@@ -48,7 +48,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (empty($name)) {
         echo "You have to enter something for this to work.";
     } else {
-        setstatus($name);
+        if (setstatus($name)>0){
+            echo "That was not a valid status string.  Please try again.";
+        }
     }
 }
 ?>
