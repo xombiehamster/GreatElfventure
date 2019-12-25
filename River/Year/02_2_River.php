@@ -84,11 +84,15 @@
         <li><b>Description:</b> Up to you</li>
         <li><b>Size:</b> Outpost</li>
         <li><b>Territory Aspects:</b>
+        <ul>
             <li><i>Coastal Wetlands:</i> The terrain around Winter Quarters has a mix of freshwater, saltwater, and brackish tidal swamps, as well as a large mangrove forest.</li>
             <li><i>Vibrant Ecosystem:</i> The mangroves provide a perfect habitat for large amounts of marine life, both fresh and saltwater.</li>
             <li><i>Brightwood Grove:</i> The mangrove forest contains the previously unknown Brightwood Mangrove. They are few in number, so cultivation will take careful planning to be sustainable.</li></li>
+            </ul>
         <li><b>Settlement Aspects</b>
+        <ul>
             <li><i>Empty Slot</i></li></li>
+            </ul>
         <li><b>Garrison:</b> One slot empty </li>
     </ul>
     <p>It was honestly an extremely easy setup. The pathfinder group had been planning on doing this for months, and the population of refugee river elves only made it easier. Indeed, this square turns out to be nearly ideal terrain for winter quarters. There should be ample opportunities in store here.</p>

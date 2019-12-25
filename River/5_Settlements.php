@@ -13,10 +13,10 @@
     <h2>Partager</h2>
     <p>The first of the new flotillas is named for the word ‘<a href="https://www.lsu.edu/hss/french/undergraduate_program/cajun_french/cajun_french_english_glossary.php">to share</a>’ in an old dialect of Sylvan that isn’t spoken on this side of the continental divide.  Partager is the first flotilla that’s embarked in this region, and has pride of place as the Oarmaster’s own raft travels in it.</p>
     <ul>
-        <li><b>Settlement Aspects:</b>
+        <li><b>Settlement Aspects:</b><ul>
         <li><i>Nomadic Flotilla:</i> The homes of the river elves float on water.</li>
         <li><i>Construction Rafts:</i> Several of the elves in this flotilla have dedicated their homes to serving as construction crews.
-Whenever Partager assists in a construction project (whether invoked or not) they automatically add one advantage to the results thanks to the experience of the engineers and construction workers in the settlement.  This trait will persist even if the Aspect is improved later.</li></li>
+Whenever Partager assists in a construction project (whether invoked or not) they automatically add one advantage to the results thanks to the experience of the engineers and construction workers in the settlement.  This trait will persist even if the Aspect is improved later.</li></li></ul>
     <li><b>Size:</b> Village</li>
     <li><b>Garrison:</b> Currently full with the Angry Alligators.</li>
     </ul>
@@ -25,12 +25,12 @@ if ($_SESSION["RIVER"]>=5){
     echo "<h2>Winter Quarters</h2>
     <p>Founded as an outpost, the River Elves’ Winter Quarters is a fairly unique settlement.  Throughout most of the year it is manned by a small group of semi-permanent residents, a core group of elves who guard its borders and keep up its infrastructure.  But in the winter, when all the flotillas return, this small outpost swells enormously in population.</p>
 <ul><li><b>Aspects:</b>
-    <li><i>Territory Aspects:</i>
+    <li><i>Territory Aspects:</i><ul>
     <li>Coastal Marsh</li>
     <li>Sustainable Forestry</li>
-    <li>Wildlife and Fisheries</li></li>
-    <li><b>Settlement Aspects:</b>
-    <li>Skeleton Krewe: not yet</li></li>
+    <li>Wildlife and Fisheries</li></li></ul>
+    <li><b>Settlement Aspects:</b><ul>
+    <li>Skeleton Krewe: not yet</li></li></ul>
     <li><b>Size:</b> Outpost</li>
     <li><b>Garrison:</b> Currently full with the Brave Beavers
     </li></ul>";
@@ -39,8 +39,8 @@ if ($_SESSION["RIVER"]>=11){
     echo "<h2>Arpenter</h2>
     <p>The second flotilla is named for the word “to survey,” and it is their mission to go beyond the expected, safe routes and explore the world around them.  They must boldly go where no flotilla has gone before, to seek new people to trade with and new things to trade for.  They are the explorers, the adventurers, and those who seek a life of thrilling novelty.</p>
 <ul><li><b>Aspects:</b>
-    <li><b>Settlement Aspects:</b>
-    <li><i>Brightwood Nomads:</i> This flotilla has been created with lightweight, fast moving rafts made of Brightwood. When moving through water, this flotilla moves with a +10 Bonus to its speed- so 30 when traveling upstream, 50 when traveling downstream, and 20 when moving along a coastline. The lighter weight boats do make travelling overland easier, providing a move speed of 15. While fast, Brightwood is fragile and this flotilla is more vulnerable to Events that might cause damage to the flotilla, upgrading the difficulty made to withstand such tragedies once.</li></li>
+    <li><b>Settlement Aspects:</b><ul>
+    <li><i>Brightwood Nomads:</i> This flotilla has been created with lightweight, fast moving rafts made of Brightwood. When moving through water, this flotilla moves with a +10 Bonus to its speed- so 30 when traveling upstream, 50 when traveling downstream, and 20 when moving along a coastline. The lighter weight boats do make travelling overland easier, providing a move speed of 15. While fast, Brightwood is fragile and this flotilla is more vulnerable to Events that might cause damage to the flotilla, upgrading the difficulty made to withstand such tragedies once.</li></li></ul>
     <li><b>Size:</b> Village</li>
     <li><b>Garrison:</b> Currently full with the Crafty Crawfish
     </li></ul>";
