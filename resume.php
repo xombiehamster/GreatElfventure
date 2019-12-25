@@ -5,10 +5,10 @@ include 'footer.php';
 $cookiename = "savestate";
 $curr = getstatus();
 if(!isset($_COOKIE[$cookiename])) {
-    setcookie($cookiename, $curr, time() + 3600);
+    setcookie($cookiename, $curr, time() + 36000);
 }else{
    if(statuscomp($_COOKIE[$cookiename],$curr)<0){
-      setcookie($cookiename,$curr,time() + 3600);
+      setcookie($cookiename,$curr,time() + 36000);
 }else{
     setstatus($_COOKIE[$cookiename]);
     }
