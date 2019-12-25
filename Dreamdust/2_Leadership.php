@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+<?php include '../header.php'; ?>
     <title>
         River Elf Leadership
     </title>

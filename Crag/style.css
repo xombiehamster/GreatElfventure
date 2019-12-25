@@ -1,83 +1,11 @@
+@import "../style.css";
+@import "https://fonts.googleapis.com/css?family=Pacifico";
 body {
-    background-color: rgb(158, 157, 157);
-}
-
-
-/* Tooltip container */
-
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted whitesmoke;
-    padding: 0px 0;
-    padding-left: 0px;
-    padding-right: 0px;
-    /* If you want dots under the hoverable text */
-}
-
-
-/* Tooltip text */
-
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 300px;
-    background-color: lightgray;
-    color: navy;
-    text-align: left;
-    padding: 15px 15px 15px 15px;
-    border-radius: 10px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1;
-}
-
-.tooltip img {
-    float: left;
-    margin: 0px 8px 8px 0;
-}
-
-
-/* Show the tooltip text when you mouse over the tooltip container */
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-}
-
-
-/* Center item in page */
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-/* Embiggen the font */
-
-.big {
-    font-size: 20px;
-}
-
-
-/* A special font for speaking of the Animal. */
-
-.animal {
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bolder;
-    color: black;
-}
-
-p {
-    font-family: 'Roboto', Helvetica, sans-serif;
-    padding-left: 25px;
-    padding-right: 25px;
-    /*text-indent: 15px;*/
+    background-color: lightgrey;
 }
 
 p#cline {
-    font-family: cursive;
+    font-family: 'Pacifico', cursive;
     font-weight: bolder;
     color: green;
 }
@@ -143,38 +71,4 @@ p#Esteemed {
 p#Echo {
     color: olive;
     font-weight: bolder;
-}
-
-
-/* Tidying up the portraits. */
-
-.avatar {
-    border-radius: 50%;
-}
-
-
-/* Special tables */
-
-table#special {
-    border: 1px solid black;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-table#special tr:nth-child(even) {
-    background-color: #eee;
-    padding: 10px;
-    border: 1px solid black;
-}
-
-table#special tr:nth-child(odd) {
-    background-color: #fff;
-    padding: 10px;
-    border: 1px solid black;
-}
-
-table#special th {
-    color: white;
-    background-color: black;
-    padding: 10px;
 }

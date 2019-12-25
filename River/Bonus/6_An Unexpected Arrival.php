@@ -1,7 +1,7 @@
 <?php session_start(); ?>
 <!DOCTYPE html>
 
-<head>
+<head><?php include '../../header.php'; ?>
     <title>
         An Unexpected Arrival
     </title>

@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+<?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <title>
         River Elf Year 4 - Spring

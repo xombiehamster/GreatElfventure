@@ -9,6 +9,7 @@
 </head>
 
 <body>
+<?php include '../../header.php'; ?>
     <h1>Year 2 - Summer</h1>
     <table style="width:100%">
         <tr>

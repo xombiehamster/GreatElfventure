@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+<?php include '../header.php'; ?>
     <title>
         Blade Elf Stunts and Rituals
     </title>

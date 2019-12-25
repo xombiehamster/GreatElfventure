@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+<?php include '../header.php'; ?>
     <title>
         Winged Elf Leadership
     </title>

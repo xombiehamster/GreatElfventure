@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+<?php include '../../header.php'; ?>
     <title>
         Blade Elf Year 0 - Spring
     </title>

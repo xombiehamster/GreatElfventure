@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+<?php include '../../header.php'; ?>
     <title>
         Dark Elf Year 3 - Fall
     </title>

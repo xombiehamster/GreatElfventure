@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+<?php include '../../header.php'; ?>
     <title>
         Fall, Year 1
     </title>

@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 
 <head>
+<?php include '../../header.html'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <title>
         A Tourist in Surt

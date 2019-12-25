@@ -18,6 +18,7 @@ if(!isset($_COOKIE[$cookiename])) {
 <!DOCTYPE html>
 
 <head>
+    <?php include 'header.html'; ?>
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>
        Resume 

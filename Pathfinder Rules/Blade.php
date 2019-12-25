@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<?php include '../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../style.css">
     <title>
         Blade Elf Pathfinder Race Statistics
