@@ -29,6 +29,7 @@
     <p>"Litoria? Hunger here. I plan to shoot werewolves with it. Sound reasonable?"</p>
     <p>"Weh."</p>
     <p>She immediately contacts the winged elves to get one of their faster messengers to deliver the seeds to the Hunger as soon as elvenly possible, and they agree to the request without questioning it.  Pawprints among groups of footprints fill her thoughts - the Hunger’s fear may well be founded in reality.  There might be a resurgent werewolf problem near Surt.  And besides, Bryti said she wasn’t going back there, so it’s not like he’s going to be able to hurt her before Litoria gets a chance to have her list of questions answered.</p>
+    <img class="center" src="../Images/02_1a_Summer_AzureLily.png">
     <?php 
         include '../footer.php';
         echo getarrows("../Year/02_1_River.php#jump2","../Year/02_1_River.php#jump2");
