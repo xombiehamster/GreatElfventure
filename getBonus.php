@@ -64,6 +64,9 @@ function getBonus($elf,$sequence){
         return null;
     }else{
         $list = '<ul>';
+        if($elf=="Blade"){
+            $list .= '<b>Group Events</b>';
+        }
         $i = 0;
         $arr = getBArray($elf);
         while($i<=$sequence){
