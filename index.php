@@ -21,11 +21,10 @@
     You can chose to follow a single Elven nation's story, or you can return to the index at any time to change to a different path.</p>
 <p>Some bonus text will be unlocked by following a story thread to its reveal.  Other metadata type text will also be unlocked by reading 
     to the point where it becomes relevant. There will be links within the text to anything extra.</p>
-</ln>
 <p>Please understand that this is very much an Early Access Pre-Alpha project at the moment. It is far from complete. Submit your bug 
     reports to me through <a href="mailto:deep_space@writing.com">email</a>.
 </p>
-<ln/>
+<br/>
 <p>Every year starts with a <a href="/Events/01_0.php">Potluck</a>, so one point of entry is to start reading from the very first one.</p>
 <p>Alternatively, you can jump right in to reading the yearly tales of the lives of the elves with the Blade Elves' first turns.</p>
 
