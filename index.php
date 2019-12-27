@@ -37,7 +37,7 @@
     <th>Blade Elves</th>
     <?php
     #Crag elves don't appear until after the 2nd Potluck is read.
-    if($_SESSION["CRAG"]>0){
+    if($_SESSION["CRAG"]>=0){
         echo '<th>Crag Elves</th>';
     }?>
     <th>Dark Elves</th>
@@ -53,7 +53,7 @@
     </td>
     <?php
     #Making sure there's no mysterious blank Crag space.
-    if($_SESSION["CRAG"]>0){
+    if($_SESSION["CRAG"]>=0){
         echo '<td>'.getList("Crag",$_SESSION["CRAG"]).'</td>';
     }?>
     <td>
@@ -93,7 +93,7 @@
     </td>
     <?php 
     #Crag removal.
-    if($_SESSION["CRAG"]>0){
+    if($_SESSION["CRAG"]>=0){
         echo '<td>'.getMeta("Crag",$_SESSION["C_META"]).'</td>';
     }?>
     <td>
@@ -123,7 +123,7 @@
     </td>
     <?php 
     #Crag removal.
-    if($_SESSION["CRAG"]>0){
+    if($_SESSION["CRAG"]>=0){
         echo '<td>'.getBonus("Crag",$_SESSION["C_EXTRA"]).'</td>';
     }?>
     <td>

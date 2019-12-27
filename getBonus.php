@@ -8,6 +8,11 @@ function getBArray($elf){
         case "Blade":
             $arr[0] = "A War of Words";
             $arr[1] = "The Troublesome Duo";
+            $arr[2] = "A Plan Comes Together";
+            $arr[3] = "Operation Birdcage";
+            $arr[4] = "Bits and Pieces";
+            $arr[5] = "A Man and a Dog";
+            $arr[6] = "A Pair of Monsters";
         break;
         case "Crag":
             $arr[0] = "A Seeker to Eschaton";

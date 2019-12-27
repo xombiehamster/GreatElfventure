@@ -638,9 +638,8 @@
 <p>Rob has to pick the Hunger.</p>
 <p>Thank you all for playing! See you next turn.</i></p>
 <?php
-if(is_null($_SESSION["CRAG"])){
-    $_SESSION["CRAG"]=2;
-}
+include '../settarget.php';
+settarget("Crag",2,0,null);
 if($_SESSION["YEAR"]<2){
     $_SESSION["YEAR"]=2;
 }

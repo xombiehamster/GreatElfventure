@@ -193,7 +193,7 @@
         include '../../settarget.php';
         settarget("Blade",null,null,0);
         echo getarrows("../../Events/02_0.php#cont","../../Events/02_0.php#jump");
-        setlast("Bonus/02_0b.php");
+        setlast("Bonus/0_A War of Words.php");
     ?>
 </body>
 </html>
