@@ -207,5 +207,6 @@ Turns, Year One
     include '../../settarget.php'; 
     settarget("Dreamdust",2,0,null);
     include '../footer.php';
-    echo getarrows(null,"01_2_Dreamdust.php");?>
+    echo getarrows(null,"01_2_Dreamdust.php");
+    setlast("Year/01_1_Dreamdust.php");?>
 </body>

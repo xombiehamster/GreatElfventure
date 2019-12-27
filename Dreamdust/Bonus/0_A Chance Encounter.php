@@ -194,6 +194,7 @@ Another raid has happened. Thankfully, your carefully laid plans have helped. Th
 </p> <?php 
         include '../footer.php';
         echo getarrows("../Year/01_2_Dreamdust.php#jump","../Year/01_2_Dreamdust.php#jump");
+        setlast("Bonus/0_A Chance Encounter.php");
     ?>
 </body>
 </html>

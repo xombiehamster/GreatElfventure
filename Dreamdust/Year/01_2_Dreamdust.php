@@ -109,5 +109,6 @@
     include '../../settarget.php'; 
     settarget("Dreamdust",3,null,0);
     include '../footer.php';
-    echo getarrows("01_1_Dreamdust.php","01_3_Dreamdust.php");?>
+    echo getarrows("01_1_Dreamdust.php","01_3_Dreamdust.php");
+    setlast("Year/01_2_Dreamdust.php");?>    
 </body>

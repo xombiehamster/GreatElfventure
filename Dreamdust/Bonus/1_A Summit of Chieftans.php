@@ -221,6 +221,7 @@
 <?php 
         include '../footer.php';
         echo getarrows("../Year/01_4_Dreamdust.php#jump","../Year/01_4_Dreamdust.php#jump");
+        setlast("Bonus/1_A Summit of Chieftans.php");
     ?>
 </body>
 </html>
