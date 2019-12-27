@@ -122,5 +122,6 @@
         }
         include '../footer.php';
         echo getarrows("03_3_River.php","04_1_River.php");
+        setlast("Year/03_4_River.php");
     ?>
 </body>

@@ -102,6 +102,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/01_4_River.php#jump",null);
+        setlast("Bonus/0_A Measure of Hospitality.php");
     ?>
 </body>
 </html>

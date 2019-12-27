@@ -97,5 +97,6 @@
         settarget("River",2,0,null);
         include '../footer.php';
         echo getarrows("../../index.php","01_2_River.php");
+        setlast("Year/01_1_River.php");
     ?>
 </body>

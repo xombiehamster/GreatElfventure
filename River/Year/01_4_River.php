@@ -91,5 +91,6 @@
         if($_SESSION["YEAR"]<2){
             $_SESSION["YEAR"]=2;
         }
+        setlast("Year/01_4_River.php");
     ?>
 </body>

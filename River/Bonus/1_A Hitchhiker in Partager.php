@@ -58,6 +58,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/02_1_River.php#jump","../Year/02_1_River.php#jump");
+        setlast("Bonus/1_A Hitchhiker in Partager.php");
     ?>
 </body>
 </html>

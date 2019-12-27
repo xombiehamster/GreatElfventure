@@ -69,6 +69,7 @@
     <?php include '../footer.php';
         if($_SESSION["R_META"]>=6){ $next = "6_Settlements.php"; }
         echo getarrows("3_Leadership.php",$next);
+        echo goback();
     ?>
 </body>
 </html>

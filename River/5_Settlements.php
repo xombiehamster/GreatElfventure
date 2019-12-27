@@ -59,6 +59,7 @@ if ($_SESSION["RIVER"]>=15){
 }
         include '../footer.php';
         echo getarrows("4_Details.php",null);
+        echo goback();
     ?>
 </body>
 </html>

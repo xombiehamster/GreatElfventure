@@ -41,6 +41,7 @@
     include '../settarget.php'; 
     settarget("River",null,4,null);
     include '../footer.php';
-    echo getarrows("2_Leadership.php","4_Details.php");?>
+    echo getarrows("2_Leadership.php","4_Details.php");
+    echo goback();?>
 </body>
 </html>

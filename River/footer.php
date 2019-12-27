@@ -15,4 +15,13 @@ function getarrows($back,$next){
 function setlast($curr){
     $_SESSION["LAST"] = 'River/'.$curr;
 }
+# Function returns to narrative from Meta.
+function goback(){
+    if(is_null($_SESSION["LAST"])){
+        return null;
+    } else{
+        $ret = '<p><a href="../'.$_SESSION["LAST"].'">Git on back to what yall were doin.</a></p>';
+    }
+    return $ret;
+}
 ?>

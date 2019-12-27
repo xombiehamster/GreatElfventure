@@ -33,6 +33,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/02_1_River.php#jump2","../Year/02_1_River.php#jump2");
+        setlast("Bonus/2_A Special Delivery.php");
     ?>
 </body>
 </html>

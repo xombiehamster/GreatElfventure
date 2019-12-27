@@ -112,6 +112,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/02_3_River.php#back","4_A Brave Fool.php");
+        setlast("Bonus/3_A Cold Reunion.php");
     ?>
 </body>
 </html>

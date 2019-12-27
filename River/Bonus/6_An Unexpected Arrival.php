@@ -61,6 +61,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/02_4_River.php#back","../Year/02_4_River.php#back");
+        setlast("Bonus/6_An Unexpected Arrival.php");
     ?>
 </body>
 </html>

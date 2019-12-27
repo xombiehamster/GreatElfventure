@@ -51,6 +51,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/02_3_River.php#back2","../Year/02_3_River.php#back2");
+        setlast("Bonus/5_A Concerned Cousin.php");
     ?>
 </body>
 </html>
