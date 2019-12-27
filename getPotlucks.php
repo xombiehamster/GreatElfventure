@@ -15,7 +15,6 @@ function getPotlucks($year){
     }
     if(!is_null($arr[2])){
         $str .= '<li><a href="'.$arr[2].'">Year 2: A New Year</a></li>';
-        $str .= '<li><a href="Events/02_0b.php">Year 2: A War of Words</a></li></ul></td>';
     }else{
         $str .= '</ul></td>';
     }
@@ -31,7 +30,6 @@ function getPotlucks($year){
     $str .= '<td>';
     if(!is_null($arr[3])){
         $str .= '<ul><li><a href="'.$arr[3].'">Year 3: Summer Potluck</a></li>';
-        $str .= '<li><a href="Events/03_0b.php">Year 3: The Troublesome Duo (Trio?)</a></li></ul>';
     }
     $str .= '</td>';
     #RIVER
