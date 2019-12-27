@@ -69,6 +69,8 @@ function getBonus($elf,$sequence){
         return null;
     }else{
         $list = '<ul>';
+        #Blade Elves get to hold the potluck side-events and any other major group efforts 
+        #   that everyone/almost everyone would gain access to at the same time.
         if($elf=="Blade"){
             $list .= '<b>Group Events</b>';
         }
