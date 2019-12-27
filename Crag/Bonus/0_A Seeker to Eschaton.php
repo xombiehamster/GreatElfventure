@@ -309,6 +309,7 @@ To the Pagoda.</p>
     <?php 
         include '../footer.php';
         echo getarrows("../Year/01_2_Crag.php#jump","../Year/01_2_Crag.php#jump");
+        setlast("Bonus/0_A Seeker to Eschaton.php");
     ?>
 </body>
 </html>

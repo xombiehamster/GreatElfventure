@@ -25,6 +25,7 @@
         settarget("Crag",null,3,null);
         include '../footer.php';
         echo getarrows("1_Factions.php","3_Leadership.php");
+        echo getlast();
     ?>
 </body>
 </html>

@@ -22,6 +22,7 @@
         settarget("Crag",null,2,null);
         include '../footer.php';
         echo getarrows("0_Aspects.php","2_Stunts and Rituals.php");
+        echo getlast();
     ?>
 </body>
 </html>
