@@ -23,7 +23,7 @@
     <?php
         include '../settarget.php'; 
         settarget("Crag",null,3,null);
-        include '../footer.php';
+        include 'footer.php';
         echo getarrows("1_Factions.php","3_Leadership.php");
         echo getlast();
     ?>

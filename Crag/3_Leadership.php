@@ -79,7 +79,7 @@
     <?php
         include '../settarget.php'; 
         settarget("Crag",null,3,null);
-        include '../footer.php';
+        include 'footer.php';
         echo getarrows("2_Stunts and Rituals.php",null);
         echo getlast();
     ?>
