@@ -72,5 +72,6 @@
     settarget("Dark",13,null,null);
     if($_SESSION["YEAR"]<4){$_SESSION["YEAR"]=4;}
     include '../footer.php';
-    echo getarrows("03_3_Dark.php","04_1_Dark.php");?>
+    echo getarrows("03_3_Dark.php","04_1_Dark.php");
+    setlast("Year/03_4_Dark.php");?>
 </body>

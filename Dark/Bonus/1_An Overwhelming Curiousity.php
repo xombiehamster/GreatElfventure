@@ -96,6 +96,7 @@
     settarget("Dark",null,null,1);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/02_1_Dark.php#jump","../Year/02_1_Dark.php#jump");?>
+    echo getarrows("../Year/02_1_Dark.php#jump","../Year/02_1_Dark.php#jump");
+    setlast("Bonus/1_An Overwhelming Curiousity.php");?>
 </body>
 </html>

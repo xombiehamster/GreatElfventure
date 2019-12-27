@@ -22,6 +22,7 @@
     include '../settarget.php'; 
     settarget("Dark",null,2,null);
     include '../footer.php';
-    echo getarrows("0_Aspects.php","2_Leadership.php");?>
+    echo getarrows("0_Aspects.php","2_Leadership.php");
+    echo getlast();?>
 </body>
 </html>

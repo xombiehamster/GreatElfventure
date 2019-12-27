@@ -119,5 +119,6 @@
     include '../../settarget.php'; 
     settarget("Dark",12,null,null);
     include '../footer.php';
-    echo getarrows("03_2_Dark.php","03_4_Dark.php");?>
+    echo getarrows("03_2_Dark.php","03_4_Dark.php");
+    setlast("Year/03_3_Dark.php");?>
 </body>

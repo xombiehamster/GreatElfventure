@@ -69,6 +69,7 @@
     settarget("Dark",null,1,null);
     #Footer content
     include '../footer.php';
-    echo getarrows(null,"1_Factions.php");?>
+    echo getarrows(null,"1_Factions.php");
+    echo getlast();?>
 </body>
 </html>

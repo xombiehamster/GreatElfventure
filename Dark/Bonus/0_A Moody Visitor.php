@@ -168,6 +168,7 @@
     settarget("Dark",null,null,0);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/01_3_Dark.php#jump","../Year/01_3_Dark.php#jump");?>
+    echo getarrows("../Year/01_3_Dark.php#jump","../Year/01_3_Dark.php#jump");
+    setlast("Bonus/0_A Moody Visitor.php");?>
 </body>
 </html>
