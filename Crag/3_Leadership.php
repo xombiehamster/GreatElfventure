@@ -81,7 +81,7 @@
         settarget("Crag",null,3,null);
         include 'footer.php';
         echo getarrows("2_Stunts and Rituals.php",null);
-        echo getlast();
+        echo goback();
     ?>
 </body>
 </html>
