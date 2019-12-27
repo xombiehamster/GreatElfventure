@@ -78,7 +78,7 @@
         settarget("Dark",null,3,null);
         include 'footer.php';
         echo getarrows("1_Factions.php","3_Stunts and Rituals.php");
-        echo getlast();
+        echo goback();
     ?>
 </body>
 </html>

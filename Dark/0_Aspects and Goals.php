@@ -70,6 +70,6 @@
     #Footer content
     include 'footer.php';
     echo getarrows(null,"1_Factions.php");
-    echo getlast();?>
+    echo goback();?>
 </body>
 </html>

@@ -21,6 +21,6 @@
     settarget("Dark",null,null,null);
     include 'footer.php';
     echo getarrows("2_Leadership.php",null);
-    echo getlast();?>
+    echo goback();?>
 </body>
 </html>
