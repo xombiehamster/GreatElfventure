@@ -32,7 +32,8 @@
     <?php
     include '../settarget.php'; 
     settarget("Fire",null,1,null);
-    include '../footer.php';
-    echo getarrows(null,"1_Factions.php");?>
+    include 'footer.php';
+    echo getarrows(null,"1_Factions.php");
+    echo goback();?>
 </body>
 </html>

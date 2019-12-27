@@ -133,5 +133,6 @@
 <?php
 include "../footer.php";
 echo getarrows("03_0.php#jump","03_0.php#jump");
+setlast("Events/03_0b.php");
 ?>
 </body>

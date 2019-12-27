@@ -66,7 +66,8 @@
 <?php
     include '../settarget.php'; 
     settarget("Fire",null,4,null);
-    include '../footer.php';
-    echo getarrows("2_Leadership.php","4_Details and Design Notes.php");?>
+    include 'footer.php';
+    echo getarrows("2_Leadership.php","4_Details and Design Notes.php");
+    echo goback();?>
 </body>
 </html>

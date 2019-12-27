@@ -91,7 +91,9 @@
 <?php
     include '../settarget.php'; 
     settarget("Fire",null,7,null);
-    include '../footer.php';
-    echo getarrows("5_Ecology of the Burning Maar.php","7_Divisions.php");?>
+    include 'footer.php';
+    echo getarrows("5_Ecology of the Burning Maar.php","7_Divisions.php");
+    echo goback();?>
+    
 </body>
 </html>

@@ -140,5 +140,6 @@
     include '../../settarget.php'; 
     settarget("Fire",3,null,null);
     include '../footer.php';
-    echo getarrows("01_1_Fire.php","01_3_Fire.php");?>
+    echo getarrows("01_1_Fire.php","01_3_Fire.php");
+    setlast("Year/01_0_Fire.php");?>
 </body>

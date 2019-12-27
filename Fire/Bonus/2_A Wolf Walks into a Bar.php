@@ -141,6 +141,7 @@
 <p>That was that, dear reader. This was the worst day of my life.</p>
 <?php
     include '../footer.php';
-    echo getarrows("../Year/01_4_Fire.php#back","../Year/01_4_Fire.php#back");?>
+    echo getarrows("../Year/01_4_Fire.php#back","../Year/01_4_Fire.php#back");
+    setlast("Bonus/2_A Wolf Walks into a Bar.php");?>
 </body>
 </html>

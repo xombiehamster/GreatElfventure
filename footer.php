@@ -163,4 +163,17 @@ function statuscomp($s1,$s2){
     }
     return $ret;
 }
+# Function sets last narrative location
+function setlast($curr){
+    $_SESSION["LAST"] = $curr;
+}
+# Function returns to narrative from Meta.
+function goback(){
+    if(is_null($_SESSION["LAST"])){
+        return null;
+    } else{
+        $ret = '<p><a href="'.$_SESSION["LAST"].'">Return to whence you came</a></p>';
+    }
+    return $ret;
+}
 ?>

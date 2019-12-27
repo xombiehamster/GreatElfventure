@@ -163,5 +163,6 @@
     settarget("Fire",5,null,2);
     if($_SESSION["YEAR"]<2){$_SESSION["YEAR"]=2;}
     include '../footer.php';
-    echo getarrows("01_3_Fire.php","02_1_Fire.php");?>
+    echo getarrows("01_3_Fire.php","02_1_Fire.php");
+    setlast("Year/01_0_Fire.php");?>
 </body>

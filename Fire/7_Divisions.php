@@ -72,7 +72,8 @@
 </table>
 </body>
 <?php
-    include '../footer.php';
-    echo getarrows("6_Settlements.php",null,null);?>
+    include 'footer.php';
+    echo getarrows("6_Settlements.php",null,null);
+    echo goback();?>
 </body>
 </html>

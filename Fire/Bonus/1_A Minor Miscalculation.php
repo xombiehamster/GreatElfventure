@@ -84,6 +84,7 @@
 <p><em>What did I miss?</em></p>
 <?php
     include '../footer.php';
-    echo getarrows("../Year/01_3_Fire.php#back","../Year/01_3_Fire.php#back");?>
+    echo getarrows("../Year/01_3_Fire.php#back","../Year/01_3_Fire.php#back");
+    setlast("Bonus/1_A Minor Miscaluclation.php");?>
 </body>
 </html>

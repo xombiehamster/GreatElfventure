@@ -191,6 +191,7 @@
     <?php
     include '../footer.php';
         echo getarrows("02_0.php#cont","02_0.php#jump");
+        setlast("Events/02_0b.php");
     ?>
 </body>
 </html>

@@ -125,6 +125,7 @@
 <p class="center">-FIN-</p>
 <?php
     include '../footer.php';
-    echo getarrows("../Year/02_1_Fire.php#back","4_A Mystery Deepens.php");?>
+    echo getarrows("../Year/02_1_Fire.php#back","4_A Mystery Deepens.php");
+    setlast("Bonus/3_A Painful Memory.php");?>
 </body>
 </html>

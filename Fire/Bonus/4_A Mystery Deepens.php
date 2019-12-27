@@ -75,6 +75,7 @@
 <p class="center">-FIN-</p>
 <?php
     include '../footer.php';
-    echo getarrows("3_A Painful Memory.php","../Year/02_1_Fire.php#back");?>
+    echo getarrows("3_A Painful Memory.php","../Year/02_1_Fire.php#back");
+    setlast("Bonus/4_A Mystery Deepens.php");?>
 </body>
 </html>

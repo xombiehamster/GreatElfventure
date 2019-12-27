@@ -140,6 +140,7 @@
 <p>Both the Hunger and the Terror feel the ache of their wounds.</p>
 <?php
     include '../footer.php';
-    echo getarrows("../Year/01_1_Fire.php#back","../Year/01_1_Fire.php#back");?>
+    echo getarrows("../Year/01_1_Fire.php#back","../Year/01_1_Fire.php#back");
+    setlast("Bonus/0_A Tourist in Surt.php");?>
 </body>
 </html>

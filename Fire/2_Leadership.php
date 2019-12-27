@@ -77,7 +77,8 @@ This has, of course, led to numerous rumors about who the Hunger truly is. Most 
 <?php
     include '../settarget.php'; 
     settarget("Fire",null,3,null);
-    include '../footer.php';
-    echo getarrows("1_Factions.php","3_Stunts and Rituals.php");?>
+    include 'footer.php';
+    echo getarrows("1_Factions.php","3_Stunts and Rituals.php");
+    echo goback();?>
 </body>
 </html>
