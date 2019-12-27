@@ -178,7 +178,7 @@
     <p>“What?  What does that- You’re leaving me here? Alone?”</p>
     <p>“Nullfear, First.  Lowlanders don’t like bloodshed at their parties.  Makes them grumpy.  You’ll be fine.”  She claps him on the shoulder, once, causing him to stumble a bit, before gracefully ambulating towards the door.</p>
     <p>For his part, the First seems momentarily uncertain of the situation.</p>
-    <p id="jump"><a href="03_0b.php">Just outside...</a></p>
+    <p id="jump"><a href="../Blade/Bonus/1_The Troublesome Duo.php">Just outside...</a></p>
     <p>Anasatri patted his arm more gently, “She’s right you know, we don’t bite. Unless someone asks for it first.” She tilted her head, flicking an ear toward the other conversation, “But maybe we can come back to this; we’ve got a problem, and having an extra brain on it might be useful.” She used a wing to herd him toward the others in time to overhear Hunger relaying the feather message. </p>
     <p>He huffs, although he is successfully herded.  “Well, of course.  I’ll attempt to make efforts to think in Lowlander terms, but I can’t-” First pauses, actually somewhat distracted by the wing that is herding him.  He points a finger, tracing a feather, coming close but not actually touching it.</p>
     <p>“<small>As I thought,</small>” he mumbles to himself, “<small>there’s simply no way this is sufficient to provide lift in and of itself.  There must be a magical component…</small>” </p>

@@ -417,7 +417,7 @@
 <p>Smilisca looks at the apprentice with stars in his eyes.  “<i>Weh.</i>”</p>
 <p>As the attendees trooped out to go watch the spectacle, Shadimon and Dhakamari moved to sit near Shyrendora. Shadimon silently held out his hand toward her in mute appeal. </p>
 <hr/>
-<a href="Blade/Bonus/1_The Troublesome Duo.php"><h4 id="cont">Continued...</h4></a>
+<a href="Blade/Bonus/0_A War of Words.php"><h4 id="cont">Continued...</h4></a>
 <hr/>
 <p>Distracted by watching Amenidal join the crowd of onlookers, Shyrendora misses the new additions to her seating arrangement.  She does not miss the hand though.  She takes a long, hard swallow before placing her flask into the hand and following it to give Shadimon an understanding look. </p>
 <p>Shadimon takes a long drink, only twitching a little bit. “For the record,” he says, glancing at Slabal, “Starting fights at diplomatic meals is generally frowned upon.”</p>
