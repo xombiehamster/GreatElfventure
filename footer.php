@@ -120,8 +120,10 @@ function setstatus($str){
     $arr = explode(" ",$str);
     $ind = 0;
     while ($ind<22){
-        if(!is_numeric($arr[$ind])){
-            return 1;
+        if(!is_null($arr[$ind])){
+            if(!is_numeric($arr[$ind])){
+                return 1;
+            }
         }
         $ind++;
     }

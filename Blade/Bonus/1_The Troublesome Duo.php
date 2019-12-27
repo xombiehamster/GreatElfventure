@@ -132,7 +132,9 @@
 
 <?php
 include "../footer.php";
-echo getarrows("03_0.php#jump","03_0.php#jump");
-setlast("Events/03_0b.php");
+include '../../settarget.php';
+settarget("Blade",null,null,1);
+echo getarrows("../../Events/03_0.php#jump","../../Events/03_0.php#jump");
+setlast("Bonus/03_0b.php");
 ?>
 </body>

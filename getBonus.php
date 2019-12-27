@@ -5,6 +5,10 @@
 function getBArray($elf){
     $arr = array();
     switch($elf){
+        case "Blade":
+            $arr[0] = "A War of Words";
+            $arr[1] = "The Troublesome Duo";
+        break;
         case "Crag":
             $arr[0] = "A Seeker to Eschaton";
         break;
