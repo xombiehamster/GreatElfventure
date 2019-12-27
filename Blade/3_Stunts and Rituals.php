@@ -25,8 +25,9 @@
     <?php
         include '../settarget.php'; 
         settarget("Blade",null,3,null);
-        include '../footer.php';
+        include 'footer.php';
         echo getarrows("2_Leadership.php",null);
+        echo goback();
     ?>
 </body>
 </html>

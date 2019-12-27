@@ -118,5 +118,6 @@
         settarget("Blade",0,0,null);
         include '../footer.php';
         echo getarrows(null,"00_4_Blade.php");
+        setlast("Year/00_3_Blade.php");
     ?>
 </body>

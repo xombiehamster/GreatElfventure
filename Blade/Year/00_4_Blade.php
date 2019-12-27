@@ -72,5 +72,6 @@
         if($_SESSION["YEAR"]<1){
             $_SESSION["YEAR"]=1;
         }
+        setlast("Year/00_4_Blade.php");
     ?>
 </body>

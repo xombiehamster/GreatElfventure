@@ -77,8 +77,9 @@
     <?php
         include '../settarget.php'; 
         settarget("Blade",null,2,null);
-        include '../footer.php';
+        include 'footer.php';
         echo getarrows("1_Factions.php","3_Stunts and Rituals.php");
+        echo goback();
     ?>
 </body>
 </html>
