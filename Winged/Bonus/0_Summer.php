@@ -137,6 +137,7 @@ He sighed, shoulders sagging, â€œAfter that we came back immediately. I know weâ
     #Footer content
     include '../footer.php';
     echo getflapstory("../Year/01_1_Winged.php",null);
-    echo getarrows("../Year/01_1_Winged.php",getflapnext($_SESSION["W_EXTRA"],0,"1_Fall.php"));?>
+    echo getarrows("../Year/01_1_Winged.php",getflapnext($_SESSION["W_EXTRA"],0,"1_Fall.php"));
+    setlast("Bonus/0_Summer.php");?>
 </body>
 </html>

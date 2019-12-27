@@ -33,6 +33,7 @@
     settarget("Winged",null,null,5);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/02_1_Winged.php#jump","../Year/02_1_Winged.php#jump");?>
+    echo getarrows("../Year/02_1_Winged.php#jump","../Year/02_1_Winged.php#jump");
+    setlast("Bonus/5_A Forgotten Testimony.php");?>
 </body>
 </html>

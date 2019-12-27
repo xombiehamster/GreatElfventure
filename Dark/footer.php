@@ -12,4 +12,7 @@ function getarrows($back,$next){
     $str .= '</tr></table>';
     return $str;
 }
+function setlast($curr){
+    $_SESSION["LAST"] = 'Dreamdust/'.$curr;
+}
 ?>

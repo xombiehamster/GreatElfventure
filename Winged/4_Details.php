@@ -98,8 +98,9 @@
     <?php 
         include '../settarget.php'; 
         settarget("Winged",null,4,null);
-        include '../footer.php';
+        include 'footer.php';
         echo getarrows("3_Leadership.php",null);
+        echo goback();
     ?>
 </body>
 </html>

@@ -33,4 +33,18 @@ function getflapnext($tar,$get,$point){
         return null;
     }
 }
+# Function sets last location of narrative.
+function setlast($curr){
+    $_SESSION["LAST"] = 'Winged/'.$curr;
+    return null;
+}
+# Function returns to narrative from Meta.
+function goback(){
+    if(is_null($_SESSION["LAST"])){
+        return null;
+    } else{
+        $ret = '<p><a href="../'.$_SESSION["LAST"].'">Return to whence you came</a></p>';
+    }
+    return $ret;
+}
 ?>

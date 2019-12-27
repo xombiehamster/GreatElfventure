@@ -12,36 +12,6 @@
 <body>
     <h1>Year 3 - Summer</h1>
     <h2>Roleplay Event 2.0: <a href="../../Events/03_0.php">Firey Speeches and Brimstone Buffets</a></h2>
-    <p>The Hylidae Family takes a vacation to Fort Alfyr for the traditional Elven New Year Potluck.  Litoria, Smilisca, and the apprentice, Acris ride downstream to the coast at the swiftest pace Sauver can manage.  They arrive just the day before the planned Potluck.  Smilisca immediately vanishes into the fort to find his beloved, while Litoria and Acris prep crabs for dinner.  They bring with them a selection of spices from the exotic terrain they’ve passed through.</p>
-    <p>At the Potluck, Litoria finds herself speaking up in defense of the <i>werewolf</i> Bryti, and keeping her confidences private.  It feels wrong to speak in defense of the enemy, but at the same time, her statements are true.  The enemy was the Lycan Empire, not its individual people.  And that enemy is dead.  The enemy remaining is the one who pretended to kindness in keeping the River Elves safely rebuilding his castle in the chaotic aftermath of Skaplyndi.  Litoria will not forget this.</p>
-    <p>Smilisca was able to find ample time to spend with his beaux, Terje, both before the potluck, and in Terje’s spontaneously teleported visit to Partager afterwards.  The relationship is starting to feel like a different kind of raft bond.  They’re together when they can be, and if that’s not always, that’s still okay.  Smilisca made a decent amount of money betting on the outcome of the <a href="../../Events/02_0b.php">Crag vs. Fire rap battle</a>, so it was overall a great time for him.</p>
-    <p>The evening of the Inknapping, Smilisca and Terje spent the evening at the river elves New Year bonfire celebrations, dancing and having a great time together.  Enthusiastic river elves even invited Ink to join the dance party, though they did not pressure him to get too close to the fire.  In the morning, the hosts offer Ink a cup of honey and lemon tea for that raspy throat of his, since it sounds very sore.  Ink stares at the tea for a few moments, before replying that though he cannot drink tea he likes the smell. He places the tea right next to his work area and spends the next couple of days enchanting in silence. He thanks you before he leaves, and tells Ny he is happy for her. It’s hard to tell, but you think he had a good time.</p>
-    <p>Acris, however, managed to get into Smilisca’s spellbook while he was away, and now thinks he really does know a spell.  He requested writing materials from Anasatri and with her help and harsh handwriting critique has begun his very own spellbook.  His goal of becoming a Real Wizard is one step closer.</p>
-    <h3>Litoria’s List of Questions for the Stranger</h3>
-    <ul>
-        <li>
-            Are you really a werewolf?
-        </li>
-        <li>
-            Why do you carry that sword?
-        </li>
-        <li>
-            Do you consider yourself an Elf, really?
-        </li>
-        <li>
-            Have you been killing humans and carving runes on them?
-        </li>
-        <li>
-            Where do you come from?
-        </li>
-        <li>
-            Why did you come here?
-        </li>
-        <li>
-            How can I help?
-        </li>
-    </ul>
-    <br>
     <table style="width:100%">
         <tr>
             <th>Stress</th>

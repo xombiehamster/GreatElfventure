@@ -123,5 +123,6 @@
     settarget("Winged",2,0,0);
     include '../footer.php';
     echo getflapstory(null,"../Bonus/0_Summer.php");
-    echo getarrows(null,"01_2_Winged.php");?>
+    echo getarrows(null,"01_2_Winged.php");
+    setlast("Year/01_1_Winged.php");?>
 </body>

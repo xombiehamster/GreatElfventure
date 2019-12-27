@@ -168,6 +168,7 @@
     settarget("Winged",null,null,0);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/01_3_Winged.php#jump","../Year/01_3_Winged.php#jump");?>
+    echo getarrows("../Year/01_3_Winged.php#jump","../Year/01_3_Winged.php#jump");
+    setlast("Bonus/2_A Moody Visitor.php");?>
 </body>
 </html>

@@ -57,8 +57,9 @@
     <?php
         include '../settarget.php'; 
         settarget("Winged",null,1,null);
-        include '../footer.php';
+        include 'footer.php';
         echo getarrows(null,"1_Factions.php");
+        echo goback();
     ?>
 </body>
 </html>

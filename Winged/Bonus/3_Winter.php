@@ -54,6 +54,7 @@
     #Footer content
     include '../footer.php';
     echo getflapstory("../Year/01_3_Winged.php",null);
-    echo getarrows("1_Fall.php",getflapnext($_SESSION["W_EXTRA"],3,"4_Spring.php"));?>
+    echo getarrows("1_Fall.php",getflapnext($_SESSION["W_EXTRA"],3,"4_Spring.php"));
+    setlast("Bonus/3_Winter.php");?>
 </body>
 </html>

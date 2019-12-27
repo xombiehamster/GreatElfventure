@@ -19,8 +19,9 @@
     <?php
         include '../settarget.php'; 
         settarget("Winged",null,2,null);
-        include '../footer.php';
+        include 'footer.php';
         echo getarrows("0_Aspects.php","2_Leadership.php");
+        echo goback();
     ?>
 </body>
 </html>

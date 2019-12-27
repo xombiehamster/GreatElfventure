@@ -144,5 +144,6 @@
     if($_SESSION["YEAR"]<2){$_SESSION["YEAR"]=2;}
     include '../footer.php';
     echo getflapstory(null,"../Bonus/4_Spring.php");
-    echo getarrows("01_3_Winged.php","02_1_Winged.php");?>
+    echo getarrows("01_3_Winged.php","02_1_Winged.php");
+    setlast("Year/01_4_Winged.php");?>
 </body>
