@@ -60,6 +60,7 @@
     <p>Whew! Crisis averted! Your elf allies help you set up plenty of ways to gather food, from farming to fishing. Fishing, both in the ocean and river, turns out to be a good starting point for immediately gathering food. The river elves teach you how to set up nets in the river. The Dark elves even show you how to grow tasty mushrooms. The winged elves demonstrate some handy hunting techniques. The dreamdust elves even lend you some goats to start your own herd.</p>
     <p>One advantage means a bonus die goes to any Enrichment task to add aspects related to farming, animal keeping, or fishing next turn.</p>
     <p>The Event <b>Food Crisis</b> has been resolved. Huzzah! The event <b>Houseguests</b> is ongoing.</p>
+    <img class="center" src="../Images/00_4_Potato.png">
     <p>The elves at Fort Alfyr finally have enough provisions to set out into their new lands. And honestly, that property damage every turn is getting to be a pain. They are eager to set out, and quite thankful for all the help you have given then.</p>
     <p>As a celebration of surviving the long hardships it has taken to get this far, the leaders of all the elf peoples agree to throw a party. They also know the quality of your cooking, so they agree to bring food.</p>
     <p><b>Roleplaying Opportunity:</b> <a href="01_0.php">Goodbye Potluck!</a> Summer Year 0 to be resolved after the roleplaying event. </p>

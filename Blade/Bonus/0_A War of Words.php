@@ -45,6 +45,7 @@
     <p>There is a collective “Oooh!” from the assembled blade elves. Terje deals with a flurry of bet changes. Terje is grinning like a nutcase.  Smilisca elbows Terje repeatedly with an excited grin.</p>
     <p>Anasatri’s wings dip in surprise as she trades a wide-eyed look with Pebble. </p>
     <p>The Hunger clearly does not have the throat to match Embebi's impressive singing... so he doesn't try to. His voice is sharp, clear, and nuanced; a lord's voice, rather than a singer's.</p>
+    <img src="../Images/02_0_Potluck_RapBattle.png" class="center">
     <p>"<i>I bear this mask to remember the dead/<br/>
         It's my burden, my curse for the life I have lead/<br/>
         Forged from my oppressor's sweetest of treasure/<br/>

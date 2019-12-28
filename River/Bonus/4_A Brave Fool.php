@@ -115,6 +115,7 @@
     <p>Vigr looked up to Bryti. They shared a worried look.</p>
     <p>"Come on, fuzzbutts," Katya stood and started walking towards home, "Let's go home."</p>
     <p>The pack settled in behind the dagger. The elf led her werewolf siblings home.</p>
+    <img class="center" src="../Images/4_ABF_PupPack.png">
     <p>- FIN -</p>
     <?php 
         include '../footer.php';
