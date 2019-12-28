@@ -1,6 +1,6 @@
 <?php
-echo 'Current year:', $_SESSION["YEAR"];
 function getarrows($back,$next){
+    echo 'Current year:', $_SESSION["YEAR"];
     $str ='<table style="width:100%"><tr>';
     if(!is_null($back)){
         $str .= '<td><a href="'.$back.'">BACK</a></td>';
