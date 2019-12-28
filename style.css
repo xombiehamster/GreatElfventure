@@ -102,6 +102,7 @@ table#special {
     border: 1px solid black;
     border-collapse: collapse;
     width: 100%;
+    overflow-x: auto;
 }
 
 table#special tr:nth-child(even) {
