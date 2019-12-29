@@ -14,6 +14,16 @@
     </title>
 </head>
 <body>
+<div style="overflow-x:auto;">
+    <?php
+        if($_SESSION["CRAG"]>=0){
+            echo '<img src="images/ExampelvesCrag.png" alt="Gosh that sure is a lot of elves">';
+        }
+        else{
+            echo '<img src="images/Exampelves.png" alt="Gosh that sure is a lot of elves">';
+        }
+    ?>
+</div>
 <H1> Great ElfVenture Read Through </H1>
 
 <p>This story is built out of many interconnected chains created over the course of a game of CivElf. 
