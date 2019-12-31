@@ -3,18 +3,18 @@
 
 <head><?php include '../../header.php'; ?>
     <title>
-        A Dark Secret
+        A Tale Begins
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 <body>
-    <h1>A Dark Secret</h1>
+    <h1>A Tale Begins</h1>
     <p>placeholder</p>
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/05_1_River.php#back","../Year/05_1_River.php#back");
-        setlast("Bonus/17_A Dark Secret.php");
+        echo getarrows("../Year/04_3_River.php#back2","../Year/04_3_River.php#back2");
+        setlast("Bonus/14_A Tale Begins.php");
     ?>
 </body>
 </html>

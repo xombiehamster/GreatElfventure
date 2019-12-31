@@ -38,7 +38,8 @@
 <p>The Blade Elves are an NPC faction designed to be used as the tutorial for how the game (and the read-through) should flow.  Reading 
     their example turns is a good way to get a feel for what to expect from the actual players, and to figure out the site navigation.  
     Consider them the training wheels.</p>
-<p>Every year starts with a <span class="big"><a href="/Events/01_0.php">Potluck</a></span>, so one point of entry is to start reading from the very first one.</p>
+<p>Every year starts with a <span class="big"><a href="/Events/01_0.php">Potluck</a></span>, so one point of entry is to start reading 
+    from the very first one.</p>
 <p>Alternatively, you can jump right in to reading the yearly tales of the lives of the elves with the Blade Elves' first turns.</p>
 
 <div style="overflow-x:auto;">

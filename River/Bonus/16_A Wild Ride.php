@@ -3,18 +3,18 @@
 
 <head><?php include '../../header.php'; ?>
     <title>
-        A Rocky Shore
+        A Wild Ride
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 <body>
-    <h1>A Rocky Shore</h1>
+    <h1>A Wild Ride</h1>
     <p>placeholder</p>
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/05_1_River.php#back2","../Year/05_1_River.php#back2");
-        setlast("Bonus/18_A Rocky Shore.php");
+        echo getarrows("../Year/04_4_River.php#back","17_A Surtian Confusion.php");
+        setlast("Bonus/16_A Wild Ride.php");
     ?>
 </body>
 </html>

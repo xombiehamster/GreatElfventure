@@ -3,18 +3,18 @@
 
 <head><?php include '../../header.php'; ?>
     <title>
-        A Familiar Stranger
+        Ambush Predators
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
 <body>
-    <h1>A Familiar Stranger</h1>
+    <h1>Ambush Predators</h1>
     <p>placeholder</p>
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/04_3_River.php#back","../Year/04_3_River.php#back");
-        setlast("Bonus/13_A Familiar Stranger.php");
+        echo getarrows("../Year/04_1_River.php#back","../Year/04_1_River.php#back");
+        setlast("Bonus/12_Ambush Predators.php");
     ?>
 </body>
 </html>
