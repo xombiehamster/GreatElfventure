@@ -19,6 +19,6 @@ include "../footer.php";
 include '../../settarget.php';
 settarget("Blade",null,null,5);
 echo getarrows("4_Bits and Pieces.php","../../Events/04_0.php#jump");
-setlast("Bonus/5_A Man and a Dog.php");
+#setlast("Bonus/5_A Man and a Dog.php");
 ?>
 </body>

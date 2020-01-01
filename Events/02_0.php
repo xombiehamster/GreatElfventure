@@ -640,6 +640,7 @@
 <?php
 include '../settarget.php';
 settarget("Crag",2,0,null);
+settarget("Blade",null,null,0);
 if($_SESSION["YEAR"]<2){
     $_SESSION["YEAR"]=2;
 }

@@ -135,6 +135,6 @@ include "../footer.php";
 include '../../settarget.php';
 settarget("Blade",null,null,1);
 echo getarrows("../../Events/03_0.php#jump","../../Events/03_0.php#jump");
-setlast("Bonus/1_The Troublesome Duo.php");
+#setlast("Bonus/1_The Troublesome Duo.php");
 ?>
 </body>
