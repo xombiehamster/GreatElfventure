@@ -645,6 +645,7 @@ if($_SESSION["YEAR"]<2){
 }
 include "../footer.php";
 echo getarrows(null,null);
+echo goback();
 setlast("Events/02_0.php");
 ?>
 </body>

@@ -349,6 +349,7 @@
         }
         include '../footer.php';
         echo getarrows(null,null);
+        echo goback();
         setlast("Events/01_0.php");
     ?>
 </body>
