@@ -16,7 +16,7 @@
 <body>
 <div style="overflow-x:auto;">
     <?php
-        if($_SESSION["CRAG"]>=0){
+        if($_SESSION["CRAG"]>0){
             echo '<img src="images/ExampelvesCrag.png" alt="Gosh that sure is a lot of elves">';
         }
         else{
@@ -49,7 +49,7 @@
             <th>Blade Elves</th>
             <?php
             #Crag elves don't appear until after the 2nd Potluck is read.
-            if($_SESSION["CRAG"]>=0){
+            if($_SESSION["CRAG"]>0){
                 echo '<th>Crag Elves</th>';
             }?>
             <th>Dark Elves</th>
@@ -65,7 +65,7 @@
             </td>
             <?php
             #Making sure there's no mysterious blank Crag space.
-            if($_SESSION["CRAG"]>=0){
+            if($_SESSION["CRAG"]>0){
                 echo '<td>'.getList("Crag",$_SESSION["CRAG"]).'</td>';
             }?>
             <td>
@@ -105,7 +105,7 @@
             </td>
             <?php 
             #Crag removal.
-            if($_SESSION["CRAG"]>=0){
+            if($_SESSION["CRAG"]>0){
                 echo '<td>'.getMeta("Crag",$_SESSION["C_META"]).'</td>';
             }?>
             <td>
