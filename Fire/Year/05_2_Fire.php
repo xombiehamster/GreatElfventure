@@ -5,12 +5,12 @@
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <title>
-        Winged Elf Year 3 - Fall
+        Fire Elf Year 5 - Fall
     </title>
 </head>
 
 <body>
-    <h1>Year 3 - Fall</h1>
+    <h1>Year 5 - Fall</h1>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -21,29 +21,26 @@
         </tr>
         <tr>
             <th>Fate Points</th>
-            <td>3/3 Refresh</td>
+            <td>2/3 Refresh</td>
             <td>0 Bonus</td>
         </tr>
-        
     </table>
     <p>placeholder</p>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
-    <p><b>Military: </b>placeholder</p>
+	<p><b>Military: </b>placeholder</p>
     <p><b>Mental:</b> placeholder</p>
     <h2>Results</h2>
-    <p><b>Economic:</b> placeholder</p>
+    <p><b>Economic:</b>placeholder</p>
     <p><b>Political:</b> placeholder</p>
-    <p><b>Military:</b> placeholder</p>
+    <p><b>Military:</b>  placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <p><b>War Games:</b> placeholder</p>
     
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",11,null,null);
+        settarget("Fire",19,null,null);
         include '../footer.php';
-        echo getflapstory(null,"../Bonus/????.php");
-        echo getarrows("03_1_Winged.php","03_3_Winged.php");
-        setlast("Year/03_2_Winged.php");
+        echo getarrows("05_1_Fire.php","05_3_Fire.php");
+        setlast("Year/05_2_Fire.php");
     ?>
 </body>

@@ -5,7 +5,7 @@
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <title>
-        Winged Elf Year 3 - Fall
+        Fire Elf Year 3 - Fall
     </title>
 </head>
 
@@ -40,10 +40,9 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",11,null,null);
+        settarget("Fire",11,null,null);
         include '../footer.php';
-        echo getflapstory(null,"../Bonus/????.php");
-        echo getarrows("03_1_Winged.php","03_3_Winged.php");
-        setlast("Year/03_2_Winged.php");
+        echo getarrows("03_1_Fire.php","03_3_Fire.php");
+        setlast("Year/03_2_Fire.php");
     ?>
 </body>

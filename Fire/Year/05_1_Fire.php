@@ -5,12 +5,13 @@
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <title>
-        Winged Elf Year 3 - Fall
+        Fire Elf Year 5 - Summer
     </title>
 </head>
 
 <body>
-    <h1>Year 3 - Fall</h1>
+    <h1>Year 5 - Summer</h1>
+    <h2>Roleplay Event 5.0: <a href="../../Events/05_0.php">A Potluck with a View</a></h2>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -36,14 +37,12 @@
     <p><b>Political:</b> placeholder</p>
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <p><b>War Games:</b> placeholder</p>
     
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",11,null,null);
+        settarget("Fire",18,null,null);
         include '../footer.php';
-        echo getflapstory(null,"../Bonus/????.php");
-        echo getarrows("03_1_Winged.php","03_3_Winged.php");
-        setlast("Year/03_2_Winged.php");
+        echo getarrows("04_4_Fire.php","05_2_Fire.php");
+        setlast("Year/05_1_Fire.php");
     ?>
 </body>

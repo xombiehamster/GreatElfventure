@@ -40,6 +40,7 @@
         include '../../settarget.php'; 
         settarget("Winged",8,null,null);
         include '../footer.php';
+        echo getflapstory(null,"../Bonus/????.php");
         echo getarrows("02_2_Winged.php","02_4_Winged.php");
         setlast("Year/02_3_Winged.php");
     ?>

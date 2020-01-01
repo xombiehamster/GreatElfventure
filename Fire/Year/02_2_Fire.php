@@ -5,13 +5,11 @@
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <title>
-        Winged Elf Year 3 - Fall
+        Fire Elf Year 2 - Fall
     </title>
 </head>
 
-<body>
-    <h1>Year 3 - Fall</h1>
-    <table style="width:100%">
+<table style="width:100%">
         <tr>
             <th>Stress</th>
             <td>Economic 0/5</td>
@@ -36,14 +34,11 @@
     <p><b>Political:</b> placeholder</p>
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <p><b>War Games:</b> placeholder</p>
-    
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",11,null,null);
+        settarget("Fire",7,null,null);
         include '../footer.php';
-        echo getflapstory(null,"../Bonus/????.php");
-        echo getarrows("03_1_Winged.php","03_3_Winged.php");
-        setlast("Year/03_2_Winged.php");
+        echo getarrows("02_1_Fire.php","02_3_Fire.php");
+        setlast("Year/02_2_Fire.php");
     ?>
 </body>

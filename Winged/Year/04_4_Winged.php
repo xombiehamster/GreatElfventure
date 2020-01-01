@@ -44,6 +44,7 @@
             $_SESSION["YEAR"] = 5;
         }
         include '../footer.php';
+        echo getflapstory(null,"../Bonus/????.php");
         echo getarrows("04_3_Winged.php","05_1_Winged.php");
         setlast("Year/04_1_Winged.php");
     ?>
