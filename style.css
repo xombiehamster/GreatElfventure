@@ -130,6 +130,12 @@ table#special th {
     padding: 10px;
 }
 
+.good {
+    font-size: 16px;
+    color: limegreen;
+    font-weight: bold;
+}
+
 
 /* Letters from Bryti */
 
