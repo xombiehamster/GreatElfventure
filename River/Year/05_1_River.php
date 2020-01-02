@@ -37,7 +37,8 @@
         </tr>
     </table>
     <p>placeholder</p>
-    <h3 id="jump">Roleplay Event 4.1.1: <a href="../Bonus/1_A Hitchhiker in Partager.php">Ambush Predators</a></h3>
+    <h3 id="back">Roleplay Event 5.1: <a href="../Bonus/19_A Dark Secret.php">A Dark Secret</a></h3>
+    <h3 id="back">Boxraft Children 5.1: <a href="../Bonus/20_A Rocky Shore.php">A Rocky Shore</a></h3>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
     <p><b>Military: </b>placeholder</p>
@@ -53,7 +54,7 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("River",18,null,null);
+        settarget("River",18,null,20);
         include '../footer.php';
         echo getarrows("04_4_River.php","05_2_River.php");
         setlast("Year/05_1_River.php");

@@ -45,11 +45,16 @@ function getBArray($elf){
             $arr[9] = "A Conversation with Heaven";
             $arr[10] = "A New Family";
             $arr[11] = "A Scholarly Pursuit";
-            $arr[12] = "A Tale Begins";
-            $arr[13] = "A Familiar Stranger";
-            $arr[14] = "A Deep River";
-            $arr[15] = "A Wild Ride";
-            $arr[16] = "A Rocky Shore";
+            $arr[12] = "Ambush Predators";
+            $arr[13] = "A Friend in Need";
+            $arr[14] = "A Tale Begins";
+            $arr[15] = "A Familiar Stranger";
+            $arr[16] = "A Wild Ride";
+            $arr[17] = "A Surtian Confusion";
+            $arr[18] = "A Deep River";
+            $arr[19] = "A Dark Secret";
+            $arr[20] = "A Rocky Shore";
+            $arr[21] = "A Shady Stowaway";
         break;
         case "Winged":
             $arr[0] = "Summer";

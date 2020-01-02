@@ -35,6 +35,7 @@
             <td>Marraine River</td>
         </tr>
     </table>
+    <h3 id="back">Boxraft Children 5.1.1: <a href="../Bonus/21_A Shady Stowaway.php">A Shady Stowaway</a></h3>
     <p>placeholder</p>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
@@ -52,7 +53,7 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("River",19,null,null);
+        settarget("River",19,null,21);
         include '../footer.php';
         echo getarrows("05_1_River.php","05_3_River.php");
         setlast("Year/05_2_River.php");
