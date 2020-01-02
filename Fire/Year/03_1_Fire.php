@@ -11,7 +11,7 @@
 
 <body>
     <h1>Year 3 - Summer</h1>
-    <h2>Roleplay Event 2.0: <a href="../../Events/03_0.php">Firey Speeches and Brimstone Buffets</a></h2>
+    <h2>Roleplay Event 3.0: <a href="../../Events/03_0.php">Firey Speeches and Brimstone Buffets</a></h2>
     <table style="width:100%">
         <tr>
             <th>Stress</th>

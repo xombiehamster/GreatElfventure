@@ -11,8 +11,8 @@
 
 <body>
     <h1>Year 4 - Summer</h1>
-    <h2>Roleplay Event 2.0: <a href="../../Events/04_0.php">A Peaceful Potluck</a></h2>
-    <h3>Roleplay Event 2.0: <a href="../../Blade/Bonus/4_Bits and Pieces.php">Bits and Pieces</a></h3>
+    <h2>Roleplay Event 4.0.1: <a href="../../Events/04_0.php">A Peaceful Potluck</a></h2>
+    <h3>Roleplay Event 4.0.2: <a href="../../Blade/Bonus/4_Bits and Pieces.php">Bits and Pieces</a></h3>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
