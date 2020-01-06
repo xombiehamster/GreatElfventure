@@ -9,11 +9,12 @@ function getBArray($elf){
             $arr[0] = "A War of Words";
             $arr[1] = "The Troublesome Duo";
             $arr[2] = "A Plan Comes Together";
-            $arr[3] = "Operation Birdcage";
-            $arr[4] = "A Broken Promise";
-            $arr[5] = "Bits and Pieces";
-            $arr[6] = "A Man and a Dog";
-            $arr[7] = "A Pair of Monsters";
+            $arr[3] = "A Tribute Paid";
+            $arr[4] = "Operation Birdcage";
+            $arr[5] = "A Broken Promise";
+            $arr[6] = "Bits and Pieces";
+            $arr[7] = "A Man and a Dog";
+            $arr[8] = "A Pair of Monsters";
         break;
         case "Crag":
             $arr[0] = "A Seeker to Eschaton";
@@ -72,6 +73,7 @@ function getBArray($elf){
             $arr[6] = "A Closeted Tourist";
             $arr[7] = "A Silent Answer";
             $arr[8] = "An Unwelcome Visitor";
+            $arr[9] = "A Rude Awakening";
         break;
     }
     return $arr;
