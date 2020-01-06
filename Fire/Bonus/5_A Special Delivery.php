@@ -32,8 +32,8 @@
     <img class="center" src="../Images/02_1a_Summer_AzureLily.png">
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/02_1_River.php#jump2","../Year/02_1_River.php#jump2");
-        setlast("Bonus/2_A Special Delivery.php");
+        echo getarrows("../Year/02_1_Fire.php#jump2","../Year/02_1_Fire.php#jump2");
+        setlast("Bonus/5_A Special Delivery.php");
     ?>
 </body>
 </html>
