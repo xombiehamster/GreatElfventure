@@ -10,9 +10,10 @@ function getBArray($elf){
             $arr[1] = "The Troublesome Duo";
             $arr[2] = "A Plan Comes Together";
             $arr[3] = "Operation Birdcage";
-            $arr[4] = "Bits and Pieces";
-            $arr[5] = "A Man and a Dog";
-            $arr[6] = "A Pair of Monsters";
+            $arr[4] = "A Broken Promise";
+            $arr[5] = "Bits and Pieces";
+            $arr[6] = "A Man and a Dog";
+            $arr[7] = "A Pair of Monsters";
         break;
         case "Crag":
             $arr[0] = "A Seeker to Eschaton";
@@ -20,6 +21,10 @@ function getBArray($elf){
         case "Dark":
             $arr[0] = "A Moody Visitor";
             $arr[1] = "An Overwhelming Curiosity";
+            $arr[2] = "A Tourist Trap";
+            $arr[3] = "A Dark Place";
+            $arr[4] = "A Stupid, Awkward Dream";
+            $arr[5] = "A Rational Question";
         break;
         case "Dreamdust":
             $arr[0] = "A Chance Encounter";
@@ -31,6 +36,7 @@ function getBArray($elf){
             $arr[2] = "A Wolf Walks into a Bar";
             $arr[3] = "A Painful Memory";
             $arr[4] = "A Mystery Deepens";
+            $arr[5] = "A Blade's Edge";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
@@ -63,6 +69,9 @@ function getBArray($elf){
             $arr[3] = "Winter";
             $arr[4] = "Spring";
             $arr[5] = "A Forgotten Testimony";
+            $arr[6] = "A Closeted Tourist";
+            $arr[7] = "A Silent Answer";
+            $arr[8] = "An Unwelcome Visitor";
         break;
     }
     return $arr;

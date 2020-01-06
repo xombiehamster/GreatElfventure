@@ -5,12 +5,12 @@
 <?php include '../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../style.css">
     <title>
-        A Man and a Dog
+        Bits and Pieces
     </title>
 </head>
 
 <body>
-<h1>A Man and a Dog</h1>
+<h1>Bits and Pieces</h1>
 <p>PLACEHOLDER</p>
 <p class="center">-FIN-</p>
 
@@ -18,7 +18,7 @@
 include "../footer.php";
 include '../../settarget.php';
 settarget("Blade",null,null,5);
-echo getarrows("4_Bits and Pieces.php","../../Events/04_0.php#jump");
-#setlast("Bonus/5_A Man and a Dog.php");
+echo getarrows("../../Events/04_0.php#jump","6_A Man and a Dog.php");
+#setlast("Bonus/4_Bits and Pieces.php");
 ?>
 </body>

@@ -17,8 +17,8 @@
 <?php
 include "../footer.php";
 include '../../settarget.php';
-settarget("Blade",null,null,6);
+settarget("Blade",null,null,7);
 echo getarrows("../../Events/05_0.php#jump","../../Events/05_0.php#jump");
-#setlast("Bonus/6_A Pair of Monsters.php");
+#setlast("Bonus/7_A Pair of Monsters.php");
 ?>
 </body>

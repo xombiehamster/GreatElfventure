@@ -40,19 +40,20 @@
     <p><b>Military: </b>placeholder</p>
     <p><b>Mental:</b>placeholder</p>
     <h3 id="back2">Roleplay Event 3.1.3: <a href="../../Blade/Bonus/2_A Plan Comes Together.php">A Plan Comes Together</a></h3>
-    <h3 id="back2">Play By Post 3.1.4: <a href="../../Blade/Bonus/3_Operation Birdcage.php">A Course Is Changed</a></h3>
+    <h3 id="back2">Play By Post 3.1.4: <a href="../../Blade/Bonus/3_Operation Birdcage.php">Operation Birdcage</a></h3>
     <h2>Results</h2>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
+    <h3>Play By Post 3.1.4: <a href="../../Blade/Bonus/4_A Broken Promise.php">A Broken Promise</a></h3>
     <p><b>News Arrives:</b> placeholder</p>
     <p><b>Additionally:</b> placeholder</p>
     
     <?php
         include '../../settarget.php'; 
         settarget("River",10,null,8);
-        settarget("Blade",null,null,3);
+        settarget("Blade",null,null,4);
         include '../footer.php';
         echo getarrows("02_4_River.php","03_2_River.php");
         setlast("Year/03_1_River.php");

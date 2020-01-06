@@ -4,7 +4,7 @@
 <head>
 <?php include '../../header.php'; ?>
     <title>
-        A Moody Visitor
+        An Overwhelming Curiousity
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
 </head>
