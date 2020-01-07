@@ -117,8 +117,8 @@
 <p>Better yet, planting the lilies is a success! Technically! They are quite hard to grow. He struggles getting the alchemical balance of the soil and water right and loses a few batches. Still, he eventually succeeds. Once. He has successfully grown only one flower, but has plenty of seeds left.</p>
 <p>The Dog&rsquo;s response to your message is dragging a paw through the message, erasing it with a swipe. Beneath that, the Dog writes in sightly better handwriting than last time,</p>
 <p>Transformation 1:</p>
-<p id="HungerLetter">Hunger: <em>Play Dead</em></p>
-<p id="DogLetter">Dog: <em>I may be the dog, but you're the one that rolls over for treats</em></p>
+<p id="HungerLetter">Hunger: Play Dead</p>
+<p id="DogLetter">Dog: I may be the dog, but you're the one that rolls over for treats</p>
 <p>Transformation 2:</p>
 <p>Hunger: [this field intentionally left blank]</p>
 <p>Dog: <em>Oh good, you don&rsquo;t deny it. I am glad to see you are becoming more aware of how much you enjoy wallowing in servitude. Very wise of you. Saves us some time.</em></p>

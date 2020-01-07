@@ -3,6 +3,7 @@
 @import "https://fonts.googleapis.com/css?family=Caveat";
 @import "https://fonts.googleapis.com/css?family=Long Cang";
 @import "https://fonts.googleapis.com/css?family=Miss Fajardose";
+@import "https://fonts.googleapis.com/css?family=Bilbo";
 
 /* Tooltip container */
 
@@ -184,12 +185,12 @@ p#FuryLetter {
 /* Letters from Hunger */
 
 p#HungerLetter {
-    font-family: sans-serif;
+    font-family: 'Bilbo', sans-serif;
     font-size: 17px;
 }
 
 p#DogLetter {
-    font-family: sans-serif;
+    font-family: 'Bilbo', sans-serif;
     font-weight: bolder;
     font-size: 20px;
 }
