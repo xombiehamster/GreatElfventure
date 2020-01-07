@@ -38,7 +38,8 @@ function getBArray($elf){
             $arr[3] = "A Painful Memory";
             $arr[4] = "A Mystery Deepens";
             $arr[5] = "A Special Delivery";
-            $arr[6] = "A Blade's Edge";
+            $arr[6] = "Trust Can Get You Killed";
+            $arr[7] = "A Blade's Edge";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
