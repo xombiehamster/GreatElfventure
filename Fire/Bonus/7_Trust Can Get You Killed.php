@@ -185,7 +185,7 @@
     <p>Barry leaned in a little closer, and stared right into the Fury’s eyes. “What happened to ‘I trust Barry one hundred percent’?”</p>
     <p>The Fury swallowed. Her hand went up to her face -- to the flame-carved mask covering its top. “There are some things I can’t say, even to those I trust.”</p>
     <p>Barrabus frowned. He took a step back. “Why were you meeting with Fizzaoli this morning?”</p>
-    <p>The Fury’s jaw dropped open. Her hands fell to her hips. “Why were you meeting with Fizzaoli this morning?” she snarled.</p>
+    <p>The Fury’s jaw dropped open. Her hands fell to her hips. “Why were <em>you</em> meeting with Fizzaoli this morning?” she snarled.</p>
     <p>Barrabus glared. The Fury glared back.</p>
     <p>A loud cough sounded from a little further up the stage. “Pardon me, yer grace,” Stormbadger said, marching over to them. He eyed Barrabus suspiciously.</p>
     <p>The Fury nodded, and a bit of the heat drained from her face. “Of course, inspector.”</p>
@@ -231,7 +231,7 @@
     <p>Barry gestured to the rest of the group. Dandelion and Rosescruff were shaking their heads. Nerilla was looking at her like she was crazy.</p>
     <p>“Your grace…” she said. “You’re not sticking your head where a Lycan can tear it off, your grace. Please.”</p>
     <p>“It appears you’re outvoted, your furiousness,” Barry said.</p>
-    <p>“Good thing we’re not a democracy,” the Fury hissed.</p>
+    <p><em>“Good thing we’re not a democracy,</em>” the Fury hissed.</p>
     <p>“Peeking in is a poor move anyway,” Barrabus said. “Clearing the muck from those shutters will alert whatever is inside. All we need to know is if there is something inside. And all that requires, to start with, is for someone to listen at the door.”</p>
     <p>Barrabus hesitated, well aware that ‘listening at the door’ is both probably the appropriate heroic action to take, and a far riskier activity than hiding behind an oxcart next to a powerful spellcaster. Still, the moment where “not volunteering” would become a faux pas was fast approaching. “I--”</p>
     <p>“I’ll do it,” Nerilla said. </p>
