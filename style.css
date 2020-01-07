@@ -1,6 +1,8 @@
 @import "https://fonts.googleapis.com/css?family=Calligraffitti";
 @import "https://fonts.googleapis.com/css?family=Pacifico";
 @import "https://fonts.googleapis.com/css?family=Caveat";
+@import "https://fonts.googleapis.com/css?family=Alegreya SC";
+@import "https://fonts.googleapis.com/css?family=Alex Brush";
 
 /* Tooltip container */
 
@@ -158,7 +160,7 @@ p#SkulkLetter {
 /* Reports from Doukas */
 
 p#DoukasLetter {
-    font-family: serif;
+    font-family: 'Alegreya SC', serif;
     font-size: 15px;
 }
 
@@ -168,4 +170,12 @@ p#DoukasLetter {
 p#IndrianiLetter {
     font-family: 'Caveat', fantasy, sans-serif;
     font-size: 14px;
+}
+
+
+/* Letters from Fury */
+
+p#FuryLetter {
+    font-family: 'Alex Brush';
+    font-size: 17px;
 }
