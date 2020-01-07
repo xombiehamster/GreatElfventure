@@ -117,18 +117,90 @@
 <p>Better yet, planting the lilies is a success! Technically! They are quite hard to grow. He struggles getting the alchemical balance of the soil and water right and loses a few batches. Still, he eventually succeeds. Once. He has successfully grown only one flower, but has plenty of seeds left.</p>
 <p>The Dog&rsquo;s response to your message is dragging a paw through the message, erasing it with a swipe. Beneath that, the Dog writes in sightly better handwriting than last time,</p>
 <p>Transformation 1:</p>
-<p id="HungerLetter">Hunger: Play Dead</p>
-<p id="DogLetter">Dog: I may be the dog, but you're the one that rolls over for treats</p>
+<table>
+<tr>
+<td>
+<p>Hunger:</p>
+</td>
+<td>
+<p id="HungerLetter">Play Dead</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dog:</p>
+</td>
+<td>
+<p id="DogLetter">I may be the dog, but you're the one that rolls over for treats</p>
+</td>
+</tr>
+</table>
 <p>Transformation 2:</p>
-<p>Hunger: [this field intentionally left blank]</p>
-<p>Dog: <em>Oh good, you don&rsquo;t deny it. I am glad to see you are becoming more aware of how much you enjoy wallowing in servitude. Very wise of you. Saves us some time.</em></p>
-<p>Transformation 3:</p>
-<p>Hunger: <em>Roll Over</em></p>
-<p>Dog: <em>Pithy. I am part of your soul, idiot. Buried right next to that small piece of you that wants to try on one of the Fury&rsquo;s chitons. We both know you aren&rsquo;t doing this just to insult me. You want to hear what I have to say.</em> (The Dog&rsquo;s handwriting is getting better, and it appears to be able to write more in a small space.)</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Hunger:</p>
+</td>
+<td>
+<p>[This field intentionally left blank]</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dog:</p>
+</td>
+<td>
+<p id="DogLetter">Oh good, you don&rsquo;t deny it. I am glad to see you are becoming more aware of how much you enjoy wallowing in servitude. Very wise of you. Saves us some time.</p>
+</td>
+</tr>
+</tbody>
+</table><p>Transformation 3:</p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Hunger:</p>
+</td>
+<td>
+<p id="HungerLetter">Roll Over</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dog:</p>
+</td>
+<td>
+<p id="DogLetter">Pithy. I am part of your soul, idiot. Buried right next to that small piece of you that wants to try on one of the Fury&rsquo;s chitons. We both know you aren&rsquo;t doing this just to insult me. You want to hear what I have to say.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+  The Dog&rsquo;s handwriting is getting better, and it appears to be able to write more in a small space.
+</p>
 <p>Transformation 4:</p>
-<p>Hunger: <em>Who taught me alchemy?</em></p>
-<p>Dog: <em>Cantia Brighteye. Our name is Gaius Freshleaf. The mask is made from Governor Goldheart&rsquo;s favorite plate set. You started the conflagration trying to harness the power of dragons with alchemy. Since then, you&rsquo;ve been terrified of your brilliance and what it can bring.</em></p>
-<p><br /><em>I </em><strong><em>am</em></strong><em> you, and I am our only chance of becoming anything other than a meek civil servant who mixes concrete and measures soil acidity until we die.</em></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Hunger:</p>
+</td>
+<td>
+<p id="HungerLetter">Who taught me alchemy?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dog:</p>
+</td>
+<td>
+<p id="DogLetter">Cantia Brighteye. Our name is Gaius Freshleaf. The mask is made from Governor Goldheart&rsquo;s favorite plate set. You started the conflagration trying to harness the power of dragons with alchemy. Since then, you&rsquo;ve been terrified of your brilliance and what it can bring.</p>
+<p id="DogLetter">I <strong>am</strong> you, and I am our only chance of becoming anything other than a meek civil servant who mixes concrete and measures soil acidity until we die.</p>
+</td>
+</tr>
+</tbody>
+</table>
     <?php
         include '../../settarget.php'; 
         settarget("Fire",7,null,7);
