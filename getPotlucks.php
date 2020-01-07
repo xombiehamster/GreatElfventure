@@ -20,10 +20,11 @@ function getPotlucks($year){
     }
     #CRAG
     if($_SESSION["CRAG"]>0){
-        $str .= '<td></td>';
+        $str .= '<td>';
         if(!is_null($arr[6])){
-            $str .= '<ul><li><a href="'.$arr[6].'">Year 6: A Placeholder Potluck</a></li>';
+            $str .= '<ul><li><a href="'.$arr[6].'">Year 6: A Placeholder Potluck</a></li></ul>';
         }
+        $str .= '</td>';
     }
     #DARK
     $str .= '<td></td>';
@@ -32,7 +33,7 @@ function getPotlucks($year){
     #FIRE
     $str .= '<td>';
     if(!is_null($arr[3])){
-        $str .= '<ul><li><a href="'.$arr[3].'">Year 3: Summer Potluck</a></li>';
+        $str .= '<ul><li><a href="'.$arr[3].'">Year 3: Summer Potluck</a></li></ul>';
     }
     $str .= '</td>';
     #RIVER
