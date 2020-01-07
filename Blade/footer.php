@@ -20,7 +20,11 @@ function goback(){
     if(is_null($_SESSION["LAST"])){
         return null;
     } else{
-        $ret = '<p><a href="../'.$_SESSION["LAST"].'">Return to whence you came</a></p>';
+        if(substr_compare($_SESSION["LAST"],"Blade/",0,6) == 0){
+            $ret = '<p><a href="../'.$_SESSION["LAST"].'">Return to whence you came</a></p>';
+        } else{
+            $ret = '<p><a href="../../'.$_SESSION["LAST"].'">Return to whence you came</a></p>';
+        }
     }
     return $ret;
 }

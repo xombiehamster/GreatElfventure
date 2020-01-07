@@ -3,7 +3,7 @@
 
 <head>
 <?php include '../header.php'; ?>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../../style.css">
     <title>
         The Troublesome Duo (Trio?)
     </title>
