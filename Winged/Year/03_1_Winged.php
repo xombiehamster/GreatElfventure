@@ -4,6 +4,7 @@
 <head>
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Winged.css">
     <title>
         Winged Elf Year 3 - Summer
     </title>

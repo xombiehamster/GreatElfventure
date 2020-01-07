@@ -1,0 +1,8 @@
+@import "https://fonts.googleapis.com/css?family=Caveat";
+
+/* Reports from Indriani */
+
+p#IndrianiLetter {
+    font-family: 'Caveat', fantasy, sans-serif;
+    font-size: 18px;
+}

@@ -7,6 +7,7 @@
         Winter, Year 1
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Winged.css">
 </head>
 
 <body>

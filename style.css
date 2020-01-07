@@ -1,12 +1,3 @@
-@import "https://fonts.googleapis.com/css?family=Calligraffitti";
-@import "https://fonts.googleapis.com/css?family=Pacifico";
-@import "https://fonts.googleapis.com/css?family=Caveat";
-@import "https://fonts.googleapis.com/css?family=Long Cang";
-@import "https://fonts.googleapis.com/css?family=Miss Fajardose";
-@import "https://fonts.googleapis.com/css?family=Bilbo";
-@import "https://fonts.googleapis.com/css?family=Kristi";
-@import "https://fonts.googleapis.com/css?family=Special Elite";
-
 /* Tooltip container */
 
 .tooltip {
@@ -141,74 +132,4 @@ table#special th {
     font-size: 16px;
     color: limegreen;
     font-weight: bold;
-}
-
-
-/* Letters from Bryti */
-
-p#BrytiLetter {
-    font-family: 'Calligraffitti', fantasy;
-    font-size: 15px;
-}
-
-
-/* Letters from Skulk */
-
-p#SkulkLetter {
-    font-family: 'Pacifico', fantasy, sans-serif;
-    font-size: 20px;
-}
-
-
-/* Reports from Doukas */
-
-p#DoukasLetter {
-    font-family: 'Long Cang', serif;
-    font-size: 20px;
-}
-
-
-/* Reports from Indriani */
-
-p#IndrianiLetter {
-    font-family: 'Caveat', fantasy, sans-serif;
-    font-size: 18px;
-}
-
-
-/* Letters from Fury */
-
-p#FuryLetter {
-    font-family: 'Miss Fajardose';
-    font-size: 25px;
-}
-
-
-/* Letters from Hunger */
-
-p#HungerLetter {
-    font-family: 'Bilbo', sans-serif;
-    font-size: 17px;
-}
-
-p#DogLetter {
-    font-family: 'Bilbo', sans-serif;
-    font-weight: bolder;
-    font-size: 20px;
-}
-
-
-/* Letters from Cantia */
-
-p#CantiaLetter {
-    font-family: 'Kristi', fantasy;
-    font-size: 15px;
-}
-
-
-/* Letters from Governor */
-
-p#GovJerk {
-    font-family: 'Special Elite', serif;
-    font-size: 20px;
 }

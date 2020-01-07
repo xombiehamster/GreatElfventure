@@ -7,6 +7,7 @@
         Winged Elf Year 1 - Winter
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Winged.css">
 </head>
 
 <body>

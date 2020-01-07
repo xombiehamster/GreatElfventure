@@ -7,6 +7,8 @@
         A Surtian Flight
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Winged.css">
+    <link rel="stylesheet" type="text/css" href="../../Fire/Fire.css">
 </head>
 
 <body>
