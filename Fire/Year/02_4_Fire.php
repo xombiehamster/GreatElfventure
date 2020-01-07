@@ -168,6 +168,7 @@
 <p>They turn out to be from a tiny extremist sect called the Blue Flame. The group seems to believe that fire elves have even further to go before reaching their true destiny as "perfect flame," whatever the fuck that means. The group measured less than ten, and this represented all their Praesidium members. Considering their leaders fled Surt as soon as the ambush failed, your analysts believe that they may have had outside help.</p>
 <p>Thankfully, that's the only major incident with the blade elves. There are a litany of smaller clashes, but far from anything serious. By the end of the season, the majority of non-extremist blade elves are satisfied that the blade elves are genuinely there to help and not to invade.</p>
 <p>They're shit at lying anyway.</p>
+<h3 id="back">Roleplay Event 2.4.1: <a href="../Bonus/6_A Blade's Edge.php">A Blade's Edge</a></h3>
 <p><strong>Military-</strong> The Coyotes are absolutely infuriating to fight, but fight them you do.</p>
 <p>The opening weeks of your joint deployment are marked with nigh constant harassing raids, feints, and sabotage. Coyotes come in small groups at random times, harass supply trains, fake charges, and just generally cause trouble. None of these end up being an actual attack, but it gets aggravating.</p>
 <p><br />Damage from this is of course limited. The Charred Eagles do a good job of keeping them away from anything actually important. The winged elf rangers also prove absolute masters of their craft as well. Even though they have well more than a hundred miles of territory to cover throughout the season, they do so with extreme prejudice. More often than not, you have warning that a Coyote harassing attack is coming and are able to react and close ranks.</p>
@@ -218,7 +219,7 @@
 <p><br /><strong>Congratulations! </strong>You have survived another year in this strange and chaotic land! As a reward for your perseverance, you receive one skill point to distribute as you wish!</p>
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",9,null,null);
+        settarget("Fire",9,null,6);
         if($_SESSION["YEAR"]<3){
             $_SESSION["YEAR"] = 3;
         }
