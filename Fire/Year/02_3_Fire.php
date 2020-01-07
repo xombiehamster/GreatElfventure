@@ -174,31 +174,85 @@
 <p>Fora&eth; - Monster</p>
 <p>Unsure the significance, she sits by the rune and watches Surt as the sun goes down. In the dark, it's truly a beautiful thing. She will worry about the significance of this overlook and the rune another time. She sleeps in the open, leaning against the rock facing Surt.</p>
 <p><strong>Dogtalk:</strong></p>
-<p>Hunger Question 1: Brighteye</p>
-<p><em>Cantia Brighteye was a brilliant and mad woman who has made a wonderful stepping stone from which we may achieve greatness. We have grown past her, and now stand on a path where we may far exceed her brilliance and achievements.</em></p>
-<p><em>What are you getting at?</em></p>
-<p>Hunger Question 2: Governor</p>
-<p><em>Ah. I see what we are doing. Very well, I will play the game.</em></p>
-<p><em>Governor Goldheart was an intelligent, ambitious, ruthless, cruel, and incredibly vain man. His drive and vision were admirable, but his delusions of grandeur and sadism crippled any achievements he made.</em></p>
-<p><em>Barrabus is an idiot, but a potentially useful one.</em></p>
-<p><em>I like wine exactly as much as you do. Our sense of taste is better in Hybrid form. I imagine wine may have much more complicated flavors that way, especially ones made by Lycans. We should try it sometime.</em></p>
-<p><em>Stop asking stupid questions to which you already know the answers. I </em><em>am</em><em> you, and we are something special.</em></p>
-<p><em>I have the same ambitions, same desires, same loves and hates. I am not some mad beast that will tell you to murder your own staff. I am you without the fetters you place on yourself. I want what you want. I want the fire elves to thrive.</em></p>
-<p><em>Give me some parchment next time I am running out of space.</em></p>
-<p>Hunger Question 3: Leafstorm</p>
-<p><em>Well, at least I can't complain about our devotion to empiricism. You want to know more about me? So do I. Let us explore.</em></p>
-<p><em>I have been wondering why I am not quite so homicidal as the records of afflicted depict. I have been reading over your shoulder and I have a theory.</em></p>
-<p><em>First, Lycans exaggerate how bad the affliction is. Curse, of course, but perhaps they fear what happens if others tame their power.</em></p>
-<p><em>Second, I appear to be you, but without many of the moral and ethical chains you bind yourself with. If your average peasant or soldier was free to act out their innermost desires, they would likely just want to kill people they don't like or steal their neighbor's wife or something.</em></p>
-<p><em>Our true innermost desire does indeed seem to be the ascendancy of the fire elves, and the foundation and preservation of Surt. Therefore I want what you want, I simply see our path in a different light. That is what makes us special. Not greed or vanity, but pure ambition.</em></p>
-<p><em>Let me help you.</em></p>
-<p><br /><br /></p>
-<p>Hunger Question 4: Wine?</p>
-<p><em>Fine. We will do it your way.</em></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Hunger:</p>
+</td>
+<td>
+<p id="HungerLetter">Brighteye</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dog:</p>
+</td>
+<td>
+<p id="DogLetter">Cantia Brighteye was a brilliant and mad woman who has made a wonderful stepping stone from which we may achieve greatness. We have grown past her, and now stand on a path where we may far exceed her brilliance and achievements.</p>
+<p id="DogLetter">What are you getting at?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hunger:</p>
+</td>
+<td>
+<p id="HungerLetter">Governor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dog:</p>
+</td>
+<td>
+<p id="DogLetter">Governor Goldheart was an intelligent, ambitious, ruthless, cruel, and incredibly vain man. His drive and vision were admirable, but his delusions of grandeur and sadism crippled any achievements he made.</p>
+<p id="DogLetter">Barrabus is an idiot, but a potentially useful one.</p>
+<p id="DogLetter">I like wine exactly as much as you do. Our sense of taste is better in Hybrid form. I imagine wine may have much more complicated flavors that way, especially ones made by Lycans. We should try it sometime.</p>
+<p id="DogLetter">Stop asking stupid questions to which you already know the answers. I am you, and we are something special.</p>
+<p id="DogLetter">I have the same ambitions, same desires, same loves and hates. I am not some mad beast that will tell you to murder your own staff. I am you without the fetters you place on yourself. I want what you want. I want the fire elves to thrive.</p>
+<p id="DogLetter">Give me some parchment next time I am running out of space.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hunger:</p>
+</td>
+<td>
+<p id="HungerLetter">Leafstorm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dog:</p>
+</td>
+<td><p id="DogLetter">Well, at least I can't complain about our devotion to empiricism. You want to know more about me? So do I. Let us explore.</p>
+<p id="DogLetter"> have been wondering why I am not quite so homicidal as the records of afflicted depict. I have been reading over your shoulder and I have a theory.</p>
+<p id="DogLetter">First, Lycans exaggerate how bad the affliction is. Curse, of course, but perhaps they fear what happens if others tame their power.</p>
+<p id="DogLetter">Second, I appear to be you, but without many of the moral and ethical chains you bind yourself with. If your average peasant or soldier was free to act out their innermost desires, they would likely just want to kill people they don't like or steal their neighbor's wife or something.</p>
+<p id="DogLetter">Our true innermost desire does indeed seem to be the ascendancy of the fire elves, and the foundation and preservation of Surt. Therefore I want what you want, I simply see our path in a different light. That is what makes us special. Not greed or vanity, but pure ambition.</p>
+<p id="DogLetter">Let me help you.</p></td>
+</tr>
+<tr>
+<td>
+<p>Hunger:</p>
+</td>
+<td><p id="HungerLetter">
+  Wine?
+  </p></td>
+</tr>
+<tr>
+<td>
+<p>Dog:</p>
+</td>
+<td><p id="DogLetter">Fine. We will do it your way.</p>
 <p>When the Hunger awakens, the door to the cell is wide open. The puzzle lock has been solved. He is unchained. There is a stack of parchment, a quill, and ink next to him. They are blank. He leaps to his feet.</p>
 <p>His lab is undamaged. The door is still bolted shut. Several pieces of his lab equipment have been either moved or used. The garden is intact. A quick survey of personnel reveals no suspicious reports and no missing persons.</p>
 <p>His mask is sitting out on a table where he did not leave it.</p>
-<p>He has no memory of what happened.</p>
+<p>He has no memory of what happened.</p></td>
+</tr>
+</tbody>
+</table>
     <?php
         include '../../settarget.php'; 
         settarget("Fire",8,null,8);
