@@ -202,6 +202,7 @@ The Harriers have taken Light Casualties due to their losses during the fighting
 <p>Between your recon and the siege, you learn a couple things about the Coyotes, at least the riders. They wield glaives from horseback by preference, but are good shots with their bows. They wear light armor and their horses are nearly entirely unarmored. The horses are very thin and agile, and also considerably faster than a normal horse with a move speed of about 80 in game terms. Maybe faster in a straight line. Judging by how quickly they made it from Riverhaven to Asavardi, they seem to have no problem holding up that kind of speed over a distance.</p>
 
 <p>They are far, far more than disorganized bandits. They attack with military precision and disappear into the desert with ease. They are well-trained and can execute complicated tactics on the fly. Many of the glaives they wield are silversheen, implying they are war veterans. Their skill in the saddle and control of their horses is unlike anything your elves have ever seen. They rely on speed, violence, and disorienting hit and run tactics to overwhelm foes but they are far from defenseless in a close fight. Tracking them in the expanses of the plains and deserts is nearly impossible, even for an alert flier. They are definitely going to be a force to be reckoned with.</p>
+<h3 id="jump2">Event 2.4.1: <a href="../Bonus/8_An Unwelcome Visitor.php">An Unwelcome Visitor</a></h3>
 
     <p><b>Economic:</b>  The Coyotes trampled the <i>fucking garden</i>. It was almost done! Everything was almost ready! But some fucking <i>lunatics</i> decide that they wanted to ride <i>horses</i> along <i>cliff faces</i>!</p>
 
@@ -235,7 +236,7 @@ The Harriers have taken Light Casualties due to their losses during the fighting
 
      <p><b>Character:</b>
      <p><b>Anasatri:</b></p>
-<p id="jump"> Anasatri receives <a href="../Bonus/7_A Silent Answer.php">a silent answer.</a> </p>
+<p id="jump"> Anasatri receives <a href="../Bonus/9_A Silent Answer.php">a silent answer.</a> </p>
 
 <p>Over the next few days, Anasatri scans through star charts to try to find some point of reference for the starfields now locked in her head. By chance, she finds a chart made by Viss that seems to show the exact starfield that was visible during the vision. It is at a specific date and location. The location lines up with where Surt is now, on the first day of summer this coming year. The exact date and location of the potluck upcoming in a few months.</p>
 
@@ -295,7 +296,7 @@ However, he is not helpless! Keep an eye out for shared roleplaying events!</p>
     <h3><a href="../../Events/03_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",9,null,7);
+        settarget("Winged",9,null,9);
         if($_SESSION["YEAR"]<3){
             $_SESSION["YEAR"] = 3;
         }

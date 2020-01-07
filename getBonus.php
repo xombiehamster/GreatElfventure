@@ -39,7 +39,8 @@ function getBArray($elf){
             $arr[4] = "A Mystery Deepens";
             $arr[5] = "A Special Delivery";
             $arr[6] = "Trust Can Get You Killed";
-            $arr[7] = "A Blade's Edge";
+            $arr[7] = "A Surtian Flight";
+            $arr[8] = "A Blade's Edge";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
@@ -73,9 +74,10 @@ function getBArray($elf){
             $arr[4] = "Spring";
             $arr[5] = "A Forgotten Testimony";
             $arr[6] = "A Closeted Tourist";
-            $arr[7] = "A Silent Answer";
+            $arr[7] = "A Surtian Flight";
             $arr[8] = "An Unwelcome Visitor";
-            $arr[9] = "A Rude Awakening";
+            $arr[9] = "A Silent Answer";
+            $arr[10] = "A Rude Awakening";
         break;
     }
     return $arr;

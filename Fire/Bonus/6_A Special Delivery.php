@@ -33,7 +33,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/02_1_Fire.php#jump2","../Year/02_1_Fire.php#jump2");
-        setlast("Bonus/5_A Special Delivery.php");
+        setlast("Bonus/6_A Special Delivery.php");
     ?>
 </body>
 </html>

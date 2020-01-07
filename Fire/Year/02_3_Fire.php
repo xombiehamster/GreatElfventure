@@ -124,6 +124,7 @@
 <li>The Territory that Smoke encountered the lava bubble in now has an <em>Open Lava Pit.</em> Most likely caused by the bubble, this kilometer long open scar is filled with free flowing magma. It appears to be contained, but the winged elves report that they may have seen something moving along the surface of the lava a couple of times, leading to a <em>Lava Cryptid Rumor</em> Aspect. It could just be harder boulders shaken up by the eruption floating to the top, but one scout <em>swears </em>they saw scales.</li>
 <li>The winged elves reach and examine the mineral deposit. Upon their return, Varna personally goes to deliver a report on their discovery to the Hunger. This report consists of Varna smugly clunking a gold nugget the size of a child's fist on the Hunger's desk. Varna has a supremely smug grin the whole time.</li>
 </ul>
+<h3 id="jump">Roleplay Event 2.3.1: <a href="../Bonus/8_A Surtian Flight.php">A Surtian Flight</a></h3>
 <p><strong>Mental- </strong>Congratulations! You have successfully created the ritual <em>Deep Scan!</em> It has the following stats-</p>
 <ul>
 <li><strong>Risk </strong>- Low</li>
@@ -200,7 +201,7 @@
 <p>He has no memory of what happened.</p>
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",8,null,null);
+        settarget("Fire",8,null,8);
         include '../footer.php';
         echo getarrows("02_2_Fire.php","02_4_Fire.php");
         setlast("Year/02_3_Fire.php");

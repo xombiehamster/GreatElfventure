@@ -45,6 +45,7 @@
 </table>
 <p><em>Fire Elves problems:</em></p>
 <p><strong>Fire Elves ain&rsquo;t got no problems&nbsp;</strong></p>
+<h3 id="jump">Roleplay Event 2.1.1: <a href="../Bonus/3_A Hitchhiker in Partager.php">A Hitchhiker in Partager</a></h3>
 <p><strong>Economic Action</strong>:&nbsp;</p>
 <p>Infrastructure (Establishment): The Backbone of Nations [the Hunger]</p>
 <p><em>Includes a Bonus Die from Locke&rsquo;s Extra Supplies (Year 0)</em></p>
@@ -76,7 +77,7 @@
 <p>And all at the cost of sharing this insight with a relative unknown&hellip; and risking the oath she made in Mispelham by doing so. But she can&rsquo;t not take this chance. She may never get another.</p>
 <p>The tattoo is too beautiful to forget. She tries repeatedly to copy its design (physically and arcanicly -- but only the design, not the magic in it), to at least save it so she can remember it, but no copy ever quite matches up to the original.</p>
 <p>She pours as much of the summer as she can into her research, and sets her sights on the last full moon before fall -- as close to the conditions of the Conflagration as possible. She clears some space in her chambers, borrows a square of precious silver from the treasury, lights a few candles, and as the full moon reaches its crest, releases the spell.</p>
-<h3 id="back">Roleplay Event 2.1.1: <a href="../Bonus/3_A Painful Memory.php">A Painful Memory</a></h3>
+<h3 id="back">Roleplay Event 2.1.1: <a href="../Bonus/4_A Painful Memory.php">A Painful Memory</a></h3>
 <p><strong>Hunger Action:</strong></p>
 <p>Potluck survived, will-improving drugs available. The Hunger decides its time to up his game.</p>
 <p>Step one is to put out a call for nonlethal poisons (&lsquo;Drow poison&rsquo; or its equivalent being his primary target, with Azure Lily seeds being a secondary target; the Hunger thinks he might be able to grow Azure Lilies himself with a bit of experimentation). The Dreamdust elves are likely to have access to this, so the Hunger quietly commissions a local merchant to arrange a small amount of trade in these via the River Elves, on the grounds of using them as medical supplies. While not a surefire effect, poisons can be a good way to neutralize the dog&rsquo;s capabilities if taken shortly before the transformation. This is also by no means a permanent solution (frigging divine curses), but he doesn&rsquo;t expect one as of yet. This just buys more time.&nbsp;</p>
@@ -84,7 +85,7 @@
 <p>Step three is a surreptitious check to find out if there *are* any powerful divine casters in the area. The Hunger strongly doubts it, but researching tales and legends about local divine powers won&rsquo;t hurt. [Diplomacy (Gather Info): 32]</p>
 <p>Step four is to briefly consider trying to become a lich. The Hunger decides that&rsquo;s a little gross, and also that he&rsquo;s not 100% sure that the curse won&rsquo;t find a way to turn him into some kind of lichanthrope.&nbsp;</p>
 <p>Step five is to consider that he may be taking this from the wrong angle. He gets several pieces of chalk, dyes them with a few extra inks, and scrawls &ldquo;write messages here&rdquo; on one of the cell&rsquo;s walls, before leaving a piece of chalk in the cell, next to a pile of goat bones. He considers this extremely unlikely to get anywhere, but worth an experiment.</p>
-<h3 id="jump2">Roleplay Event 2.1.2: <a href="../Bonus/5_A Special Delivery.php">A Special Delivery</a></h3>
+<h3 id="jump2">Roleplay Event 2.1.2: <a href="../Bonus/6_A Special Delivery.php">A Special Delivery</a></h3>
 <p><strong>End of Turn </strong></p>
 <h3>Summer Year 2 Results</h3>
 <p><strong>Results-</strong></p>
@@ -133,7 +134,7 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",6,null,5);
+        settarget("Fire",6,null,6);
         include '../footer.php';
         echo getarrows("01_4_Fire.php","02_2_Fire.php");
         setlast("Year/02_1_Fire.php");

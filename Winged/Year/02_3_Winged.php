@@ -130,7 +130,7 @@
 
 <li>Your scouts reach and examine the mineral deposit identified by fire elf magic. Upon their return to Surt, Varna personally goes to deliver a report on their discovery to the Hunger. This report consists of Varna smugly clunking a gold nugget the size of a child's fist on the Hunger's desk. Oh, gods damn it all, it’s going to take <i>years</i> for Varna to lose the shit eating grin he got after doing that.</li>
 </ul>
-
+<h3 id="jump">Roleplay Event 2.3.1: <a href="../Bonus/7_A Surtian Flight.php">A Surtian Flight</a></h3>
     <p><b>Mental:</b> The researchers report that the Observatory gets cold as <i>balls</i> in the winter. Thankfully the underground archives stay warm at night, giving them a good place to pile. They make it through without any big problems as well. It might need to be addressed long term if you put a population center up there, though.</p>
 
 <p>At any rate, starting with the practical was an excellent idea. It’s one thing to get everything organized, it’s another to actually find a way to use it. One thing’s for sure, when Dusk said “any place on the surface of the world to within a few miles, any time within a few thousand years within an hour”, she was <i>not fucking kidding</i>. The purely practical star charts that only list the exact positioning of the stars, planes, and moon as you would see them in the sky still contain an absolutely staggering amount of information. Bizarrely, they are not in any kind of chronological order. You are able to use the decoded category system to find what you need of course, but how exactly each set of charts was intended to relate to time or location is not clear from the organizational methods. There is clearly some cultural context you are missing. For some unknown reason, the Lycans were projecting the night sky from all kinds of places all over the world, sometimes hundreds or even thousands of years in the past or future.</p>
@@ -144,7 +144,7 @@
 <p>In addition, you find a few star charts that cover the area around the Watchtower in extreme detail. Any future Reconnaissance checks done within 5 squares of the Watchtower will be done with an Upgrade.</p>
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",8,null,null);
+        settarget("Winged",8,null,7);
         include '../footer.php';
         echo getflapstory(null,"../Bonus/????.php");
         echo getarrows("02_2_Winged.php","02_4_Winged.php");

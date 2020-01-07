@@ -289,7 +289,7 @@
     <p>-Fin-</p>
 <?php
     include '../footer.php';
-    echo getarrows("../Year/02_4_Fire.php#back","../Year/02_4_Fire.php#back");
-    setlast("Bonus/5_Trust Can Get You Killed.php");?>
+    echo getarrows("../Year/02_2_Fire.php#back","../Year/02_2_Fire.php#back");
+    setlast("Bonus/7_Trust Can Get You Killed.php");?>
 </body>
 </html>
