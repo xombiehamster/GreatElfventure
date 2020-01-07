@@ -2,7 +2,7 @@
 @import "https://fonts.googleapis.com/css?family=Pacifico";
 @import "https://fonts.googleapis.com/css?family=Caveat";
 @import "https://fonts.googleapis.com/css?family=Long Cang";
-@import "https://fonts.googleapis.com/css?family=Alex Brush";
+@import "https://fonts.googleapis.com/css?family=Miss Fajardose";
 
 /* Tooltip container */
 
@@ -176,6 +176,6 @@ p#IndrianiLetter {
 /* Letters from Fury */
 
 p#FuryLetter {
-    font-family: 'Alex Brush';
-    font-size: 17px;
+    font-family: 'Miss Fajardose';
+    font-size: 25px;
 }
