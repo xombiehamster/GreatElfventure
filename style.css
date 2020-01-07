@@ -5,6 +5,7 @@
 @import "https://fonts.googleapis.com/css?family=Miss Fajardose";
 @import "https://fonts.googleapis.com/css?family=Bilbo";
 @import "https://fonts.googleapis.com/css?family=Kristi";
+@import "https://fonts.googleapis.com/css?family=Special Elite";
 
 /* Tooltip container */
 
@@ -196,9 +197,18 @@ p#DogLetter {
     font-size: 20px;
 }
 
+
 /* Letters from Cantia */
 
 p#CantiaLetter {
     font-family: 'Kristi', fantasy;
     font-size: 15px;
+}
+
+
+/* Letters from Governor */
+
+p#GovJerk {
+    font-family: 'Special Elite', serif;
+    font-size: 20px;
 }
