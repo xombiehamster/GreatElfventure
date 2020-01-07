@@ -21,6 +21,9 @@ function getPotlucks($year){
     #CRAG
     if($_SESSION["CRAG"]>0){
         $str .= '<td></td>';
+        if(!is_null($arr[6])){
+            $str .= '<ul><li><a href="'.$arr[6].'">Year 6: A Placeholder Potluck</a></li>';
+        }
     }
     #DARK
     $str .= '<td></td>';
