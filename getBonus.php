@@ -35,12 +35,13 @@ function getBArray($elf){
             $arr[0] = "A Tourist in Surt";
             $arr[1] = "A Minor Miscalculation";
             $arr[2] = "A Wolf Walks into a Bar";
-            $arr[3] = "A Painful Memory";
-            $arr[4] = "A Mystery Deepens";
-            $arr[5] = "A Special Delivery";
-            $arr[6] = "Trust Can Get You Killed";
-            $arr[7] = "A Surtian Flight";
-            $arr[8] = "A Blade's Edge";
+            $arr[3] = "A Hitchhiker in Partager";
+            $arr[4] = "A Painful Memory";
+            $arr[5] = "A Mystery Deepens";
+            $arr[6] = "A Special Delivery";
+            $arr[7] = "Trust Can Get You Killed";
+            $arr[8] = "A Surtian Flight";
+            $arr[9] = "A Blade's Edge";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
