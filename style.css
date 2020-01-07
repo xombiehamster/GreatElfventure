@@ -4,6 +4,7 @@
 @import "https://fonts.googleapis.com/css?family=Long Cang";
 @import "https://fonts.googleapis.com/css?family=Miss Fajardose";
 @import "https://fonts.googleapis.com/css?family=Bilbo";
+@import "https://fonts.googleapis.com/css?family=Kristi";
 
 /* Tooltip container */
 
@@ -193,4 +194,11 @@ p#DogLetter {
     font-family: 'Bilbo', sans-serif;
     font-weight: bolder;
     font-size: 20px;
+}
+
+/* Letters from Cantia */
+
+p#CantiaLetter {
+    font-family: 'Kristi', fantasy;
+    font-size: 15px;
 }
