@@ -7,6 +7,7 @@
         A Cold Reunion
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../../Blade/NPC.css">
 </head>
 <body>
     <h1>A Cold Reunion</h1>
