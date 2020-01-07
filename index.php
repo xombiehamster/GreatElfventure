@@ -3,6 +3,9 @@
     include 'getList.php';
     include 'getBonus.php';
     include 'getMeta.php';
+    if(is_null($_SESSION["CRAG"]) && $_SESSION["YEAR"]>2){
+        $_SESSION["CRAG"] = 2;
+    }
 ?>
 <!DOCTYPE html>
 <html>
