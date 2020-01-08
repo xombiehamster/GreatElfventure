@@ -7,6 +7,7 @@
         A Tourist Trap
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../../Blade/NPC.css">
 </head>
 
 <body>
