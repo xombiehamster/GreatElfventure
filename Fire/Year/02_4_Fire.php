@@ -113,14 +113,14 @@
 <p>Dog:</p>
 </td>
 <td>
-<p>It's think tank not thinktank.</p>
-<p>Thank you for the wine. I will endeavor to allow us both to savor it. It is good to see we can both be civil.</p>
-<p>Speaking of, allow me to assuage your concerns. First of all, I am you means if you get beheaded for being a werewolf, I get beheaded for being a werewolf. Like you, I have no desire to die. That alone is reason enough for me to understand our need for secrecy.</p>
-<p>More importantly, I also appear to have your drive and intelligence. I have no idea to prowl the streets as a beast and take prey as I desire. That's so trite and pedantic. No, like I said your deepest innermost desires are far more lofty and ambiguous. That is what makes us special.</p>
-<p>I have those crude animal instincts that the Lycans talk about overwhelming your mind, but in our case it appears to be different. I apply my instincts with your intellect. I believe this may give us an edge. After all, recent events show that our backs are to a wall. Can you really afford to give up an extra set of eyes? A version of your brilliance, with added insight and instinct, working on your problems while you cannot?</p>
-<p>I will agree to stay in the "think tank" and work on our problems instead of trying to escape or overwhelm you on one condition: Give me the tools I need to work. After all, how much could you accomplish if just starting at a concrete wall? I would prefer the whole lab, but even limited access to our notes would help.</p>
-<p>As a proof of concept, during our last transformation, I spent some time going over our project notes for the new settlement at Gedr. I wrote down some ideas for setting up one of our purification systems in the cove itself. This would make the water much more palatable to the river elves, and make them far more receptive to trading with us. You should take a look.</p>
-<p>Take your time deciding, but remember: Whoever this is trying to pull us apart, they are not being patient.</p>
+<p id="DogLetter">It's think tank not thinktank.</p>
+<p id="DogLetter">Thank you for the wine. I will endeavor to allow us both to savor it. It is good to see we can both be civil.</p>
+<p id="DogLetter">Speaking of, allow me to assuage your concerns. First of all, I am you means if you get beheaded for being a werewolf, I get beheaded for being a werewolf. Like you, I have no desire to die. That alone is reason enough for me to understand our need for secrecy.</p>
+<p id="DogLetter">More importantly, I also appear to have your drive and intelligence. I have no idea to prowl the streets as a beast and take prey as I desire. That's so trite and pedantic. No, like I said your deepest innermost desires are far more lofty and ambiguous. That is what makes us special.</p>
+<p id="DogLetter">I have those crude animal instincts that the Lycans talk about overwhelming your mind, but in our case it appears to be different. I apply my instincts with your intellect. I believe this may give us an edge. After all, recent events show that our backs are to a wall. Can you really afford to give up an extra set of eyes? A version of your brilliance, with added insight and instinct, working on your problems while you cannot?</p>
+<p id="DogLetter">I will agree to stay in the "think tank" and work on our problems instead of trying to escape or overwhelm you on one condition: Give me the tools I need to work. After all, how much could you accomplish if just starting at a concrete wall? I would prefer the whole lab, but even limited access to our notes would help.</p>
+<p id="DogLetter">As a proof of concept, during our last transformation, I spent some time going over our project notes for the new settlement at Gedr. I wrote down some ideas for setting up one of our purification systems in the cove itself. This would make the water much more palatable to the river elves, and make them far more receptive to trading with us. You should take a look.</p>
+<p id="DogLetter">Take your time deciding, but remember: Whoever this is trying to pull us apart, they are not being patient.</p>
 </td>
 </tr>
 <tr>
@@ -136,11 +136,11 @@
 <p>Dog:</p>
 </td>
 <td>
-<p>Ah, I see. I agree, it is quite suspicious that so much widespread chaos is happening all at once. Specifically, what I predict is that what I predict is irrelevant. We must prepare for the worst case scenario, that being that all of these events are indeed related, and a product of enemy action. In that case, I agree with the course of action taken. It leaves multiple openings covered, but more importantly is decisive. Dithering about perfect solutions creates an opening, and choice paralysis makes you a target. While it does indeed leave us open for a direct, focused attack on Surt or Alfyr, neither are undefended or unprepared. If either is subject to a coordinated military attack, we will be hampered in our response but less so than if we left a location completely undefended.</p>
-<p>As far as what I predict, what I actually believe is going to happen&hellip; Allow my animal instinct to speak. The Coyotes are opportunistic predators. Scavengers. They have been seen observing targets for quite some time. There was a valuable target - the merchant shipment - that was undefended and in the open. They hit it and ran. Like the Coyotes they name themselves after, they take what is easiest and flee. I believe they will not continue to engage, but instead either hide or seek out a new target.</p>
-<p>I think the Coyotes are an independent actor working solely for their own gain. Whether or not they are connected to the wolf elves is unknown. They did somehow know where and when to find the shipment. The wolf elves seem to be playing a longer game, though. I am not sure what they are getting at, but they are definitely not bandits or thieves. If these two factions are cooperating, it&rsquo;s probably tenuous at best.</p>
-<p>So, the Coyotes are not going to attack us, unless something profitable is left vulnerable. The wolf elves, however, may take advantage of how spread thin our forces are. I am not sure what they want, but given they disguise themselves they clearly are trying to formulate mistrust.</p>
-<p>The most likely action we will suffer is an attempt to sabotage the upcoming Potluck. We should keep our eyes there. We need to learn what the wolf elves want, or we will be forever on our back paws.</p>
+<p id="DogLetter">Ah, I see. I agree, it is quite suspicious that so much widespread chaos is happening all at once. Specifically, what I predict is that what I predict is irrelevant. We must prepare for the worst case scenario, that being that all of these events are indeed related, and a product of enemy action. In that case, I agree with the course of action taken. It leaves multiple openings covered, but more importantly is decisive. Dithering about perfect solutions creates an opening, and choice paralysis makes you a target. While it does indeed leave us open for a direct, focused attack on Surt or Alfyr, neither are undefended or unprepared. If either is subject to a coordinated military attack, we will be hampered in our response but less so than if we left a location completely undefended.</p>
+<p id="DogLetter">As far as what I predict, what I actually believe is going to happen&hellip; Allow my animal instinct to speak. The Coyotes are opportunistic predators. Scavengers. They have been seen observing targets for quite some time. There was a valuable target - the merchant shipment - that was undefended and in the open. They hit it and ran. Like the Coyotes they name themselves after, they take what is easiest and flee. I believe they will not continue to engage, but instead either hide or seek out a new target.</p>
+<p id="DogLetter">I think the Coyotes are an independent actor working solely for their own gain. Whether or not they are connected to the wolf elves is unknown. They did somehow know where and when to find the shipment. The wolf elves seem to be playing a longer game, though. I am not sure what they are getting at, but they are definitely not bandits or thieves. If these two factions are cooperating, it&rsquo;s probably tenuous at best.</p>
+<p id="DogLetter">So, the Coyotes are not going to attack us, unless something profitable is left vulnerable. The wolf elves, however, may take advantage of how spread thin our forces are. I am not sure what they want, but given they disguise themselves they clearly are trying to formulate mistrust.</p>
+<p id="DogLetter">The most likely action we will suffer is an attempt to sabotage the upcoming Potluck. We should keep our eyes there. We need to learn what the wolf elves want, or we will be forever on our back paws.</p>
 </td>
 </tr>
 <tr>
@@ -156,10 +156,10 @@
 <p>Dog:</p>
 </td>
 <td>
-<p>You seem to misunderstand me. The shackles I am free of include the tedious morality you surround yourself with, yes. It also includes the thick layer of lies you tell yourself about your own nature. You always seek a subservient position because you fear responsibility for your actions. Not that you do not take responsibility for your actions, but rather that you take too much. You fear making the big, unguided decisions. You always want someone like the Terror or Goldheart above you, so that if the whole ship runs aground it&rsquo;s not your fault.</p>
-<p>But I digress. I do not argue that morality is a weakness for all living beings, and that society is better off without it. I argue that&nbsp;<strong>we</strong>&nbsp;are better off without it. Let the common riffraff, the fools and those that lack vision, look to the gods for guidance. It makes them easier to account for. Those of us who have the brilliance to see the world with clarity can discard such illusions and act freely, to support the outcomes that we desire. People like this have always guided society, and I believe we are such an individual.</p>
-<p>This brings me to my central argument. You want me to demonstrate why my unfettered viewpoint can be an asset in bringing Surt and the fire elves to ascendancy? Allow me to make a case for something you refuse to let yourself consider:</p>
-<p>We should kill Ashwalker Auburn Tsun.</p>
+<p id="DogLetter">You seem to misunderstand me. The shackles I am free of include the tedious morality you surround yourself with, yes. It also includes the thick layer of lies you tell yourself about your own nature. You always seek a subservient position because you fear responsibility for your actions. Not that you do not take responsibility for your actions, but rather that you take too much. You fear making the big, unguided decisions. You always want someone like the Terror or Goldheart above you, so that if the whole ship runs aground it&rsquo;s not your fault.</p>
+<p id="DogLetter">But I digress. I do not argue that morality is a weakness for all living beings, and that society is better off without it. I argue that&nbsp;<strong>we</strong>&nbsp;are better off without it. Let the common riffraff, the fools and those that lack vision, look to the gods for guidance. It makes them easier to account for. Those of us who have the brilliance to see the world with clarity can discard such illusions and act freely, to support the outcomes that we desire. People like this have always guided society, and I believe we are such an individual.</p>
+<p id="DogLetter">This brings me to my central argument. You want me to demonstrate why my unfettered viewpoint can be an asset in bringing Surt and the fire elves to ascendancy? Allow me to make a case for something you refuse to let yourself consider:</p>
+<p id="DogLetter">We should kill Ashwalker Auburn Tsun.</p>
 </td>
 </tr>
 <tr>
@@ -175,13 +175,13 @@
 <p>Dog:</p>
 </td>
 <td>
-<p>The Fury can&rsquo;t control them anyway. If Tsun died, some equally irritating Ashen would take over yes. They would also likely be a less infuriatingly competent Ashen. What makes Tsun dangerous is the fact that she is both extremely good at what she does and absolutely does not think about the long term consequences of her actions. This is an extremely dangerous combination.</p>
-  <p>
+<p id="DogLetter">The Fury can&rsquo;t control them anyway. If Tsun died, some equally irritating Ashen would take over yes. They would also likely be a less infuriatingly competent Ashen. What makes Tsun dangerous is the fact that she is both extremely good at what she does and absolutely does not think about the long term consequences of her actions. This is an extremely dangerous combination.</p>
+  <p id="DogLetter">
     Tsun does what she thinks is best for her and her particular view of the Ashen. This is the only factor she thinks about, and only in the short term. She is also very good at swaying people to her side and stirring them to action. Look how she dug in her heels about the wolf elves, how she took a shot at Ehra just because she could. She thinks emotionally, not logically. She lashes out at things that come from sources she hates, and likely easily accepts information that confirms her biases. With someone like that at the head of a movement like the Ashen, and able to command such loyalty and manipulate people so well, it is only a matter of time before she does something that permanently damages Surt’s future.
   </p>
-<p>If she dies, they&rsquo;ll have a martyr yes. Hopefully we can kill her in a way that looks like an accident, or is at least plausibly deniable. Maybe we could frame the wolf elves. At any rate, the most important factor is this:</p>
-<p>A martyr is only as good as their followers. Without Tsun, the Ashen are rudderless and incompetent. This makes them far less of a wild card to deal with.</p>
-<p>So?</p>
+<p id="DogLetter">If she dies, they&rsquo;ll have a martyr yes. Hopefully we can kill her in a way that looks like an accident, or is at least plausibly deniable. Maybe we could frame the wolf elves. At any rate, the most important factor is this:</p>
+<p id="DogLetter">A martyr is only as good as their followers. Without Tsun, the Ashen are rudderless and incompetent. This makes them far less of a wild card to deal with.</p>
+<p id="DogLetter">So?</p>
 </td>
 </tr>
 </tbody>
