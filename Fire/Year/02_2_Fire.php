@@ -4,6 +4,8 @@
 <head>
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../../Blade/NPC.css">
+    <link rel="stylesheet" type="text/css" href="../Fire.css">
     <title>
         Fire Elf Year 2 - Fall
     </title>
@@ -118,7 +120,7 @@
 <p>Better yet, planting the lilies is a success! Technically! They are quite hard to grow. He struggles getting the alchemical balance of the soil and water right and loses a few batches. Still, he eventually succeeds. Once. He has successfully grown only one flower, but has plenty of seeds left.</p>
 <p>The Dog&rsquo;s response to your message is dragging a paw through the message, erasing it with a swipe. Beneath that, the Dog writes in sightly better handwriting than last time,</p>
 <p>Transformation 1:</p>
-<table>
+<table align="left">
 <tr>
 <td>
 <p>Hunger:</p>
@@ -137,7 +139,7 @@
 </tr>
 </table>
 <p>Transformation 2:</p>
-<table>
+<table align="left">
 <tbody>
 <tr>
 <td>
@@ -156,7 +158,7 @@
 </td>
 </tr>
 </tbody>
-</table><p>Transformation 3:</p>
+</table align="left"><p>Transformation 3:</p>
 <table>
 <tbody>
 <tr>
@@ -181,7 +183,7 @@
   The Dog&rsquo;s handwriting is getting better, and it appears to be able to write more in a small space.
 </p>
 <p>Transformation 4:</p>
-<table>
+<table align="left">
 <tbody>
 <tr>
 <td>
