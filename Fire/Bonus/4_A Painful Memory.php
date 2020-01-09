@@ -98,7 +98,7 @@
 <p id="GovJerk">She has fallen to her knees. She cries out in agony as the bands of infernal fire sear her flesh like a steak on a grill. She should not be able to move at all, yet she struggles against them. As her hand burns nearly to ash, she reaches for the edge of the circle.</p>
 <p id="GovJerk">"No!" You scream as you lunge towards her, "You stupid girl, you'll kill us all!"</p>
 <p id="GovJerk">Bound in blood crimson fire, she turns to look at you. Her eyes are filled with tears and agony, but also hate and rage. You reach out to pull her away. You are too late. The girl drags her hand across the line and breaks the circle.</p>
-    <div style="display:inline"><p id="GovJerk">Everything beco</p><p>mes pain.</p></div>
+    <div style="display:inline"><p><p id="GovJerk">Everything beco</p>mes pain.</p></div>
 <p>A weeping girl was thrown from the memory, into the infinite expanse of the plane of eternal memory. She cried out in pain and confusion. A billion memories assaulted her mind, dragging her away.</p>
 <p><i>No.</i></p>
 <p><i>I am the Fury. I am the daughter of the sun. The heart of a phoenix beats in my chest. I am passion made manifest. I am a pyre of pure will. <b>I will not be denied.</b></i></p>
