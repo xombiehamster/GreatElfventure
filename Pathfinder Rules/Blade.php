@@ -50,7 +50,7 @@
         <td>Skill bonus (Perception) - Elves receive a +2 racial bonus on Perception checks.</td>
     </tr>
     <tr>
-        <td><i>Disciplined Leadership</i</td>
+        <td><i>Disciplined Leadership</i></td>
         <td>Blade Elves may use their wisdom bonus instead of their charisma bonus to determine their Leadership score, as well as on any check made to lead their allies in battle.</td>
     </tr>
     <tr>
