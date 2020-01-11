@@ -16,7 +16,7 @@
 <p>Below you'll see the document that includes the rules for the Great Elfventure campaign is a mostly-unedited state.</p>
 
 
-<iframe src=<?php $doc;?> style="width=100%">
+<iframe src=<?php $doc;?>>
 </iframe>
 
 <div style="overflow-x:auto;">
