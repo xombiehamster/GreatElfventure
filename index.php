@@ -90,18 +90,11 @@ Rules/Rules Index.php">CivElf</a></span>.
                 <?php echo getList("Winged",$_SESSION["WINGED"]);?>
             </td>
         </tr>
-            <!-- Literally just a line. -->
-            <tr><td colspan = "7"><hr/></td>
-        </tr>
         <?php
             # Potluck documents
             include 'getPotlucks.php';
             echo getPotlucks($_SESSION["YEAR"]);
         ?>
-        <tr>
-            <!-- Literally just a line. -->
-            <td colspan = "7"><hr/></td>
-        </tr>
         <tr>
             <!-- Meta documents -->
             <td>
@@ -129,10 +122,6 @@ Rules/Rules Index.php">CivElf</a></span>.
             </td>
         </tr>
         <tr>
-            <!-- Literally just a line. -->
-            <td colspan = "7"><hr/></td>
-        </tr>
-        <tr>
             <!-- Bonus documents -->
             <td>
                 <?php echo getBonus("Blade",$_SESSION["B_EXTRA"]);?>
@@ -157,10 +146,6 @@ Rules/Rules Index.php">CivElf</a></span>.
             <td>
                 <?php echo getBonus("Winged",$_SESSION["W_EXTRA"]);?>
             </td>
-        </tr>
-        <tr>
-            <!-- Literally just a line. -->
-            <td colspan = "7"><hr/></td>
         </tr>
     </table>
 </div>
