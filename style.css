@@ -140,5 +140,6 @@ iframe {
     justify-content: center;
     align-items: center;
     border: none;
-    width: 100%;
+    width: 400px;
+    height: 400px;
 }
