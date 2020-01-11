@@ -7,6 +7,8 @@
     <title>
         Dreamdust Elf Year 2 - Fall
     </title>
+   
+<link rel="stylesheet" type="text/css" href="../Dreamdust.css">
 </head>
 
 <table style="width:100%">

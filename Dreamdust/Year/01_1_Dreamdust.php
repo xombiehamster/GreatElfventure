@@ -3,6 +3,9 @@
 
 <head>
 <?php include '../../header.php'; ?>
+<link rel="stylesheet" type="text/css" href="../../style.css">
+<link rel="stylesheet" type="text/css" href="../Dreamdust.css">
+
     <title>
         Dreamdust Elf Year 1 - Summer
     </title>

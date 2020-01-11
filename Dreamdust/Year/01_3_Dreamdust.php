@@ -6,6 +6,8 @@
     <title>
         Dreamdust Elf Year 1 - Winter
     </title>
+    <link rel="stylesheet" type="text/css" href="../../style.css">
+<link rel="stylesheet" type="text/css" href="../Dreamdust.css">
 </head>
 
 <body>
