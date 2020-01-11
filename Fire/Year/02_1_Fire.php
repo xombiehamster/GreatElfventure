@@ -4,6 +4,7 @@
 <head>
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Fire.css">
     <title>
         Fire Elf Year 2 - Summer
     </title>
@@ -128,7 +129,7 @@
 <p>Step Five- The Hunger is beginning to suspect that there is more to the dog than base instinct. With his preparations, he is able to remember what happened during a transformation a little less than half the time.</p>
 <p>Instead of simply pacing the cell and chewing on bone, he remembers examining his bonds, fiddling with the locking mechanism of the door, and inspecting the vents and the walls. Thankfully it does not appear to have his memories of these things.</p>
 <p>On the off chance that it may be more than it appears, he leaves the chalk and the message. That morning, he finds a reply scrawled in large letters clearly made while pressing too hard:</p>
-<p>"Set me free you <em>COWARD</em>"</p>
+<p id="DogLetter">"Set me free you <em>COWARD</em>"</p>
 <p>Yeah that's not good.</p>
 
     
