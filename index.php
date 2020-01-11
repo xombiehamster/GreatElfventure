@@ -47,7 +47,7 @@ Rules/Rules Index.php">CivElf</a></span>.
 <p>Alternatively, you can jump right in to reading the yearly tales of the lives of the elves with the Blade Elves' first turns.</p>
 
 <div style="overflow-x:auto;">
-    <table style="width:100%">
+    <table style="width:100%" id="special">
         <tr>
             <!-- Headers -->
             <th>Blade Elves</th>
