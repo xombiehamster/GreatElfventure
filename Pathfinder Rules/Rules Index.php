@@ -1,4 +1,7 @@
-<?php session_start(); ?>
+<?php 
+    session_start(); 
+    $doc = "https://docs.google.com/document/d/e/2PACX-1vT7L3V34JReYxQYckTVjqCBM2ekTJOL1XzwVnA6Rkir0Ljr3j2RlPBRTgP6F1AZ1nAkDSkjz_wezCvs/pub?embedded=true";
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,7 +16,8 @@
 <p>Below you'll see the document that includes the rules for the Great Elfventure campaign is a mostly-unedited state.</p>
 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT7L3V34JReYxQYckTVjqCBM2ekTJOL1XzwVnA6Rkir0Ljr3j2RlPBRTgP6F1AZ1nAkDSkjz_wezCvs/pub?embedded=true"></iframe>
+<iframe src=<?php $doc;?> style="width=100%">
+</iframe>
 
 <div style="overflow-x:auto;">
     <table id="special">
