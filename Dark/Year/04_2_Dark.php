@@ -4,6 +4,7 @@
 <head>
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Dark.css">
     <title>
         Dark Elf Year 4 - Fall
     </title>

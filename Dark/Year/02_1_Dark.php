@@ -6,6 +6,7 @@
         Dark Elf Year 2 - Summer
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Dark.css">
 </head>
 
 <body>
