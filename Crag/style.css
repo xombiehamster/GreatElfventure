@@ -2,12 +2,12 @@
 @import "https://fonts.googleapis.com/css?family=Pacifico";
 @import "https://fonts.googleapis.com/css?family=Average";
 body {
-    background-color: lightgrey;
-    font-family: 'Proxima Nova', 'Average';
+    background-color: #f2f2f2;
+    font-family: 'Average';
 }
 
 p {
-    font-family: 'Proxima Nova', 'Average';
+    font-family: 'Average';
 }
 
 p#cline {
