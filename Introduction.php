@@ -1,0 +1,24 @@
+<?php session_start(); ?>
+<!DOCTYPE html>
+
+<head>
+<?php include 'header.php'; ?>
+    <title>
+        A Measure of Hospitality
+    </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <p>“...Which brings us, of course, to the <i>Absempiria</i> Era.  Yes, yes, I can already see some of you rolling your eyes  out there; I’d expect that by now in your academic careers, you’ve likely already had 3-4 ‘Mainland Civilizations’ courses that covered this pivotal event in history.  However, it’s in the Table of Contents, so we have to cover it.  Between you and me, though, I’m pretty sure you know the details… so how about we cover this one <i>fast?</i> Hold onto your reading glasses...</p>
+    <p>So, many many moons ago, hmm hmm, came the rise of the <i>Lycan Empire</i>, which was dominated, naturally, by a variety of Lycanthropes: Werewolves, mostly, but a healthy dose of other types as well.  Thanks to their natural advantages, they conquered near full 3/4ths of the Mainland Continent, integrating, subjugating, and enslaving countless other primitive societies, and held that territory for centuries.  All in all, things were going pretty great for them, until, like always, they didn’t. </p>
+    <p>While the Fall of the Lycan Empire has countless possible reasons, two in particular were well-documented historically, so they tend to be the de jure explanation for the Empire’s fall.  The first is attributed to a massive destabilization of their central leadership by one Dreyrugr ‘Hearteater’, a general who seized executive power and then proceeded to run roughshod over his constituents in a pretty traditional megalomaniacal fashion.  The second is attributed to a massive slave revolt-turned-rebellion launched <i>aroundish</i> the same time, which began in predominantly human lands and eventually spanned across the whole continent. Probably there were a bunch of socioeconomic factors too, but those are <i>boring</i>, so they don’t get top billing.</p>
+    <p>According to Paradotus, whose <i>Hysteres</i> is the most tediously, mind-numbingly complete record from the time, the catalyst of this rebellion was one Jeremiah Lock, who rallied the oppressed peoples of the Empire, i.e. predominantly humans, dwarves, and elves (in that order), against the Lycans, and thanks to Manifest Destiny (or, more likely, Silversheen and dumb luck) managed to prevail over them, slaying Dreyrugr at the <i>Battle of Skaplyndi</i> (named for the fact that the battle took place at, go figure, Skaplyndi, the Heart of the Empire).  This massive, climactic battle, which took place over several weeks and featured casualties of upwards of tens of thousands, spelled the death knell for the Lycan Empire, and ushered in a new Age, according to Paraodotus.  Afterwards, in a great convocation of the aforementioned Peoples who participated at this ‘Battle to End All Battles’ (which has worked out great so far),  it was decided that no one race should e’re again have dominion over another (which has <i>also</i> worked out great so far), and so under Lock’s wise guidance, the imperial lands were divided between those at the table, thus setting the stage for much of the shape of the modern world.</p>
+    <p>Aaand- Time!  There you have it, more than half a millenia in five paragraphs.  According to the tyrannical table of contents, this part was supposed to take… 200 pages.  Now, I suppose we could move on to the <i>Arcanic Enlightenment</i>, but you know what?  How about we do something fun instead?  <i>Hysteres</i> might be the best <i>maintained</i> record of the time, but it is by no means the <i>only</i>.  There are hundreds of other records, each of which purport a slightly different sequence of events.  There are some stodgy dwarven records, some condescending draconic ones, some <i>spooky</i> halfling ones… but if you want some <i>real</i> crazy nonsense, then the best place to turn to are a bunch of records from the <i>Mainlander Elves</i>.  Personally, I believe these are sources that all-too-often get discounted for being too outlandish to have been accurately reported… to which I respond, ‘have you actually paid any attention to the world we live in?’ </p>
+    <p>So, without further ado, let’s begin our exodus into some really <i>weird</i> history; things pretty much get started about ten or so years after the Council of Lock, in the Lands beyond the Lonely Mountains... “</p>
+    <p class="center">- Professor Benni Al’Wadi, <i>Impatient Histories: All of Time for Those Who Don’t Have Any</i></p>
+    <?php
+        include 'footer.php';
+        echo getarrows('index.php#jump','index.php#jump');
+    ?>
+</body>

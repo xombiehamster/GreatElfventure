@@ -3,7 +3,7 @@
     include 'getList.php';
     include 'getBonus.php';
     include 'getMeta.php';
-    if(is_null($_SESSION["CRAG"]) && $_SESSION["YEAR"]>2){
+    if(is_null($_SESSION["CRAG"]) && $_SESSION["YEAR"]>=2){
         $_SESSION["CRAG"] = 2;
     }
 ?>
@@ -38,7 +38,7 @@ Rules/Rules Index.php">CivElf</a></span>.
 <p>Please understand that this is very much an Early Access Pre-Alpha project at the moment. It is far from complete. Submit your bug 
     reports to me through <a href="mailto:deep_space@writing.com">email</a>.
 </p>
-<br/>
+<h3 id="jump">Supporting Document: <a href="Introduction.php">Contextual Introduction</a></h3>
 <p>The Blade Elves are an NPC faction designed to be used as the tutorial for how the game (and the read-through) should flow.  Reading 
     their example turns is a good way to get a feel for what to expect from the actual players, and to figure out the site navigation.  
     Consider them the training wheels.</p>
@@ -128,7 +128,7 @@ Rules/Rules Index.php">CivElf</a></span>.
             </td>
             <?php 
             #Crag removal.
-            if($_SESSION["CRAG"]>=0){
+            if($_SESSION["CRAG"]>0){
                 echo '<td>'.getBonus("Crag",$_SESSION["C_EXTRA"]).'</td>';
             }?>
             <td>
