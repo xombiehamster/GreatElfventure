@@ -5,6 +5,7 @@
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <link rel="stylesheet" type="text/css" href="../../Blade/NPC.css">
+    <link rel="stylesheet" type="text/css" href="../River.css">
     <title>
         River Elf Year 2 - Winter
     </title>

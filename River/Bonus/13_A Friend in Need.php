@@ -6,6 +6,7 @@
         A Friend in Need
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../River.css">
 </head>
 <body>
     <h1>A Friend in Need</h1>

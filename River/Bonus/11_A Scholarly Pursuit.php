@@ -6,6 +6,7 @@
         A Scholarly Pursuit
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../River.css">
 </head>
 <body>
     <h1>A Scholarly Pursuit</h1>

@@ -3,6 +3,10 @@
 @import "https://fonts.googleapis.com/css?family=Bilbo";
 @import "https://fonts.googleapis.com/css?family=Kristi";
 @import "https://fonts.googleapis.com/css?family=Special Elite";
+body {
+    background-color: #fbf4ea;
+}
+
 
 /* Letters from Fury */
 

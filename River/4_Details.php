@@ -7,6 +7,7 @@
         River Elf Cultural Details
     </title>
     <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="River.css">
 </head>
 
 <body>
