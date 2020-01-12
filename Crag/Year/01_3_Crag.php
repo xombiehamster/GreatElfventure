@@ -3,8 +3,8 @@
 
 <head>
 <?php include '../../header.php'; ?>
-
     <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>Winter, year 1</title>
 </head>
 <body>
     <h2>Winter, Year 1</h2>
