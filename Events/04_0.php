@@ -232,9 +232,9 @@
 <p>“<b>What is this, some dense Lowlander Wisdom?  Whatever you seek to call yourselves, of course you were elves.  Your form has not strayed that much.  Do you seek to confound, as well as provoke?  It seems to be your <i>Art</i>.</b>” Echo growls out this final word, gaze intent into Breaker’s.</p>
 <p>Eina gives the combative elves a level glare.  She has prepared many spells for this particular occasion.</p>
 <p>“You will <b>not</b> be bringin’ this to blows.”  The river elf cleric raises her voice to be sure she is heard, and scoots her pillow somewhat closer.  She snaps a crawfish in half.  “Yall’s all <b>guests</b>, an guests do not git hurt.”</p>
-<p>Breaker turns to Eina, then back to Echo, "This ain't over, <span class="tooltip">pendejo.<span class="tooltiptext">Stupid</span></span>" /p>
+<p>Breaker turns to Eina, then back to Echo, "This ain't over, <span class="tooltip">pendejo.<span class="tooltiptext">Stupid</span></span>" </p>
 <p>“I don’t even know what this <i>was</i>,” Terror says, entirely to herself. </p>
-<p>“<b>This never truly began, <span class="tooltip"><i>Powless</i><span class="tooltiptext">One without ability, or ability below their claims.</span></span>.</b>” his gaze turns back to the Terror. “<b>And I still await my answer.</b>”</p>
+<p>“<b>This never truly began, </b><span class="tooltip"><b><i>Powless.</i></b><span class="tooltiptext">One without ability, or ability below their claims.</span></span>” his gaze turns back to the Terror. “<b>And I still await my answer.</b>”</p>
 <p>"Fuck did you-"</p>
 <p>Matías approaches Breaker and coughs.</p>
 <p>"Kiara," He whispers to her, "Please don't start an international incident at literally the first event you got invited to, por favor."</p>
@@ -310,7 +310,7 @@
 <p>“I WILL - ARGH-” the Dog yelps in pain as the gator’s silver capped teeth dig into the back of his leg. He’s unable to keep his footing as the gator’s massive bulk twists, its jaws locked on his ankle. The Dog snarls and twists, trying to escape, but the gator is entirely nonplussed by the flailing.</p>
 <p>The Tourist lunges as the afflicted falls. Before either of them hits the ground, she is in her hybrid form. Snarling, she falls on him as his back impacts the muddy ground and the alligator holds him down. She raises a hand above her head, and it glows with a pale light.</p>
 <p>“<i>GET OFF OF ME YOU BITCH!</i>”</p>
-<p>“<span class="tooltip"><b>Þegja</b><span class="tooltip text">Be Silent</span></span>” She yells in Lycan and slams her open palm into his chest.</p>
+<p>“<span class="tooltip"><b>Þegja</b><span class="tooltiptext">Be Silent</span></span>” She yells in Lycan and slams her open palm into his chest.</p>
 <p>The light flares as she hits him in the sternum. The dog howls in pain as there is a sound like searing meat. The red fur burns away from her touch as the pale light washes over the afflicted werewolf. When the flash clears, the Hunger remains, back in his elven form.</p>
 <p>For the first time in two years, the Dog is silent in his mind. He can feel it writhing in pain somewhere, but it is cowed for the moment. </p>
 <p>“It will only last a few minutes,” she growls.</p>
@@ -543,7 +543,7 @@ if($_SESSION["YEAR"]<4){
     $_SESSION["YEAR"]=4;
 }
 include "../footer.php";
-echo getarrows(null,'Blade/6_Bits and Pieces.php');
+echo getarrows(null,'../Blade/Bonus/6_Bits and Pieces.php');
 settarget("Blade",null,null,7);
 echo goback();
 setlast("Events/04_0.php");
