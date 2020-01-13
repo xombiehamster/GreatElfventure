@@ -4,7 +4,7 @@
 <head>
 <?php include 'header.php'; ?>
     <title>
-        A Measure of Hospitality
+        A Contextual Introduction
     </title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
