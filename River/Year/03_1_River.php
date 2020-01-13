@@ -47,7 +47,7 @@
     <p><b>Political:</b> placeholder</p>
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <h3>Play By Post 3.1.4: <a href="../../Blade/Bonus/4_A Broken Promise.php">A Broken Promise</a></h3>
+    <h3>Story 3.1.5: <a href="../../Blade/Bonus/4_A Broken Promise.php">A Broken Promise</a></h3>
     <p><b>News Arrives:</b> placeholder</p>
     <p><b>Additionally:</b> placeholder</p>
     
