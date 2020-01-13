@@ -2,6 +2,10 @@
 
 /* Reports from Indriani */
 
+body {
+    background-color: #ecf9f9;
+}
+
 p#IndrianiLetter {
     font-family: 'Caveat', fantasy, sans-serif;
     font-size: 18px;
