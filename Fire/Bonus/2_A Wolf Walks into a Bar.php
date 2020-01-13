@@ -4,6 +4,7 @@
 <head>
 <?php include '../../header.html'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Fire.css">
     <title>
         A Wolf Walks into a Bar
     </title>

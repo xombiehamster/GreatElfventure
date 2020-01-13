@@ -4,6 +4,7 @@
 <head>
 <?php include '../../header.html'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../Fire.css">
     <title>
         A Tourist in Surt
     </title>
