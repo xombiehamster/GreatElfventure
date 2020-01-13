@@ -70,52 +70,16 @@
             <li><i>Empty Slot</i></li></ul></li>
         <li><b>Garrison:</b> Currently full with the Harriers</li>
     </ul>
-    <p>Amenidal notes that the winged elves appear to have been trying to make improvements to the stone walls of the canyon, but man, their stonemasonry is awful! Getting better, though…</p>
-    <p><b>Mental:</b> Wow, yeah, using the ritual was a really good idea. Even with the added protection of using a magic ritual to remove the runes, the situation nearly gets out of control. Whatever cursed knowledge was contained in those writings, it reacts violently with any attempt to alter them or remove them. Apparently, while the runes themselves weren’t magic whatever topic they were written about was extremely magical.</p>
-    <p>Any discussion about trying to learn the information contained within them is silenced when one rune sprays out enough blood to fill a hallway up to knee high when removed. Probably best not to know what that was about.</p>
-    <p>Although it takes a bit of scrubbing to get all the blood residue out, the ritual is a success! The Disturbing Danger aspect has been removed from Hilt’Inn, though it doesn’t free up an aspect slot.</p>
-    <h3>Event: Tourism Disaster</h3>
-    <p><b>Status: <span style="color=green">Resolved</span></b></p>
-    <p>The sappers and engineers return. They are bloodied, battered, exhausted, and triumphant. Though some fell in the process of destroying the warren, deaths were far fewer than projected. The Sappers have taken casualties, but they have suffered far worse in the past and they will recover with rest and time.</p>
-    <p>The collapsing warren destroyed nearly all of the skeletons. The final push from the Sappers got nearly all of the rest. While some doubtlessly escaped the hunt and it will be years before the caves around the warren are truly safe, Hilt’Inn finally knows peace.</p>
-    <p>Sadly, Volodia and Tunnel Rat One did not survive. In the last cleanup sweep, Trischal finds  their remains buried in rubble. They brought one of the largest tunnels down literally on top of themselves, taking out dozens of skeletons and sealing the largest tunnel that lead from the warren to Hilt’Inn. Their actions doubtlessly saved the town. There is talk of building a memorial. They will not be forgotten.</p>
-    <p>The news from the rest of the lost engineers is better. The vast majority of them survived. Thankfully, you acted quickly enough and organized a relief operation effectively enough that they were reached before they completely ran out of supplies. Though they’re all taking some vacation time, you have more living heroes than dead.</p>
-    <p>Lastly, the engineers - and some of your civilians - report something truly bizarre. Those were not the only skeletons. From skeletal dogs and cats, to skeletal fish in the lakes, skeletal moles, and even tiny helpless skeletal birds and bats, it seems everything in the area was turned into skeletons. While these skeletons are far from an actual threat, the news is somewhat concerning. Whatever made this happen appears to be long gone, but man. That’s creepy.</p>
-    <p>Your sappers and engineers are <i>legends</i>. Parents tell their kids bedtime stories about their heroism, and teenagers brag about maybe trying out for the unit someday. Due to their heroism and prestigious status, all further attempts to recruit Sappers specifically will have the <b>difficulty reduced by one.</b></p>
-    <p>The Veteran Sappers have the Fatigued and Light Casualties conditions, but so long as they remain in the garrison and rest these will heal at the end of the next turn.</p>
-    <p>You solved the event fast enough that you did not take stress this turn, and your stress begins healing next turn.</p>
-    <p>Your sappers and engineers have come up with a new weapon! In the chaos surrounding the skeleton war, the light daggers and knives preferred by the dark elves proved ineffective against fleshless bone. Sappers improvised many weapons during the time, but compact collapsible shovels ended up being extremely agile and adaptable weapons in the brutal close quarters fighting. Your Sappers have refined the design into an actual weapon:</p>
-    <h4>Light Exotic Melee Weapons</h4>
-    <table id="special">
-        <tr>
-            <th>Weapon</th>
-            <th>Cost</th>
-            <th>Dmg (S)</th>
-            <th>Dmg (M)</th>
-            <th>Critical</th>
-            <th>Range</th>
-            <th>Weight</th>
-            <th>Type</th>
-            <th>Special </th>
-        </tr>
-        <tr>
-            <td>Elven Entrenching Tool</td>
-            <td>15gp</td>
-            <td>1d4</td>
-            <td>1d6</td>
-            <td>x3 or x4</td>
-            <td>-</td>
-            <td>2lbs</td>
-            <td>B or S, or S or P</td>
-            <td>Blocking, Collapsible, see text</td>
-        </tr>
-    </table>
-    <p>Elven Entrenching Tool - This combination weapon/tool was developed by the dark elves during the brutal tunnel fighting of the skeleton wars. It consists of a collapsible sharpened shovel head on a stout wooden handle, with a sharp pointed spike opposite the shovel head. It is an extremely useful light digging and rockbreaking tool, as well as a surprisingly versatile and effective weapon in the hands of those trained to do so.</p>
-    <p>When collapsed, the broad sharpened head of the shovel can be swung like an axe or the blunt face of the shovel can be used as a bludgeon or a shield. In this configuration, it has the Blocking special quality, can be used to deal bludgeoning or slashing damage, and has a x3 crit range.</p>
-    <p>When extended, the shovel and pick ends extend from the top of the tool like a pickaxe. The sharpened shovel end can be used to deal slashing damage, and the pick end can be used to deal piercing damage. In this configuration it has a x4 crit range, but does not have the blocking special quality.</p>
-    <p>Extending or collapsing the tool is  a swift action. The tool is usually stored collapsed in a sheath. Extending the tool can be done as a free action as part of drawing the weapon if the user has Quick Draw. Changing the user’s grip to adjust the damage type done is an immediate action. The weapon is not a double weapon and any magic enhancements done apply to all uses of the weapon. If a magic property only counts when a weapon has one damage type, it only counts when the entrenching tool is being used to deal that type of damage.</p>
-    <p>Despite not having traditional elven weapon proficiency, dark elves treat the elven entrenching tool as a martial weapon.</p>
-    <p><b>Further, due to the sheer bravery with which the Dark Elves tackled the wave of bone, they receive a permanent upgrade to one of the following skills:</b> Infrastructure, Conventional Warfare, or Spirituality</p></p>
+    <p>placeholder</p>
+    <p><b>Economic:</b> placeholder</p>
+    <p><b>Political:</b> placeholder</p>
+    <p><b>Military: </b>placeholder</p>
+    <p><b>Mental:</b> placeholder</p>
+    <h2>Results</h2>
+    <p><b>Economic:</b> placeholder</p>
+    <p><b>Political:</b> placeholder</p>
+    <p><b>Military:</b> placeholder</p>
+    <p><b>Mental:</b> placeholder</p>
     <?php
     include '../../settarget.php'; 
     settarget("Dark",8,null,null);
