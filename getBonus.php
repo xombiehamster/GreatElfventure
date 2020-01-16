@@ -21,11 +21,12 @@ function getBArray($elf){
         break;
         case "Dark":
             $arr[0] = "A Moody Visitor";
-            $arr[1] = "An Overwhelming Curiosity";
-            $arr[2] = "A Tourist Trap";
-            $arr[3] = "A Dark Place";
-            $arr[4] = "A Stupid, Awkward Dream";
-            $arr[5] = "A Rational Question";
+            $arr[1] = "Homeward Rambles";
+            $arr[2] = "An Overwhelming Curiosity";
+            $arr[3] = "A Tourist Trap";
+            $arr[4] = "A Dark Place";
+            $arr[5] = "A Stupid, Awkward Dream";
+            $arr[6] = "A Rational Question";
         break;
         case "Dreamdust":
             $arr[0] = "A Chance Encounter";
