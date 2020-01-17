@@ -70,7 +70,7 @@
     <h3><a href="../../Events/03_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
     include '../../settarget.php'; 
-    settarget("Dark",9,null,null);
+    settarget("Dark",9,null,12);
     if($_SESSION["YEAR"]<3){$_SESSION["YEAR"]=3;}
     include '../footer.php';
     echo getarrows("02_3_Dark.php","03_1_Dark.php");
