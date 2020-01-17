@@ -24,14 +24,14 @@ function getBArray($elf){
             $arr[1] = "Homeward Rambles";
             $arr[2] = "An Overwhelming Curiosity";
             $arr[3] = "Visiting Aftermath";
-            $arr[4] = "A Tourist Trap";
-            $arr[5] = "A 'Tourist', Huh";
-            $arr[6] = "Council of a Chronicler";
-            $arr[7] = "The Tower";
-            $arr[8] = "Plucky Magic Hacker";
-            $arr[9] = "We of Like Mind";
-            $arr[10] = "I Said Never Again";
-            $arr[11] = "A Dark Place";
+            $arr[4] = "A Dark Place";
+            $arr[5] = "A Tourist Trap";
+            $arr[6] = "A 'Tourist', Huh";
+            $arr[7] = "Council of a Chronicler";
+            $arr[8] = "The Tower";
+            $arr[9] = "Plucky Magic Hacker";
+            $arr[10] = "We of Like Mind";
+            $arr[11] = "I Said Never Again";
             $arr[12] = "A Stupid, Awkward Dream";
             $arr[13] = "A Rational Question";
         break;
@@ -47,9 +47,10 @@ function getBArray($elf){
             $arr[4] = "A Painful Memory";
             $arr[5] = "A Mystery Deepens";
             $arr[6] = "A Special Delivery";
-            $arr[7] = "Trust Can Get You Killed";
-            $arr[8] = "A Surtian Flight";
-            $arr[9] = "A Blade's Edge";
+            $arr[7] = "A Dark Place";
+            $arr[8] = "Trust Can Get You Killed";
+            $arr[9] = "A Surtian Flight";
+            $arr[10] = "A Blade's Edge";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
@@ -74,6 +75,10 @@ function getBArray($elf){
             $arr[19] = "A Dark Secret";
             $arr[20] = "A Rocky Shore";
             $arr[21] = "A Shady Stowaway";
+            $arr[22] = "A Dependable Blade";
+            $arr[23] = "A Strange Friend";
+            $arr[24] = "A Second Chance";
+            $arr[25] = "A Grim Swamp";
         break;
         case "Winged":
             $arr[0] = "Summer";
