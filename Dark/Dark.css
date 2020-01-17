@@ -1,3 +1,8 @@
+@import "https://fonts.googleapis.com/css?family=Allan";
 body {
     background-color: #f8eded;
+}
+
+p#AmenidalLetter {
+    font-family: 'Allan', sans-serif;
 }

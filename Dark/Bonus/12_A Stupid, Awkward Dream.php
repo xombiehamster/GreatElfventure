@@ -89,10 +89,10 @@
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Dark",null,null,1);
+    settarget("Dark",null,null,12);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/02_4_Dark.php#jump","../Year/02_4_Dark.php#jump");
-    setlast("Bonus/3_A Stupid, Awkward Dream.php");?>
+    setlast("Bonus/12_A Stupid, Awkward Dream.php");?>
 </body>
 </html>

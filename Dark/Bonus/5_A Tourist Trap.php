@@ -74,14 +74,13 @@ Will stay again!<br/>
 5/5 Stars<br/>
 Katya Vatik</p>
 <p class="center">(Fin)</p>
-<!--INSERT INK BATH HERE!-->
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Dark",null,null,1);
+    settarget("Dark",null,null,5);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/02_2_Dark.php#jump","../Year/02_2_Dark.php#jump");
-    setlast("Bonus/2_A Tourist Trap.php");?>
+    setlast("Bonus/5_A Tourist Trap.php");?>
 </body>
 </html>

@@ -79,6 +79,7 @@
     <p>You are now in possession of a unit of standard sappers. Unlike your veterans, this group is level 3. Feel free to come up with stats on this unit as you wish.</p>
     <p><b>Mental:</b> Your engineering research teams come up with several ingenious plans for creating a mine in the crystal caves, only to find out that the cavern settlement elves have already done all of that and started mining the crystals anyway. They are somewhat miffed by this fact.</p>
     <p>Still, a few of the methods researched are things the cavern settlement hasn’t tried yet, giving you a boost die on your next attempt to utilize the crystals.</p>
+    <h3 id="jump3">Roleplay Event 2.1.3: <a href="../Bonus/3_Visiting Aftermath.php">Visiting Aftermath</a></h3>
     <h3><b>Minor Event:</b> Location, Location, Location</h3>
     <p><b>Duration: 3 turns</b></p>
     <p>As it turns out, as Lock is slowly enforcing peace in his growing kingdom he is encountering more and more pockets of elven holdouts. Those elves who belong to groups that have migrated to the plains are slowly being given supplies and told to cross the badlands to join their kin.</p>
@@ -88,7 +89,7 @@
     <p>You are <b>not</b> yet taking stress damage, but unless the dark elves find some way to deal with the refugees without a huge drain on resources, they will start taking economic stress next year.</p>
     <?php
     include '../../settarget.php'; 
-    settarget("Dark",6,null,2);
+    settarget("Dark",6,null,3);
     include '../footer.php';
     echo getarrows("01_4_Dark.php","02_2_Dark.php");
     setlast("Year/02_1_Dark.php");?>

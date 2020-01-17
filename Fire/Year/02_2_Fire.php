@@ -44,6 +44,7 @@
 </tr>
 </tbody>
 </table>
+<h3 id="back">Bonus Story: <a href="../Bonus/7_A Dark Place.php">A Dark Place</a></h3>
 <p><em>Fire Elves problems:</em></p>
 <p><strong>FIRE ELVES ain&rsquo;t got no PROBLEMS</strong></p>
 <p><strong>Economic Action</strong>:&nbsp;</p>
@@ -77,7 +78,7 @@
 <p>Step 4: Some theories about familiar creation suggest that some familiars, such as homunculi or &ldquo;tumor familiars&rdquo;, actually operate on a breakoff extension of their owner&rsquo;s soul. Further research is necessary; perhaps it is possible to force the tumor into an external creation. [Knowledge Arcana: 31]</p>
 <p>Step 5: Time to grow and develop some extremely dangerous plants! Step one is to build an isolated growing area adjacent to the palace of government. He picks a segment not terribly far from his lab, builds a new growing platform, and surrounds it in decently high walls, with only one entrance, and a mesh of iron bars over the top. The inside is designed so that no one on the walkway or actively harvesting the plants can fall face-first into the waterway, as a protection against drowning. This area is then clearly marked as the &ldquo;dangerous plants&rdquo; section, with specific instructions on the walls (and given to the guards) on what Azure Lilies are and what they can do (and that attempting to harvest them is extremely hard, so no one gets any funny ideas). Finally, its time for planting attempt one! [Knowledge Nature: 22]</p>
 <p><strong>End of Turn </strong></p>
-<h3 id="back">A Barrabus Leafstorm Story: <a href="../Bonus/7_Trust Can Get You Killed.php">Trust Can Get You Killed</a></h3>
+<h3 id="back">A Barrabus Leafstorm Story: <a href="../Bonus/8_Trust Can Get You Killed.php">Trust Can Get You Killed</a></h3>
 <h3>Fall Year 2 Results</h3>
 <p><strong>Results-</strong></p>
 <p><strong>Misc- </strong>Early in the season, a package arrives for Hunger delivered by a winged elf messenger. The package has no other information on it other than a small handwritten addendum that says &ldquo;Wait for reply.&rdquo;</p>
@@ -206,7 +207,7 @@
 </table>
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",7,null,7);
+        settarget("Fire",7,null,8);
         include '../footer.php';
         echo getarrows("02_1_Fire.php","02_3_Fire.php");
         setlast("Year/02_2_Fire.php");

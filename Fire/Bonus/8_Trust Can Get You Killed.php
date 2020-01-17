@@ -291,6 +291,6 @@
 <?php
     include '../footer.php';
     echo getarrows("../Year/02_2_Fire.php#back","../Year/02_2_Fire.php#back");
-    setlast("Bonus/7_Trust Can Get You Killed.php");?>
+    setlast("Bonus/8_Trust Can Get You Killed.php");?>
 </body>
 </html>

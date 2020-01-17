@@ -112,10 +112,10 @@ Confirmed no harm done/intended, apologies to Herbert for trouble</p>
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Fire",null,null,6);
+    settarget("Fire",null,null,9);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/02_3_Fire.php#jump","../Year/02_3_Fire.php#jump");
-    setlast("Bonus/7_A Surtian Flight.php");?>
+    setlast("Bonus/9_A Surtian Flight.php");?>
 </body>
 </html>

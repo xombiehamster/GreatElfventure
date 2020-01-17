@@ -98,6 +98,6 @@
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/02_1_Dark.php#jump2","../Year/02_1_Dark.php#jump2");
-    setlast("Bonus/1_An Overwhelming Curiousity.php");?>
+    setlast("Bonus/2_An Overwhelming Curiousity.php");?>
 </body>
 </html>

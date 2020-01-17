@@ -42,10 +42,10 @@
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Dark",null,null,1);
+    settarget("Dark",null,null,4);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/02_2_Dark.php#jump2","../Year/02_2_Dark.php#jump2");
-    setlast("Bonus/3_A Dark Place.php");?>
+    echo getarrows("../Year/02_2_Dark.php#back","../Year/02_2_Dark.php#back");
+    setlast("Bonus/4_A Dark Place.php");?>
 </body>
 </html>

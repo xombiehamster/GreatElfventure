@@ -107,6 +107,6 @@
 <?php
     include '../footer.php';
     echo getarrows("../Year/02_4_Fire.php#back","../Year/02_4_Fire.php#back");
-    setlast("Bonus/8_A Blade's Edge.php");?>
+    setlast("Bonus/10_A Blade's Edge.php");?>
 </body>
 </html>

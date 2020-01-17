@@ -23,10 +23,17 @@ function getBArray($elf){
             $arr[0] = "A Moody Visitor";
             $arr[1] = "Homeward Rambles";
             $arr[2] = "An Overwhelming Curiosity";
-            $arr[3] = "A Tourist Trap";
-            $arr[4] = "A Dark Place";
-            $arr[5] = "A Stupid, Awkward Dream";
-            $arr[6] = "A Rational Question";
+            $arr[3] = "Visiting Aftermath";
+            $arr[4] = "A Tourist Trap";
+            $arr[5] = "A 'Tourist', Huh";
+            $arr[6] = "Council of a Chronicler";
+            $arr[7] = "The Tower";
+            $arr[8] = "Plucky Magic Hacker";
+            $arr[9] = "We of Like Mind";
+            $arr[10] = "I Said Never Again";
+            $arr[11] = "A Dark Place";
+            $arr[12] = "A Stupid, Awkward Dream";
+            $arr[13] = "A Rational Question";
         break;
         case "Dreamdust":
             $arr[0] = "A Chance Encounter";

@@ -86,10 +86,10 @@ Bring Amenidal</i></p>
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Dark",null,null,5);
+    settarget("Dark",null,null,13);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/03_1_Dark.php#jump","../Year/03_1_Dark.php#jump");
-    setlast("Bonus/5_A Rational Question.php");?>
+    setlast("Bonus/13_A Rational Question.php");?>
 </body>
 </html>
