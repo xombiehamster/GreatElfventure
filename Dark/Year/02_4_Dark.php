@@ -26,7 +26,7 @@
             <td>1 Bonus</td>
         </tr>
     </table>
-    <h3 id="jump">Story 2.4.1: <a href="../12_A Stupid, Awkward Dream.php">A Stupid, Awkward Dream</a></h3>
+    <h3 id="jump">Story 2.4.1: <a href="../Bonus/12_A Stupid, Awkward Dream.php">A Stupid, Awkward Dream</a></h3>
     <p><b>Economic:</b> Oh right we have small farms...let's expand them.  After a few days of considerable groaning about *not thinking of this sooner*, they all get to work and expanding the small geothermal farms that they currently had going for their own personal food source.  They had built the originals for their current small group of people, not really having expected for the population to … take on an exciting increase like it did with the refugees.  If they can expand the farms decently then hopefully that will give them some small room to work with until Summer arrives.</p>
     <p><i>Investment</i> trapping of <b>Infrastructure</b></p>
     <p>0 advantages, 1 success, 1 triumph</p>

@@ -22,7 +22,7 @@ function getBArray($elf){
         case "Dark":
             $arr[0] = "A Moody Visitor";
             $arr[1] = "Homeward Rambles";
-            $arr[2] = "An Overwhelming Curiosity";
+            $arr[2] = "An Overwhelming Curiousity";
             $arr[3] = "Visiting Aftermath";
             $arr[4] = "A Dark Place";
             $arr[5] = "A Tourist Trap";
