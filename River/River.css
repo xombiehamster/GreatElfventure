@@ -1,8 +1,18 @@
 @import "https://fonts.googleapis.com/css?family=Pacifico";
+@import "https://fonts.googleapis.com/css?family=Cedarville Cursive";
+@import "https://fonts.googleapis.com/css?family=Charmonman";
 body {
     background-color: #ebfaf2;
 }
 
 .EinaMagic {
     font-family: 'Pacifico', fantasy;
+}
+
+.LitoriaLetter {
+    font-family: 'Cedarville Cursive', 'Lucida Sans', sans-serif;
+}
+
+.StauroisLetter {
+    font-family: 'Charmonman', 'Lucida Sans', sans-serif;
 }
