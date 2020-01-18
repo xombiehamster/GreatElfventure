@@ -150,3 +150,7 @@ iframe {
 .magic {
     font-family: 'Pacifico', fantasy;
 }
+
+p#i {
+    font-style: italic;
+}
