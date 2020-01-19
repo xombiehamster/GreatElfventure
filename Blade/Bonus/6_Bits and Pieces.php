@@ -102,6 +102,7 @@
 <p>The Tourist stops dead in her tracks upon hearing that. She turns to face him.</p>
 <p>“I would teach you,” she speaks, “but I do not understand us either.”</p>
 <p>With that, she leaves.</p>
+<p class="center"><a href="#top">-FIN-</a></p>
 
 <h2 id="3">Shadimon, Dust</h2>
 <p>Shadimon leaves Shrike and Baijani in the grotto, giving them time. He pauses at the opening into the space, looking up at the sky, and then slowly down and along the river to all the beacons and celebrating river elves. He steps aside as he hears movement behind him, moving out of the way, and looks back to see Dust and Steve approaching. </p>
