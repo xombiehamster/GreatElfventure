@@ -132,6 +132,7 @@
 include "../footer.php";
 include '../../settarget.php';
 settarget("Blade",null,null,2);
+echo getarrows(null,null);
 #echo getarrows("../../Events/03_0.php#jump","../../Events/03_0.php#jump");
 echo goback();
 ?>
