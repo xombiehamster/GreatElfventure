@@ -67,16 +67,16 @@
 <p>Shadimon nods toward a pile of things not far from the door, “Everything he had on him is over there. Fortunately word of their nasty tricks has spread, so people were careful of it even before Greg’s warning came through. It will be worth checking people again, but so far things have been alright.”</p>
 <p>Vahn gives him a curt nod, “Good.  I am already tired of their tricks.” </p>
 <p>Muffled shouting echoes through the front door. </p>
-<p class="redacted">(DC 15 Perception: </p>
-<p class="redacted">"What was that, drate-poke?" the Fury whispers. </p>
-<p class="redacted">"I'm just saying, your fusty-ness, that we should at least consider releasing him," Barry's voice replies. "Get what we can out of him, and then--"</p>
-<p class="redacted">"Nope, sorry, still couldn't hear you," she replies quickly, palpable annoyance in her voice.</p>
-<p class="redacted">"Are you even going to consider it?" he says.</p>
-<p class="redacted">"No!"</p>
-<p class="redacted">"Why not?"</p>
-<p class="redacted">"He's a sp--" Fury pauses. "Fuck you. Just fuck you."</p>
-<p class="redacted">"Its because he might be a Lycan, isn't it?" Barry says. "...Does your girlfriend know you're racist?"</p>
-<p class="redacted">"I am not-- what the fu--" Fury splutters. "I... what? I don't even--")</p>
+<span class="redacted"><p>(DC 15 Perception: </p>
+<p>"What was that, drate-poke?" the Fury whispers. </p>
+<p>"I'm just saying, your fusty-ness, that we should at least consider releasing him," Barry's voice replies. "Get what we can out of him, and then--"</p>
+<p>"Nope, sorry, still couldn't hear you," she replies quickly, palpable annoyance in her voice.</p>
+<p>"Are you even going to consider it?" he says.</p>
+<p>"No!"</p>
+<p>"Why not?"</p>
+<p>"He's a sp--" Fury pauses. "Fuck you. Just fuck you."</p>
+<p>"Its because he might be a Lycan, isn't it?" Barry says. "...Does your girlfriend know you're racist?"</p>
+<p>"I am not-- what the fu--" Fury splutters. "I... what? I don't even--")</p></span>
 <p>The Terror leans sideways, and casually pulls the door open.</p>
 <p>Barrabus Leafstorm and the Fury are standing directly in front of the doorway. Fury's hands are on her hips, her mouth hanging open, and eyes scrunched into a glare, like she'd been derailed mid-harangue and was now struggling to put her arguments back together.</p>
 <p>Barrabus steps neatly in the room, leaving the confused Fury behind. "Ah, Shadimon, good to see you! Is there anyone else who might be missing, or captured, or mysteriously kidnapped to some Wolf Elf city, fort, or anything else?" </p>
