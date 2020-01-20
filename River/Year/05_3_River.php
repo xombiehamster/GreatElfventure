@@ -22,7 +22,7 @@
         </tr>
         <tr>
             <th>Fate Points</th>
-            <td>2/3 Refresh</td>
+            <td>1/3 Refresh</td>
             <td>0 Bonus</td>
         </tr>
         <tr>
@@ -35,16 +35,22 @@
             <td>(-2,3)</td>
             <td>Winter Quarters</td>
         </tr>
+        <tr>
+            <th>Envoyer</th>
+            <td>(-2,3)</td>
+            <td>Winter Quarters</td>
+        </tr>
     </table>
-    <p>placeholder</p>
-    <h3 id="back">Roleplay Event 4.3.1: <a href="../Bonus/13_A Friend in Need.php">A Friend in Need</a></h3>
+    <h3 id="back">Boxraft Children 5.3.1: <a href="../Bonus/23_A Strange Friend.php">A Strange Friend</a></h3>
+    <p>Placeholder</p>
+    <h3 id="back2">Roleplay Event 5.3.2: <a href="../Bonus/24_A Second Chance.php">A Second Chance</a></h3>
     <p><b>Economic:</b> placeholder</p>
-    <p><b>Economic (motivated):</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
+    <p><b>Element:</b> placeholder</p>
     <p><b>Military: </b> placeholder</p>
-    <h3 id="back2">Boxraft Children 4.3: <a href="../Bonus/14_A Tale Begins.php">A Tale Begins</a></h3>
-    <h3 id="back3">Roleplay Event 4.3.2: <a href="../Bonus/15_A Familiar Stranger.php">A Familiar Stranger</a></h3>
     <p><b>Mental:</b> placeholder</p>
+    <h3 id="back3">Boxraft Children  5.3.3: <a href="../Bonus/25_A Safe Fortress.php">A Safe Fortress</a></h3>
+    <p><b>Character:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
     <h2>Results</h2>
@@ -62,7 +68,7 @@
         
     <?php
         include '../../settarget.php'; 
-        settarget("River",20,null,null);
+        settarget("River",20,null,25);
         include '../footer.php';
         echo getarrows("05_2_River.php","05_4_River.php");
         setlast("Year/05_3_River.php");

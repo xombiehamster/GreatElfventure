@@ -72,8 +72,8 @@ function getBArray($elf){
             $arr[16] = "A Wild Ride";
             $arr[17] = "A Surtian Confusion";
             $arr[18] = "A Deep River";
-            $arr[19] = "A Dark Secret";
-            $arr[20] = "A Rocky Shore";
+            $arr[19] = "A Rocky Shore";
+            $arr[20] = "A Dark Secret";
             $arr[21] = "A Shady Stowaway";
             $arr[22] = "A Dependable Blade";
             $arr[23] = "A Strange Friend";

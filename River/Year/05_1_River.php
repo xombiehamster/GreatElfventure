@@ -36,21 +36,30 @@
             <td>(-21,-7)</td>
             <td>Marraine River</td>
         </tr>
+        <tr>
+            <th>Envoyer</th>
+            <td>(-2,3)</td>
+            <td>Winter Quarters</td>
+        </tr>
     </table>
     <p>placeholder</p>
-    <h3 id="back">Roleplay Event 5.1: <a href="../Bonus/19_A Dark Secret.php">A Dark Secret</a></h3>
-    <h3 id="back">Boxraft Children 5.1: <a href="../Bonus/20_A Rocky Shore.php">A Rocky Shore</a></h3>
+    <h3 id="back">Boxraft Children 5.1: <a href="../Bonus/19_A Rocky Shore.php">A Rocky Shore</a></h3>
     <p><b>Economic:</b> placeholder</p>
+    <p><b>Economic - Stunt Use - Elf Prime:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
     <p><b>Military: </b>placeholder</p>
     <p><b>Mental:</b> placeholder</p>
+    <p><b>Character:</b> placeholder</p>
+    <p><b>Character:</b> placeholder</p>
+    <h3 id="back">Roleplay Event 5.1: <a href="../Bonus/20_A Dark Secret.php">A Dark Secret</a></h3>
     <h2>Results</h2>
+    <p><b>Economic:</b> placeholder</p>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <p><b>Eina:</b> placeholder</p>
-    <p><b>Dilemma:</b> placeholder</p>
+    <p><b>Misc:</b> placeholder</p>
+    <h4><b>Dilemma:</b> placeholder</h4>
     <p><b>Status:</b> placeholder</p>
     
     <?php
