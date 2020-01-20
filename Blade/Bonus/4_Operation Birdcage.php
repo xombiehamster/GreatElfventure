@@ -308,6 +308,7 @@
 <p>Coyote stands and begins playing his guitar. Barrabus feels the familiar tingle of bardic magic rush past him, towards all the guards waiting off to the sides of the garden.</p>
 <p>"Block the exits!" He yells, "And somebody kill that <span class="tooltip">pendejo<span class="tooltiptext">stupid</span></span> in the bushes!"</p>
 <p>On cue, Teratohyla pivots and takes off running for the lake. The plapping of river elf feet is the last sign of him before he dives off the ledge and into the lake. </p>
+<img src="../Images/03_1_Summer_plapplapplap.png">
 <p>Hector snarls and draws his falchion as he rushes Barrabus. There's a hum of magic energy as he swings the heavy blade at Barrabus. </p>
 <p>Barrabus stepped sideways, letting Hector's swing pass right by his arm, and then rolled away from him, and continued his dash towards the lake. He stopped at the edge of the wall, overlooking the long drop into the lake, and then turned back around to face Coyote, his heels half-over the edge of the drop. "Well, gentlemen and ladies, it has been a pleasure, but I'm afraid it is time for me to leave, prize in hand." He patted the guitar gently. "You've been a wonderful audience, and an excellent security force. Goodbye!"</p>
 <p>And with that, Barrabus launched himself backwards off the wall, tucking the guitar and fiddlecase to his chest as he went.</p>
@@ -318,6 +319,7 @@
 <hr/>
 <h3>Shyrendora and Dave</h3>
 <p>Having just witnessed the end of the battle of the bards, they’re still standing at the secret door, and have not yet been noticed by anyone.</p>
+<img src="../Images/03_1_Summer_Sneakysneaks.gif">
 <p>(Dave and Shy, both being hilariously sneaky, decide to just slip away instead of trying to push their luck further. They are able to escape without being detected, leaving all agents accounted for and mission complete.)</p>
 <p class="center">-FIN-</p>
 
