@@ -187,7 +187,7 @@
 <p>Rulyrana checks the door over for traps right quick <span class="redacted">[27]</span>, then quietly <span class="redacted">[28]</span> lets herself in, or out, whichever this counts as.</p>
 <hr/>
 <h3>Barrabus and Teratohyla</h3>
-<p>Sending:<hr/>
+<p>Sending:<br/>
 	"Access to Fort achieved; Alejandro has been invited by Coyote for music lessons tomorrow. Can keep his attention while Shadimon extracted, and follow-up support if Yote is alerted." -- Barrabus Leafstorm</p>
 <p>Alejandro strolled to the fort, his fiddle on his back and a cocky smile on his face. He stopped at the edge of the fort, in an alleyway nearby, and gave the entranceway a quick once-over, before checking his surroundings for suspicious looking individuals and/or potential muggers. Then he glanced at the shadows on the street.</p>
 <p>Timing was critical for this part of the operation; for the plan to work, Alejandro had to not only arrive at exactly the right time to keep Coyote busy <i>(Barry mentally buried the reasons <b>for</b> keeping Coyote busy, just in case of mind-reading spells)</i>, but with enough time to keep his spells at maximum potency. He had waited at the inn until right before the evening’s seventh bell for that exact purpose. Now, he merely had to look like he was pumping himself up. He added a bit of nervousness to his smile, and then pulled out his fiddle to make sure it was still in tune.</p>
