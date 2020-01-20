@@ -19,7 +19,7 @@
 <body>
 <div style="overflow-x:auto;">
     <?php
-        if($_SESSION["CRAG"]>0){
+        if($_SESSION["CRAG"]>0 && $_SESSION["YEAR"]<4){
             echo '<img src="images/ExampelvesCrag.png" alt="Gosh that sure is a lot of elves">';
         }
         else{
