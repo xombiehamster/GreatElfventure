@@ -23,7 +23,12 @@
             echo '<img src="images/ExampelvesCrag.png" alt="Gosh that sure is a lot of elves">';
         }
         else{
-            echo '<img src="images/Exampelves.png" alt="Gosh that sure is a lot of elves">';
+            if($_SESSION["YEAR"]<4){
+                echo '<img src="images/Exampelves.png" alt="Statistically significant quantities of elves!">';
+            }
+            else{
+                echo '<img src="images/ExampelvesVaqueros.png" alt="Gotta collect them all!">';
+            }
         }
     ?>
 </div>
