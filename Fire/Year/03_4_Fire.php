@@ -40,7 +40,7 @@
     <h3><a href="../../Events/04_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",13,null,null);
+        settarget("Fire",13,null,12);
         if($_SESSION["YEAR"]<4){
             $_SESSION["YEAR"] = 4;
         }
