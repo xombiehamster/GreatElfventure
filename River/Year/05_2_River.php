@@ -67,7 +67,7 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("River",19,null,22);
+        settarget("River",20,null,22);
         include '../footer.php';
         echo getarrows("05_1_River.php","05_3_River.php");
         setlast("Year/05_2_River.php");
