@@ -254,7 +254,7 @@
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/03_3_River.php#back","../Year/03_3_River.php#back");
+        echo getarrows("../Year/03_3_River.php#back2","../Year/03_3_River.php#back2");
         setlast("Bonus/10_A New Family.php");
     ?>
 </body>

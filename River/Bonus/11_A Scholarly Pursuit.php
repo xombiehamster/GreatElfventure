@@ -308,7 +308,7 @@
         include '../settarget.php'; 
         settarget("River",null,6,11);
         include '../footer.php';
-        echo getarrows("../Year/03_4_River.php#back","../Year/03_4_River.php#back");
+        echo getarrows("../Year/03_4_River.php#back2","../Year/03_4_River.php#back2");
         setlast("Bonus/11_A Scholarly Pursuit.php");
     ?>
 </body>

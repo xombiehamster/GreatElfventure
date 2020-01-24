@@ -233,7 +233,7 @@
     <p class="center">-FIN- </p>
     <?php 
         include '../footer.php';
-        echo getarrows("7_A Course Is Changed.php","../Year/03_1_River.php#back");
+        echo getarrows("7_A Course Is Changed.php","9_A Conversation with Heaven.php");
         setlast("Bonus/8_A Moonlit Flight.php");
     ?>
 </body>

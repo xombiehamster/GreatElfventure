@@ -12,6 +12,7 @@
 
 <body>
     <h1>Year 3 - Spring</h1>
+    <h3 id="back">Check-in with Allophryne 3.4.1: <a href="../Bonus/9_A Conversation with Heaven.php#3sp">A Conversation with Heaven</a></h3>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -40,7 +41,7 @@
     <p><b>Political:</b> placeholder</p>
     <p><b>Military: </b>placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <h3 id="back">Roleplay Event 3.4.1: <a href="../Bonus/11_A Scholarly Pursuit.php">A Scholarly Pursuit</a></h3>
+    <h3 id="back">Roleplay Event 3.4.2: <a href="../Bonus/11_A Scholarly Pursuit.php">A Scholarly Pursuit</a></h3>
     <p>placeholder</p>
     <h2>Results</h2>
     <p><b>Economic:</b>placeholder</p>

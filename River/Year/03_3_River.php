@@ -12,6 +12,7 @@
 
 <body>
     <h1>Year 3 - Winter</h1>
+    <h3 id="back">Check-in with Allophryne 3.3.1: <a href="../Bonus/9_A Conversation with Heaven.php#3w">A Conversation with Heaven</a></h3>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -31,7 +32,7 @@
             <td>Winter Quarters</td>
         </tr>
     </table>
-    <h3 id="back">Roleplay Event 3.3.1: <a href="../Bonus/10_A New Family.php">A New Family</a></h3>
+    <h3 id="back2">Roleplay Event 3.3.2: <a href="../Bonus/10_A New Family.php">A New Family</a></h3>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
 	<p><b>Military: </b>placeholder</p>
