@@ -45,7 +45,7 @@
         }else{
             echo getarrows("8_A Moonlit Flight.php","../Year/03_1_River.php#back3");
         }
-        echo'<h1>'.$_SESSION["RIVER"].'</h1>';
+        
         setlast("Bonus/9_A Conversation with Heaven.php");
     ?>
 </body>
