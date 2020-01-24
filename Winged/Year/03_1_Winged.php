@@ -28,6 +28,8 @@
         </tr>
         
     </table>
+    <h3 id="jump-1">Roleplay Event 3.1.1: <a href="../Bonus/10_A Rude Awakening.php">A Rude Awakening</a></h3>
+    <h3 id="jump">Roleplay Event 3.1.2: <a href="../Bonus/11_A Moonlit Flight.php">A Moonlit Flight</a></h3>    
     <p>placeholder</p>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
@@ -41,7 +43,7 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",10,null,null);
+        settarget("Winged",10,null,11);
         settarget("Blade",null,null,3);
         include '../footer.php';
         echo getflapstory(null,"../Bonus/????.php");

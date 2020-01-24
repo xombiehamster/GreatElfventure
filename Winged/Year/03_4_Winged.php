@@ -27,6 +27,7 @@
         </tr>
         
     </table>
+    <h3 id="jump">Roleplay Event 3.4.1: <a href="../Bonus/12_A Scholarly Pursuit.php">A Scholarly Pursuit</a></h3>
     <p>placeholder</p>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
@@ -40,7 +41,7 @@
     <h3><a href="../../Events/04_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",13,5,11);
+        settarget("Winged",13,5,12);
         if($_SESSION["YEAR"]<4){
             $_SESSION["YEAR"] = 4;
         }

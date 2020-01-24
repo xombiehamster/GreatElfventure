@@ -308,8 +308,8 @@
         include '../settarget.php'; 
         settarget("Winged",null,5,null);
         include '../footer.php';
-        echo getarrows("../Year/03_4_Winged.php#back","../Year/03_4_Winged.php#back");
-        setlast("Bonus/11_A Scholarly Pursuit.php");
+        echo getarrows("../Year/03_4_Winged.php#jump","../Year/03_4_Winged.php#jump");
+        setlast("Bonus/12_A Scholarly Pursuit.php");
     ?>
 </body>
 </html>

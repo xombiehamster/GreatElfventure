@@ -94,6 +94,8 @@ function getBArray($elf){
             $arr[8] = "An Unwelcome Visitor";
             $arr[9] = "A Silent Answer";
             $arr[10] = "A Rude Awakening";
+            $arr[11] = "A Moonlit Flight";
+            $arr[12] = "A Scholarly Pursuit";
         break;
     }
     return $arr;
