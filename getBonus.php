@@ -34,6 +34,7 @@ function getBArray($elf){
             $arr[11] = "I Said Never Again";
             $arr[12] = "A Stupid, Awkward Dream";
             $arr[13] = "A Rational Question";
+            $arr[14] = "A Friend in Need";
         break;
         case "Dreamdust":
             $arr[0] = "A Chance Encounter";
@@ -53,6 +54,7 @@ function getBArray($elf){
             $arr[10] = "A Blade's Edge";
             $arr[11] = "A Deal Burned";
             $arr[12] = "A Simple Decision";
+            $arr[13] = "Ambush Predators";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";

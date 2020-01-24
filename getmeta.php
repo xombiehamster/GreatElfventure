@@ -46,6 +46,7 @@ function getMArray($elf){
             $arr[3] = "Stunts and Rituals";
             $arr[4] = "Details";
             $arr[5] = "Settlements";
+            $arr[6] = "Creation Myths";
         break;
         case "Winged":
             $arr[0] = "Aspects and Goals";
