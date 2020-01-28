@@ -86,7 +86,7 @@
 <p>It is up to you what they did with her body.</p>
 
 <p>The square has the following Aspects: Watchtower Rock,  River Source, and Ruined Observatory.</p>
-<h3 id="jump4">Story 2.1.1: <a href="../Bonus/8_A New Discovery.php">A New Discovery</a>
+<h3 id="jump4">Story 2.1.3: <a href="../Bonus/8_A New Discovery.php">A New Discovery</a>
     <p><b>Mental:</b> The Ward is brought up without a hitch! Shockingly! Your elves wait a few days for the other shoe to drop, but hey. Ward stays up. In utter disbelief that something actually went perfectly fine on the first try, a thorough examination of the wards is performed. A few physical gaps are found, tweaks are made, and all is well and good. Asavardi has an extra blanket of safety.</p>
 
 <p>It will last 3 turns, expiring at the end of Spring.</p>
@@ -95,7 +95,7 @@
     
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",6,null,5);
+        settarget("Winged",6,null,8);
         include '../footer.php';
        // echo getflapstory(null,"../Bonus/????.php");
         echo getarrows("01_4_Winged.php","02_2_Winged.php");

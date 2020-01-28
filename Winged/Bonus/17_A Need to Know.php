@@ -54,10 +54,10 @@
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Winged",null,null,16);
+    settarget("Winged",null,null,17);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/02_4_Winged.php#jump","../Year/02_4_Winged.php#jump");
-    setlast("Bonus/16_A Need to Know.php");?>
+    echo getarrows("../Year/02_4_Winged.php#jump3","../Year/02_4_Winged.php#jump3");
+    setlast("Bonus/17_A Need to Know.php");?>
 </body>
 </html>

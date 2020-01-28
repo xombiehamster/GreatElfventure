@@ -109,10 +109,10 @@
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Winged",null,null,15);
+    settarget("Winged",null,null,16);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/02_4_Winged.php#jump","../Year/02_4_Winged.php#jump");
-    setlast("Bonus/15_A Silent Answer.php");?>
+    setlast("Bonus/16_A Silent Answer.php");?>
 </body>
 </html>

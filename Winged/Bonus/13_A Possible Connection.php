@@ -42,7 +42,7 @@ Coldwater Sheriff</i></p>
     settarget("Winged",null,null,13);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/02_3_Winged.php#jump","../Year/02_3_Winged.php#jump");
+    echo getarrows("../Year/02_3_Winged.php#jump3","../Year/02_3_Winged.php#jump3");
     setlast("Bonus/13_A Possible Connection.php");?>
 </body>
 </html>

@@ -116,7 +116,7 @@ Confirmed no harm done/intended, apologies to Herbert for trouble</p>
     settarget("Winged",null,null,14);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/02_3_Winged.php#jump","../Year/02_3_Winged.php#jump");
+    echo getarrows("../Year/02_3_Winged.php#jump4","../Year/02_3_Winged.php#jump4");
     setlast("Bonus/14_A Surtian Flight.php");?>
 </body>
 </html>

@@ -31,7 +31,7 @@
     <p><b>Economic:</b> Let’s just...let’s take a break for a bit. Someone found Tassimir lecturing a tray of seeds, and we think maybe he needs a bit to chill out, and winter isn’t the best time for planting anyway. Soooo, how ‘bout them copper veins? Let’s see if we can get some kind of mine-looking setup going.</p>
 
 <p>Using the Investment trapping of the Infrastructure skill to turn copper veins into copper mine. Rolling 2 ability, 1 Upgrade (and difficulty reduced by 1): 2 advantage, 4 successes, 0 triumphs</p>
-
+<h3 id="jump">Event 2.3.1: <a href="../Bonus/11_A Seedy Problem.php">A Seedy Problem</a></h3>
     <p><b>Political:</b> Shadimon rubbed his temples, “I know it was ultimately harmless, but this is <i>twice</i> that people have snuck into places they shouldn’t be. Which, need I remind everyone, involves climbing the cliffs. And <i>somehow</i> no one noticed this.” He suppressed a sigh, “Things have been going well here, from a safety standpoint. But by now all of you have heard the news from the other settlements. There’s a Lycan somewhere, and at least two unknown types of elves who appear to be hostile. Some of these hostile elves have been seen in locations very close to here. If dreamdust elves, who are presumably on drugs, can climb these cliffs and not die, I’m not making any assumptions about a well-planned infiltration.”</p>
 
 <p>He flexed his wings and raked the scouts with a sharp stare, “So. Over the next few months, there are going to be planned attempts to sneak in. I don’t know when, where or who, but I’ll be getting reports from those assistants as they happen. This goes especially for the night-watches. Everyone knows we can’t see well in the dark.”</p>
@@ -83,7 +83,7 @@
 <p>“Take your time exploring, if you like, and feel free to come by anytime!”</p>
 
 <p>Research trapping of Academics to continue organizing and figuring out just what the observatory can be used for. Rolling 3 ability + 1 upgrade: 3 advantage, 4 successes, 0 triumphs</p>
-
+<h3 id="jump2">Event 2.3.2: <a href="../Bonus/12_Help Wanted.php">Help Wanted</a></h3>
     <h2>Results</h2>
     <p><b>Economic:</b> In a completely shocking twist, some winged elves are beginning to <i>actually enjoy</i> working with stone! It’s entirely unprecedented and a little alarming. Regardless, it seems some of your elves have been planning the creation of a mine in the back of their heads for quite some time.</p>
 
@@ -102,7 +102,7 @@
 <p>They were hit by Coyotes.</p>
 
 <p>The shipment is gone.</p>
-
+<h3 id="jump3">Event 2.3.3: <a href="../Bonus/13_A Possible Connection.php">A Possible Connection</a></h3>
     <p><b>Political:</b> Congratulations! Shadimon’s penetration testing was successful!</p>
 
 <p>Oh, uh, penetration testing… isn’t actually supposed to succeed every time.</p>
@@ -131,7 +131,7 @@
 
 <li>Your scouts reach and examine the mineral deposit identified by fire elf magic. Upon their return to Surt, Varna personally goes to deliver a report on their discovery to the Hunger. This report consists of Varna smugly clunking a gold nugget the size of a child's fist on the Hunger's desk. Oh, gods damn it all, it’s going to take <i>years</i> for Varna to lose the shit eating grin he got after doing that.</li>
 </ul>
-<h3 id="jump">Roleplay Event 2.3.1: <a href="../Bonus/7_A Surtian Flight.php">A Surtian Flight</a></h3>
+<h3 id="jump4">Roleplay Event 2.3.1: <a href="../Bonus/14_A Surtian Flight.php">A Surtian Flight</a></h3>
     <p><b>Mental:</b> The researchers report that the Observatory gets cold as <i>balls</i> in the winter. Thankfully the underground archives stay warm at night, giving them a good place to pile. They make it through without any big problems as well. It might need to be addressed long term if you put a population center up there, though.</p>
 
 <p>At any rate, starting with the practical was an excellent idea. It’s one thing to get everything organized, it’s another to actually find a way to use it. One thing’s for sure, when Dusk said “any place on the surface of the world to within a few miles, any time within a few thousand years within an hour”, she was <i>not fucking kidding</i>. The purely practical star charts that only list the exact positioning of the stars, planes, and moon as you would see them in the sky still contain an absolutely staggering amount of information. Bizarrely, they are not in any kind of chronological order. You are able to use the decoded category system to find what you need of course, but how exactly each set of charts was intended to relate to time or location is not clear from the organizational methods. There is clearly some cultural context you are missing. For some unknown reason, the Lycans were projecting the night sky from all kinds of places all over the world, sometimes hundreds or even thousands of years in the past or future.</p>
@@ -145,9 +145,9 @@
 <p>In addition, you find a few star charts that cover the area around the Watchtower in extreme detail. Any future Reconnaissance checks done within 5 squares of the Watchtower will be done with an Upgrade.</p>
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",8,null,7);
+        settarget("Winged",8,null,14);
         include '../footer.php';
-        echo getflapstory(null,"../Bonus/????.php");
+        //echo getflapstory(null,"../Bonus/????.php");
         echo getarrows("02_2_Winged.php","02_4_Winged.php");
         setlast("Year/02_3_Winged.php");
     ?>

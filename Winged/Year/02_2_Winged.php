@@ -48,7 +48,7 @@
 
 <p>Research trapping of Academics to start trying to organize, sort, and examine the scrolls in the archive. Rolling 3 ability: 0 advantage, 1 successes, 0 triumphs</p>
 
-<h3 id="jump">Event: <a href="../Bonus/6_A Closeted Tourist.php">A Closeted Tourist</a></h3>
+<h3 id="jump">Event: <a href="../Bonus/9_A Closeted Tourist.php">A Closeted Tourist</a></h3>
 
     <h2>Results</h2>
     <p><b>Economic:</b></p>
@@ -79,7 +79,7 @@
 </ul> 
 
 <p>In addition, since the building itself turns out to be easily large enough to safely accommodate your research team, they barely need most of the supplies they bring. You will have a bonus die on your next check to improve this settlement.</p>
-
+<h3 id="jump2">Event: <a href="../Bonus/10_Family Ties.php">Family Ties</a></h3>
     <p><b>Political:</b> Shadimon has some <i>work to do</i>. While he alone is aware of the exact events of this season, potential flaws in Asavardi's security have been made readily apparent. With the excuse of another accidental dreamdust elf incursion, Shadimon organizes a round of penetration testing and extra training from patrols. Including, for no particular reason, a simulated event where the Tourist tries to climb the walls of Asavardi. No reason.</p>
 
 <p>"Dusk's" visit did not count as Espionage and doesn't waste any bonuses, and Shadimon's motivation will provide a boost die on your almost certain cloak and dagger check next turn.</p>
@@ -97,9 +97,9 @@
 <p>Regardless, Dusk’s information combined with the excellent work from your researchers means you have not one but two Upgrades available, one on your next attempt to do something with the Archive and one on your next attempt to repair the Orrery. The check to repair the Orrery will be an Economics (Enrichment) check, and this upgrade will stack with other bonuses. Dusk was right. Lycan math starts with the moon and works backwards.</p>
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",7,null,6);
+        settarget("Winged",7,null,10);
         include '../footer.php';
-        echo getflapstory(null,"../Bonus/????.php");
+       // echo getflapstory(null,"../Bonus/????.php");
         echo getarrows("02_1_Winged.php","02_3_Winged.php");
         setlast("Year/02_2_Winged.php");
     ?>
