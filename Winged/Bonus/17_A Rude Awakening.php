@@ -80,10 +80,10 @@
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Winged",null,null,10);
+    settarget("Winged",null,null,17);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/03_1_Winged.php#jump-1","../Year/03_1_Winged.php#jump-1");
-    setlast("Bonus/10_A Rude Awakening.php");?>
+    setlast("Bonus/17_A Rude Awakening.php");?>
 </body>
 </html>

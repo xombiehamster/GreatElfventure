@@ -162,10 +162,10 @@
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Winged",null,null,6);
+    settarget("Winged",null,null,9);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/02_2_Winged.php#jump","../Year/02_2_Winged.php#jump");
-    setlast("Bonus/6_A Closeted Tourist.php");?>
+    setlast("Bonus/9_A Closeted Tourist.php");?>
 </body>
 </html>

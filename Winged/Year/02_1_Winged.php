@@ -13,7 +13,7 @@
 <body>
 <h1>Year 2 - Summer</h1>
     <h2>Roleplay Event 2.0: <a href="../../Events/02_0.php">A New Year</a></h2>
-    <p>placeholder</p>
+    <h3 id="jump">Story 2.1.1: <a href="../Bonus/5_A Quick Recap.php">A Quick Recap</a>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -50,7 +50,7 @@
     <p><b>Misc:</b> Early in the season, a group of winged elves flies in from the north- a few dozen, carrying crude rope baskets of supplies. They report that they had been hiding out in the forests of the central continent until recently. They made contact with the humans, and Lock gave them supplies and told them to go east until they hit elf. They are quite relieved to reach you, and report that more are coming.</p>
 
 <p>You will now be receiving semi-regular groups of immigrants, allowing you to establish new settlements and grow old ones according to the rules.</p>
-
+<h3 id="jump3">Story 2.1.2: <a href="../Bonus/7_Lost and Found.php">Lost and Found</a>
     <p><b>Economic:</b> FINALLY! After so much strife, toil, and hardship, Asavardi is starting to shape up. With lessons learned and renewed vigor, the cliffs finally start becoming what the flappies always wanted them to be. No longer narrow caves with cloth and curtains for cover, the winged elves are able to complete carving the caves into true homes with multi-room apartments and studios with actual furnishings and shutters for bad weather. It’s still modest compared to your old home, but it’s truly a place to be proud of now.</p>
 
 <p>That, and the artistic carvings of the trees are complete, making Asavardi truly look like something the winged elves can call their own.</p>
@@ -77,7 +77,7 @@
 
 <p>On the second story of the building, they find a meager sleeping space, now empty. On the top floor, they find a device like something they have never seen before. It is a brass construction, with a large crystal in the base. Intricate gears and cogs litter the floor, along with strange runes carved into them. There are large spheres made of various stone and semi-precious metals scattered around, along with lenses and telescopes arrayed along the openings in the dome. Whatever it is, it appears to be broken. Dhakamari believes it to be some kind of device for skywatching. An observatory.</p>
 
-<p id="jump">As they search the rest of the building, they find a basement entrance. Searching the basement, they find a small room nestled near the stairs. In that room, surrounded by some meager dried plants, they find the dessicated body of an elderly looking wereowl woman. Her wings are folded around her body, a mournful expression on her sunken face. She was wearing simple gray robes, and appears to have passed in her sleep. She appears to have passed away some time ago. In her hands she holds a note. It is written in the Lycan language, but anyone who knows that language can <a href="../Bonus/5_A Forgotten Testimony.php">read it.</a></p>
+<p id="jump2">As they search the rest of the building, they find a basement entrance. Searching the basement, they find a small room nestled near the stairs. In that room, surrounded by some meager dried plants, they find the dessicated body of an elderly looking wereowl woman. Her wings are folded around her body, a mournful expression on her sunken face. She was wearing simple gray robes, and appears to have passed in her sleep. She appears to have passed away some time ago. In her hands she holds a note. It is written in the Lycan language, but anyone who knows that language can <a href="../Bonus/6_A Forgotten Testimony.php">read it.</a></p>
 
 <p>Further in the basement, they find carved into the stone beneath the ruined building row after row of scrolls stored in stone racks. They are hundreds and hundreds of star charts, arrayed in staggeringly complicated methods that none of the pathfinders can even remotely crack. However they note that the hot dry air at this high altitude is apparently excellent for preserving things.</p>
 
@@ -86,7 +86,7 @@
 <p>It is up to you what they did with her body.</p>
 
 <p>The square has the following Aspects: Watchtower Rock,  River Source, and Ruined Observatory.</p>
-
+<h3 id="jump4">Story 2.1.1: <a href="../Bonus/8_A New Discovery.php">A New Discovery</a>
     <p><b>Mental:</b> The Ward is brought up without a hitch! Shockingly! Your elves wait a few days for the other shoe to drop, but hey. Ward stays up. In utter disbelief that something actually went perfectly fine on the first try, a thorough examination of the wards is performed. A few physical gaps are found, tweaks are made, and all is well and good. Asavardi has an extra blanket of safety.</p>
 
 <p>It will last 3 turns, expiring at the end of Spring.</p>

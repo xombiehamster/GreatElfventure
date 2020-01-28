@@ -7,8 +7,9 @@
         A Surtian Flight
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
+    <link rel="stylesheet" type="text/css" href="../../Fire/Fire.css">    
     <link rel="stylesheet" type="text/css" href="../Winged.css">
-    <link rel="stylesheet" type="text/css" href="../../Fire/Fire.css">
+
 </head>
 
 <body>
@@ -112,10 +113,10 @@ Confirmed no harm done/intended, apologies to Herbert for trouble</p>
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Winged",null,null,7);
+    settarget("Winged",null,null,14);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/02_3_Winged.php#jump","../Year/02_3_Winged.php#jump");
-    setlast("Bonus/7_A Surtian Flight.php");?>
+    setlast("Bonus/14_A Surtian Flight.php");?>
 </body>
 </html>

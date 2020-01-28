@@ -32,10 +32,10 @@
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Winged",null,null,5);
+    settarget("Winged",null,null,6);
     #Footer content
     include '../footer.php';
-    echo getarrows("../Year/02_1_Winged.php#jump","../Year/02_1_Winged.php#jump");
-    setlast("Bonus/5_A Forgotten Testimony.php");?>
+    echo getarrows("../Year/02_1_Winged.php#jump2","../Year/02_1_Winged.php#jump2");
+    setlast("Bonus/6_A Forgotten Testimony.php");?>
 </body>
 </html>
