@@ -18,6 +18,10 @@ function getBArray($elf){
         break;
         case "Crag":
             $arr[0] = "A Seeker to Eschaton";
+            $arr[19] = "A Rocky Shore";
+            $arr[25] = "A Dependable Blade";
+            $arr[26] = "A Safe Fortress";
+            $arr[28] = "A Charted Course";
         break;
         case "Dark":
             $arr[0] = "A Moody Visitor";
@@ -35,10 +39,12 @@ function getBArray($elf){
             $arr[12] = "A Stupid, Awkward Dream";
             $arr[13] = "A Rational Question";
             $arr[14] = "A Friend in Need";
+            $arr[20] = "A Dark Secret";
         break;
         case "Dreamdust":
             $arr[0] = "A Chance Encounter";
             $arr[1] = "A Summit of Chieftans";
+            $arr[20] = "A Dark Secret";
         break;
         case "Fire":
             $arr[0] = "A Tourist in Surt";
@@ -55,6 +61,14 @@ function getBArray($elf){
             $arr[11] = "A Deal Burned";
             $arr[12] = "A Simple Decision";
             $arr[13] = "Ambush Predators";
+            $arr[14] = "A Tale Begins";
+            $arr[16] = "A Wild Ride";
+            $arr[17] = "A Surtian Confusion";
+            $arr[19] = "A Rocky Shore";
+            $arr[20] = "A Dark Secret";
+            $arr[25] = "A Dependable Blade";
+            $arr[26] = "A Safe Fortress";
+            $arr[27] = "A Charted Course";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
@@ -83,6 +97,9 @@ function getBArray($elf){
             $arr[23] = "A Strange Friend";
             $arr[24] = "A Second Chance";
             $arr[25] = "A Grim Swamp";
+            $arr[26] = "A Safe Fortress";
+            $arr[27] = "A New Moon";
+            $arr[28] = "A Charted Course";
         break;
         case "Winged":
             $arr[0] = "Summer";
@@ -106,6 +123,7 @@ function getBArray($elf){
             $arr[18] = "A Rude Awakening";
             $arr[19] = "A Moonlit Flight";
             $arr[20] = "A Scholarly Pursuit";
+            $arr[20] = "A Dark Secret";
         break;
     }
     return $arr;

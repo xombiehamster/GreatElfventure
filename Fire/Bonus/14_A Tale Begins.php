@@ -6,7 +6,8 @@
         A Tale Begins
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-    <link rel="stylesheet" type="text/css" href="../River.css">
+    <link rel="stylesheet" type="text/css" href="../../River/River.css">
+    <link rel="stylesheet" type="text/css" href="../Fire.css">
 </head>
 <body>
     <h1>A Tale Begins</h1>
@@ -194,7 +195,7 @@
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/04_3_River.php#back2","../Year/04_3_River.php#back2");
+        echo getarrows("../Year/04_3_Fire.php#back2","../Year/04_3_Fire.php#back2");
         setlast("Bonus/14_A Tale Begins.php");
     ?>
 </body>
