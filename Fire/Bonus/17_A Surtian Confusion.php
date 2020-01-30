@@ -6,7 +6,8 @@
         A Surtian Confusion
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-    <link rel="stylesheet" type="text/css" href="../River.css">
+    <link rel="stylesheet" type="text/css" href="../../River/River.css">
+    <link rel="stylesheet" type="text/css" href="../Fire.css">
 </head>
 <body>
     <h1>A Surtian Confusion</h1>
@@ -147,7 +148,7 @@
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("16_A Wild Ride.php","../Year/04_4_River.php#back2");
+        echo getarrows("16_A Wild Ride.php","../Year/04_4_Fire.php#back2");
         setlast("Bonus/17_A Surtian Confusion.php");
     ?>
 </body>

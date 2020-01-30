@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css?family=Pacifico";
 @import "https://fonts.googleapis.com/css?family=Cedarville Cursive";
 @import "https://fonts.googleapis.com/css?family=Charmonman";
+@import "https://fonts.googleapis.com/css?family=Lobster";
 body {
     background-color: #ebfaf2;
 }
@@ -19,4 +20,9 @@ body {
 
 .AcrisMagic {
     font-family: 'Comic Sans', sans-serif;
+}
+
+.stuff {
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
 }
