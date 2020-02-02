@@ -26,7 +26,7 @@
 <p>"Thank you, dear," Ehra grins, "We've been hard at work on the old girl, I'm glad it shows. We've had a good year. I am so glad to see your group, after hearing how much trouble happened on the river. I'll be much at ease when everyone arrives."</p>
 <p>“So will we,” Shadimon says, coming to stand with them. “We haven’t had much news out where we are. But if you have, then Partager must have made it back through here safely, and that’s a relief.” He offers his hand to Ehra, “Good to see you.”</p>
 <p>Ehra grasps Shadimon’s hand with both of his own, “Yes, good to see you too. Partager passed through just a few months ago. They seemed a little worse for the wear, but they’re river elves. If they’re moving, they’ll make it. I believe they were off to look for the fire elves. I haven’t heard anything else, though. Except for, well… Ah, that can wait. Only good news from me today.”</p>
-<p>“Agreed, absolutely. Here, this is Dhakamari. He’s our lead ranger and came in Varna’s place. Things have been busy with us, so it seemed best to leave Baijani and Varna to handle things for awhile.”</p>
+<p>“Agreed, absolutely. Here, this is Dhakamari. He’s our lead ranger and came in <?php echo firstcontact("Varna");?>’s place. Things have been busy with us, so it seemed best to leave <?php echo firstcontact("Baijani");?> and Varna to handle things for awhile.”</p>
 <p>Dhakamari shyly nods his head to Ehra, having obviously heard of but never personally met the commander of the blade elves. “Sir, pleased to meet you.”</p>
 <p>"You're Dhakamari?" Ehra asks with a smile, "The river elves told me about you! Your flight was an incredible feat. I would love to hear your tale of it sometime."</p>
 <p>Dhakamari squirms, “Ah, yessir. It was just what had to be done.”</p>
@@ -41,7 +41,7 @@
 <p>“Ny’s not feeling up to travelin’ at speed, so it’s just us.  Weh, we ken make better time ‘en ‘em.  Seems I lost <?php echo firstcontact("Smilisca");?> somewhere in the fort though.  ‘Yall seen him this mornin?”  Litoria looks to Ehra’s companions.</p>
 <p>Acris, meanwhile, is pilfering potatoes.  </p>
 <p>Katiin sighs, “About the same time I lost track of Terje. Odd, that.” </p>
-<p>The Dreamdust elves are next to arrive.  <?php echo firstcontact("Pebble");?> waves enthusiastically at everyone in the room, clinging to a box of pastries with the other.  Dust and Dave follow, flanking a small spiky lizardfolk.  “We made friends!  This is <?php echo firstcontact("Tik'Tak");?>!”  Tik’Tak tries to hide behind Dust.</p>
+<p>The Dreamdust elves are next to arrive.  <?php echo firstcontact("Pebble");?> waves enthusiastically at everyone in the room, clinging to a box of pastries with the other.  <?php echo firstcontact("Dust");?> and <?php echo firstcontact("Dave");?> follow, flanking a small spiky lizardfolk.  “We made friends!  This is <?php echo firstcontact("Tik'Tak");?>!”  Tik’Tak tries to hide behind Dust.</p>
 <p>Anasatri hops up to go give Pebble a hug, “I’ve missed you! How have you been? And you made friends!” She looks at the spiky head peeking around Dust, “Tik’Tak, was it? Hello!” </p>
 <p>“We’ve been good!  Some misunderstandings with the Machakw, Tik’Tak’s folk, but that’s all resolved.  We’ve also got some news about other elves in the area, but we don’t know much more than that.”</p>
 <p>"You are all so tall," Tik'Tak looks back and forth at the group, "What do they feed you all, and where do I get some?" He gives the winged elf a curious look, "You most! Wings look fun."</p>
@@ -49,7 +49,7 @@
 <p>"Yes, but make sure you tell everyone I'm an elf," Tik'Tak holds his fingers out next to his ear holes with a completely deadpan look on his face, "Very important. Don't want to be left out."</p>
 <p>“Spiky elf!”  Pebble nods emphatically.</p>
 <p>Tik'Tak throws a pillow onto a chair and hauls himself up to the table. "Yes," he returns the nod solemnly, "Spiky elf." </p>
-<p>At some point, two dark elves peal themselves from the shadows of a hallway and hover in a relatively secluded corner.  Shyrendora is recognizable, but the other is new and younger - also being gently nudged towards the large group.</p>
+<p>At some point, two dark elves peal themselves from the shadows of a hallway and hover in a relatively secluded corner.  <?php echo firstcontact("Shyrendora");?> is recognizable, but the other is new and younger - also being gently nudged towards the large group.</p>
 <p>The young elf practically launches forward to join, sidling up next to the winged-elves mainly out of familiarity.  “Hi guys!  Whoa that is a spiky elf there.  How are things?  Good?”</p>
 <p>Shyrendora sighs loudly from her corner...fondly...sort of. </p>
 <p>“<?php echo firstcontact("Amenidal");?>! Glad to see you made it back safely.” Anasatri leans around and hugs him too. “Good since you last saw is, happily.”</p>
@@ -66,13 +66,13 @@
 <p>“We have.  It took time, but eventually we made friends.  We’ve sighted other elves spying on us though, so we’re keeping up our guard.”</p>
 <p>She offers her flask, “Perhaps we shall share once we have all convened.  I don’t have the energy to tell more than once with so many people around.”</p>
 <p>“Fair enough.”  Dust takes a sip, and his eyebrows went up.  He offered his own flask.  “You’re welcome to try ours, but it’s fermented from goat milk, I recommend you smell it first.”</p>
-<p>Shyrendora goes against wisdom and takes a sip without doing the recommended sniff test.  She blinks with raised brows and looks at the flask before handing it back.  “Mm.  Interesting and not bad.  I will have to tell Greg to try that one day.” </p>
+<p>Shyrendora goes against wisdom and takes a sip without doing the recommended sniff test.  She blinks with raised brows and looks at the flask before handing it back.  “Mm.  Interesting and not bad.  I will have to tell <?php echo firstcontact("Greg");?> to try that one day.” </p>
 <p>“We’d be happy to send a few bottles your way.  We do want to talk about trade at some point.”</p>
 <p>“I am no good at trade talk, but I have heard Uncle enough times to give it a shot.”</p>
 <p>“There’s no rush, but we wanted to see what we could trade in exchange for hiring a few of your folks for some flyover scouting.” </p>
 <p>The door kicked open, and in shuffled a pair of Fire Elves, carrying armloads of jugs and amphora. The first was quite obviously the Hunger; the second was dressed in sharp green, and had a jaunty mustache on his face, with an even jauntier grin below it. <?php echo firstcontact("Barrabus Leafstorm");?>, the "Phoenix Lord."</p>
 <p>The two haphazardly placed the wine jugs onto a nearby table, and then nodded to each other and split -- the Hunger headed towards Ehra, while Barrabus set about pouring a few cups of wine from the variety of containers scattered about the room.</p>
-<p>"The decor is much improved, at least," the Hunger said, stepping up to Calestros' table.</p>
+<p>"The decor is much improved, at least," the <?php echo firstcontact("Hunger");?> said, stepping up to Calestros' table.</p>
 <p>Litoria accepts a cup of wine from the fire elves appreciatively, and then finishes setting out a pile of freshly fermented raw crab.  Next to it, she unrolls Acris’s bundle of exotic jungle spices to share.</p>
 <p>Ehra smiles warmly, "Peacetime does wonders for one's interior decorations. Thank you for coming, Hunger. How has Surt been faring?"</p>
 <p>"Very well," the Hunger replied. He seems a little more… stiff than a year ago, and there is noticeable greying at his temples. "We have achieved relative agricultural self-sufficiency, built a stable basic infrastructure, and even started work on serious internal defenses. All in all, aside from a few incidents, this has been an excellent year."</p>
@@ -135,9 +135,9 @@
 <hr/>
 <p><a href="../Crag/0_Aspects and Goals.php">More about Crag Elves</a></p>
 <hr/>
-<p>As the meal begins awkwardly, a couple of things happen. First, as Katiin goes to close the door, Smilisca and Terje awkwardly slide into the room. They seem to be in good spirits. As the two try to head towards the least noticeable seats off to the side, there is something of a clatter of confusion.</p>
+<p>As the meal begins awkwardly, a couple of things happen. First, as Katiin goes to close the door, Smilisca and <?php echo firstcontact("Terje");?> awkwardly slide into the room. They seem to be in good spirits. As the two try to head towards the least noticeable seats off to the side, there is something of a clatter of confusion.</p>
 <p>“Sorry.” A raspy voice answers.</p>
-<p>Apparently, Terje tried to sit on a Cryptid. Somehow. Apparently, they arrived at the table at some point while everyone else was distracted by Slabal. And indeed it is a they, as for the first time there’s more than one of them. Ink, the tattooed one from the first potluck, is there. There is also another cryptid, apparently female, with ash grey skin and wearing black wraps that hood her face. The two have set down a tray of what appears to be fine cuts of raw fish wrapped in what appears to be some kind of waxy tree bark.</p>
+<p>Apparently, Terje tried to sit on a Cryptid. Somehow. Apparently, they arrived at the table at some point while everyone else was distracted by Slabal. And indeed it is a they, as for the first time there’s more than one of them. <?php echo firstcontact("Ink");?>, the tattooed one from the first potluck, is there. There is also another cryptid, apparently female, with ash grey skin and wearing black wraps that hood her face. The two have set down a tray of what appears to be fine cuts of raw fish wrapped in what appears to be some kind of waxy tree bark.</p>
 <p>“Hello,” Ink says as the other cryptid places the tray down and sits. “You unwrap it first,” He adds helpfully. He provides no other comment.</p>
 <p>Terje and Smilisca welcome the distraction and quietly sit next to each other. </p>
 <p>Anasatri waves cheerfully down the table, “Hello Ink! Good to see you again too.” She makes sure to get a few pieces of the mysterious fish, passing one to Dhakamari and Shadimon as well. After some contemplation, she manages to get a portion of meat off of the roasted elk, taking it off to share with the other winged elves as well.</p>
@@ -599,7 +599,7 @@
 <p>Another long pause.</p>
 <p>“I have finished with my questions.”</p>
 <p>"Well then I have a few," the Fury said. She turned to the Cryptid. "First off... what's your name?"</p>
-<p>“Skulk.” Munch munch. </p>
+<p>“<?php echo firstcontact("Skulk");?>.” Munch munch. </p>
 <p>"Cool, cool, easy one out of the way. Sooo," the Fury continued, "Is there a <i>lot</i> of unusual magical forms in this area, or can you point me towards some of it? I noticed Ink has some highly unusual capabilities, and I've... been looking for some unusual sources of magic on my own. I have a friend I'm looking for, you might say."</p>
 <p>Skulk shrugs, “It’s all wizard shit to me.”</p>
 <p>Munch munch. </p>
