@@ -77,7 +77,7 @@
 
     <?php
     include '../../settarget.php'; 
-    settarget("Dark",2,null,null);
+    settarget("Dark",2,0,null);
     include '../footer.php';
     echo getarrows(null,"01_2_Dark.php");
     setlast("Year/01_1_Dark.php");?>
