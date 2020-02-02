@@ -87,9 +87,14 @@ function getImage($elf){
         case "Terror":
             $ret = '../Fire/Images/Terror.png';
         break;
-        case "Ashburn Tsun":
+        case "Auburn Tsun":
         case "Tsun":
-            $ret = '../Fire/Images/Ashburn Tsun.png';
+            $ret = '../Fire/Images/Auburn Tsun.png';
+        break;
+        case "Smoke":
+        case "Vita":
+        case "Vita Grassforest":
+            $ret = '../Fire/Images/Smoke.png';
         break;
         # River Elves
         case "Acris Hylidae":
@@ -235,10 +240,15 @@ function getDescr($elf){
         case "Terror":
             $ret = 'Leader, Strong Silent Type';
         break;
-        case "Ashburn Tsun":
+        case "Auburn Tsun":
         case "Tsun":
             $ret = 'Professional Troublemaker';
         break;
+        case "Smoke":
+            case "Vita":
+            case "Vita Grassforest":
+                $ret = 'Cohort to The Terror. Frequently assigned to scouting missions.';
+            break;
         # River Elves
         case "Acris Hylidae":
         case "Acris":
