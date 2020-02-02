@@ -6,7 +6,8 @@
         A Rocky Shore
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-    <link rel="stylesheet" type="text/css" href="../River.css">
+    <link rel="stylesheet" type="text/css" href="../../River/River.css">
+    <link rel="stylesheet" type="text/css" href="../Crag.css">
 </head>
 <body>
     <h1>A Rocky Shore</h1>
@@ -251,7 +252,7 @@
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/05_1_River.php#back2","../Year/05_1_River.php#back2");
+        echo getarrows("../Year/05_1_Crag.php#back2","../Year/05_1_Crag.php#back2");
         setlast("Bonus/20_A Rocky Shore.php");
     ?>
 </body>
