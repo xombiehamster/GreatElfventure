@@ -6,7 +6,7 @@
         A Dark Secret
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-    <link rel="stylesheet" type="text/css" href="../River.css">
+    <link rel="stylesheet" type="text/css" href="../Winged.css">
 </head>
 <body>
     <h1>A Dark Secret</h1>
@@ -239,8 +239,8 @@
     <p id="i" class="center">That said, the archive puts solutions in play that would be otherwise impossible to achieve. Please consult me for your intended uses for the archive.</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/05_1_River.php#back","../Year/05_1_River.php#back");
-        setlast("Bonus/20_A Dark Secret.php");
+        echo getarrows("../Year/05_1_Winged.php#back","../Year/05_1_Winged.php#back");
+        setlast("Bonus/21_A Dark Secret.php");
     ?>
 </body>
 </html>
