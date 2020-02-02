@@ -14,8 +14,8 @@
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/05_3_River.php#back3","../Year/05_3_River.php#back3");
-        setlast("Bonus/25_A Safe Fortress.php");
+        echo getarrows("../Year/05_3_River.php#back4","../Year/05_3_River.php#back4");
+        setlast("Bonus/26_A Safe Fortress.php");
     ?>
 </body>
 </html>

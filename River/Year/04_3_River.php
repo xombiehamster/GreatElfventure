@@ -56,7 +56,7 @@
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
     <p><b>Misc:</b> placeholder</p>
-    <h3><b>Dilemma:</b> Just around the river bend</h3>
+    <h4><b>Dilemma:</b> Just around the river bend</h4>
     <p><b>Status:</b> placeholder</p>
     <p>placeholder</p>
         

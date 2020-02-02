@@ -58,7 +58,7 @@
     <p><b>Military:</b> placeholder</p>
     <h3 id="back3">Roleplay Event 4.4: <a href="../Bonus/18_A Deep River.php">A Deep River</a></h3>
     <p><b>Mental:</b> placeholder</p>
-    <h3><b>Dilemma:</b> Just around the river bend</h3>
+    <h4><b>Dilemma:</b> Just around the river bend</h4>
     <p><b>Status:</b> placeholder</p>
     <p>placeholder</p>
     <p><b>Elf Prime:</b> placeholder</p>

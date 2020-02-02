@@ -136,6 +136,7 @@
     <p>"Oh," Ink says blandly, "If… you could, it might… help. It is… we still remember how She was before. To hear Her now is…" he trails off.</p>
     <p>"We still love Her," Still adds very quietly.</p>
     <p>"She loves you too." Steve manages with surprising clarity. "All of us." He offers a half smile. "Even… when we feel broken." He lapses into silence again.</p>
+    <p>Smilisca <a href="../6_Creation Myths.php#Hylidae">understands.</a></p>
     <p>"Yes," Still barely manages to say. </p>
     <p>Steve is silent for several minutes, then leans towards Anasatri, making sure he has her attention before he speaks. He gestures at the Cryptid elves. "What. <i>Priorities.</i>" </p>
     <p>“Oh, of course.” Anasatri raises her voice, “The important question here is what <i>you</i> all want. What are your priorities, and goals? What do you want to change, or keep the same?” </p>
@@ -165,7 +166,7 @@
     <p>“Mais I gotta see, weh.  It’s... There’s so much.”</p>
     <p>Steve stares upward, wide-eyed. </p>
     <p>“Maybe we should start with this plane, and work our way out,” Fury says. She starts channel a bit of light into her fingers, but tendrils of shadow bolt out of the wall near her. The cover her hand like a bundle of cold tar, snuffing out the light.</p>
-    <p>"<i>Rules,</small>" Ink grumbles.</p>
+    <p>"<i>Rules,</i>" Ink grumbles.</p>
     <p>He makes a motion with one hand and the offending substance dissipates. <span class="tooltip">He waves the other<span class="tooltiptext">Mage Hand</span></span> and a bundle of shadows in the shape of a hand pops one of the glowing stones off the wall and holds it in front of Fury. </p>
     <p>Anasatri slowly pulls herself back to her feet and wobbles toward the index, “Can I have one of those lights too, please? It’s just too dim for me to read without going cross-eyed.”</p>
     <p>From the doorway, Amenidal is staring upwards with alarmingly wide eyes and ears that are visibly vibrating.  “There’s… so much… you’ve seen so much…”</p>

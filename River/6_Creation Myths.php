@@ -27,7 +27,7 @@
     <p>Weh non!  Clams!  An’ kobolds.  </p>
     <p>An by then many years they gone by and Boudreaux and Thibodeaux were old.  An they still ain’t admitted that they had done got themselves ass-lost.  They keep goin’ up an down the river, an’ their families they come with.  An tradition is just repeatin’ the same things for generations.  So Boudreaux an Thibodeaux die and their families keep on ridin currents.  An’ that’s how we river elves started on the rivers even when we ain’t ass-lost.</p>
 <?php
-if ($_SESSION["RIVER"]>=14){
+if ($_SESSION["RIVER"]>=18){
     echo '<h2 id="Hylidae">Hylidae</h2>
     <p>So how we tell it, in them days right after the Shatter when all them elves were still learnin’ how things done changed, Boudreaux and Thibodeaux built themselves a pirogue and went out on the river for a spell.  They spent the day a fishin’ and a drinkin’ and they done lost sight of the way they come.  Both Boudreaux an Thibodeaux got themselves ass-lost.</p>
     <p>Now, they both know they was ass-lost, so they got to arguin bout it an pass some words between them that they shoulda never said.  An while they arguin’ their pirogue keep on a followin’ the current.  Rivers, by habit, done always flow naturally to the sea where the water is all salty an yall can’t even drink it.</p>

@@ -50,7 +50,7 @@
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
     <p><b>Eina:</b> placeholder</p>
-    <p><b>Dilemma:</b> placeholder</p>
+    <h4><b>Dilemma:</b> placeholder</h4>
     <p><b>Status:</b> placeholder</p>
     
     <?php
