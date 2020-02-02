@@ -23,6 +23,14 @@
         '<h2>Elf Express</h2>
         <p>One of the benefits of being nomadic is that River Elves are able to make deliveries of trade goods possible.  When a River Elf settlement is within two squares of another settlement they are able to complete a Trade action with the other settlement without expending the other settlement’s Economic action for the turn because the other settlement just needs to accept the offer instead of having to also make a delivery of their own.</p>';
     }
+    if($_SESSION["RIVER"]>=18){
+        echo
+        '<h2>Elf Prime</h2>
+        <p>River elves are blood in the elven body. Their mastery of trade and networking, as well as the independent nature of the flotillas, allows them to maintain a flow of trade goods far more complex than others could manage.</p>
+        <p>Once per turn, the river elves may motivate their economic track without spending a fate point. This may only be done to allow a cooperative Trade check with an allied elven nation with Elf Express. If the other nation does not agree to perform the check cooperatively or Elf Express cannot be used, this stunt cannot be used.</p>
+        <p>A single flotilla cannot use this stunt to perform more than one Trade check in a single turn. If the first check on the Economy track is also a trade check, the Elf Prime motivated Trade check must be performed by a separate flotilla.</p>
+        <p>This stunt can be used in tandem with Motivation from a separate source, such as spending a fate point.</p>';
+    }
     ?>
     <h1>Rituals</h1>
     <?php
@@ -38,6 +46,16 @@
                 <p>This spell may be improved by further magic research.</p></li></ul>';
     }else{
         echo '<p>No rituals created... yet!</p>';
+    }
+    if($_SESSION["RIVER"]>=11){
+        echo
+        '<h2>River Beacon I</h2>
+        <ul>
+            <li>Risk - Low</li>
+            <li>Target - One River</li>
+            <li>Difficulty - 1</li>
+            <li>Effect - This ritual will send out a beacon that is only perceptible to river elves. This beacon is perceptible to any river elves currently in contact with that river, all the way to its source. Any river elf who perceives the beacon gets a direction and a sense of welcome and belonging, and a sense that it’s other river elves sending the beacon. When created, this beacon will last for 1d4 turns. The DM will roll a percentile die in secret every turn to see if any river elves perceive the beacon and decide to follow it. If successful, this will provide a New Arrivals Aspect the next turn that can be Invoked to grow existing settlements or create a new one. With the beacon being in its most basic form, the percentage chance of this is currently fairly low. </li>
+        </ul>';
     }
     include '../settarget.php'; 
     settarget("River",null,4,null);
