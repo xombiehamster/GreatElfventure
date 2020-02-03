@@ -49,6 +49,20 @@
             <td><a href="River.php">Pathfinder Stats</a></td>
             <td><a href="Winged.php">Pathfinder Stats</a></td>
         </tr>
+        <tr>
+        <!-- Additional -->
+            <td><!-- Additional --></td>
+            <?php
+                #Crag elves don't appear until after the 2nd Potluck is read.
+                if($_SESSION["CRAG"]>0){
+                    echo '<td><!-- Additional --></td>';
+                }?>
+            <td><!-- Additional --></td>
+            <td><!-- Additional --></td>
+            <td><!-- Additional --></td>
+            <td><!-- Additional --></td>
+            <td><a href="Winged-Harrier.php">Racial Archetype - Fighter</a></td>
+        </tr>
     </table>
 </div>
 

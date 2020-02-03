@@ -13,7 +13,7 @@
 <body>
 <h1>Year 2 - Summer</h1>
     <h2>Roleplay Event 2.0: <a href="../../Events/02_0.php">A New Year</a></h2>
-    <h3 id="jump">Story 2.1.1: <a href="../Bonus/5_A Quick Recap.php">A Quick Recap</a>
+    <h3 id="jump">Story 2.1.1: <a href="../Bonus/5_A Quick Recap.php">A Quick Recap</a></h3>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -50,7 +50,7 @@
     <p><b>Misc:</b> Early in the season, a group of winged elves flies in from the north- a few dozen, carrying crude rope baskets of supplies. They report that they had been hiding out in the forests of the central continent until recently. They made contact with the humans, and Lock gave them supplies and told them to go east until they hit elf. They are quite relieved to reach you, and report that more are coming.</p>
 
 <p>You will now be receiving semi-regular groups of immigrants, allowing you to establish new settlements and grow old ones according to the rules.</p>
-<h3 id="jump3">Story 2.1.2: <a href="../Bonus/7_Lost and Found.php">Lost and Found</a>
+    <h3 id="jump3">Story 2.1.2: <a href="../Bonus/7_Lost and Found.php">Lost and Found</a></h3>
     <p><b>Economic:</b> FINALLY! After so much strife, toil, and hardship, Asavardi is starting to shape up. With lessons learned and renewed vigor, the cliffs finally start becoming what the flappies always wanted them to be. No longer narrow caves with cloth and curtains for cover, the winged elves are able to complete carving the caves into true homes with multi-room apartments and studios with actual furnishings and shutters for bad weather. It’s still modest compared to your old home, but it’s truly a place to be proud of now.</p>
 
 <p>That, and the artistic carvings of the trees are complete, making Asavardi truly look like something the winged elves can call their own.</p>
@@ -86,7 +86,7 @@
 <p>It is up to you what they did with her body.</p>
 
 <p>The square has the following Aspects: Watchtower Rock,  River Source, and Ruined Observatory.</p>
-<h3 id="jump4">Story 2.1.3: <a href="../Bonus/8_A New Discovery.php">A New Discovery</a>
+    <h3 id="jump4">Story 2.1.3: <a href="../Bonus/8_A New Discovery.php">A New Discovery</a></h3>
     <p><b>Mental:</b> The Ward is brought up without a hitch! Shockingly! Your elves wait a few days for the other shoe to drop, but hey. Ward stays up. In utter disbelief that something actually went perfectly fine on the first try, a thorough examination of the wards is performed. A few physical gaps are found, tweaks are made, and all is well and good. Asavardi has an extra blanket of safety.</p>
 
 <p>It will last 3 turns, expiring at the end of Spring.</p>
