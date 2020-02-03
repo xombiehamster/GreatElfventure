@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css?family=Calligraffitti";
 @import "https://fonts.googleapis.com/css?family=Pacifico";
 @import "https://fonts.googleapis.com/css?family=Amatic SC";
+@import "https://fonts.googleapis.com/css?family=Shadows Into Light";
 
 /* Letters from Bryti */
 
@@ -23,4 +24,8 @@ p#SkulkLetter {
 p#VissLetter {
     font-family: 'Amatic SC', cursive, serif;
     font-size: 17px;
+}
+
+.ShadyMagic {
+    font-family: 'Shadows Into Light', cursive, sans-serif;
 }

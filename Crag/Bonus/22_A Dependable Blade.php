@@ -6,7 +6,7 @@
         A Dependable Blade
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
-    <link rel="stylesheet" type="text/css" href="../River.css">
+    <link rel="stylesheet" type="text/css" href="../Crag.css">
 </head>
 <body>
     <h1>A Dependable Blade</h1>
@@ -63,7 +63,7 @@
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/05_2_River.php#back2","../Year/05_2_River.php#back2");
+        echo getarrows("../Year/05_2_Crag.php#back2","../Year/05_2_Crag.php#back2");
         setlast("Bonus/22_A Dependable Blade.php");
     ?>
 </body>
