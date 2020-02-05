@@ -45,7 +45,7 @@
         And in her education in violence, Litoria also acquired nightmares, panic attacks, and a tendency to overreact.
     </p></p>
     <ul><li><i>Ranger 10</i></li>
-    <li><i>Revenge</i></li></ul>
+    <li><i>Revenge/Return</i></li></ul>
     <h2>Faith</h2>
     <!-- Image goes here !-->
     <img class="avatar" src="Images/Faith.png">
