@@ -23,7 +23,7 @@ A Nomadic settlement has the advantage that it can invoke any Aspect of a square
     include '../settarget.php'; 
     settarget("Dreamdust",null,4,null);
     include 'footer.php';
-    echo getarrows("2_Leadership.php","4_Details.php");
+    echo getarrows("2_Leadership.php",null);
     echo goback();?>
 </body>
 </html>
