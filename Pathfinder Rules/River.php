@@ -21,7 +21,7 @@
 <p>Elves are immune to magic sleep effects and gain a +2 racial saving throw bonus against enchantment spells and effects.</p>
 <p><em>Skin breathing vulnerability</em>-1 RP</p>
 <p>Because a river elf’s skin aids in their breathing, they takes a –2 penalty on Fortitude saving throws against gases, contact and inhaled poisons, and all other inhaled effects.</p>
-<p><strong>Feat and Skill Racial Traits</strong><em>Keen Senses</em> 2 RP</p>
+<p><strong>Feat and Skill Racial Traits</strong><br/><em>Keen Senses</em> 2 RP</p>
 <p>Elves receive a +2 racial bonus on Perception checks.</p>
 <p><em>Amphibious</em>2 RP</p>
 <p>River elves are just as capable on land as in water.</p>
