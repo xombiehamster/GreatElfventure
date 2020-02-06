@@ -100,6 +100,22 @@ p#Echo {
     font-weight: bolder;
 }
 
+.big {
+    font-size: large;
+}
+
+.bigger {
+    font-size: larger;
+}
+
+.biggest {
+    font-size: x-large;
+}
+
+.bigggg {
+    font-size: xx-large;
+}
+
 p#Slabal {
     color: purple;
 }
@@ -125,4 +141,9 @@ p#Drivel {
 
 p#Hercus {
     color: navy;
+}
+
+.panic {
+    color: red;
+    font-weight: bold;
 }
