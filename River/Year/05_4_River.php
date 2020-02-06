@@ -41,31 +41,28 @@
             <td>Winter Quarters</td>
         </tr>
     </table>
-    <p><b>Character:</b> placeholder</p>
-    <h3 id="back">Boxraft Children 4.4.1: <a href="../Bonus/16_A Wild Ride.php">A Wild Ride</a></h3>
+    <h4>Feathernet</h4>
+    <p>Placeholder</p>
+    <h3 id="back">Boxraft Children 5.4.1: <a href="../Bonus/28_An Uncharted Course.php">An Uncharted Course</a></h3>
     <p><b>Economic:</b> placeholder</p>
-    <h3 id="back2">Boxraft Children 4.4.2: <a href="../Bonus/17_A Surtian Confusion.php">A Surtian Confusion</a></h3>
-    <p><b>Economic (motivated):</b> placeholder</p>
+    <p><b>Economic - Stunt Use - Elf Prime:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
     <p><b>Military: </b>placeholder</p>
     <p><b>Mental:</b> placeholder</p>
+    <h3 id="back2">Roleplay Event 4.4.2: <a href="../Bonus/29_A Choice Made.php">A Choice Made</a></h3>
+    <p><b>Character:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
     <h2>Results</h2>
     <p>placeholder</p>
     <p><b>Economic:</b> placeholder</p>
-    <p><b>Economic (motivated):</b> placeholder</p>
+    <p><b>Economic - Stunt Use - Elf Prime:</b> placeholder</p>
     <p><b>Political:</b>placeholder</p>
     <p><b>Military:</b> placeholder</p>
-    <h3 id="back3">Roleplay Event 4.4: <a href="../Bonus/18_A Deep River.php">A Deep River</a></h3>
     <p><b>Mental:</b> placeholder</p>
-    <h3><b>Dilemma:</b> Just around the river bend</h3>
-    <p><b>Status:</b> placeholder</p>
-    <p>placeholder</p>
-    <p><b>Elf Prime:</b> placeholder</p>
     <h3><a href="../../Events/06_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
-        settarget("River",22,null,null);
+        settarget("River",22,null,29);
         if($_SESSION["YEAR"]<6){
             $_SESSION["YEAR"] = 6;
         }

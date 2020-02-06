@@ -101,6 +101,7 @@ function getBArray($elf){
             $arr[26] = "A Safe Fortress";
             $arr[27] = "A New Moon";
             $arr[28] = "An Uncharted Course";
+            $arr[29] = "A Choice Made";
         break;
         case "Winged":
             $arr[0] = "Summer";
