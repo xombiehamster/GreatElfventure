@@ -56,6 +56,6 @@ function settarget($elf,$tar,$mtar,$btar){
             $_SESSION[$meta] = $mtar;
         }
     }
-    echo $_SESSION[$index]," tar ",$_SESSION[$meta]," mtar ",$_SESSION[$bonus]," btar";
+   // echo $_SESSION[$index]," tar ",$_SESSION[$meta]," mtar ",$_SESSION[$bonus]," btar";
     return 0;
 }
