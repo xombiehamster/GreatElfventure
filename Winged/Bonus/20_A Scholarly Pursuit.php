@@ -305,7 +305,7 @@
     
     <p class="center">-FIN-</p>
     <?php 
-        include '../settarget.php'; 
+        include '../../settarget.php'; 
         settarget("Winged",null,5,20);
         include '../footer.php';
         echo getarrows("../Year/03_4_Winged.php#jump","../Year/03_4_Winged.php#jump");
