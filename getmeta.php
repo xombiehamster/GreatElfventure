@@ -54,6 +54,7 @@ function getMArray($elf){
             $arr[2] = "Leadership";
             $arr[3] = "Stunts and Rituals";
             $arr[4] = "Details";
+            $arr[5] = "Creation Myth";
         break;
     }
     return $arr;
