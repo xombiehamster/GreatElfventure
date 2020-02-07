@@ -130,6 +130,7 @@ Rules/Rules Index.php">CivElf</a></span>.
             <!-- Bonus documents -->
             <td>
                 <?php echo getBonus("Blade",$_SESSION["B_EXTRA"]);?>
+                <ul><li><a href="Great Cookbook.php">Great Elfventure Great Cookbook</a></li></ul>
             </td>
             <?php 
             #Crag removal.
