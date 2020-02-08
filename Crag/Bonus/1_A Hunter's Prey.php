@@ -152,7 +152,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/02_3_Crag.php#jump","../Year/02_3_Crag.php#jump");
-        setlast("Bonus/0_A Hunter's Prey.php");
+        setlast("Bonus/1_A Hunter's Prey.php");
     ?>
 </body>
 </html>
