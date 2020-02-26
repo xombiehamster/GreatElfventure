@@ -5,6 +5,7 @@
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <link rel="stylesheet" type="text/css" href="../Fire.css">
+    <link rel="stylesheet" type="text/css" href="../Blade/NPC.ss">
     <title>
         Fire Elf Year 3 - Summer
     </title>
@@ -48,8 +49,8 @@
 <p><strong>Creating new problems. Please wait.</strong></p>
 <p><strong> </strong><strong>Problem in progress: Operation Friendly Fire </strong>[2 economic stress]</p>
 <p><strong> </strong><strong>Originating message:</strong>&nbsp;</p>
-<p><em>From: Coyote To: @everyone: "Terms-</em></p>
-<p><em>Scrublands are ours. Withdraw military forces, stay out. Hand over Riverhaven. Pay us regular annual tribute. When met, Shadimon released, we suspend raiding towns. "</em></p>
+<p id="CoyoteLetter">From: Coyote To: @everyone: "Terms-</p>
+<p id="CoyoteLetter">Scrublands are ours. Withdraw military forces, stay out. Hand over Riverhaven. Pay us regular annual tribute. When met, Shadimon released, we suspend raiding towns. "</p>
 <p>Demanding tribute from entire nations, and a whole town, for Shadimon&rsquo;s life? After losing one engagement, and &lsquo;winning&rsquo; one by sneaking up on the Flying Elves? A poor choice, and a good indicator of Yote&rsquo;s arrogance. &ldquo;Very well then,&rdquo; the Hunger decides, &ldquo;Let us put that arrogance to use.&rdquo;</p>
 <p>Thus, he proposes &ldquo;Operation Friendly Fire&rdquo;, an add-on engagement to help distract from Operation Birdcage. The plan is simple -- provide Yote&rsquo;s &ldquo;tribute&rdquo; at a field location while Operation Birdcage is being conducted, and ensure that said tribute delivers the Marr&rsquo;s strongest export (fire. Its fire.). This *will* actively [inflict economic stress] onto Surt, and will probably lead to problems that will last for months, if not through the year. It will also assist in the recovery of Shadimon, (if done correctly) buy time for the Flappies and Dreamdust elves to build some defenses of their own, <em>and</em> inform the Coyote Elves exactly how the Allied Elven Nations respond to external threats.</p>
 <p>&nbsp;The Terror offers to handle the tribute delivery, and proposes the &ldquo;tribute&rdquo; be used as a targeted strike, designed to disrupt Yote military support, recruitment, and training for a period of at least three months. To do this, she proposes that the goods be expensive oils, wines, and stronger alcohols (a veritable raid of the last of the Lycan meads), with a base of alchemist&rsquo;s fire lining the bottom, and eight expensive <em>Fire Elemental Gems</em> at the center. When the supply detonates, triggered by removing the thirteenth bottle from the container (to minimize the likelihood of early trigger or detection), the alchemist fire will catch, the heat and pressure will blow all of the bottles, and the force will shatter the gems, releasing large, uncontrolled Fire Elementals. The number of gallons of liquid surrounding the gems and the trigger will mask them from magical senses.</p>
