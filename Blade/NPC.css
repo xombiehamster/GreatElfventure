@@ -2,6 +2,7 @@
 @import "https://fonts.googleapis.com/css?family=Pacifico";
 @import "https://fonts.googleapis.com/css?family=Amatic SC";
 @import "https://fonts.googleapis.com/css?family=Shadows Into Light";
+@import "https://fonts.googleapis.com/css?family=Kristi";
 
 /* Letters from Bryti */
 
@@ -28,4 +29,9 @@ p#VissLetter {
 
 .ShadyMagic {
     font-family: 'Shadows Into Light', cursive, sans-serif;
+}
+
+p#CoyoteLetter {
+    font-family: 'Kristi', cursive, serif;
+    font-size: 17px;
 }
