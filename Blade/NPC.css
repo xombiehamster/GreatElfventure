@@ -3,6 +3,7 @@
 @import "https://fonts.googleapis.com/css?family=Amatic SC";
 @import "https://fonts.googleapis.com/css?family=Shadows Into Light";
 @import "https://fonts.googleapis.com/css?family=Kristi";
+@import "https://fonts.googleapis.com/css?family=Satisfy";
 
 /* Letters from Bryti */
 
@@ -33,5 +34,10 @@ p#VissLetter {
 
 p#CoyoteLetter {
     font-family: 'Kristi', cursive, serif;
+    font-size: 17px;
+}
+
+p#EhraLetter {
+    font-family: 'Satisfy', cursive, serif;
     font-size: 17px;
 }
