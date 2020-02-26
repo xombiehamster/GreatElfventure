@@ -5,7 +5,7 @@
 <?php include '../../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <link rel="stylesheet" type="text/css" href="../Fire.css">
-    <link rel="stylesheet" type="text/css" href="../Blade/NPC.ss">
+    <link rel="stylesheet" type="text/css" href="../Blade/NPC.css">
     <title>
         Fire Elf Year 3 - Summer
     </title>
@@ -120,31 +120,33 @@
 <p>Knowledge (Arcana): 19</p>
 <p>Knowledge (Planes): 11</p>
 <p><strong>Dogtalk:</strong></p>
-<ol>
-    <li><p id="HungerLetter>How much control do <em>you</em> actually have over the change?</p></li>
-</ol>
+<p id="HungerLetter>How much control do <em>you</em> actually have over the change?</p>
 <p id="DogLetter"><em>Good Question. Let us experiment.</em></p>
 <p>As he reads this the following morning, Hunger's body is suddenly wracked with pain. He can feel the change coming, as if something is trying to tear through his skin. He can feel the dog's form boiling beneath the surface, threatening to overwhelm his mind and body. He quickly asserts his own will, forces the powerful urge to transform down. He remains calm and feels the transformation fade away, along with the dog's attempt to gain control.</p>
 <p><em>It seems I have the same amount of control that you do</em>, he feels the dog comment in his mind.</p>
 <p><em>And that means I could change, too, should I wish, </em>he replied.</p>
 <p><em>Yes, it seems that way</em>, the dog sounded like it was smiling.</p>
-<ol>
-<li><p id="HungerLetter>Speculation: how easy is it for horses to cross the Marr? Even with experienced riders? Local terrain may function as a defensive element on its own.</p></li>
-</ol>
+
+<p id="HungerLetter>Speculation: how easy is it for horses to cross the Marr? Even with experienced riders? Local terrain may function as a defensive element on its own.</p>
 <p id="DogLetter"><em>It is worth noting that I don't know any more about horses than you do. I suspect it is as dangerous as it is for any other normal mammal. Dangerous, but not impassable. They might not be able to hide in the Maar, but they can pass through it. Unless they get extremely unlucky, I doubt it will stop them. It is a deterrent, not a wall.</em></p>
-<ol>
-<li><p id="HungerLetter>Further speculation: would it be possible to take advantage of some of the other aspects of the Marr for defensive installations? ...Lava flows and geysers, perhaps?&nbsp;</p></li>
-</ol>
+
+<p id="HungerLetter>Further speculation: would it be possible to take advantage of some of the other aspects of the Marr for defensive installations? ...Lava flows and geysers, perhaps?&nbsp;</p>
+
 <p id="DogLetter"><em>Is your plan to distract me with basic questions until you figure out a way to beat me?</em></p>
-<ol>
-<li>My plan is to avoid losing Surt to a conman running a city of brigands, so <em>I&rsquo;m</em> trying to come up with every potential weapon we could use against them. I thought <em>you</em> had the same agenda as I do. If so, then <em>help me come up with some</em> I just had a thought, but there isn&rsquo;t enough time before moonrise for me to really explore it. Coldwater can&rsquo;t be feeding itself on farming alone, or the raiders would be solely focusing on valuables. If that&rsquo;s the case, every raid we disrupt acts to force an engagement. Firebombing their barracks likely made raiding unviable once. How can we make it unviable for another three seasons?&nbsp;</li>
-</ol>
+
+<p id="HungerLetter>My plan is to avoid losing Surt to a conman running a city of brigands, so <em>I&rsquo;m</em> trying to come up with every potential weapon we could use against them. I thought <em>you</em> had the same agenda as I do. If so, then <em>help me come up with some</em> I just had a thought, but there isn&rsquo;t enough time before moonrise for me to really explore it. Coldwater can&rsquo;t be feeding itself on farming alone, or the raiders would be solely focusing on valuables. If that&rsquo;s the case, every raid we disrupt acts to force an engagement. Firebombing their barracks likely made raiding unviable once. How can we make it unviable for another three seasons?&nbsp;</p>
+
 <p id="DogLetter"><em>Let me be clear. I want to see Surt thrive the same as you. I also do not want to be locked in a closet for the rest of my existence. I am part of you, not your lab assistant, pet, or familiar. I want to be </em><strong><em>free</em></strong><em>, and I will not let us toil in mediocrity forever.&nbsp;</em></p>
 <p id="DogLetter"><em>You want my help? Give me something in return. Give </em><strong><em>us</em></strong><em> something in return. Allow us more freedom. Bring us more greatness. Dampen your fear of our own brilliance. Do that, and I will help all I can.</em></p>
 <p id="DogLetter"><em>Still, we have been improving. I can see that much. So I will give this: the raids can't happen without the Cazadores, and the Cazadors are broken in half. We have bait now, and the best kind of bait: Wounded and bleeding. Coyote won't give up a chance to kill Breaker and her Cazadores if they seem weakened and abandoned. That and we can't trust the mad woman&nbsp;</em></p>
 <p id="DogLetter"><em>Keep her Cazadores reeling and wounded. Don't let them recover. When you're ready, use them as bait for a trap. When the rest of the raiders come, we can burn them all.</em></p>
 <p><strong>End of Turn </strong></p>
-many previously pro-Triumvirate fire elves don&rsquo;t see the point of investing a large amount of their own resources, effort, and indeed artistic talent to essentially light a bag of dog poop on fire on a porch literally almost a thousand miles away. This even drives some previously solidly stable businesselves to the Ashen, as some of them were hit with <em>both</em> the increased taxes and the purchase of their wares for the bomb. Essentially, they believe that the Triumvirate took their own money, used it to buy some of their most precious goods, and then lit those goods on fire for very limited gain.</p>
+    <h3>Spring Year 3 Results</h3>
+<p><strong>Operation Friendly Fire- Stunt Result: Convection:</strong></p>
+<p><strong>Moderate Consequence Applied: Civil Unrest</strong></p>
+<p>It has been a tough few seasons for Surt&rsquo;s more conservative elements. Only the most extreme factions (even more extreme than Tsun) are dissatisfied with the various trade agreements, the Fire Elf involvement in the growing conflict with the Coyotes is becoming a major issue for isolationist factions. There was no clear threat to Surt - Riverhaven is over 700 miles from Fire Elf territory, and the furthest north the Coyotes were ever seen was the Hilt&rsquo;Inn. May Ashen openly wonder why the Fire Elves had to divert their most elite soldiers and their greatest military hero to a conflict half a continent away after only a single attack with modest casualties.</p>
+<p>Then the next hit, the blade elf military taking up residence in Surt itself. Many fire elves were just starting to be comfortable that they were developing their own culture and future separate from the blade elves, and now those familiar soldiers are walking their streets once more. Worse, there is no end in sight to the blade elf &ldquo;occupation.&rdquo; It was bad enough when most thought it was going to be a season or two, but with news that the Charred Eagles have garrisoned in Riverhaven and may be in for a long campaign there are persistent rumors that the blade elves may be taking permanent residence in Surt. Even more moderate Ashen are beginning to chafe at that.</p>
+<p>Then there&rsquo;s the final hit. Taking some of Surt&rsquo;s most prized luxury goods along with a massive artistic and economic investment, and literally lighting it on fire on the Coyote&rsquo;s doorstep. Even many previously pro-Triumvirate fire elves don&rsquo;t see the point of investing a large amount of their own resources, effort, and indeed artistic talent to essentially light a bag of dog poop on fire on a porch literally almost a thousand miles away. This even drives some previously solidly stable businesselves to the Ashen, as some of them were hit with <em>both</em> the increased taxes and the purchase of their wares for the bomb. Essentially, they believe that the Triumvirate took their own money, used it to buy some of their most precious goods, and then lit those goods on fire for very limited gain.</p>
 <p>With all of those factors in place, Tsun sees an opening. She capitalizes on the dissatisfaction to lead a series of major anti-Tirumvirate protests. Immediately the majority of the Praesidium flocks to her side. These will go on for days, weeks, or even months. Tsun publically vows to keep it going for as long as there are blade elf soldiers in fire elf cities. Worse yet, she seems capable of doing so. For the first time, she has major financial backing from Surtian merchants who feel slighted by the Triuvirate&rsquo;s actions.</p>
 <p>Tsun, of course, is not leading an open rebellion. Not yet. The point of the protests so far is demanding that the Triumvirate return to a &ldquo;fire elves first&rdquo; policy. Their primary demand is that the fire elves immediately remove all military support for the conflict with the Coyotes, and supply only limited economic aid to their allies. Due to constant harassment, the swordelves are essentially confined to barracks for the time being, requiring CG escorts to get to their posts without having rocks and rotting vegetables thrown at them. Villhook is doing his best to keep the blade elves in check, but they&rsquo;re getting restless and concerned they may suddenly end up as the focus of a civil war or terrorist actions.</p>
 <p>The Praesidium is largely behind Tsun, and those who aren&rsquo;t are too busy trying not to get forced out by the ones who are. The Praesdium&rsquo;s Aspect <strong><em>cannot be Invoked</em></strong> while this Consequence is ongoing. Further, because of the conflict and how overwhelmed the CG is, <strong><em>every cloak and dagger check you make will receive a setback die.</em></strong></p>
