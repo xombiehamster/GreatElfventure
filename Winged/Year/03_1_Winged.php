@@ -81,7 +81,7 @@
 <p>The war scholars dust off some old books about applying their unique disciplined approach to archery and adapt these methods to the winged elves. This unit might not be the toughest one ever, but it should be able to threaten ground targets with great effectiveness.</p>
 
 <p>Note: Having spent one full turn Garrisoned at Asavardi, the Harriers have recovered from the casualties suffered in defense of the town and are back to full strength.</p>
-<h3 id="jump2">Story 3.1.3: <a href="../Bonus/20_A Training Montage.php">A Training Montage</a>
+<h3 id="jump2">Story 3.1.3: <a href="../Bonus/20_A Training Montage.php">A Training Montage</a></h3>
 
     <p><b>Mental:</b> Whew! Now that no one’s dangling them off a cliff, your casters are easily able to get the ritual off. Knowing that there’s already a gap in coverage, they focus on making sure the ritual goes off with the highest reliability possible instead of trying to get fancy. This ends up being worthwhile, as this time they execute the ritual with textbook perfect precision.</p>
 
