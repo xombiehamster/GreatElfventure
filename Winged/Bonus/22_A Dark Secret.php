@@ -240,7 +240,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/05_1_Winged.php#back","../Year/05_1_Winged.php#back");
-        setlast("Bonus/21_A Dark Secret.php");
+        setlast("Bonus/22_A Dark Secret.php");
     ?>
 </body>
 </html>

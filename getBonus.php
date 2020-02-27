@@ -124,8 +124,9 @@ function getBArray($elf){
             $arr[17] = "A Need to Know";
             $arr[18] = "A Rude Awakening";
             $arr[19] = "A Moonlit Flight";
-            $arr[20] = "A Scholarly Pursuit";
-            $arr[20] = "A Dark Secret";
+            $arr[20] = "A Training Montage";
+            $arr[21] = "A Scholarly Pursuit";
+            $arr[22] = "A Dark Secret";
         break;
     }
     return $arr;
