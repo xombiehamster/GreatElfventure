@@ -17,6 +17,13 @@
         <li><a href="#3">Fury, Vesnia, and Lucinia</a></li>
         <li><a href="#4">Allophryne and Dust</a></li>
         <li><a href="#5">Old Coot Convention</a></li>
+        <li><a href="#6">Fury and Ink</a></li>
+        <li><a href="#7">Terror and Bryti</a></li>
+        <li><a href="#8">Shrike and Breaker</a></li>
+        <li><a href="#9">Bryti and Ledret</a></li>
+        <li><a href="#10">Trischal and Ink</a></li>
+        <li><a href="#11">Surt</a></li>
+        <li><a href="#12">Afterword</a></li>
     </ul>
     <hr/>
     <h2 id="1">Shadimon and Hunger</h2>
@@ -190,6 +197,276 @@
     <p>“I… do not think that wise.  It has been many centuries since I was last entrusted to act as Cladekeeper… and… my strength is not what it used to be.  To tell a full truth, it is not what it used to be when I first uttered that it was not what it used to be.”  She doesn’t exaggerate much… while not necessarily frail, her arms do seem to be extremely thin.</p>
     <p>“But perhaps,” she says placatingly, “You do utter a truth.  Especially for this day, and what it is meant to represent, I could… stay a while.  To listen. To learn. And… to reflect,” she slowly reaches out, and runs thin, knobbly fingers gently across the baby’s scalp, “on the future.” </p>
     <p class="center"><a href="#top">-FIN-</a></p>
+    <hr/>
+    <h2 id="6">Fury and Ink</h2>
+    <p>Fury has had a rough day. She still fully enjoys her new wings, but her showing at the flying competition was a <i>very</i> painful reminder that she still has a lot to learn. It was also a painful reminder of her own flaws, and her tendency to dive headfirst into things she doesn’t fully understand. In this case, it happens to have been literal.</p>
+    <p>She and Lucinia are sitting in her quarters after the long day. As usual, Lucinia doesn’t talk much. Still, Fury usually finds her company comforting. At the moment, she just feels frustrated. After a long hour or so of silence, Lucinia’s ears dart up and her nose wrinkles.</p>
+    <p>“What the-” she starts.</p>
+    <p>“Hello,” Ink’s voice comes from the shadows next to them. </p>
+    <p>“Hello, Ink,” she says, turning a shy smile his way, and suddenly very thankful that Lucinia is there to provide an extra set of ears (or nostrils) for Cryptid-spotting. </p>
+    <p>“<i>Yeek!</i>” declares Lucinia, followed quickly by, “I-I’m just going to go.. Getsomefreshair…”</p>
+    <p>Lucinia plasters herself against a wall and shimmies her way towards the door, never taking her eyes off the crypid. Ink watches her go, then turns back to Fury. She’s only just now getting to be able to read him, but he seems perhaps a little downtrodden.</p>
+    <p>“Are you okay?” he asks. </p>
+    <p>“...Mostly,” she admits. “Turns out landing is a little trickier than I thought it was. And… as are other things I thought I did, apparently.” She pauses. “...But at least everyone had fun in the race. How did the Knowledge competition go?”</p>
+    <p>“I lost,” Ink states flatly. </p>
+    <p>“Oh,” Fury says. “Well… if it helps, I doubt you crashed into the ground and cracked your ankle while doing so. In public. While admittedly showing off, and challenging a bunch of expert flyers to a race, because you always dive head first into everything.”</p>
+    <p>“Only one I got right…” he grumbles in a distinctly downtrodden way, “Was… about  flowers.” </p>
+    <p>Fury barely manages to suppress a giggle. “I never took you as a flower person,” she says.</p>
+    <p>“I’m not…” he continues to sound glum, “Got… lots wrong. Lots of voices… hard to remember… what goes where, sometimes… didn’t want to reveal things… just… made mistakes. Sounded… stupid.” </p>
+    <p>“You never sound stupid,” Fury says. “You’re allowed to make mistakes, but you’re not stupid -- you’re the smartest person I’ve ever met. Smartest wizard, especially. And so what if you lost a literally trivial contest? I bet if you dragged Smilisca or Dust or… Rasputin, I guess… to any of the other planes you’ve been on, and asked <i>them</i> random questions, <i>they</i>’d probably do way worse than you did.”</p>
+    <p>“Thanks…” Ink says in a way that Fury could swear is bashful, “You will still fly?” </p>
+    <p>“Of course!” Fury says. “I’m not going to let ‘embarrassing failure’ stop me. It’s certainly never stopped me before. And besides,” she grins, “Flying. Is. Amazing! It is seriously the best. And the wings -- they just kind of showed up all of a sudden, right when I needed them! The whole watch house was on fire, Lucinia and the guards and I were trapped in the interview room, and I just… flew out of there!”</p>
+    <p>“Thought so…” Ink nods, “There was… thaumic resonance. At the lava lake. They’re supposed to be there.” </p>
+    <p>“Huh…” Fury taps her chin. “Does this mean I’m turning into some kind of ‘half-phoenix half-elf’ combination, or something? Cal’s grace, that would be weird.” </p>
+    <p>Ink just kind of shrugs. </p>
+    <p>“Still better than ‘tiny hatchling chestburster’, though.” She glances back at him. “Feel any better?”</p>
+    <p>Ink looks at Fury for a minute or two before replying.</p>
+    <p>“I-” </p>
+    <p>The door swings open, and Barrabus Leafstorm strolls into the room.</p>
+    <p>“Your grace,” he says, tipping his hat. “And Ink.”</p>
+    <p>“Hi Barry,” Fury says. “Have you considered knocking--”</p>
+    <p>“Once or twice,” Barry says quickly. “Anyway, your friend the wolf-elf tried to eat too much rock candy at once, and managed to stick herself to the stonework outside of the Ten-League race. You probably want to go extricate her before the Crag start trying to clean up.”</p>
+    <p>“What.” Fury sighs. “Stay right there, please, Ink,” she says. “I’ll be right back in.”</p>
+    <p>She dashes out the door. Barry kicks it shut behind her.</p>
+    <p>“Alone at last,” he says quietly, turning a full-force number-five ‘a smile this nice shouldn’t be this scary’ on the Cryptid. “Ink, my friend,” he says. “I don’t think we’ve ever talked much, have we? Almost as if you’ve been avoiding me. But you’re a blunt elf, and I can be ‘blunt’ where it’s needed, so let’s start that. What are your intentions with my daughter?” <span class="redacted">(Bluff: 38)</span></p>
+    <p>Ink just stares at Barrabus for thirty seconds before answering with an eloquent "What." </p>
+    <p>“I’m joking, obviously,” Barrabus says, still smiling. <i>He bought it. Perfect. Not only can I lie to him, I know I can throw him for a loop.</i> “Let’s be serious. It’s very obvious that Fury likes you. Cal’s ass, she even roped you into seeing that <i>terrible</i> play with her. In a crowded public area. You don’t strike me as being a particularly social elf. So why did you go?”</p>
+    <p>"S-She…" Ink actually stammers, "She what…?" </p>
+    <p>Barry pauses. This wasn’t quite the reaction he was expecting. “She’s… into you, you know. It's probably that ‘tall, dark, and mysterious’ vibe you give off. It’s not bad, I’ll grant you; I can see why she was attracted. But if you’re not actually into her back, this conversation will be a lot faster and less embarrassing for both of us if you just admit it.”</p>
+    <p>"Y- w- sh-" Ink fails to complete several syllables as he kind of plasters himself to the wall he was standing next to. Is he… hyperventilating? </p>
+    <p>Definitely not the reaction Barry was expecting.</p>
+    <p>Barry allows Ink a moment to catch up. Ink doesn't so much catch up as become able to coherently respond. He starts breathing normally again. Ink's eyes narrow from wide as dinnerplates to thin as razors.</p>
+    <p>"Who are <i>you?</i>" There's significantly more ice in Ink's voice this time. </p>
+    <p>“Barrabus Leafstorm,” Barry says cautiously. “Active bard, concerned friend of Fury’s, and possible romantic rival of yours. Who are <i>you?</i>”</p>
+    <p>"Why," Ink asks, "Should I tell you?" </p>
+    <p>“You probably shouldn’t,” Barry says. “But don’t take advice from your opposition. And since you’re clearly feeling better, let me make my intentions clear. Fury is my friend, is a very important part of my city, and very likely has a tragic backstory involving dark secrets and a desire to permanently hide her identity afterwards. So if you hurt her, I can make sure you regret it.”</p>
+    <p>"Oh," Ink growls and steps forward from the wall, "You're her… <i>protector.</i>" </p>
+    <p>“I might be,” Barry replies. “Answer the damned question.”</p>
+    <p>Ink stares at Barrabus.</p>
+    <p>"Okay."</p>
+    <p>Ink's hand darts towards Barrabus. On the finely honed instincts of someone who has been smacked mid-conversation many times, Barrabus swats the long-fingered offending hand away. Before the cryptid can react, Barrabus deftly snaps his hand forward and pokes Ink roughly in the chest.</p>
+    <p>"Ah, so when you can’t have it easy, you resort to physical force? Cad!"</p>
+    <p>Barrabus suddenly feels very, very cold. Something is wrong. Very wrong. He looks behind him. The room is pitch black. The angles, the orientation of the room, the vanishing points of the walls, everything is twisted and dark. Nothing is where it should be and nothing makes sense. He turns to look back at Ink.</p>
+    <p>The cryptid is an impossible mass of darkness and void. His long limbs seem to be nearly infinite, even in the confined space. Patterns of unintelligible complexity roll across his skin. He leans forward and looks at Barry with eyes of unimaginable darkness.</p>
+    <p class="InkMagic">"This is who I am." </p>
+    <p>Barry wants to scream. He wants to cry out in terror, to turn and run into the void. His primal instincts roar in his ears. Every fight-or-flight instinct screams “flight” all at once.</p>
+    <p>But something in him -- pure bardic instinct -- can’t let a chance like this go to waste.</p>
+    <p>“I’m sorry,” Barry says, trying to force the shivers out of his voice. “I don’t see anything. It's too dark in here.”</p>
+    <p>"Then that," Ink's voice seems to come from shadows all around him, "Is to your benefit." </p>
+    <p>“Is it?” Barry says, with slightly more confidence. “From one trickster to another, sir, I think we’re both aware that what we can see is <i>far</i> less scary than what we can’t. And that people don’t hide what they want to show off.” He concentrates. A bit of smoke curls out from his lips. The skin on his face, arms, and hands starts to glow. “Let’s shed some light on our situation, shall we?” </p>
+    <p>"No," Ink rumbles, "Let's not."</p>
+    <p>Ink moves a limb in an intricate pattern while the designs on his skin swirl. Cold shadows from the darkness surrounding Barrabus roll over his skin and quietly snuff the glowing light. If anything, Barrabus can see <i>less</i>.</p>
+    <p>"You are not in control," Ink states, "You are not her <i>protector</i>. You are not her <i>keeper</i>. She does not need you." </p>
+    <p><i>Hmm,</i> Barry thinks. <i>He was right. I’m actually better off not seeing anything.</i> “So what else is new?” Barry says. “I’ve never been in control of anything in my life -- and certainly not Fury. Does that mean I shouldn’t stand in her defense when I think she’s in danger? Nicely hypocritical from an elf that joined a war he had no stake in.”</p>
+    <p>"I. Am. An. <i>Elf</i>," Ink growls, "And you are <i>disgusting.</i> You 'defend' her like a helpless child. You think me a monster? You think me a danger to her? Then why are you talking to <i>me</i> before <i>her?<i> You treat her like a prize to be won. A plot in <i>your</i> story. A mystery for <i>you</i> to unravel, a reward for <i>your</i> efforts. If you defend her, it is only to demonstrate your own chivalry. You only see an idea of her. You do not see <i>her</i>… or you do not <i>care.</I>" </p>
+    <p>“You like to jump for the monster title, don’t you?” Barry says levely. “You’re used to people assuming you’re the ‘big, scary creature from beyond’. Well, I can respect that -- I’m used to people making assumptions about me, too. Like you’re doing right now.” He gives the ‘ground’ at his feet a swift kick. <i>Kind of squishy, isn’t it?</i> “I’m talking to you first because I already know Fury’s answer. She’s in love with you. She wears her heart on her sleeve; I could see it every time she looked at you in the tavern. And I’m not concerned that you’re going to crush her like some elf-eater out of a storybook. I’m concerned because <i>you</i> clearly didn’t see it. And that’s not good -- not for you, and certainly not for her.”</p>
+    <p>Barry gives the spot where he assumes Ink is standing a mild glare. “You think I’m making some sort of claim on her, and if I were, you’d be absolutely right to be disgusted. Hells, you still <i>are</I> right; I’m a cad, a fool, a coward, and probably several other despicable things. The most I am to Fury is a friend, and even that is tenuous. But I’m also not a fan of seeing people I know get hurt. And the longer this drags out, the more likely it is <i>to</i> hurt when the time finally comes.</p>
+    <p>“So what’s it to be? Are you just going to kill me here, or leave me to make my own way back? Or are you going to answer the question?”</p>
+    <p>Ink's face looms out of the darkness, mere inches from Barrabus.</p>
+    <p>"I <i>liked</i> the play." </p>
+    <p>Barry paused. “Really? Including the part where the entire cast starts singing ‘No Mask’ when it’s plainly obvious that’s just the main character’s beard? ...Well, to each their own, I suppose. At least it was better than <i>At the Peaks of Psychosis</i> or some of his other schlock.”</p>
+    <p>Ink's eyes narrow.</p>
+    <p>"I prefer <i>The Whisper in Time.</i>" </p>
+    <p>"That one's not bad," Barry admits. "He really gets into form there, and with the right actors, the comedic timing is perfect. I played 'Mad-elf Two' in a rendition when I was young."</p>
+    <p>"Comedic-" Ink rumbles, but then changes tone, "I did not take you here to hurt you. Easier to talk." </p>
+    <p>"I figured that out by the fact you hadn't murdered me already. You do enjoy theatrics, however; I can tell." </p>
+    <p>"<i>Perhaps,</i>" Ink rumbles ominously.</p>
+    <p>Ink moves back until Barrabus can't see him again.</p>
+    <p>"If she loves me," Ink's voice rattles, "She should not. I will always be <i>other.</i> She will always be more." </p>
+    <p>"Uh-huh," Barry said. <i>Damnit. Also, good. But damnit.</i> "Have you tried telling her this? Not that claiming to be 'the other' would stop her, necessarily. I have trouble thinking of an elf who'd give less of a shit about how 'other' you are." <i>Fuck I was right. Fuck.</i></p>
+    <p>"She's not… I'm not…" Ink fumbles for words before answering, "I can't." </p>
+    <p>"Well, if you can't tell her, showing her would probably work well to start out." <i>Shut up Barry.</i> "Buy tickets to another play, and surprise her with them. Show her your nice… whatever this place is."</p>
+    <p>Ink is silent for a long time. Barry is a little worried he might be gone.</p>
+    <p>"I <i>could</i> just leave you here," Ink finally says. </p>
+    <p>"You could," Barry acknowledges. "You won't, however. Probably. And hey, at least Goldheart would have trouble finding me to kill me." He pauses. "Look, no one can tell her it won't work but you. I doubt she'll believe anyone else, anyway. And as it stands, she'll just keep bashing her head against that wall forever if you let her. She's stubborn as an Erinyes."</p>
+    <p>"She is," Ink is quiet before speaking again, "She… can be greater than you or I could ever be. She <i>will</i> be. I want to help her reach that. That is all." </p>
+    <p>“Who’re you trying to convince?” Barry says. He shakes his head. “Best advice I can give you is to let her know, or it’ll hurt worse later on. And if you can’t, you should at least admit it. ...Now, I only bribed Lucinia and those Bufonidae brothers for ten minutes worth of distraction, so at least one of us needs to get back before she notices we’re gone.”</p>
+    <p>"Okay," Ink grumbles.</p>
+    <p>A long shadowy limb reaches out from the darkness and rather peevishly pokes Barrabus in the chest. With barely a sound, he finds himself back in Fury's room… alone. Ink is nowhere to be seen. </p>
+    <p>“And since I know you’re still here,” Barry says, stepping over to the door, “I’ll ask you to politely not mention our conversation to Fu--”</p>
+    <p>The door swings open, revealing a significantly more bedraggled Fury and a generally sticky Lucinia.</p>
+    <p>“--rther the efforts of Cryptid - Fire Elf relations,” he finishes quickly. “Hello, Fu--”</p>
+    <p>“Hi Barry,” Fury says flatly. “Please don’t buy Lucinia any more rock candy.”</p>
+    <p>Before Barry can reply, Lucinia darts in front of him with an accusatory finger pointed at him.</p>
+    <p>"Your deception has availed you not, you deceptive… deceiver!" She yelps, "I have confessed my role in your plot and revealed your trickery! You will now face the Fury's judgment!" </p>
+    <p>“Oho! My plot has been foiled!” Barry says, twirling his mustache. “But what of my minor accomplice? What terrible fate awaits her for ruinous acts, Fury?” </p>
+    <p>“She gets to spend the next four hours combing wet syrup out of her hair,” Fury replies, deadpan. “And you get to help her.”</p>
+    <p>“Aha, but not if I esca--”</p>
+    <p>“Barry,” Fury says.</p>
+    <p>“Ermm… well, there is another compet--”</p>
+    <p>“<i>Barry,</i>” Fury says.</p>
+    <p>Barry sighs. “I’ve got some hair elixir in my quarters that should help.”</p>
+    <p>“Get it,” Fury says. “Lucinia, make sure he doesn’t run off. Or neither of you get dinner tonight.”</p>
+    <p>"Yes ma'am," Lucinia fixates on Barrabus, "He will not deceive me again!" </p>
+    <p>Barrabus nods. “Yep. Utterly defeated, that’s me. You’ve seen through my terrible lies. Oh whoa and--” He gives Lucinia a quick once-over. “Cal’s grace, that syrup’s really stuck in there, isn’t it? And what, did you roll around in the dirt afterwards?”</p>
+    <p>“Move it, you two,” Fury says tiredly, before shoving both of them out and slapping the door shut behind them.</p>
+    <p>Barry grimaces to himself. “Mistakes… may have been made. Come on, kid; we better get to this before ‘her grace’ decides on a real punishment. Like, making you have to work in the Hunger’s lab.”</p>
+    <p>"I do not fear just punishment!" Lucinia scoffs as she falls in line beside Barrabus, "Come! We fulfill our duty." </p>
+    <p>“You <i>are</i> going to be fun,” Barry says, setting a leisurely pace towards his quarters.</p>
+    <p>Fury drops tiredly onto one of the chairs in her quarters, forcing a bit of heat to her hands to burn leftover goo from her fingers. “Sorry about that, Ink, dear,” she says. “Lucinia managed to glue herself to a wall with rock candy. A <i>lot</i> of rock candy. I didn’t even think that was possible.”</p>
+    <p>Silence.</p>
+    <p>Fury looks up. “Ink?” She gives the room a rough scan -- floor to ceiling, and then ceiling again to be sure. </p>
+    <p>Nothing.</p>
+    <p class="center"><a href="#top">-FIN-</a></p>
+    <hr/>
+    <h2 id="7">Terror and Bryti</h2>
+    “Tourist,” the Terror says, stepping up as the werewolf munches on a between-games snack. “Have you time for a conversation?”
+“I do,” Bryti says as she tilts her head towards the armored elf who recently defeated her in a dramatic showdown of Intimidation. 
+“I have a favor to ask,” Terror says carefully. “And I’m fairly certain you won’t like it.”
+“You are a model of diplomacy and tact, Terror,” Bryti cracks a slight smile, “But I appreciate the honesty. What kind of favor?” 
+“I want you to remove a geas effect from Tsun. Who, admittedly, was directly responsible for the Wolf Elves tracking you down in the swamps.” She pauses. “And I know you’re going to object, but… I feel responsible for this. There were a lot of mistakes made on the road to this point, and not a small portion were mine. She… deserves a chance to make up for it. As I’ve tried to.”
+“Mistakes were made,” Bryti’s smile disappears, “I have heard that phrase a lot lately. Often, I believe it. You, for example, made mistakes. Dust made mistakes. Those were genuine. Those were attempts to help that went sour. Bad decisions were made, but at least there were good intentions behind them.”
+Bryti stands up.
+“Harvest,” she slowly says the word, “I’ve been thinking about that word a lot lately. What do you think it means? Would I have been killed and dissected? Would I have been alive when they extracted the most precious gift of my goddess from my body? Would it have been vivisection? Perhaps they would drain my blood? Arcane or alchemical energy extraction? Or perhaps it would have been simple, old fashioned rape. Which do you think?” 
+“That whoever is responsible for this has probably been ‘harvesting’ innocent people for a while now. And that when we find out who this is -- the old governor of Muspelham or whoever -- he’s got blood on his hands, and should pay for that. As harshly as we can muster.” Terror stared at her. “And that you’re angry, and have every right to be. But Tsun is a hellsdamned kid, gullible enough to accept a geas from a stranger, and stupid enough to not find out what she was really being asked to do. And I’ve been that stupid kid, Tourist. When you’re young and dedicated and think you’re the only thing standing between everything and nothing, you take everything at face value. I had to die to learn better. I’d rather Tsun didn’t.”
+A lot of the rage in Bryti’s face dissipates at Terror’s words. It is replaced  with something else.
+“She’s young,” Bryti says more calmly, “She took that geas because she thought she could protect people. I know that. That’s not why I never want to see her again. She knew. She had to have known. She knew that whole curse-blasted time that she was going to betray the wolf elves, she just hadn’t decided when. She was buying time. She may not have known about the harvest, but she certainly knew I was going to die. She certainly knew Allophryne probably would too. She knew she was going to betray them, and she threw my life to them to buy time. Not to protect people, not to save her city, not as some act of sacrifice, but just to buy herself some wiggle room. Then she goes ahead and betrays them what, two months later? My life meant less than nothing to her. Neither did Allophryne’s. Don’t try to paint that as something heroic.” 
+“It wasn’t,” Terror says. “Even if she probably thought it was; I never said she wasn’t a narcissistic little shit. She’ll have to make up for that. But she’s hardly the first one to sacrifice a stranger’s life for some petty objective -- there was plenty of that before and during the war -- and… she should get a chance to make up for that. Preserve what she nearly destroyed. At least that’s better than an eternity in a coma.”
+“So you think she can change,” Bryti grunts, “Fine. You think she can make up for it. You think she can be better than any of those thousands upon thousands who would sacrifice a stranger’s life without a second thought. Very well. Give me one reason. Give me one thing that she has done that makes you believe this.” 
+“She saved Leafstorm’s life,” Terror says. “At personal risk to herself, while Leafstorm was her political opponent, and was actively debating against her politics and winning. And where letting him die would likely have given her victory and kept her party in power.”
+"Could have been out of spite…" Bryti grumbles. 
+“Could have been,” Terror says quietly. “Could also have been a selfless act. These things are never clear-cut.”
+Bryti doesn't have a counter to that, and this clearly pisses her off. She folds her arms and looks away from Terror. She thinks for a few minutes.
+"Fine," she turns back, "I will come to Surt. I will consider attempting to free her from the geas. That is all that I promise." 
+“All I could ask,” Terror says. “There will always be room for you in Surt regardless. And at this point we’ve handled the rest of the compromised Civile units, albeit with some damage in the process. ...I’ll probably have some of Doukas’ constables back you up, honestly. They’ve proven themselves of late.”
+"I… will try to avoid starting any fights this time," Bryti sighs, "Despite my current track record." 
+Terror snorts. “‘Starting fights’ is practically a national sport at this point. And thusfar you haven’t started fights with anyone in Surt who hasn’t deserved it.”
+"So noted," Bryti's slight smile returns, "And if you ever desire a rematch, you know how to find me." 
+“Exactly. That’s another reason to keep starting fights when you’re in Surt -- you’re much easier to locate that way. All I have to do is listen for the sound of severe beatings.”
+That actually gets a laugh.
+Well, it could have gone worse.
+
+    <p class="center"><a href="#top">-FIN-</a></p>
+    <hr/>
+    <h2 id="8">Shrike and Breaker</h2>
+    Shrike has  been thoroughly enjoying the Athlon, both watching and competing. Her vacation, however, cannot last forever. Duty calls, in the form of two very loud little voices. While plenty of other attendees have been quite happy to assist with babysitting, she decides that one particularly nice day is a perfect one to spend walking the twins around. 
+While she’s mostly just wandering the now-familiar area, trying different foods and watching the various performances, she’s keeping an eye out for one particular elf. Preferably unaccompanied by a walking suit of armor. Finally, she spots her quarry observing the Fortitude event. The distinct redness on Breaker’s arms suggests that she’s been ‘participating’ again. Shrike hitches up the sling holding both babies snuggled against her chest, and goes to stand next to the Vaquero. “Even the Blades didn’t go this far with their physical punishment,” she comments wryly, watching a Crag dunk her entire head in a barrel of snow. 
+"Hola, hermana!" Breaker greets Shrike happily and elbows her with mild to moderate force.
+"I know, right?" She continues, "They're loco as hell. It's great!" 
+“I got spared some of the really crazy stuff Ehra reminisced about, because I started training as an adult, not a kid. But ugh I still remember having to stand holding weights with my arms out. They even worked out a way to hang them off my wings. And that thing with punching poles to toughen up your fists…” She shakes her head, but she’s smiling. “What does ‘hermana’ mean? I’ve heard you say it, but not with enough context.”
+"Oh, it means 'sister,'" Breaker shrugs, "Nothing crazy, just means I think you're alright."
+Shrike pauses, a bit surprised, then laughs. "And if that doesn't segue right into it."
+"Right into what?" Breaker gives Shrike her full attention. 
+Shrike squints at her with a severity that is utterly feigned even before it’s ruined by the tiny fist waving just under her chin. “I had a question for you before you and Terror vanished and the potluck blew up. Do you have an answer for me?”
+“Yeah, uh,” Breaker scratches her head and looks at the babies, “About… being family, si? I uh, I dunno what you really meant…” 
+“With as much as you’ve done for my family, we want to keep you around.” She tilts her head, “Families for us are...informal? Especially for people who don’t live together. I guess you could just say ‘friends’, but to me that’s not enough.”
+“I kinda think I see what you’re saying. It’s kinda weird to me that you want that and you also wanted to fu-I mean bang,” Breaker clears her throat and looks at the baby, “But uh, who am I to judge si? Still… I just gotta get this out of the way. Why do you want such a loco bi- I mean a fu-... a person like me in your family?” 
+Shrike barks a laugh, “Have you met me? The most stable person in our little family right is a wizard. Hells probably not even him. His familiar is his conscience half the time. But really? We like you. We also owe you, but it’s that simple.”
+“Owe me what though?” Breaker gives Shrike a more cautious look, “I mean I know we talked a lot, yeah, but I know I’m kind of a mixed bag.” 
+Shrike opens her mouth, and pauses. “Oh...no, how would you have known. I’d already told you that the chat with you helped me get past some of my bullshit so these two little nuggets could happen.” She gently taps their heads, “But, that fight out in the badlands, where you and your people rescued a group of refugees? My brother and his two kids were with them. My brother, Althion, was leading it. They were all hurt trying to defend the group. You-” she glances away for a moment, “you’ve given my family five lives that we’d given up hoping for.”
+“Oh,” Breaker exhales a bit, “Althy. Si. I remember him. Solid guy. I liked him. I… guess I better pay more attention. I had no idea…” 
+“You had no reason to,” Shrike shrugs. “We don’t look that much alike. Hells, me and Shadi look more like-” She’s interrupted by a small scuffle in the baby sling as one of them starts crying, setting the other off too. “Ah hells, here, give me a hand, would you…” She hands one of them to Breaker while trying to soothe the other. “Just kind of bounce him a little, they like that. They’re probably just hungry.” 
+Breaker awkwardly mimics the bouncing motion. It takes her a few seconds, but she’s putting forth the effort. It works after a moment or two.
+“Hey, that’s better, pollito,” Breaker says, “Si yeah… I guess I had just been thinkin’ I was doing things for selfish reasons…” 
+“Well, no reason you can’t do things for more than one reason,” Shrike says reasonably. She smiles, “‘Pollito’, that’s cute. I’ve been calling them nuggets, but they’ve got a variety of stupid names. Exhaustion will do that.” She looks up, “You’re doing good. I’d like to bring them to Coldwater some. Get out, see new places, new people.” She grins, “Their crazy aunt.”
+“Nuggets…” Breaker laughs, “Yeah I like that. Well if you managed to get ‘em this far, Coldwater won’t be too hard. I think I’d like to see Asavardi again too… maybe with a little less cliff diving, si?” 
+“Oh feel free if you want! Just let people know and we can have a net ready to catch you.” Shrike grins, “We do inadvisable shit all the time for a rush. Can’t blame someone else for it. Although…” She grins, distinctly mischievously, “Might have to make some trips to Surt, too. Assuming you and Terror have worked out your differences…?”
+“Yeah, you could say that,” Breaker grins back. 
+“I could do worse than having her as another crazy aunt to my kids.” Her grin now is distinctly sly, “Can you imagine? They won’t be afraid of her at all.” She trails off, obviously imagining something intensely hilarious. “See? Perks of being family. Making your girlfriend suffer affection.” 
+Breaker laughs. Without her noticing, she seems to have gotten better about holding the infant.
+“Yeah, si, she needs it. She acts like she ain’t all there, but lemme tell ya…”
+Breaker and Shrike continue to talk, and perhaps even gossip. Even about the other competitors around them. You would be hard pressed to guess just how crazy these two women are just by looking at them here. Perhaps, at the moment, they are Kiara and Aranan.
+
+    <p class="center"><a href="#top">-FIN-</a></p>
+    <hr/>
+    <h2 id="9">Bryti and Ledret</h2>
+    While most crag give the Seeker a wide berth during the potluck and the Athlon, it slowly becomes apparent to them that she is here for the duration of the event. Once Echo is seen a few times, it also becomes apparent that she is not actively attempting to assault the settlement. While "acceptance" is likely too strong a word, "toleration" is relatively appropriate. Most do their best to avoid her, but neither do they actively avoid her.
+It does come as a small surprise when she approaches the Esteemed Elpahka a few days after the events of the potluck. She does so in a distinctly non-confrontational way, doing so in a relatively public place and keeping a respectful distance. She starts with a bow.
+"Esteemed Elpahka," she states, "I would like to speak with you, if that is acceptable." 
+“Seeker.” The Esteemed says after a moment.  “Or is it ‘Tourist’?  Or perhaps some other name or label you truly prefer. Or perhaps any will do.  It seems you are quite at the home with the idea of being multiple individuals.”  Her words aren’t bitter… rather, they come off as, well, ribbing.
+The ribbing seems well received as the Seeker smiles.
+"Seeker and Tourist, yes," she says, "Sometimes it's Katya, sometimes the Wolf, sometimes our Wolf, Sakya, the Heir though I hate that one, Loba, and as I have recently learned, the Last Lycan Hero. I am honestly losing track."
+She lowers her voice until only the Esteemed can hear and says, "But my name is Bryti." 
+The Esteemed gives Bryti a solemn look.  She closes her eyes.  “So many names.  So many titles.  It is an unfortunate thing.  Do you know what happens to one who gathers so many names unto themselves?”
+"No," Bryti tilts her head, "But I am curious why it is so unfortunate." 
+“Because young Bl- one, to have so many names… is to become a Legend.  And when one becomes a Legend, known by many by many names and for many deeds, one gains much… but loses themselves.  Who you truly are falls prey to the Legend, and is consumed by it.  A tragic fate… unless one does not much care for who they once were.” She utters this final sentence pointedly.
+"And Legends tend not to have happy ends…" Byti notes. 
+“True.  But the same may be said for all of us.  But perhaps that is enough open Wisdom for a day.  You wished to speak to me.  You have, but not for the reason you wished, I would assume.” The Esteemed opens her eyes again, giving Bryti a level stare.
+"Well, I did want to simply talk to you," Bryti says, "I meant no deception when I contacted you earlier. I genuinely did enjoy our conversation when we met a few years ago. We haven't spoken since. I wanted to see how you have been faring, given that it's quite apparent the crag in general have been enjoying many successes." 
+The Esteemed seems to be a little guarded.  She responds carefully.  “How I am doing?  I am the Esteemed, the Soul of the Crag.  As they flourish, I flourish.  As they suffer, I suffer.  So it is, and so it should be, until the time I must answer the Ancestors Summons.” 
+"Then I was right," Bryti smiles slightly, "You do lead your people well. I… do confess, with recent events, I have need of some wisdom." 
+The Esteemed seems slightly relieved, and makes a small affirmative gesture.  “It is the ancient duty of the Elpahka, and more than all others The Esteemed, to impart Wisdom upon the Crag… and, in recent times, it seems proven that lending such to our Elven Kin seems to be a sound use of our abilities.”
+"Very well then," Bryti sighs slightly, "Do you think I made the right decision by freeing Vesnia from the mark?" 
+The Esteemed frowns… but it is in concentration, not anger.  She closes her eyes, inclining her head as she reflects upon the question.  
+It takes a fair amount of time, but ultimately, The Esteemed opens her eyes once more.  She looks serene.  
+“By all that I see and foresee, Young Elf, you have been given a gift that the gods are very miserly with.  In this decision, you were granted a choice… and made the correct one, whichever way you had chosen.  Had you chosen to leave her, you would have been Just in doing so to the woman she was; by what is now being revealed, the crimes of her people that she has facilitated are many.  But as you chose to intervene, you were Fair, to the woman she now is; penitent, seeking redemption.  And, if, in the state she was in, you had chosen to strike her down… you would have been Merciful to the woman she was in that moment.”  
+Her sight drifted a little as she spoke, but she snaps it back to Bryti. The werewolf seems to contemplate that answer for a few moments.
+"Then I suppose that which is Fair is what spoke to me. I made that decision quickly, and based on emotion alone. What happens as a result seems to be in Vesnia's hands now. Let’s hope the woman she is now finds that redemption." 
+The Esteemed inclines her head.  “It is all any of us can hope and strive towards, when we have transgressed.  But… I do not think that the outcome of all shall lie solely within Vesnia’s hands.  There are others who will watch her.  Others who will guide her.  And others who will inspire her.”
+She looks to Bryti once more, but this time with a piercing gaze.  “And if I am to offer the Wisdom you would not put words to… You should be one of the latter.” 
+“Inspire…?” Bryti tilts her head, “You mean by example?” 
+The Esteemed makes a negative gesture.  “While I have no doubt that it might help in some ways, I know your fate does not keep you here, as it does her.  Rather…” she dwells on how to explain.
+“You, Young Seeker, have given Vesnia her Life.  While it is possible to give life fairly, it should never be given cheaply… though some may think it kind to do so.” Her gaze seeks out Ehra.  It is not displeased.  “But though it seems kind, it is, in a way, a folly… it undermines the value of life, cheapens it.  No, you have given her Life… and in the same way, you should be the one to give her the Price for it.  Who tells her what must be done to have earned it.  To determine what may cause it… to be rescinded.”
+The Esteemed closes her eyes, breathing deeply for a moment, but it is clear she is not done, just… recovering.  When she opens them again, she is looking not at Bryti, or any other elf… she is just… looking.
+“It is a terrible thing indeed, to be given Life, but to have no guidance as to what it is for.  We should not be brought into this world, struggling for meaning, unsure of how we may better ourselves, and the world we inhabit.  We look to others to tell us what that meaning is, what that way is; this, more than any other, is the essence of the Path.  And now you, Young… woman… should help another woman to know what life is for.” At this, she stops; though her voice never falters, it is clear this much talking is draining.
+“Kill what you bite…” Bryti comments quietly. 
+While The Esteemed… doesn’t much care for that comparison, she does not refute it.
+
+    <p class="center"><a href="#top">-FIN-</a></p>
+    <hr/>
+    <h2 id="10">Trischal and Ink</h2>
+    Trischal has been meaning to talk to Ink. This is not an easy task. Even if you have him tied down in one spot he’s not easy to have a conversation with, and if you don’t actually have eyes on him, yeah good luck. It just so happens that late one evening as Trischal is enjoying the Dejima district as one of the few nocturnal people about she actually spots the cryptid elf. He’s sitting in one of the crag meditation gardens, watching a small decorative waterfall. Surprised to see him visible and alone, Trischal decides this is her chance.
+She approaches cautiously -- far too used to how her Domawit would poof at the slightest hint of unwanted company or conversation.  The waterfalls catch her attention as well and she watches them for a while as she comes to stand near the cryptid but not crowding.
+“I do apologize, Ink,” she starts, “but I need to speak with you about something of personal importance.” 
+Ink raises his head kind of slowly. He looks tired for some reason, which is strange on someone who doesn’t sleep. He looks at her for a few seconds before quietly gesturing to a spot on the bench next to him.
+Trischal takes in his weariness with a keen eye.  She sits down next to him and lets her shoulders slump with a sigh.  She seems to debate for a while, letting the silence stretch and knowing that she will be the one to fill most of it this evening.
+She takes a deep breath.  “What is Amenidal to you?” she states with blunt neutrality.
+Ink’s ears kind of droop. His shoulders sag a little bit and he lets out some air.
+“I have no idea,” he grumbles in probably the most honest thing he’s ever said to her.
+Trischal keeps visual on Ink out of the corner of her eye as she presses her lips into a thin line.
+“I know he told you how he felt.  He spent a while in the badger dens when you both came back from the deep tunnels.  He didn’t realize I was there.”  Her finger taps on her knee for a moment as she continues, “I also saw how you reacted to him being in danger.  I at least do not doubt that you care about him in some way.”
+She levels a hard look in his direction as her voice turns steely, “So if you care about him, you better damn well figure it out before you lead him on and break his heart in ways I know he isn’t ready for.  He trusts you more than his own kin.  You gave him something that we failed to give him.  If he is your student, make that clear.  If he is your friend?  Fine, he needs that.  Make it clear.  But don’t let him continue to fall in love with you when nothing will come of it.  You are the adult, and he is only just starting to live as one.”
+“You’re right,” Ink’s ears droop a little more, “Not fair to him. Should do better. Need to do better.”
+Ink continues to watch the fountain, collecting himself. 
+While she is well known to fly into anger first, Trischal is wise enough for her years to realize that Ink is in fact collecting himself.  She waits with a patience that almost seems uncommon for her.
+“He is your godson,” Ink says more as a statement.
+“He is,” Trischal responds evenly.
+“You are a good godmother,” Ink says, “To be so careful for him.” 
+At that, Trischal closes her eyes, her ears flicking back slightly in a sign of pain.  “I am not.  I… I have misstepped so many times with him in the name of trying to keep him safe.  I have hurt him.”
+She opens her eyes and gives Ink a different look, one of regrets.  “I am trying to make up for it.  I don’t want to see the same thing happen to the trust you two have.”
+To her surprise, she finds Ink giving her almost the exact same expression.
+“I have… an… adopted daughter,” Ink says, “I… misstepped many times, trying to keep her safe.”
+Trischal doesn’t blink as she stares at Ink and seems to process that.  There is a question in her eyes but she doesn’t voice it, instead going with statements.  “And here we are.  Full of regrets and trying to be better for them.”
+“Amenidal is important to me,” Ink says more clearly, “I helped him, but he helped me in many ways. I trust him too. I… I will not harm him, or his trust. I will speak to him. Make things clear. Is that… okay?” 
+Her head bobs in a nod, “That is… acceptable, yes.”
+Ink gives her a curious look.
+“Could you help me?” he asks.
+Trischal returns his curious look.  “I can, though I suppose that will depend on what the help is exactly.” 
+“She ran away,” Ink admits, “She’s safe. With people I trust. But… she does not trust me. Wanted to be away from me. I am… overbearing. I want her to trust me again, but… I don’t know how. She doesn’t know I know… I know I should talk to her, but… how? Without being overbearing…”
+“I…” Trischal seems to not know what to say to that right way, her face going through a few different expressions.
+She ends up laughing rather humorlessly and looking down at her hands.  “Listen to her.  Don’t go to her and fill the space with your words.  Let her continue to do what she is doing and don’t hover or tell her what she should be doing.  Giving her that respect and space will help.”
+Her hands wring together almost nervously, “At least I think it will.  I’m still… working on that part.”
+“Okay,” Ink nods, “I… think I see. I… will do that. Am still working too.”
+Trischal offers Ink a crooked smile, “It is all we can do.”  She observes him quietly for a few moments of waterfall filled silence.
+“...It… is not Dust’s tea,” she starts a bit awkwardly, “but Uncle makes a decent enough one that doesn’t smell horrible.  You don’t have to stay, but I’m sure Fuzzy would also enjoy the extra set of hands…”  There is an equally awkward pause as she seems to struggle with making this invitation tactful.
+She clears her throat and scratches at her cheek, “Only if you wish.  I can see that it has been… a long day.”
+“I am not-” Ink stops mid-sentence. He looks at the fountain a little longer.
+“Sounds nice,” he finally says.
+In the end, Ink ends up with an extremely pleased, oversized badger purring in his lap and a cup of tea in his hands.  Trischal and Shyrendora go quietly about their business and give Ink his space.  Rasputin seems to have had his mouth glued shut by some form of magic, thankfully, and doesn’t hound the cryptid visitor.
+It is a quiet evening. 
+Eventually, Ink begins a conversation about a tattoo...
+
+    <p class="center"><a href="#top">-FIN-</a></p>
+    <hr/>
+    <h2 id="11">Surt</h2>
+    Towards the end of the Potluck, the Triumvirate holds a meeting in one of the residences, inviting the various regional leaders who aren’t Wolf Elves into a discussion on what happened in Surt these past couple of seasons, and what the overall ramifications are for regional events.
+First item covered is the status of the Wolf Elf PoWs. Hunger explains that the PoWs were lost in a direct assault by traitor Surtian forces led by Wolf Elf spies, who likely found out about where they were being kept when Rasa escaped while in Surt earlier in the year. Hunger had invited the Dreamdust Elves to bring Rasa over to witness an interrogation, in the hopes of helping restore his memories or at least give him more context onto the situation, but in the process, it appears it gave Rasa enough intel to allow them to be targeted.
+He also explains that Tsun had apparently been hit by a Geas spell effect early in the second year, by none other than ‘Faustus Goldheart’ himself, as part of some plan to try to help Surt by separating it from the other elf nations. This clearly did not work out, but Tsun managed to remain undetected through a combination of failing to actually do anything significant or particularly unusual for her position, and active resistance against the geas on her part. Her conscience caught up with her shortly before Rasa’s escape; thanks to her help, the Triumvirate has been able to mostly clear Surt of wolf elf spies. She’s currently comatose, suffering from the later stages of geas resistance.
+Fortunately, however, the Fury has developed and tested a powerful countermeasure -- a ritual, codenamed “Bad Dog”, that hits all Wolf Elves in a several-mile area with individualized five-foot-area stinking cloud effects, making them far easier to detect and far less happy with their lives. She presents her notes and design schemes at the meeting to anyone who is interested, though she notes that the more this is used as it is, the more likely it is that the Wolf Elves will develop countermeasures. Fortunately, the ritual is surprisingly simple; she assumes that modifying or localizing the effects shouldn’t be too difficult. In terms of spying deterrence, it's very reliant on manual triggering, and thus really can’t be just left on the way the detect wolves ritual can; in return, however, it can also potentially be used as an offensive weapon against invading Wolf army units.
+    <p class="center"><a href="#top">-FIN-</a></p>
+    <hr/>
+    <h2 id="12">Afterword</h2>
+    Vesnia has had a difficult few weeks. The traitor’s mark was evaded, but now? Now it’s branded on her arm. She killed Krassus. She betrayed everything she knew. Everything she thought she knew. Worse, her soldiers went with her. Or… is that really worse?
+She gave everything she had at the Athlon. It wasn’t enough. The other elves thoroughly slammed her at every event she participated in. She gave everything she could of her mind and body, and it wasn’t enough. Or… was it? She had Accolades. It was a mark of honor from the Crag. None for first place, but still far from nothing.
+Despite all that, her impossible situation has resolved… or has it? The crag seemed willing to let her stay among them, but that doesn’t solve the problem. She can keep faking situation reports, but that won’t last long. They will be seen through eventually. Sooner, rather than later. That leaves her with an important question…
+She hears footsteps behind her, entering the garden she has been thinking in. She slowly looks up, then bolts to her feet. Unconsciously, her hand goes towards her sword. She diverts it mid-movement to rest on the hilt of her silver dagger. Not that it would do much good.
+“You,” Vesnia states almost as a warning.
+“Me,” the Heir responds.
+There is a long silence. Neither of them move. The Heir looks her over with those deadly eyes.
+“So,” the werewolf finally speaks, “What are you going to do now?”
+
+    <p class="center"><a href="#top">-FIN-</a></p>
+    <hr/>
 
     <?php
     include "../footer.php";

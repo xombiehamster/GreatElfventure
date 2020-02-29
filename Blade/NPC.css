@@ -4,6 +4,7 @@
 @import "https://fonts.googleapis.com/css?family=Shadows Into Light";
 @import "https://fonts.googleapis.com/css?family=Kristi";
 @import "https://fonts.googleapis.com/css?family=Satisfy";
+@import "https://fonts.googleapis.com/css?family=Bad Script";
 
 /* Letters from Bryti */
 
@@ -40,4 +41,9 @@ p#CoyoteLetter {
 p#EhraLetter {
     font-family: 'Satisfy', cursive, serif;
     font-size: 17px;
+}
+
+.InkMagic {
+    font-family: 'Bad Script', cursive, sans-serif;
+    font-size: larger;
 }
