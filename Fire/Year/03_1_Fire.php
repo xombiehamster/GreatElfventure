@@ -120,21 +120,21 @@
 <p>Knowledge (Arcana): 19</p>
 <p>Knowledge (Planes): 11</p>
 <p><strong>Dogtalk:</strong></p>
-<p id="HungerLetter>How much control do <em>you</em> actually have over the change?</p>
+<p id="HungerLetter">How much control do <em>you</em> actually have over the change?</p>
 <p id="DogLetter"><em>Good Question. Let us experiment.</em></p>
 <p>As he reads this the following morning, Hunger's body is suddenly wracked with pain. He can feel the change coming, as if something is trying to tear through his skin. He can feel the dog's form boiling beneath the surface, threatening to overwhelm his mind and body. He quickly asserts his own will, forces the powerful urge to transform down. He remains calm and feels the transformation fade away, along with the dog's attempt to gain control.</p>
 <p><em>It seems I have the same amount of control that you do</em>, he feels the dog comment in his mind.</p>
 <p><em>And that means I could change, too, should I wish, </em>he replied.</p>
 <p><em>Yes, it seems that way</em>, the dog sounded like it was smiling.</p>
 
-<p id="HungerLetter>Speculation: how easy is it for horses to cross the Marr? Even with experienced riders? Local terrain may function as a defensive element on its own.</p>
+<p id="HungerLetter">Speculation: how easy is it for horses to cross the Marr? Even with experienced riders? Local terrain may function as a defensive element on its own.</p>
 <p id="DogLetter"><em>It is worth noting that I don't know any more about horses than you do. I suspect it is as dangerous as it is for any other normal mammal. Dangerous, but not impassable. They might not be able to hide in the Maar, but they can pass through it. Unless they get extremely unlucky, I doubt it will stop them. It is a deterrent, not a wall.</em></p>
 
-<p id="HungerLetter>Further speculation: would it be possible to take advantage of some of the other aspects of the Marr for defensive installations? ...Lava flows and geysers, perhaps?&nbsp;</p>
+<p id="HungerLetter">Further speculation: would it be possible to take advantage of some of the other aspects of the Marr for defensive installations? ...Lava flows and geysers, perhaps?&nbsp;</p>
 
 <p id="DogLetter"><em>Is your plan to distract me with basic questions until you figure out a way to beat me?</em></p>
 
-<p id="HungerLetter>My plan is to avoid losing Surt to a conman running a city of brigands, so <em>I&rsquo;m</em> trying to come up with every potential weapon we could use against them. I thought <em>you</em> had the same agenda as I do. If so, then <em>help me come up with some</em> I just had a thought, but there isn&rsquo;t enough time before moonrise for me to really explore it. Coldwater can&rsquo;t be feeding itself on farming alone, or the raiders would be solely focusing on valuables. If that&rsquo;s the case, every raid we disrupt acts to force an engagement. Firebombing their barracks likely made raiding unviable once. How can we make it unviable for another three seasons?&nbsp;</p>
+<p id="HungerLetter">My plan is to avoid losing Surt to a conman running a city of brigands, so <em>I&rsquo;m</em> trying to come up with every potential weapon we could use against them. I thought <em>you</em> had the same agenda as I do. If so, then <em>help me come up with some</em> I just had a thought, but there isn&rsquo;t enough time before moonrise for me to really explore it. Coldwater can&rsquo;t be feeding itself on farming alone, or the raiders would be solely focusing on valuables. If that&rsquo;s the case, every raid we disrupt acts to force an engagement. Firebombing their barracks likely made raiding unviable once. How can we make it unviable for another three seasons?&nbsp;</p>
 
 <p id="DogLetter"><em>Let me be clear. I want to see Surt thrive the same as you. I also do not want to be locked in a closet for the rest of my existence. I am part of you, not your lab assistant, pet, or familiar. I want to be </em><strong><em>free</em></strong><em>, and I will not let us toil in mediocrity forever.&nbsp;</em></p>
 <p id="DogLetter"><em>You want my help? Give me something in return. Give </em><strong><em>us</em></strong><em> something in return. Allow us more freedom. Bring us more greatness. Dampen your fear of our own brilliance. Do that, and I will help all I can.</em></p>
