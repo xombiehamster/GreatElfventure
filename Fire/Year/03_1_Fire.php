@@ -120,8 +120,8 @@
 <p>Knowledge (Arcana): 19</p>
 <p>Knowledge (Planes): 11</p>
 <p><strong>Dogtalk:</strong></p>
-<p id="HungerLetter">How much control do <em>you</em> actually have over the change?</p>
-<p id="DogLetter"><em>Good Question. Let us experiment.</em></p>
+<p id="HungerLetter">How much control do you actually have over the change?</p>
+<p id="DogLetter">Good Question. Let us experiment.</p>
 <p>As he reads this the following morning, Hunger's body is suddenly wracked with pain. He can feel the change coming, as if something is trying to tear through his skin. He can feel the dog's form boiling beneath the surface, threatening to overwhelm his mind and body. He quickly asserts his own will, forces the powerful urge to transform down. He remains calm and feels the transformation fade away, along with the dog's attempt to gain control.</p>
 <p><em>It seems I have the same amount of control that you do</em>, he feels the dog comment in his mind.</p>
 <p><em>And that means I could change, too, should I wish, </em>he replied.</p>
