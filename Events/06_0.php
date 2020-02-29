@@ -5,7 +5,7 @@
 <?php include '../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../style.css">
     <title>
-        A Placeholder Potluck
+        A Precipitous Potluck
     </title>
 </head>
 
@@ -366,312 +366,312 @@
     <p>"An elf," Bryti doesn't flinch as she turns towards the mountain of crag. </p>
     <p>“<b>Do not lie before me, <i>Seeker.</i>  But my words were not for you.  <i>First.</i></b>” He takes one large step forward.  The First instinctively takes a step back, but runs into the table behind him.</p>
     <p>“<b>It is gall enough that you have brought… <i>this…</i> here, <i>once more withholding that which I should know.</i>  But what is this… <i>exchange?</i>  A payment? A <i>Corruption?</i>  Or are you Truly that <i>depraved?</i></b>”</p>
-    <p>Despite being on his back foot, The First’s expression transforms into a rictus of rage to match Echo’s.  “...Depraved?!”
-Echo growls deeply.  “You would do well to stop thinking of me as ignorant, First.  I am well aware of the nature of your… ‘communications.’  You are not such a master of falsehood as you imagine yourself to be.  I know of all you have sought.  Your… predilections.” He spits the word with disgust.
-The First is gobsmacked.  Around his neck and forehead, his skin darkens.  
-“...And, even more sickeningly, you choose now to act on them.  You are one of the few I would have expected to understand the stupidity of-”
-“Stupidity?! Stupidity?! You vacuuous oaf! You thickheaded dunce! I’m working to circumvent the issue this moment!  To have handled it quietly! Subtly! Not that you know of the sort, you Headdam fool!”
-Now it is Echo’s turn to be gobsmacked.  However, he rounds far faster than The First did.  “Headdam?! You--” However, it seems he isn’t as quick on an insult as The First is.
-“YES! HEADDAM! If it wasn’t for your fat tongue and empty mind, I might not have even to have considered taking this precaution! But no! No! You just had to strut and bellow and posture and rage, and to what End?   If you had just kept your tongue, I could have handled that entire situation! But you think that somehow receiving the title of Chief of the Aggro somehow imparts the intelligence it is supposed to imply!  But time and time and time again, you will do your utmost to prove that it takes more that a massive mound of muscles to be worthy of such a thing, you… you… BACKSTEP!”
-From the moment it clears his mouth, The First’s expression shows that he knows… he’s fucked up.
-That’s when two massive hands clamp around his arms, hefting The First in the air and squeezing.
-“BACKSTEP?!”
-A white furred hand clamps down over Echo's. He is unprepared for the sudden strength of a werewolf in hybrid form. Bryti literally pries him off of First, causing him to topple to the ground. Echo finds himself eye to eye with someone suddenly his height.
-"That. Is. Enough." She snarls at him. 
-It is also at about this time that the hippo trundles up behind them, with its rider quietly cursing in Sylvan. 
-It is also about that point that a collective, panicked gasp rings out among the small Crag population in the plaza.  Each of them seems frozen in place… Except for Echo.  Muscles tensing, his pried hands instead grasp around the arms that hold them.  
-“YOU DARE.” It is not a question.  Looking into his wild eyes, shrunk to pinpricks, it is clear that whatever restraint may have existed before is now long gone.
-“YOU.” He takes a step forward.  While Bryti’s grasp is ironclad, the smooth tiles of the plaza provide no good purchase.
-
-Bryti's paws skid on the incredibly well-crafted tiles. Unlike Echo, her face is calm. She braces herself and begins to glow with the same pale Aura she had while fighting Terror.
-"Don't!" She yells out behind Echo.
-Litoria slowly lowers the spear she was unlashing from Sauver's flank.
-"This is between us!" She continues, "I know what I'm-" 
-“DARRRGGGHHH~” Echo continues, as each step he takes picks up more and more speed, Bryti practically skating across the tiles.
-"You too, Shy," Bryti grunts with strain as she struggles to stay upright, "I have a plan."
-Bryti's plan apparently involves not so much stopping Echo as staying upright and directing the grapple away from other elves. 
-Her plan succeeds with flying colors.  And is accompanied by flying colors.  Several decorative vases tumble, spilling their decorative plants, as the two enjoined combatants reach full steam.
-“AAAAAAAAAAAAAAA-” Echo emphasizes, as the two bowl past a gaggle of quickly dodging Samra.  Suddenly, there is nowhere left to go in the Plaza.  And so, with a loud whumpf and a cloud of masonry, Echo pushes the both of them through the border wall.
-Oh, hey.  Even more flying colors. 
-The hippopotamus attempts to follow, but only succeeds in plugging the hole.
-Across the plaza, Shadimon swears violently, thrusts the baby into Baijani’s arms, and flings himself into the air to follow. 
-Allophryne stands where he has been literally left in the dust and just quietly sighs.
-He turns to the nearest other elf and says, “Mais, that happened.”
-Embebi sighs quietly.  “Aff.”  She literally grabs another gawking Crag and pulls her close.
-“Attend. Rapres.  Circle, Nulltarg.  Maintdist.  Maintdist very, very wide.”, she rapidly whispers.
-As the other Crag breaks into a run, she turns her gaze back to hippo rear.  And sighs again. 
-Allophryne extends a hand toward his newly found compatriot in complaint while giving her a once-over extra special glance to determine if she might also be Afflicted.
-“Weh, I don’t think we’ve met before.  I’m Allophryne Allophrynidae, an’ you are?”  Apparently the answer to this initial question is Not Afflicted.  That’s a good start.
-Embebi looks over at Allophryne, then gets a wry smile.  “Not terribly surprising, that.  For getting out so much, I don’t manage to get out that much.  Embebi.  Err, Arckerova, now.  Not that I stand on that much, just Embebi’s fine.”  Compared to the other Crag, she seems remarkably calm about the sudden advent of a Werewolf.  Most of them seem to be flipping out to some degree or other.  Well, except Slabal.  She just looks a bit disappointed.
-Allophryne gives up on the offered handshake.
-“Panic here often, weh?” Allophryne asks conversationally.  He didn’t think that Eparchy seemed as prone to theatrics as Surt, but here they are.
-Embebi purses her lips.  “No, it’s not usually like thi- Actually, nevermind.  ‘Yes’ seems the truer response today.”
-“Potlucks,” the river elf grumbles mildly.
-Near the center of the Plaza, The Esteemed Elpahka finally manages to stir her ox to rise.  When she speaks, it is loud, yet calm.
-“Do not succumb to alarm.  What you have seen is no call for panic.  As you can see, all is in hand.  This is one of the safest places you may be, for now.”  
-True to her word, the numerous Aggro who made up the ‘band’ (which came to an abrupt stop moments ago) fan out at this point, surrounding the plaza’s entrances.  
-Baijani looks at the damaged wall and the immovable hippo, past it to the crashes and plumes of dust, and sighs. “Keep watch,” she murmurs to Dhakamari, before making her way through the crowd to where First is still where Echo dropped him. She crouches down a bit creakily nearby, “Here, brancher. Are you hurt?” 
-The First is still on hands and knees, breathing through his teeth, his expression… ugly.  A tear has run down his face. Still, he manages to grind out; “It is nothing...Hn… I am not… prepared for!”  With one free arm, he starts to rummage through his robes… only to hiss as his elbow makes a loud click when he moves it. 
-Baijani touches her holy symbol, “May I heal you?” 
-“I Said I Am Prepared For This!” he struggles out.  He clenches his teeth harder as he struggles past the pain.  Finally, he manages to grab ahold of something, and extracts a vial… full of some green, viscous liquid.  It doesn’t resemble any familiar kind of healing draught. 
-She tilts her head, watching him quietly, “Does this happen often?” 
-The First gives Baijani a deeply bitter look.  Tearing the cork from the vial, he spits it, and desperately drinks the contents.  Exhaling hard, and inhaling as hard, he stares up in what he wishes was a defiant gesture.  “I’m sorry to say, not as often as he’d probably like.  Your disappointment must be palpable; I know he is not the only to favor violence over truth.” Some of the color returns to his flesh as the concoction works its way through. 
-She holds out a hand to help him up, in a gesture they both know to be more symbolic than functional. “I don’t like you, First, but I don’t wish any harm on you.” 
-The First barks out a disdainful laugh.  As he recovers his feet (of course ignoring the offer of help), his stiff motions show his injuries are not healed… he’s just better tolerating them.  “Winged… you and I both know what a preposterous falsehood that is.  That you thought to utter it verges on embarrassing.”
-She sighs and shakes her head, “Mother guide you to someone who can help you, brancher, if it’s not meant to be me.” With that, she turns and walks away. 
-As she leaves, The First slumps a little, leaning against the table for support.  “Crone.” he mutters sourly, not quite under his breath.  His gaze tracks over to the Esteemed as he utters it. 
-It is around this time that Sauver finally pushes herself through the gap in the wall, leaving a much larger hole behind her as she surges forward looking for the fuzzy one who gives snacks and ear scratches. Crumbling masonry trails behind her. Litoria clings to the hippo's saddle with a keen understanding of just how little control she really has over this situation.
-The hippo disappears as she accelerates away. There is an awkward silence filled only by the last few chunks of masonry crumble to the floor.
-"Typical," A voice breaks the quiet from close to the central table. The last guests have arrived.
-A wolf elf stands next to the central table. She is clad in red and black dress armor and bears braided grey hair. She stands at attention watching the gap. Another wolf elf is behind her. He is placing a tray on the table, full of what appears to be smoked meats. On the other side of the wolf elf stands Jahnni, her expression placid and peaceful as always.
-"The old beasts always were prone to that kind of behavior," the wolf elf states. 
-The Hunger had been standing by the pagoda, casually taking notes on the ornate carvings worked into it, while keeping an eye on the First and the very large hole in the nearby wall. He tucks his notes back into the satchel at his waist, and turns to regard the new arrivals.
-“That’s a rather hypocritical argument from one of Cantia’s brood, isn’t it?” he says mildly.
-The wolf elf turns to look at the Hunger with an expression of curiosity.
-"As acidic as your reputation suggests, Hunger," she nods to him, "Though I'm not sure what you mean. I was invited, and I have not thrown anyone through a wall. We even brought a dish. That is the custom, am I correct?" 
-“You’ve managed basic hospitality. Good for you,” Hunger replies. “And you’ve grasped the concept of ‘invitations’ well enough to show up when invited. You’ll have to work on ‘when not to show up’ later, but progress is still progress, I suppose.” 
-In many cases, the Crag response to this arrival seems to resemble that of the other Elves.  The Esteemed appears to be worried, Embebi seems to be concerned, The First seems to be… embarrassed, for some reason, and Slabal… well, okay, nothing there.  Most of the general assembly of Crag, however, seem to be more occupied with recent werewolf events than other Lowlanders.
-The Esteemed guides her mount towards the new arrivals, but focuses her attention not on them, but on Jahnni.  “Mother Superior.   I am curious as to what you are doing here.  Particularly in this… Company.”
-Jahnni responds calmly, cooly.  “Esteemed Elpahka, as I was conversing with our guests, I learned that they were not aware of this recent celebration.  As my understanding is that it is meant to be open to all of Elvenkind, I believed this to merely be an oversight.  From your question, however, am I to take it that this was not the case?  Have I overstepped?”
-The Esteemed frowns.  “You have, Mountain Mother.  While you are correct, there still exists longstanding enmity between these peoples.  Their presence is not in the interest of Harmony.”
-Jahnni bows deeply. “For having overstepped my bounds, I am deeply apologetic, Esteemed Elpahka.”  She certainly doesn’t sound sorry, though.  “But if enmity lasts, then is this not the correct thing to do? After all, it is considered traditional Wisdom that, where disharmony reigns, it is best addressed with all who quarrel present, so that all may be assured that their grievance is uttered and acknowledged.  Would that not also apply here?” 
-The Esteemed looks… uncertain. 
-Across the plaza, Shrike’s wings snap open, mantling protectively over herself, her mother, and her children. Behind her, Dhakamari faces away and keeps his eyes on the sky and surrounding mountains. 
-Lucinia ducks behind Fury, her eyes wide.
-"Don't let them near me," she whispers, "The disguise doesn't hide scent." 
-“I won’t,” Fury whispers back, really wishing she’d thought to bring a vial of peppermint oil or something. “Stay behind me.” She takes a few sidesteps over towards the dining tables, trying to maintain the distance between herself and the newcomers as much as possible.
-The wolf elves remain where they are. The leader eyes Fury, but does not interfere. Instead, she bows her head to the Esteemed.
-"My apologies," she states, "The fault is mine. I had hoped we could communicate, but I should have expected them to react like this." 
-“You fucking well should have expected us to react like this,” Trischal snarls hotly from where she had placed herself between the newcommers and a badger bound Rasputin.  “Kill any innocent civilians recently?  Or are you taking a vacation from murder?”
-Rasputin whistles a calm tune and seems unperturbed by this development. 
-"Case in point," the wolf elf sighs.
-Jahnni inclines her head to The Esteemed once more.  “Though I am contrite for this misunderstanding, Esteemed Elpahka, by all I see and hear, it seems the ancient wisdom holds true here.  Here, there seems to be an outpouring of ill will, of resentment and anger, as they did not even spare for one of the Lycan ilk,” The Esteemed seems shocked as she says that word, “but they do so by sight alone, judging by her kind, with no evidence of personal transgression.  It would seem here is an opportunity to let misunderstandings be set aside, so only truth and understanding is left in its place.”
-The Esteemed still looks uncertain. 
-There is a brief flurry of noise from the winged elves as the infants pick up on the tension and start crying. Baijani approaches calmly, having handed Davarash off to Dhakamari. She looks cooly up at the wolf elves, hands clasped behind her back, “I am Baijani, priest of the Goddess. In Her name, I greet you.”
-Allophryne sincerely hopes he has been forgotten, as he attempts to blend into the wall.  Nothing here but busted masonry and some nice green moss.  Nope nope.
-Dust stays where he is, and Pebble steps in front of Steve and Dusk.
-The wolf elf turns to Baijani and looks her over, paralleling her body language.
-"A truth to start," she replies, "I am Vesnia Andskoti, of the rank Primus. This is my second, Centurion Krassus. I greet you as well, Baijani."
-Wood creaks from where Trischal’s grip is around her weapon.  Her aggressive posture drops in momentary surprise as a spindly hand rests itself upon her head and pats it a few times.  “Hush, hush, young Scoutmaster.”  Rasputin speaks and his tone is amused, “The Crag speaks true.”
-Before Trischal can swing into a full protest with loud expletives, Rasputin slides off of the badger and stands to his full height.  He bows neatly at the waist in the direction of the wolf elves.  “I also give greetings, ones who smell of fur.  I am Rasputin the Echoes of Many.” 
-"Then I greet you in return, Rasputin," Vesnia looks between the two of them, "It is good to see that we may resort to words before blades." 
-“Weh,” Smilisca agrees, “It is a potluck, an’ apparently yer invited guests.  Hospitalité dictates, non?”
-"Oui," Vesnia replies in Sylvan that is altogether too correct, "My intention is to attend this potluck and participate in the Athlon. That is the truth. I did not come here to start violence." 
-Baijani tilts her head, keeping her unblinking gaze on the other woman, “To listen, to observe. To collect information in the open. But no violence, I will believe.”
-Rasputin grins widely, “No violence can be lived with as a truth.”
-"Then I thank you for acting rationally," Vesnia tells them both, "After all, we're all elves here." Her eyes dart briefly to the hole in the wall.  Next to which, there is an elf desperately pretending to be moss.
-“Yes,” Baijani says. “Unique parts of a whole, meant to coexist.” She turns away from the wolf elves, her voice warming significantly and losing the hint of an echoed undertone, “Rasputin, it’s been too long! And Trischal, my goodness is that Fuzzy?” She goes over to talk with the dark elves, keeping one ear back toward the main tables.
-"Indeed…" Vesnia seems to handle Baijani's brush off with a thin smirk. 
-"Ah, the trademark Cantia smirk," Hunger says. "Speaking of predictable behavior… Vesnia, were Surt to try and send messages to your settlement, where would we need to send them? I might want to send you a condolence package after the Athlon ends."
-"You seem rather focused on her," Vesnia turns to Hunger, "Perhaps you are having difficulty after your past experiences with her. I am no slave to her will, even though you are determined to see her touch in every corner. As far as messages… a line of communication is perhaps not a terrible idea, though it might be difficult to select a neutral location that you will not take advantage of. Magic contact, perhaps? I am willing to reply to Sendings." 
-"Only in that it's professionally fascinating to see her work in the field again," Hunger says. "That, and your people haven't been very forthcoming on your culture or your village, but I'll work with what I have."
-The Fury sidestepped over to the River Elf side of the buffet tables, and gave the plates a quick glance before turning back to Vesnia and company. "Okay, I know this is going to be miserable," she whispers, keeping her shoulders straight and her eyes fixed on the Wolf Elves, "but can you use any of this to hide your scent? ...We'll head out the hole, towards Tee. They'll give us some cover."
-Lucinia quickly grabs a few particularly pungent items, getting a side eye from the silent Krassus. She tugs on Fury's arm and steps away.
-"This hurts my nose," she whispers, "But still if they get too close…" 
-"They'll burn first," Fury whispers back. "No niceties today." She steps back, and starts moving around the tables and towards the giant hole in the wall, catching Hunger's eye in the process.
-If the Hunger notices, he doesn't react. "We can arrange some kind of communication utility for you. Perhaps in exchange for a cessation of hostilities?"
-"Interesting suggestion," Vesnia notes, "What, in your mind, would such a cessation look like?"
-Krassus moves quietly, walking swiftly in the direction of a retreating Fury. ⁵
-Fury lets him get to fifteen paces out from her before reacting. "That's close enough, thank you," she says, glaring at him, heat racing up her cheeks. "I don't mean to be rude, but take another step in this direction and I will be."
-She shakes her head. White-hot wings pour from her back.
-That causes Krassus to stop in his tracks. He looks at the wings, then Fury's face, then to the figure huddled behind her. Krassus scowls, then begins to move.
-"Stop," Vesnia's order is perfectly clear.
-Krassus stops before taking a step. His scowl turns back to Vesnia.
-"The Fury has made her intent perfectly clear," Vesnia states, "If she is so disgusted by our presence that she cannot stand one of us being near her, then we shall not press it. Let her go."
-"Yes, Primus," Krassus growls at her. He turns, glares at Fury momentarily, then stalks back towards the table. 
-“Or maybe it’s a sign you need a bath,” Barrabus says, smiling (number twenty-one: “Ha ha funny joke”). He steps over to the other side of the large hole in the wall, and gives the surviving masonry a gentle pat. “Kidding, of course.”
-Fury leads Lucinia through the wall, keeping herself between the kid and Krassus. Barry gives them both a sideways glance. 
-“Perhaps a prisoner exchange?” Hunger says. “A formal agreement to not send disguised minions into each other’s territory?”
-"You know I can't trust that," Vesnia states, "The last time you offered to broker a deal, you sent a fire bomb into a civilian population center. If I asked for a prisoner exchange, you'd probably send me ashes. That's all you have to give, yes? You like saying that." 
-Hunger grabs a mug from a nearby table, and takes a quick sip through a straw.“Not my fault if my enemies’ plans go up in smoke.”
-"Along with anyone else in the way," Vesnia says, "No, I do not think I will be accepting any Surtian horses today." 
-“Then by all means, ask the other delegations,” Hunger replies. “Surtian horses; I love that. I’m certain someone will be willing to talk to you.” He scans the area around the Pagoda, and then shrugs. “Someone, probably. To be blunt, I don’t give a fuck -- you can ask your ‘mom’ about that. Talk to whom you want, but you won’t find a warmer reception, I guarantee.”
-"Then perhaps it was a mistake to attend," she notes, glancing back at Jahnni, "I was foolish to expect anything different."
-Krassus continues to glower as he returns to the table, though he does not exclude his superior from the gesture. 
-Jahnni doesn’t emote, but she does meet Vesnia’s gaze.  “Though in this situation, it is not my place to interfere, I do not believe you were mistaken, Vesnia.  Indeed, this is but the beginning of your efforts.  It is a known wisdom that early days of any truly vexing conundrum will always meet with failure and difficulty; the success of the future cannot be sampled from the success of the present.  Perseverance and endurance are the keys to progress, for without them, every attempted task will fail.” 
-The Esteemed continues to have a nonplussed look on her face… and she is not the only one.  A number of Crag, dressed in robes with sashes similar to the Esteemed and Jahnni, are looking between the two of them, clearly perturbed about these events.
-"Thank you for that Wisdom Jahnni," Vesnia nods to her, "I will do my best to take it to heart." 
-“Right next to the ether and powdered Lycan bone,” Hunger says. 
-Now, it is Jahnni who returns a level gaze to The Hunger.  “The pain that lies between you two is vast, as can be seen by all.  But it is a poor reconci-”
-“Mountain Mother Superior,” The Esteemed finally chimes in, “you overstep your bounds once more.  It is not the place of your creed to provide for council and reconciliation.  The Mountain Mothers have another task.  I fear you have overreached without realizing the hazard it brings to all.”
-Jahnni turns, and bows once more.  “I find myself chastised once more, Esteemed Elpahka.  It was not my intention to overstep my creed.  All I am stating are the wisdoms that all Elpahka… indeed, that any Crag... know and embrace with every beat of our hearts.”
-“Yes,” The Esteemed replies.  “Every Crag.  But it is not our place to meddle in the affairs of others.  They have their own ways, and their own means.”
-“A great truth, Esteemed.  I merely was swept by what I saw.  There is so much of what happens here that seems so familiar… as, indeed, it should.  Though they are not Crag, they are Elves, as we all are, as we all strive to be.  We are all a single tree, bearing a great original root; so much did their plight move me in it’s familiarity that I found myself drawn to help.  I can only but hope that, in spite of my impertinence, the Wisdom of the Crag could find some value, even in these distant kin.”
-The Esteemed, and many others, seem to be given pause by that response.
-"If I may," Vesnia states, "I do not know about these other lowlanders or what they believe, but the Wisdom of the Crag has shown me a great deal. Do not fault her, please. I have been eager to learn, and perhaps she assumed the others would also be fertile ground." 
-The Esteemed says nothing… but does not look as conflicted as before. 
-"Or we just don't think you're really trying to get on our good side," Barry says. "You could try an apology. I hear those are quite popular. In fact…" he turns to the Esteemed, and drops her a low bow. "With your permission, I, Barrabus Leafstorm, would love to learn more of the Wisdom of the Crag. As a bard, learning the wisdom of my fellows is practically my duty."
-Hunger stares at Barry as if he's grown an extra head. 
-The Esteemed looks surprised by his forward suggestion… then thoughtful.  She shoots a glance over at Jahnni, whose expression does not change in the slightest… though she does stand a little taller.
-“It is unusual,” the Esteemed begins, “...But these have proven to be most unusual times.  Perhaps something of that nature may be arranged, Bard… Barrab-us.” She winces a little at her uncertain stumble.
-If Vesnia glares slightly at Barrabus it's hard to tell. 
-Hunger, being an opportunist, doesn’t care to check. “I’m not hearing that apology.”
-"Why?" Vesnia asks him, "I have done nothing to you." 
-“And it’s not me you should be apologizing to,” Hunger says.
-Bryti returns to the pagoda. Still in hybrid form and still extremely battered, she stalks a direct line for Vesnia, though her sword remains sheathed.
-Vesnia hisses in a breath. She turns to face the approaching werewolf. She puts a hand on her sword but leaves it sheathed. 
-As Bryti returns, severely battered, the general attitude of the Crag in the plaza goes from uncertain and shaky to pure panic.  Shouts of alarm and fear erupt as those of the various civilian bloodlines dash for the security of nearby buildings.  The Aggro, spread to the far parts of the Plaza, collapse inwards.  A number of them actually do draw liths and kuthes, but thus far keep their distance… none of them have any silver.  
-One, however, actually interposes between the advancing werewolf and her target.  A bow is drawn.  An arrow is knocked, but pointed downward.  Her face is fearful, but resolute.
-“Neg.” Says Embebi.
-Bryti stops. She stares Embebi directly in the eyes. Her lip curls as if to snarl, then stops. She raises her head and looks at the panic around her, then back to Embebi.
-"I mean no harm to any Crag," she says. 
-Embebi swallows hard, but holds fast.  “Then I’ll hold you to that word.” She stays right where she is.
-Bryti gives Embebi a stare, then nods.
-"You are resolute in your duty, then. Very well."
-Bryti lifts her head and looks to Vesnia.
-"TELL THEM WHAT YOU WERE GOING TO DO TO ME!" She yells loud enough for much of the settlement to hear.
-"I-I don't know what you're talking about, mad beast!" Vesnia snaps back.
-"Yes you do!" Bryti counters, "Harvest! The wolf elves were going to harvest me! Tell me, wolf, what does that word mean!?"
-"I… don't know what she's talking about," Vesnia stammers, off guard. 
-“Right,” Hunger says. “You certainly did not send a ten-score band of elite cavalry straight towards Crag settlements after her. One that the Aggro had to chase out themselves. All in the name of harvesting her, like you do with other elves.” 
-The circle of Aggro draws tighter… but at this point, it’s obvious that it is not only Bryti who has weapons trained on her.  A number of the Aggro, the older and more scarred, have moved to flank the Wolf elves.  Still, distances are maintained.
-"We don't… harvest elves!" Vesnia snaps, but suddenly realizes that was a mistake.
-"They are beasts," Vesnia speaks more carefully, "Monsters of the old world. We took their strengths for ourselves, so that we would no longer be dominated by them. Yes, we killed many of them in the process. So what? Is there anyone here who hasn't?"
-Behind her,  Krassus takes a step back, eyeing the closing ring. He keeps a hand at his belt and his back to Vesnia's.
-Litoria approaches, still riding Sauver.  Her silversheen weapon is in her hands, but held at a low ready, not making any threat.
-“Non,” is her quiet reply, “mais, you know that war is over.”  Smilisca is carefully counting people in his vicinity.
-"That war!" Vesnia replies, "And what about what comes next?"
-She glances at the Crag beside her.
-"Jahnni, you were right. There is a time of great change upon us, and if we are not prepared for it we will be swept away." 
-Jahnni, who has been maintaining a placid expression in spite of her obvious tension, looks between Vesnia and Bryti.  Despite her cool demeanor, she cannot help the flash of fear she feels when beholding the Werewolf.
-“And if we are not prepared, then it is well and right that we should be.  But preparation can be found in many forms, by many means.  And though none shall truly know what fate awaits, it can be seen by what remains what methods are most successful.” Somehow, she manages to keep her voice level. 
-“We are currently buildin’ what comes next.”  Litoria answers, in a cold tone.  “Weh.  We will know the current of the next war by what we toss downstream.  So let’s hear it, weh.  What are yall building?”
-"The only thing that will survive," Vesnia speaks through clenched teeth, "An empire." 
-Shyrendora makes herself visible for the first time, a hand resting on the hilt of her sheathed dagger.  "One with your people at the top and in control.  One without pesky leaders like me in the way."
-Vesnia starts at the sudden appearance of the Domawit, unable to come up with a response before the attack continues.
-“And the elves that you’ve taken?” Shrike says, her voice soft but carrying to avoid upsetting the nursing infant. “The fight in the badlands, where you were dragging off civilians in the night? Is that to replace your own people who die on suicide missions? Or just to be afflicted shock-troops?”
-"You're not-" She struggles for words, "You're not prepared for what is to come. None of you. You are not ready to make the decisions that will need to be made. The world that's coming will eat you alive." 
-“Then what’s coming,” Shadimon says quietly. “If you want elven unity, then tell us. Help us. Don’t order us. Don’t deliberately undermine us.” 
-“So who is prepared?” Fury says, stepping back through the hole in the wall, Lucinia tagging along behind her.
-"Lock is," Vesnia practically snarls the name, "The dwarves are. The hobgoblins are preparing. Hells, the halflings probably are by now. What is coming is an age of empires, and unless we form our own we will be a footnote to other races. In the age to come, there will only be conquerors and the conquered. Which will you choose?" 
-“I think I’ll choose one that can tell the difference between the two,” Fury says. “One that doesn’t teach their children that ‘civilian’ is a dirty word.” 
-"There will always be a need for soldiers who-" Vesnia starts.
-"You do not know what that word means," Ehra states with more anger and intensity than anyone present has ever heard, "Do not disgrace it again. A soldier serves their people." 
-“...Seems to me, that begs what you think she’n hers are doing here,” Embebi manages through fear-clenched teeth. “Way I see it, takes some mohs to walk into a roc den like this.  I haven’t seen such a gathering of murderous intent since the Extermination, quiaff?  But, guess’n if you don’t take much to how she serves, then you just don’t care much for her people.  Fair enough.” She grinds out these last words, still staring at the werewolf before her. 
-“Well, given they tricked Tsun into a suicide mission, and tried to kill her when it failed,” Hunger says, “perhaps we’re just a little tired of their tactics.” 
-Embebi starts, caught off guard.  However, in the face of such a dire threat, she has no time to ponder revelations, and so she returns to her defensive stance.  Revelations can be pondered if she lives. Still, her defiance takes a significant knock.
-"That's a good question though," Shadimon says thoughtfully. "What are they doing here? Other than fostering a rift in your Elpahka. That's obvious." 
-Many of the Crag surrounding the confrontation stiffen.  The Esteemed frowns.  The First, hiding partially behind a table, gives a pained groan and puts his face into his hands.
-“A Rift.” The Esteemed says, with surprising volume.  “What do you mean by this?”
-“It’s what they’ve done elsewhere,” Shadimon says with a small bow toward her. “The subverted a fire elf organization, to destabilize the leadership. If I’m hearing correctly about Tsun being a pawn of theirs. They empowered a disgraced dark elf leader to split their people and set them on each other. Admittedly I don’t understand fully how your people work, but,” he gestures toward Jahnni, “this looks like cross-purposes to an outsider.”
-"No," Vesnia answer with sudden intensity, "That's not what this is! I'm trying to save the Crag!"
-Krassus glares back at her, but stays silent. 
-While The Esteemed is still clearly peeved at Shadimon, Vesnia’s outburst seems to be of a somewhat greater concern to her.  She quirks an eyebrow, looking directly at the wolf elf.
-“Save?” she asks, with a tightly controlled calmness. 
-"I-" Vesnia grits her teeth, "Yes. Save. I… I told you, Jahnni. My orders were to learn the wisdom of the Tome. I have learned that this is inseparable from the Crag themselves. My superiors… are skeptical."
-"Primus," Krassus growls. 
-Jahnni, in spite of the rising tension, looks calmer than before… indeed, as calm as she has been the whole time.  Very gently, she lights a hand upon Vesnia’s shoulder.
-“Primus Vesnia.  I wish upon you wisdom.  I wish upon you reason.  I wish upon you freedom from fear, from shame, from the animal within your mind which would destroy you, and all you know.  I wish Ancestor’s Tranquility Upon-”
-Jahnni’s hand starts to glow as she reaches towards Vesnia to cast her spell. Vesnia’s eyes go wide.
-“Don’t-” she almost gets out.
-“Fuck this!” Krassus snarls. His hand snaps to his belt and he grabs some kind of weapon.
-“No!” Vesnia shouts.
-Suddenly, an ice wall erupts betten the wolf elves and the rest of the group, driving a wedge between them and Jahnni. The thick ice provides only a dim view of what’s going on. There is some kind of struggle inside the wall. Krassus screams, followed shortly by Vesnia. Then, there is only silence. 
-Embebi, already on a hair trigger, whirls around to see the dome.  Even before the screaming starts, she’s begun hurling herself toward it... distracting her from the waiting werewolf. Her face is strained with anguish.
-Jahnni, however, doesn’t even seem perturbed by these events.  She just stares at the ice, hand still raised.
-Smilisca, however, slowly lowers his webbed hands, letting the crumbled bit of material component fall to the ground quietly. 
-Hunger breaks the silence. “Well, damn,” he mutters to himself. “Suicidal fanatics. Can’t even talk to them.” He glances over to Bryti, who is still standing around in hybrid form, awash in mud, blood, and bruising. “Do you need a healing elixir? Or do you just enjoy standing around, covered in blood?” 
-By the time Embebi reaches the ice, she has her kuthe in her off hand.  She slashes desperately at the barrier, but makes little impact.  Grunting, she begins beating on the ice with her pommel.
-With a shrug, Smilisca dismisses the ice, leaving behind a dense, cold fog. Not really questioning what or why, Embebi charges in. As the fog swirls around her and slowly dissipates, she takes in the scene in front of her.
-Krassus is dead. He lies on his back with a look of shock on his face. There is a silver dagger embedded up to the hilt in his neck. He’s still clutching what looks like a modified sunrod, something Embebi recognizes as an alchemical flare the wolf elf scouts use for signaling.
-Vesnia is next to him. She is on her knees. There is blood in her hands. She appears uninjured. She looks up at Embebi. There is a rune burned onto her forehead that Embebi does not recognize.
-“Who… are you?” Vesnia mumbles. 
-Embebi drops to her knees.  Hearing a question like that, she begins instinctively searching for head wounds.  “It’s okay.  Calm.  Nullshock.  Probably rang your bell.  Just give it a few.”  She tries to keep her voice even.  She fails.
-Vesnia flinches at Embebi’s touch, but doesn’t stop her.
-“I don’t know… I don’t know what happened. Where am I?” She asks as the fog slowly clears. 
-Embebi grits her teeth.  “It’s the Potluck.  And you shouldn’t have been here, but hey, that’s what boldness gets you.  Just… don’t panic.  Calm.  There’s a lot of mad folk about.  Just don’t provoke anything, quiaff?”
-“Aff,” Vesnia responds, “But… why? Why are they… who am I?” 
-Embebi’s eyes narrow.  “Headdam.  No.” She says quietly.  As the fog clears, a single tear rolls down her cheek.  
-And that’s when she snatches up her Kuthe and, with a wordless scream, drives it over and over again into Krassus’ corpse. Vesnia scoots back in shock.
-Baijani slows her rush as the fog clears. She approaches slowly, her hands up, “Embebi, I’m a healer. May I see if I can help?” 
-Embebi whirls upward into a crouch, bloody and shattered kuthe in hand, and a maddened look upon her face.  She screams, “STAY AWAY, YOU-”
-“You.“ Jahnni finally finishes.  All of Embebi’s motion leeches away in a second. “...bast-”, she manages, in a strained voice.
-Jahnni, looming over her with a cold, but not angry, expression, looks at Baijani… then gestures to the Wolf elf.
-Baijani calmly kneels in front of Vesnia, “I’m a healer. I’m not going to hurt you. Can you tell me your name?” 
-“No,” Vesnia states as she touches the rune on her head and winces, “No… did… did I kill someone?” 
-“I’m afraid you did, but I believe it was self-defense.” Baijani checks her over, and finds no injuries. Aside from the obvious. She glances at Embebi, “We’ve seen this happen before. It’s a...fail-safe, that is placed on operatives in the field. I’m afraid she won’t remember anything.” Back to Vesnia, “I’m sorry, this isn’t something I can heal. Embebi can try to help you, help things make more sense.” 
-Embebi gracefully moves into a sitting crouch.  “...So… there is no cure, I’m waging.  She’s gone.” She speaks clinically, without passion.  It’s kind of creepy. 
-“Gone…?” Vesnia echoes.
-“Not that I know…” Baijani glances around at the other elves, asking that silent question.
-“It’s a magical effect,” the dread wizard Smilisca replies.  “It can be canceled, or negated.  Weh, the ocean would, at least temporarily, put the curse on pause, weh.”  He jabs a thumb toward the docks.
-Embebi doesn’t look relieved.  She doesn’t look anything.  “That’s gratifying to know.  It seems a much preferable option to try.  Otherwise, I’d have offered to Relieve her.”
-Dust sighs.  “The ocean might put it on hold long enough for us to find out what she wants.”  The idea of using the ocean is clearly not one that he had previously considered, and his eyebrows are extra grumpy.
-A shadow falls over the seated group. Bryti approaches them with Allophryne beside her. She stares down wordlessly at the wolf elf. Her eyes slowly move from the rune on Vesnia’s head to the fallen Krassus, then to Embebi. She reaches down and traces a few lines over the shocked wolf elf’s face. There is a slight glow. She growls with strain.
-Allophryne puts a webbed hand on her arm. There is a slight hum. The glow brightens. Bryti places her palm over the rune and the light flares briefly. She draws her hand back. The rune is gone.
-“Why…” Vesnia blinks, “Why did you…”
-Without saying another word, Bryti’s hand flashes forward and grabs Vesnia’s upper arm. There is a sound like searing meat. Bryti draws her hand back to reveal a copy of the traitor’s rune branded onto Vesnia’s arm. Bryti leans down and meets her eyes.
-“Wear that with pride,” she states, “Make me regret this, and I will kill you.”
-She does not wait for a response. Bryti turns around and stalks back to a table. She grabs a drink and sits down heavily, facing away from the group.
-“That…” Vesnia winces at the burn on her arm, “That was unexpected.” 
-“Aff.” Embebi deadpans.  “I only counted one deaththreat.”
-“Huh,” Dust says eloquently.  He stares for a moment, then heads back to the drink table.
-Vesnia’s eyes dart to the flare as her head clears, then to the rest of the group.
-“I… remember… hells,” Vesnia hisses through her teeth, “Well, that’s one way to fuck up a mission objective.” 
-“I believe we did not finish that conversation,” The Esteemed says bluntly as she drives her mount forward.  She is looking quite put out by all of this.  “What mission was this, young wolf?”
-Vesnia appears unable to meet the Esteemed’s eyes.
-“It was what I could manage,” Vesnia states in a tired voice, “One last chance. My mission was to acquire the knowledge of the Tome, by any means necessary. My superiors were convinced I was taking too long. I began to realize that this objective was impossible. It’s not something I could steal, like a thief in the night.”
-“I knew it was part of the crag. That… wasn’t something they wanted to hear. They told me that gaining it via infiltration and subterfuge was preferable to violence… so I found an in. Sorry, Embebi.”
-Embebi Shrugs.
-“It… was while learning about the crag that I realized that the crag and the Tome are inseparable. That it can’t be just taken… only destroyed by shortsightedness. Perhaps I also learned more about the Path of the crag, and how it exposes the flaws in my own.”
-“But my superiors did not want to hear it. They told me that I was failing. That it was taking too long, no matter how much progress I was making. They wanted to resort to violence. It would have been a massacre. The only path I could see to complete my mission and save the crag… was to convince them to join us.”
-“So… I tried. Obviously, I failed. When I managed to make contact with the Wisdom here, I was given one last chance: Infiltrate the potluck and drive a wedge between the Crag and the other elves, or I will have failed. That flare is the signal, if we were captured or killed. There are scouts watching for it. If it was lit, they were to report to the lowlands and summon a task force to come up here and seize the Tome by force.”
-Vesnia looks at Embebi, “Which is why we have to go now and intercept those scouts. Some of them still trust me. Some of them like the crag, after spending so long here. The others, we can intercept. The flare wasn’t lit. There’s still time.” 
-“So, let’s spend it proper. Attend, stalker, conv, ready.”  Several of the Aggro around her look… well, frankly bamboozled by everything, but word is passed loudly around the plaza.  Aggro with bows and arrows begin to organize into a single unit. 
-“Will you need help?” Hunger says to Embebi, from his position by the tables. 
-Embebi gives him a blank look.  “Dunno.  How’s your aim?” 
-“Decent,” he says. “Terror would probably be better -- if someone can figure out where in the hells she and Breaker went -- but I’ll offer just the same.” 
-“Terror?” Embebi states.  “Big lass, bigger hammer, voice like a cartwreck?”
-Hunger nods. “Closest person we have to an Echo. Or at least, closest Fire Elf.” 
-“Neg,” she says casually.  “This is a sneaking mission.”
-She points to one of the Aggro.  “Civvol, arm, stanload.”  Within seconds, The Hunger finds a shortbow and quivver jammed into his arms.
-“The scouts are used to seeing Embebi and I moving with Crag scouts,” Vesnia explains, “They’ll be expecting that. It would let us get closer. They’ll be expecting Krassus too, though…” 
-“Oh will they?” Hunger says. “Give me just a second.” He starts examining Krassus’ chopped corpse. 
-“I can offer aerial support,” Shadimon says, gesturing back at Dhakamari. “Good aim and good eyes, from high enough up that few can tell us from birds. Could circle wide and see if these scouts are evading.”
-“Could help if one tries to… run,” Vesnia seems to have trouble with that sentence. She glances at the brand on her arm. 
-Embebi looks at Vesnia’s expression.  She may not feel at the moment, but she can still tell.  She points to another Aggro.  “Attend.  Tripletime.  Go get the goosenets.  The big ones.” Thudding feet disappear into the distance. 
-The Hunger pulls a series of vials from beneath his chiton. “All right,” he says. “We need a Wolf Elf temporarily. Any volunteers to sub in for Krassus?” He glances over to Leafstorm. “Barry?”
-“Oh, sure, just because I’m the bard, that means I should have to be disguised as someone all the time,” Barry says.
-Hunger pauses. “...I thought you liked getting into character. You’re an actor.”
-“Well, yes, but that’s not the poi--” Barry starts.
-“Oooh! Pick me! Pick me!” Vita says, dashing up from the stacked-high plate of food she’d been hiding behind.
-“Seriously?” Barry says.
-Hunger shrugs. “Whatever. Quaff these.” He hands the vials, in sequence, to Vita, who immediately drinks each one.
-“Seriously?” Barry says again.
-“You’ve got to keep up, Leafstorm,” Hunger replies.
-First to change is Vita’s hair; it twists and shifts over her head, molding and reshaping like smoke until finally coalescing into fur and a pair of wolflike ears. Next, her bones twist, pushing her up and rewriting her face, until finally Krassus (or someone at least mostly like him) is standing where Vita had been.
-Hunger steps closer, and applies a few quick touches of clay and paint around her eyes and nose. “Not my best,” he admits. “But good enough to work from a distance.” 
-“Right,” Vita says. “Who am I supposed to be, anyway?” 
-Hunger points to where the ice dome had been some seconds ago. 
-Embebi glances away from the spectacle back to Vesnia.  “So, anything else?”
-Vesnia turns to look at Embebi. There is a deep weariness there, combined with loss and confusion. Vesnia doesn’t answer for a couple seconds. Suddenly, she lunges forward… and kisses Embebi right on her stupid little nose.
-Vesnia stands.
-“Let’s go.” 
-Embebi just kind of stares blankly, then shrugs.  Standing, she gestures to the assembled Aggro.  “Stalkers, let’s gaaaagghg-”
-She grits her teeth as several seconds worth of built up emotion slam into her neocortex at full speed.  Her face contorts slightly, but ultimately settles on a wide grin.  That gets wider.  And wider.  And more… predatory.  
-“Stalkers.  We HUNT.”
-There is a surprising absence of noise as several dozen Aggro warriors file out of the Plaza, Vesnia and Vita carried along in their wake.
-At the back of the Plaza, a single Crag goes largely unmoved by the events closer to the center.  Peering at and through the hole left by Echo’s maddened charge, Slabal sighs quietly. 
-Turning to the Fury, she gives the sorceress a level expression.
-“When Lowlanders meet… Is it always like this?”
-“It’s really not,” Fury says, glancing between Slabal and Lucinia behind her. “They can be kind of… dramatic… but this is new. I promise. There usually isn’t any fighting. Usually.” 
-Slabal pauses.  “In my very first travel into the Lowlands, I witnessed a woman nearly being decapitated, an Aggro challenge, and… Hrm.  No third thing. Oh well.  Are you certain your appraisal is accurate?”
-“I am also concerned,” Lucinia says quietly, plucking at her arm.
-“An abduction,” Slabal states.  “That was the third thing.  It seemed the least dramatic.” 
-“Two of those weren’t violent,” Fury protests. “And the third… well okay, Tsun did kind of challenge Ehra, but it’s not like that wasn’t a forgone conclusion… or like she died… Look, this isn’t normal, I swear!” 
-Slabal gazes at her for a moment, and then back to the ruin that is visible through the still slowly collapsing wall.  She blinks a couple times.  
-“I do as well, on occasion.  This seems appropriate.  Shit.”
-“My concern has only increased,” Lucinia states.
-“...Fine. Then I’ll join you,” Fury says, ignoring Lucinia. “Crap. Cal’s… something. Seven damnations.” 
-Slabal looks back over at Fury.  Her eyebrow raises very slightly.  She then looks back.
-“...Needs work.”
--FIN-
-Once again, thank you everyone for your continued enthusiasm in keeping this game going! It has grown into something far better than I ever could have hoped!
-Once again, everyone gets one level up to distribute to a non-central leader of their choice.
-Vesnia and Embebi's mission is a success. They are able to capture the remaining scouts before they get the message out of Vesnia's treachery. A few of them even decide to join her. The future is uncertain as is what to do with both them and Vesnia, but for now she seems to be willing to join the Crag.
-The Crag have gained the Aspect Traitor's Band, representing Vensia and the scouts loyal to her.
-First, though, the Athlon… and some bits and pieces.
-
-
+    <p>Despite being on his back foot, The First’s expression transforms into a rictus of rage to match Echo’s.  “<i>...Depraved?!</i>”</p>
+    <p>Echo growls deeply.  “<b>You would do well to stop thinking of me as <i>ignorant</i>, First.  I am well aware of the nature of your… ‘communications.’  You are not such a master of falsehood as you imagine yourself to be.  I know of all you have sought.  Your… <i>predilections.</i></b>” He spits the word with disgust.</p>
+    <p>The First is gobsmacked.  Around his neck and forehead, his skin darkens.  </p>
+    <p>“<b>...And, even more sickeningly, you choose <i>now</i> to act on them.  You are one of the few I would have expected to understand the <i>stupidity</i> of-</b>”</p>
+    <p>“Stupidity?! <i>Stupidity?!</i> You vacuuous oaf! You thickheaded dunce! I’m working to <i>circumvent the issue this moment!</i>  To have handled it <i>quietly! Subtly!</i> Not that you know of the sort, you <i>Headdam fool!</i>”</p>
+    <p>Now it is Echo’s turn to be gobsmacked.  However, he rounds far faster than The First did.  “<b>Headdam?! You--</b>” However, it seems he isn’t as quick on an insult as The First is.</p>
+    <p>“<i>YES! HEADDAM! If it wasn’t for your fat tongue and empty mind, I might not have even to have considered taking this precaution!</i> But no! <b>No!</b> You just had to strut and bellow and posture and rage, and to what <i>End?</i>   If you had just kept your tongue, I could have handled that entire situation! But you think that somehow receiving the title of Chief of the Aggro somehow imparts the <i>intelligence</i> it is supposed to imply!  But time and time and time again, you will do your utmost to prove that it takes more that a massive mound of muscles to be worthy of such a thing, you… you… <i>BACKSTEP!</i>”</p>
+    <p>From the moment it clears his mouth, The First’s expression shows that he knows… he’s fucked up.</p>
+    <p>That’s when two massive hands clamp around his arms, hefting The First in the air and <i>squeezing.</i></p>
+    <p>“<b>BACKSTEP?!</b>”</p>
+    <p>A white furred hand clamps down over Echo's. He is unprepared for the sudden strength of a werewolf in hybrid form. Bryti literally pries him off of First, causing him to topple to the ground. Echo finds himself eye to eye with someone suddenly his height.</p>
+    <p>"That. Is. <i>Enough.</I>" She snarls at him. </p>
+    <p>It is also at about this time that the hippo trundles up behind them, with its rider quietly cursing in Sylvan. </p>
+    <p>It is also about that point that a collective, panicked gasp rings out among the small Crag population in the plaza.  Each of them seems frozen in place… Except for Echo.  Muscles tensing, his pried hands instead grasp around the arms that hold them.  </p>
+    <p>“<b>YOU DARE.</b>” It is not a question.  Looking into his wild eyes, shrunk to pinpricks, it is clear that whatever restraint may have existed before is now long gone.</p>
+    <p>“<b>YOU.</b>” He takes a step forward.  While Bryti’s grasp is ironclad, the smooth tiles of the plaza provide no good purchase.</p>
+    <p>Bryti's paws skid on the incredibly well-crafted tiles. Unlike Echo, her face is calm. She braces herself and begins to glow with the same pale Aura she had while fighting Terror.</p>
+    <p>"Don't!" She yells out behind Echo.</p>
+    <p>Litoria slowly lowers the spear she was unlashing from Sauver's flank.</p>
+    <p>"This is between us!" She continues, "I know what I'm-" </p>
+    <p>“<b>DARRRGGGHHH~</b>” Echo continues, as each step he takes picks up more and more speed, Bryti practically skating across the tiles.</p>
+    <p>"You too, Shy," Bryti grunts with strain as she struggles to stay upright, "I have a plan."</p>
+    <p>Bryti's plan apparently involves not so much stopping Echo as staying upright and directing the grapple away from other elves. </p>
+    <p>Her plan succeeds with flying colors.  And is accompanied by flying colors.  Several decorative vases tumble, spilling their decorative plants, as the two enjoined combatants reach full steam.</p>
+    <p>“<b>AAAAAAAAAAAAAAA-</b>” Echo emphasizes, as the two bowl past a gaggle of quickly dodging Samra.  Suddenly, there is nowhere left to go in the Plaza.  And so, with a loud whumpf and a cloud of masonry, Echo pushes the both of them through the border wall.</p>
+    <p id="back"><a href="">Oh, hey.  Even more flying colors. </a></p>
+    <p>The hippopotamus attempts to follow, but only succeeds in plugging the hole.</p>
+    <p>Across the plaza, Shadimon swears violently, thrusts the baby into Baijani’s arms, and flings himself into the air to follow. </p>
+    <p>Allophryne stands where he has been literally left in the dust and just quietly sighs.</p>
+    <p>He turns to the nearest other elf and says, “Mais, that happened.”</p>
+    <p>Embebi sighs quietly.  “Aff.”  She literally grabs another gawking Crag and pulls her close.</p>
+    <p>“Attend. Rapres.  Circle, Nulltarg.  Maintdist.  Maintdist <i>very, very wide.</i>”, she rapidly whispers.</p>
+    <p>As the other Crag breaks into a run, she turns her gaze back to hippo rear.  And sighs again. </p>
+    <p>Allophryne extends a hand toward his newly found compatriot in complaint while giving her a once-over extra special glance to determine if she might also be Afflicted.</p>
+    <p>“Weh, I don’t think we’ve met before.  I’m Allophryne Allophrynidae, an’ you are?”  Apparently the answer to this initial question is Not Afflicted.  That’s a good start.</p>
+    <p>Embebi looks over at Allophryne, then gets a wry smile.  “Not terribly surprising, that.  For getting out so much, I don’t manage to get out that much.  Embebi.  Err, Arckerova, now.  Not that I stand on that much, just Embebi’s fine.”  Compared to the other Crag, she seems remarkably calm about the sudden advent of a Werewolf.  Most of them seem to be flipping out to some degree or other.  Well, except Slabal.  She just looks a bit disappointed.</p>
+    <p>Allophryne gives up on the offered handshake.</p>
+    <p>“Panic here often, weh?” Allophryne asks conversationally.  He didn’t think that Eparchy seemed as prone to theatrics as Surt, but here they are.</p>
+    <p>Embebi purses her lips.  “No, it’s not usually like thi- Actually, nevermind.  ‘Yes’ seems the truer response today.”</p>
+    <p>“Potlucks,” the river elf grumbles mildly.</p>
+    <p>Near the center of the Plaza, The Esteemed Elpahka finally manages to stir her ox to rise.  When she speaks, it is loud, yet calm.</p>
+    <p>“Do not succumb to alarm.  What you have seen is no call for panic.  As you can see, all is in hand.  This is one of the safest places you may be, for now.”  </p>
+    <p>True to her word, the numerous Aggro who made up the ‘band’ (which came to an abrupt stop moments ago) fan out at this point, surrounding the plaza’s entrances.  </p>
+    <p>Baijani looks at the damaged wall and the immovable hippo, past it to the crashes and plumes of dust, and sighs. “Keep watch,” she murmurs to Dhakamari, before making her way through the crowd to where First is still where Echo dropped him. She crouches down a bit creakily nearby, “Here, brancher. Are you hurt?” </p>
+    <p>The First is still on hands and knees, breathing through his teeth, his expression… ugly.  A tear has run down his face. Still, he manages to grind out; “It is nothing...Hn… I am not… prepared for!”  With one free arm, he starts to rummage through his robes… only to hiss as his elbow makes a loud <i>click</i> when he moves it. </p>
+    <p>Baijani touches her holy symbol, “May I heal you?” </p>
+    <p>“I <i>Said</i> I Am Prepared For This!” he struggles out.  He clenches his teeth harder as he struggles past the pain.  Finally, he manages to grab ahold of something, and extracts a vial… full of some green, viscous liquid.  It doesn’t resemble any familiar kind of healing draught. </p>
+    <p>She tilts her head, watching him quietly, “Does this happen often?” </p>
+    <p>The First gives Baijani a deeply bitter look.  Tearing the cork from the vial, he spits it, and desperately drinks the contents.  Exhaling hard, and inhaling as hard, he stares up in what he wishes was a defiant gesture.  “I’m sorry to say, not as often as he’d probably like.  Your disappointment must be palpable; I know he is not the only to favor <i>violence</i> over <i>truth</i>.” Some of the color returns to his flesh as the concoction works its way through. </p>
+    <p>She holds out a hand to help him up, in a gesture they both know to be more symbolic than functional. “I don’t like you, First, but I don’t wish any <i>harm</i> on you.” </p>
+    <p>The First barks out a disdainful laugh.  As he recovers his feet (of course ignoring the offer of help), his stiff motions show his injuries are not healed… he’s just better tolerating them.  “Winged… you and I <i>both</i> know what a <i>preposterous falsehood</i> that is.  That you thought to utter it verges on embarrassing.”</p>
+    <p>She sighs and shakes her head, “Mother guide you to someone who <i>can</i> help you, brancher, if it’s not meant to be me.” With that, she turns and walks away. </p>
+    <p>As she leaves, The First slumps a little, leaning against the table for support.  “<i>Crone.</i>” he mutters sourly, not quite under his breath.  His gaze tracks over to the Esteemed as he utters it. </p>
+    <p>It is around this time that Sauver finally pushes herself through the gap in the wall, leaving a much larger hole behind her as she surges forward looking for the fuzzy one who gives snacks and ear scratches. Crumbling masonry trails behind her. Litoria clings to the hippo's saddle with a keen understanding of just how little control she really has over this situation.</p>
+    <p>The hippo disappears as she accelerates away. There is an awkward silence filled only by the last few chunks of masonry crumble to the floor.</p>
+    <p>"Typical," A voice breaks the quiet from close to the central table. The last guests have arrived.</p>
+    <p>A wolf elf stands next to the central table. She is clad in red and black dress armor and bears braided grey hair. She stands at attention watching the gap. Another wolf elf is behind her. He is placing a tray on the table, full of what appears to be smoked meats. On the other side of the wolf elf stands Jahnni, her expression placid and peaceful as always.</p>
+    <p>"The old beasts always were prone to that kind of behavior," the wolf elf states. </p>
+    <p>The Hunger had been standing by the pagoda, casually taking notes on the ornate carvings worked into it, while keeping an eye on the First and the very large hole in the nearby wall. He tucks his notes back into the satchel at his waist, and turns to regard the new arrivals.</p>
+    <p>“That’s a rather hypocritical argument from one of Cantia’s brood, isn’t it?” he says mildly.</p>
+    <p>The wolf elf turns to look at the Hunger with an expression of curiosity.</p>
+    <p>"As acidic as your reputation suggests, Hunger," she nods to him, "Though I'm not sure what you mean. I was invited, and I have not thrown anyone through a wall. We even brought a dish. That is the custom, am I correct?" </p>
+    <p>“You’ve managed basic hospitality. Good for you,” Hunger replies. “And you’ve grasped the concept of ‘invitations’ well enough to show up when invited. You’ll have to work on ‘when not to show up’ later, but progress is still progress, I suppose.” </p>
+    <p>In many cases, the Crag response to this arrival seems to resemble that of the other Elves.  The Esteemed appears to be worried, Embebi seems to be concerned, The First seems to be… embarrassed, for some reason, and Slabal… well, okay, nothing there.  Most of the general assembly of Crag, however, seem to be more occupied with recent werewolf events than other Lowlanders.</p>
+    <p>The Esteemed guides her mount towards the new arrivals, but focuses her attention not on them, but on Jahnni.  “Mother Superior.   I am curious as to what you are doing here.  Particularly in this… Company.”</p>
+    <p>Jahnni responds calmly, cooly.  “Esteemed Elpahka, as I was conversing with our guests, I learned that they were not aware of this recent celebration.  As my understanding is that it is meant to be open to all of Elvenkind, I believed this to merely be an oversight.  From your question, however, am I to take it that this was not the case?  Have I overstepped?”</p>
+    <p>The Esteemed frowns.  “You have, Mountain Mother.  While you are correct, there still exists longstanding enmity between these peoples.  Their presence is not in the interest of Harmony.”</p>
+    <p>Jahnni bows deeply. “For having overstepped my bounds, I am deeply apologetic, Esteemed Elpahka.”  She certainly doesn’t sound sorry, though.  “But if enmity lasts, then is this not the correct thing to do? After all, it is considered traditional Wisdom that, where disharmony reigns, it is best addressed with all who quarrel present, so that all may be assured that their grievance is uttered and acknowledged.  Would that not also apply here?” </p>
+    <p>The Esteemed looks… uncertain. </p>
+    <p>Across the plaza, Shrike’s wings snap open, mantling protectively over herself, her mother, and her children. Behind her, Dhakamari faces away and keeps his eyes on the sky and surrounding mountains. </p>
+    <p>Lucinia ducks behind Fury, her eyes wide.</p>
+    <p>"Don't let them near me," she whispers, "The disguise doesn't hide scent." </p>
+    <p>“I won’t,” Fury whispers back, really wishing she’d thought to bring a vial of peppermint oil or something. “Stay behind me.” She takes a few sidesteps over towards the dining tables, trying to maintain the distance between herself and the newcomers as much as possible.</p>
+    <p>The wolf elves remain where they are. The leader eyes Fury, but does not interfere. Instead, she bows her head to the Esteemed.</p>
+    <p>"My apologies," she states, "The fault is mine. I had hoped we could communicate, but I should have expected them to react like this." </p>
+    <p>“You fucking well should have expected us to react like this,” Trischal snarls hotly from where she had placed herself between the newcommers and a badger bound Rasputin.  “Kill any innocent civilians recently?  Or are you taking a vacation from murder?”</p>
+    <p>Rasputin whistles a calm tune and seems unperturbed by this development. </p>
+    <p>"Case in point," the wolf elf sighs.</p>
+    <p>Jahnni inclines her head to The Esteemed once more.  “Though I am contrite for this misunderstanding, Esteemed Elpahka, by all I see and hear, it seems the ancient wisdom holds true here.  Here, there seems to be an outpouring of ill will, of resentment and anger, as they did not even spare for one of the Lycan ilk,” The Esteemed seems shocked as she says that word, “but they do so by sight alone, judging by her kind, with no evidence of personal transgression.  It would seem here is an opportunity to let misunderstandings be set aside, so only truth and understanding is left in its place.”</p>
+    <p>The Esteemed still looks uncertain. </p>
+    <p>There is a brief flurry of noise from the winged elves as the infants pick up on the tension and start crying. Baijani approaches calmly, having handed Davarash off to Dhakamari. She looks cooly up at the wolf elves, hands clasped behind her back, “I am Baijani, priest of the Goddess. In Her name, I greet you.”</p>
+    <p>Allophryne sincerely hopes he has been forgotten, as he attempts to blend into the wall.  Nothing here but busted masonry and some nice green moss.  Nope nope.</p>
+    <p>Dust stays where he is, and Pebble steps in front of Steve and Dusk.</p>
+    <p>The wolf elf turns to Baijani and looks her over, paralleling her body language.</p>
+    <p>"A truth to start," she replies, "I am Vesnia Andskoti, of the rank Primus. This is my second, Centurion Krassus. I greet you as well, Baijani."</p>
+    <p>Wood creaks from where Trischal’s grip is around her weapon.  Her aggressive posture drops in momentary surprise as a spindly hand rests itself upon her head and pats it a few times.  “Hush, hush, young Scoutmaster.”  Rasputin speaks and his tone is amused, “The Crag speaks true.”</p>
+    <p>Before Trischal can swing into a full protest with loud expletives, Rasputin slides off of the badger and stands to his full height.  He bows neatly at the waist in the direction of the wolf elves.  “I also give greetings, ones who smell of fur.  I am Rasputin the Echoes of Many.” </p>
+    <p>"Then I greet you in return, Rasputin," Vesnia looks between the two of them, "It is good to see that we may resort to words before blades." </p>
+    <p>“Weh,” Smilisca agrees, “It is a potluck, an’ apparently yer invited guests.  Hospitalité dictates, non?”</p>
+    <p>"Oui," Vesnia replies in Sylvan that is altogether too correct, "My intention is to attend this potluck and participate in the Athlon. That is the truth. I did not come here to start violence." </p>
+    <p>Baijani tilts her head, keeping her unblinking gaze on the other woman, “To listen, to observe. To collect information in the open. But no violence, I will believe.”</p>
+    <p>Rasputin grins widely, “No violence can be lived with as a truth.”</p>
+    <p>"Then I thank you for acting rationally," Vesnia tells them both, "After all, we're all elves here." Her eyes dart briefly to the hole in the wall.  Next to which, there is an elf desperately pretending to be moss.</p>
+    <p>“Yes,” Baijani says. “Unique parts of a whole, meant to coexist.” She turns away from the wolf elves, her voice warming significantly and losing the hint of an echoed undertone, “Rasputin, it’s been too long! And Trischal, my goodness is that Fuzzy?” She goes over to talk with the dark elves, keeping one ear back toward the main tables.</p>
+    <p>"Indeed…" Vesnia seems to handle Baijani's brush off with a thin smirk. </p>
+    <p>"Ah, the trademark Cantia smirk," Hunger says. "Speaking of predictable behavior… Vesnia, were Surt to try and send messages to your settlement, where would we need to send them? I might want to send you a condolence package after the Athlon ends."</p>
+    <p>"You seem rather focused on her," Vesnia turns to Hunger, "Perhaps you are having difficulty after your past experiences with her. I am no slave to her will, even though you are determined to see her touch in every corner. As far as messages… a line of communication is perhaps not a terrible idea, though it might be difficult to select a neutral location that you will not take advantage of. Magic contact, perhaps? I am willing to reply to Sendings." </p>
+    <p>"Only in that it's professionally fascinating to see her work in the field again," Hunger says. "That, and your people haven't been very forthcoming on your culture or your village, but I'll work with what I have."</p>
+    <p>The Fury sidestepped over to the River Elf side of the buffet tables, and gave the plates a quick glance before turning back to Vesnia and company. "Okay, I know this is going to be miserable," she whispers, keeping her shoulders straight and her eyes fixed on the Wolf Elves, "but can you use any of this to hide your scent? ...We'll head out the hole, towards Tee. They'll give us some cover."</p>
+    <p>Lucinia quickly grabs a few particularly pungent items, getting a side eye from the silent Krassus. She tugs on Fury's arm and steps away.</p>
+    <p>"This hurts my nose," she whispers, "But still if they get too close…" </p>
+    <p>"They'll burn first," Fury whispers back. "No niceties today." She steps back, and starts moving around the tables and towards the giant hole in the wall, catching Hunger's eye in the process.</p>
+    <p>If the Hunger notices, he doesn't react. "We can arrange some kind of communication utility for you. Perhaps in exchange for a cessation of hostilities?"</p>
+    <p>"Interesting suggestion," Vesnia notes, "What, in your mind, would such a cessation look like?"</p>
+    <p>Krassus moves quietly, walking swiftly in the direction of a retreating Fury. ⁵</p>
+    <p>Fury lets him get to fifteen paces out from her before reacting. "That's close enough, thank you," she says, glaring at him, heat racing up her cheeks. "I don't mean to be rude, but take another step in this direction and I will be."</p>
+    <p>She shakes her head. White-hot wings pour from her back.</p>
+    <p>That causes Krassus to stop in his tracks. He looks at the wings, then Fury's face, then to the figure huddled behind her. Krassus scowls, then begins to move.</p>
+    <p>"Stop," Vesnia's order is perfectly clear.</p>
+    <p>Krassus stops before taking a step. His scowl turns back to Vesnia.</p>
+    <p>"The Fury has made her intent perfectly clear," Vesnia states, "If she is so disgusted by our presence that she cannot stand one of us being near her, then we shall not press it. Let her go."</p>
+    <p>"Yes, Primus," Krassus growls at her. He turns, glares at Fury momentarily, then stalks back towards the table. </p>
+    <p>“Or maybe it’s a sign you need a bath,” Barrabus says, smiling (number twenty-one: “Ha ha funny joke”). He steps over to the other side of the large hole in the wall, and gives the surviving masonry a gentle pat. “Kidding, of course.”</p>
+    <p>Fury leads Lucinia through the wall, keeping herself between the kid and Krassus. Barry gives them both a sideways glance. </p>
+    <p>“Perhaps a prisoner exchange?” Hunger says. “A formal agreement to not send disguised minions into each other’s territory?”</p>
+    <p>"You know I can't trust that," Vesnia states, "The last time you offered to broker a deal, you sent a fire bomb into a civilian population center. If I asked for a prisoner exchange, you'd probably send me ashes. That's all you have to give, yes? You like saying that." </p>
+    <p>Hunger grabs a mug from a nearby table, and takes a quick sip through a straw.“Not my fault if my enemies’ plans go up in smoke.”</p>
+    <p>"Along with anyone else in the way," Vesnia says, "No, I do not think I will be accepting any Surtian horses today." </p>
+    <p>“Then by all means, ask the other delegations,” Hunger replies. “Surtian horses; I love that. I’m certain someone will be willing to talk to you.” He scans the area around the Pagoda, and then shrugs. “Someone, probably. To be blunt, I don’t give a fuck -- you can ask your ‘mom’ about that. Talk to whom you want, but you won’t find a warmer reception, I guarantee.”</p>
+    <p>"Then perhaps it <i>was</i> a mistake to attend," she notes, glancing back at Jahnni, "I was foolish to expect anything different."</p>
+    <p>Krassus continues to glower as he returns to the table, though he does not exclude his superior from the gesture. </p>
+    <p>Jahnni doesn’t emote, but she does meet Vesnia’s gaze.  “Though in this situation, it is not my place to interfere, I do not believe you were mistaken, Vesnia.  Indeed, this is but the beginning of your efforts.  It is a known wisdom that early days of any truly vexing conundrum will always meet with failure and difficulty; the success of the future cannot be sampled from the success of the present.  Perseverance and endurance are the keys to progress, for without them, every attempted task will fail.” </p>
+    <p>The Esteemed continues to have a nonplussed look on her face… and she is not the only one.  A number of Crag, dressed in robes with sashes similar to the Esteemed and Jahnni, are looking between the two of them, clearly perturbed about these events.</p>
+    <p>"Thank you for that Wisdom Jahnni," Vesnia nods to her, "I will do my best to take it to heart." </p>
+    <p>“Right next to the ether and powdered Lycan bone,” Hunger says. </p>
+    <p>Now, it is Jahnni who returns a level gaze to The Hunger.  “The pain that lies between you two is vast, as can be seen by all.  But it is a poor reconci-”</p>
+    <p>“Mountain Mother Superior,” The Esteemed finally chimes in, “you overstep your bounds once more.  It is not the place of your creed to provide for council and reconciliation.  The Mountain Mothers have another task.  I fear you have overreached without realizing the hazard it brings to all.”</p>
+    <p>Jahnni turns, and bows once more.  “I find myself chastised once more, Esteemed Elpahka.  It was not my intention to overstep my creed.  All I am stating are the wisdoms that all Elpahka… indeed, that any Crag... know and embrace with every beat of our hearts.”</p>
+    <p>“Yes,” The Esteemed replies.  “Every Crag.  But it is not our place to meddle in the affairs of others.  They have their own ways, and their own means.”</p>
+    <p>“A great truth, Esteemed.  I merely was swept by what I saw.  There is so much of what happens here that seems so familiar… as, indeed, it should.  Though they are not Crag, they are Elves, as we all are, as we all strive to be.  We are all a single tree, bearing a great original root; so much did their plight move me in it’s familiarity that I found myself drawn to help.  I can only but hope that, in spite of my impertinence, the Wisdom of the Crag could find some value, even in these distant kin.”</p>
+    <p>The Esteemed, and many others, seem to be given pause by that response.</p>
+    <p>"If I may," Vesnia states, "I do not know about these other lowlanders or what they believe, but the Wisdom of the Crag has shown me a great deal. Do not fault her, please. I have been eager to learn, and perhaps she assumed the others would also be fertile ground." </p>
+    <p>The Esteemed says nothing… but does not look as conflicted as before. </p>
+    <p>"Or we just don't think you're really trying to get on our good side," Barry says. "You could try an apology. I hear those are quite popular. In fact…" he turns to the Esteemed, and drops her a low bow. "With your permission, I, Barrabus Leafstorm, would love to learn more of the Wisdom of the Crag. As a bard, learning the wisdom of my fellows is practically my duty."</p>
+    <p>Hunger stares at Barry as if he's grown an extra head. </p>
+    <p>The Esteemed looks surprised by his forward suggestion… then thoughtful.  She shoots a glance over at Jahnni, whose expression does not change in the slightest… though she does stand a little taller.</p>
+    <p>“It is unusual,” the Esteemed begins, “...But these have proven to be most unusual times.  Perhaps something of that nature may be arranged, Bard… Barrab-us.” She winces a little at her uncertain stumble.</p>
+    <p>If Vesnia glares slightly at Barrabus it's hard to tell. </p>
+    <p>Hunger, being an opportunist, doesn’t care to check. “I’m not hearing that apology.”</p>
+    <p>"Why?" Vesnia asks him, "I have done nothing to you." </p>
+    <p>“And it’s not me you should be apologizing to,” Hunger says.</p>
+    <p>Bryti returns to the pagoda. Still in hybrid form and still extremely battered, she stalks a direct line for Vesnia, though her sword remains sheathed.</p>
+    <p>Vesnia hisses in a breath. She turns to face the approaching werewolf. She puts a hand on her sword but leaves it sheathed. </p>
+    <p>As Bryti returns, severely battered, the general attitude of the Crag in the plaza goes from uncertain and shaky to pure panic.  Shouts of alarm and fear erupt as those of the various civilian bloodlines dash for the security of nearby buildings.  The Aggro, spread to the far parts of the Plaza, collapse inwards.  A number of them actually do draw liths and kuthes, but thus far keep their distance… none of them have any silver.  </p>
+    <p>One, however, actually interposes between the advancing werewolf and her target.  A bow is drawn.  An arrow is knocked, but pointed downward.  Her face is fearful, but resolute.</p>
+    <p>“Neg.” Says Embebi.</p>
+    <p>Bryti stops. She stares Embebi directly in the eyes. Her lip curls as if to snarl, then stops. She raises her head and looks at the panic around her, then back to Embebi.</p>
+    <p>"I mean no harm to any Crag," she says. </p>
+    <p>Embebi swallows hard, but holds fast.  “Then I’ll hold you to that word.” She stays right where she is.</p>
+    <p>Bryti gives Embebi a stare, then nods.</p>
+    <p>"You are resolute in your duty, then. Very well."</p>
+    <p>Bryti lifts her head and looks to Vesnia.</p>
+    <p>"TELL THEM WHAT YOU WERE GOING TO DO TO ME!" She yells loud enough for much of the settlement to hear.</p>
+    <p>"I-I don't know what you're talking about, mad beast!" Vesnia snaps back.</p>
+    <p>"Yes you <i>do!</i>" Bryti counters, "Harvest! The wolf elves were going to <i>harvest me!</i> Tell me, wolf, what does that word <i>mean!?</i>"</p>
+    <p>"I… don't know what she's talking about," Vesnia stammers, off guard. </p>
+    <p>“Right,” Hunger says. “You certainly did not send a ten-score band of elite cavalry straight towards Crag settlements after her. One that the Aggro had to chase out themselves. All in the name of <i>harvesting</i> her, like you do with other elves.” </p>
+    <p>The circle of Aggro draws tighter… but at this point, it’s obvious that it is not only Bryti who has weapons trained on her.  A number of the Aggro, the older and more scarred, have moved to flank the Wolf elves.  Still, distances are maintained.</p>
+    <p>"We don't… <i>harvest</i> elves!" Vesnia snaps, but suddenly realizes that was a mistake.</p>
+    <p>"They are beasts," Vesnia speaks more carefully, "Monsters of the old world. We took their strengths for ourselves, so that we would no longer be dominated by them. Yes, we killed many of them in the process. So what? Is there anyone here who hasn't?"</p>
+    <p>Behind her,  Krassus takes a step back, eyeing the closing ring. He keeps a hand at his belt and his back to Vesnia's.</p>
+    <p>Litoria approaches, still riding Sauver.  Her silversheen weapon is in her hands, but held at a low ready, not making any threat.</p>
+    <p>“Non,” is her quiet reply, “mais, you know that war is <i>over.</i>”  Smilisca is carefully counting people in his vicinity.</p>
+    <p>"<i>That</i> war!" Vesnia replies, "And what about what comes next?"</p>
+    <p>She glances at the Crag beside her.</p>
+    <p>"Jahnni, you were right. There <i>is</i> a time of great change upon us, and if we are not prepared for it we will be <i>swept away.</i>" </p>
+    <p>Jahnni, who has been maintaining a placid expression in spite of her obvious tension, looks between Vesnia and Bryti.  Despite her cool demeanor, she cannot help the flash of fear she feels when beholding the Werewolf.</p>
+    <p>“And if we are not prepared, then it is well and right that we should be.  But preparation can be found in many forms, by many means.  And though none shall truly know what fate awaits, it can be seen by what remains what methods are most successful.” Somehow, she manages to keep her voice level. </p>
+    <p>“We are currently buildin’ what comes next.”  Litoria answers, in a cold tone.  “Weh.  We will know the current of the next war by what we toss downstream.  So let’s hear it, weh.  What are yall building?”</p>
+    <p>"The only thing that will survive," Vesnia speaks through clenched teeth, "An empire." </p>
+    <p>Shyrendora makes herself visible for the first time, a hand resting on the hilt of her sheathed dagger.  "One with your people at the top and in control.  One without pesky leaders like me in the way."</p>
+    <p>Vesnia starts at the sudden appearance of the Domawit, unable to come up with a response before the attack continues.</p>
+    <p>“And the elves that you’ve taken?” Shrike says, her voice soft but carrying to avoid upsetting the nursing infant. “The fight in the badlands, where you were dragging off civilians in the night? Is that to replace your own people who die on suicide missions? Or just to be afflicted shock-troops?”</p>
+    <p>"You're not-" She struggles for words, "You're not prepared for what is to come. <i>None</i> of you. You are not ready to make the decisions that will need to be made. The world that's coming will <i>eat you alive.</i>" </p>
+    <p>“Then what’s coming,” Shadimon says quietly. “If you want elven unity, then <i>tell</i> us. <i>Help</i> us. Don’t <i>order</i> us. Don’t deliberately <i>undermine</i> us.” </p>
+    <p>“So who is prepared?” Fury says, stepping back through the hole in the wall, Lucinia tagging along behind her.</p>
+    <p>"<i>Lock</i> is," Vesnia practically snarls the name, "The dwarves are. The hobgoblins are preparing. Hells, the <i>halflings</i> probably are by now. What is coming is an <i>age</i> of empires, and unless we form our own we will be a <i>footnote</i> to other races. In the age to come, there will only be conquerors and the conquered. Which will <i>you</i> choose?" </p>
+    <p>“I think I’ll choose one that can tell the difference between the two,” Fury says. “One that doesn’t teach their children that ‘civilian’ is a dirty word.” </p>
+    <p>"There will <i>always</i> be a need for soldiers who-" Vesnia starts.</p>
+    <p>"You do not know what that word <i>means</i>," Ehra states with more anger and intensity than anyone present has ever heard, "Do not disgrace it again. A soldier <i>serves</i> their people." </p>
+    <p>“...Seems to me, that begs what you think she’n hers are <i>doing</i> here,” Embebi manages through fear-clenched teeth. “Way I see it, takes some mohs to walk into a roc den like this.  I haven’t seen such a gathering of murderous intent since the Extermination, quiaff?  But, guess’n if you don’t take much to how she <i>serves</i>, then you just don’t care much for her <i>people</i>.  Fair enough.” She grinds out these last words, still staring at the werewolf before her. </p>
+    <p>“Well, given they tricked Tsun into a suicide mission, and tried to kill her when it failed,” Hunger says, “perhaps we’re just a little tired of their tactics.” </p>
+    <p>Embebi starts, caught off guard.  However, in the face of such a dire threat, she has no time to ponder revelations, and so she returns to her defensive stance.  Revelations can be pondered if she lives. Still, her defiance takes a significant knock.</p>
+    <p>"That's a good question though," Shadimon says thoughtfully. "What <i>are</i> they doing here? Other than fostering a rift in your Elpahka. That's obvious." </p>
+    <p>Many of the Crag surrounding the confrontation stiffen.  The Esteemed frowns.  The First, hiding partially behind a table, gives a pained groan and puts his face into his hands.</p>
+    <p>“A Rift.” The Esteemed says, with surprising volume.  “What do you mean by this?”</p>
+    <p>“It’s what they’ve done elsewhere,” Shadimon says with a small bow toward her. “The subverted a fire elf organization, to destabilize the leadership. If I’m hearing correctly about Tsun being a pawn of theirs. They empowered a disgraced dark elf leader to split <i>their</i> people and set them on each other. Admittedly I don’t understand fully how your people work, but,” he gestures toward Jahnni, “this looks like cross-purposes to an outsider.”</p>
+    <p>"No," Vesnia answer with sudden intensity, "That's not what this is! I'm trying to <i>save</i> the Crag!"</p>
+    <p>Krassus glares back at her, but stays silent. </p>
+    <p>While The Esteemed is still clearly peeved at Shadimon, Vesnia’s outburst seems to be of a somewhat greater concern to her.  She quirks an eyebrow, looking directly at the wolf elf.</p>
+    <p>“Save?” she asks, with a tightly controlled calmness. </p>
+    <p>"I-" Vesnia grits her teeth, "Yes. Save. I… I told you, Jahnni. My orders were to learn the wisdom of the Tome. <i>I</i> have learned that this is inseparable from the Crag themselves. My superiors… are skeptical."</p>
+    <p>"<i>Primus,</i>" Krassus growls. </p>
+    <p>Jahnni, in spite of the rising tension, looks calmer than before… indeed, as calm as she has been the whole time.  Very gently, she lights a hand upon Vesnia’s shoulder.</p>
+    <p>“Primus Vesnia.  I wish upon you wisdom.  I wish upon you reason.  I wish upon you freedom from fear, from shame, from the animal within your mind which would destroy you, and all you know.  I wish <span class="magic">Ancestor’s Tranquility Upon-</span>”</p>
+    <p>Jahnni’s hand starts to glow as she reaches towards Vesnia to cast her spell. Vesnia’s eyes go wide.</p>
+    <p>“<i>Don’t-</i>” she almost gets out.</p>
+    <p>“Fuck this!” Krassus snarls. His hand snaps to his belt and he grabs some kind of weapon.</p>
+    <p>“<i>No!</i>” Vesnia shouts.</p>
+    <p>Suddenly, an ice wall erupts betten the wolf elves and the rest of the group, driving a wedge between them and Jahnni. The thick ice provides only a dim view of what’s going on. There is some kind of struggle inside the wall. Krassus screams, followed shortly by Vesnia. Then, there is only silence. </p>
+    <p>Embebi, already on a hair trigger, whirls around to see the dome.  Even before the screaming starts, she’s begun hurling herself toward it... distracting her from the waiting werewolf. Her face is strained with anguish.</p>
+    <p>Jahnni, however, doesn’t even seem perturbed by these events.  She just stares at the ice, hand still raised.</p>
+    <p>Smilisca, however, slowly lowers his webbed hands, letting the crumbled bit of material component fall to the ground quietly. </p>
+    <p>Hunger breaks the silence. “<small>Well, damn,</small>” he mutters to himself. “<small>Suicidal fanatics. Can’t even talk to them.</small>” He glances over to Bryti, who is still standing around in hybrid form, awash in mud, blood, and bruising. “Do you need a healing elixir? Or do you just enjoy standing around, covered in blood?” </p>
+    <p>By the time Embebi reaches the ice, she has her kuthe in her off hand.  She slashes desperately at the barrier, but makes little impact.  Grunting, she begins beating on the ice with her pommel.</p>
+    <p>With a shrug, Smilisca dismisses the ice, leaving behind a dense, cold fog. Not really questioning what or why, Embebi charges in. As the fog swirls around her and slowly dissipates, she takes in the scene in front of her.</p>
+    <p>Krassus is dead. He lies on his back with a look of shock on his face. There is a silver dagger embedded up to the hilt in his neck. He’s still clutching what looks like a modified sunrod, something Embebi recognizes as an alchemical flare the wolf elf scouts use for signaling.</p>
+    <p>Vesnia is next to him. She is on her knees. There is blood in her hands. She appears uninjured. She looks up at Embebi. There is a rune burned onto her forehead that Embebi does not recognize.</p>
+    <p>“Who… are you?” Vesnia mumbles. </p>
+    <p>Embebi drops to her knees.  Hearing a question like that, she begins instinctively searching for head wounds.  “It’s okay.  Calm.  Nullshock.  Probably rang your bell.  Just give it a few.”  She tries to keep her voice even.  She fails.</p>
+    <p>Vesnia flinches at Embebi’s touch, but doesn’t stop her.</p>
+    <p>“I don’t know… I don’t know what happened. Where am I?” She asks as the fog slowly clears. </p>
+    <p>Embebi grits her teeth.  “It’s the Potluck.  And you shouldn’t have been here, but hey, that’s what boldness gets you.  Just… don’t panic.  Calm.  There’s a lot of mad folk about.  Just don’t provoke anything, quiaff?”</p>
+    <p>“Aff,” Vesnia responds, “But… why? Why are they… who am I?” </p>
+    <p>Embebi’s eyes narrow.  “<small>Headdam.  No.</small>” She says quietly.  As the fog clears, a single tear rolls down her cheek.  </p>
+    <p>And that’s when she snatches up her Kuthe and, with a wordless scream, drives it over and over again into Krassus’ corpse. Vesnia scoots back in shock.</p>
+    <p>Baijani slows her rush as the fog clears. She approaches slowly, her hands up, “Embebi, I’m a healer. May I see if I can help?” </p>
+    <p>Embebi whirls upward into a crouch, bloody and shattered kuthe in hand, and a maddened look upon her face.  She screams, “STAY AWAY, YOU-”</p>
+    <p>“<span class="magic">You.</span>“ Jahnni finally finishes.  All of Embebi’s motion leeches away in a second. “...bast-”, she manages, in a strained voice.</p>
+    <p>Jahnni, looming over her with a cold, but not angry, expression, looks at Baijani… then gestures to the Wolf elf.</p>
+    <p>Baijani calmly kneels in front of Vesnia, “I’m a healer. I’m not going to hurt you. Can you tell me your name?” </p>
+    <p>“No,” Vesnia states as she touches the rune on her head and winces, “No… did… did I kill someone?” </p>
+    <p>“I’m afraid you did, but I believe it was self-defense.” Baijani checks her over, and finds no injuries. Aside from the obvious. She glances at Embebi, “We’ve seen this happen before. It’s a...fail-safe, that is placed on operatives in the field. I’m afraid she won’t remember anything.” Back to Vesnia, “I’m sorry, this isn’t something I can heal. Embebi can try to help you, help things make more sense.” </p>
+    <p>Embebi gracefully moves into a sitting crouch.  “...So… there is no cure, I’m waging.  She’s gone.” She speaks clinically, without passion.  It’s kind of creepy. </p>
+    <p>“Gone…?” Vesnia echoes.</p>
+    <p>“Not that I know…” Baijani glances around at the other elves, asking that silent question.</p>
+    <p>“It’s a magical effect,” the dread wizard Smilisca replies.  “It <i>can</i> be canceled, or negated.  Weh, the ocean would, at least temporarily, put the curse on pause, weh.”  He jabs a thumb toward the docks.</p>
+    <p>Embebi doesn’t look relieved.  She doesn’t look anything.  “That’s gratifying to know.  It seems a much preferable option to try.  Otherwise, I’d have offered to Relieve her.”</p>
+    <p>Dust sighs.  “The ocean might put it on hold long enough for us to find out what she wants.”  The idea of using the ocean is clearly not one that he had previously considered, and his eyebrows are extra grumpy.</p>
+    <p>A shadow falls over the seated group. Bryti approaches them with Allophryne beside her. She stares down wordlessly at the wolf elf. Her eyes slowly move from the rune on Vesnia’s head to the fallen Krassus, then to Embebi. She reaches down and traces a few lines over the shocked wolf elf’s face. There is a slight glow. She growls with strain.</p>
+    <p>Allophryne puts a webbed hand on her arm. There is a slight hum. The glow brightens. Bryti places her palm over the rune and the light flares briefly. She draws her hand back. The rune is gone.</p>
+    <p>“Why…” Vesnia blinks, “Why did you…”</p>
+    <p>Without saying another word, Bryti’s hand flashes forward and grabs Vesnia’s upper arm. There is a sound like searing meat. Bryti draws her hand back to reveal a copy of the traitor’s rune branded onto Vesnia’s arm. Bryti leans down and meets her eyes.</p>
+    <p>“Wear that with pride,” she states, “Make me regret this, and I <i>will</i> kill you.”</p>
+    <p>She does not wait for a response. Bryti turns around and stalks back to a table. She grabs a drink and sits down heavily, facing away from the group.</p>
+    <p>“That…” Vesnia winces at the burn on her arm, “That was unexpected.” </p>
+    <p>“Aff.” Embebi deadpans.  “I only counted one deaththreat.”</p>
+    <p>“Huh,” Dust says eloquently.  He stares for a moment, then heads back to the drink table.</p>
+    <p>Vesnia’s eyes dart to the flare as her head clears, then to the rest of the group.</p>
+    <p>“I… remember… <i>hells,</i>” Vesnia hisses through her teeth, “Well, that’s one way to fuck up a mission objective.” </p>
+    <p>“I believe we did not finish that conversation,” The Esteemed says bluntly as she drives her mount forward.  She is looking <i>quite</i> put out by all of this.  “What mission was this, young wolf?”</p>
+    <p>Vesnia appears unable to meet the Esteemed’s eyes.</p>
+    <p>“It was what I could manage,” Vesnia states in a tired voice, “One last chance. My mission was to acquire the knowledge of the Tome, by any means necessary. My superiors were convinced I was taking too long. I began to realize that this objective was impossible. It’s not something I could steal, like a thief in the night.”</p>
+    <p>“I knew it was <i>part</i> of the crag. That… wasn’t something they wanted to hear. They told me that gaining it via infiltration and subterfuge was preferable to violence… so I found an in. Sorry, Embebi.”</p>
+    <p>Embebi Shrugs.</p>
+    <p>“It… was while learning about the crag that I realized that the crag and the Tome are inseparable. That it can’t be just <i>taken…</i> only destroyed by shortsightedness. Perhaps I also learned more about the Path of the crag, and how it exposes the flaws in my own.”</p>
+    <p>“But my superiors did not want to hear it. They told me that I was failing. That it was taking too long, no matter how much progress I was making. They wanted to resort to violence. It would have been a massacre. The only path I could see to complete my mission and save the crag… was to convince them to join us.”</p>
+    <p>“So… I tried. Obviously, I failed. When I managed to make contact with the Wisdom here, I was given one last chance: Infiltrate the potluck and drive a wedge between the Crag and the other elves, or I will have failed. That flare is the signal, if we were captured or killed. There are scouts watching for it. If it was lit, they were to report to the lowlands and summon a task force to come up here and seize the Tome by force.”</p>
+    <p>Vesnia looks at Embebi, “Which is why we have to go <i>now</i> and intercept those scouts. Some of them still trust me. Some of them like the crag, after spending so long here. The others, we can intercept. The flare wasn’t lit. There’s still time.” </p>
+    <p>“So, let’s spend it proper. Attend, stalker, conv, ready.”  Several of the Aggro around her look… well, frankly bamboozled by everything, but word is passed loudly around the plaza.  Aggro with bows and arrows begin to organize into a single unit. </p>
+    <p>“Will you need help?” Hunger says to Embebi, from his position by the tables. </p>
+    <p>Embebi gives him a blank look.  “Dunno.  How’s your aim?” </p>
+    <p>“Decent,” he says. “Terror would probably be better -- if someone can figure out where in the hells she and Breaker went -- but I’ll offer just the same.” </p>
+    <p>“Terror?” Embebi states.  “Big lass, bigger hammer, voice like a cartwreck?”</p>
+    <p>Hunger nods. “Closest person we have to an Echo. Or at least, closest Fire Elf.” </p>
+    <p>“Neg,” she says casually.  “This is a sneaking mission.”</p>
+    <p>She points to one of the Aggro.  “Civvol, arm, stanload.”  Within seconds, The Hunger finds a shortbow and quivver jammed into his arms.</p>
+    <p>“The scouts are used to seeing Embebi and I moving with Crag scouts,” Vesnia explains, “They’ll be expecting that. It would let us get closer. They’ll be expecting Krassus too, though…” </p>
+    <p>“Oh will they?” Hunger says. “Give me just a second.” He starts examining Krassus’ chopped corpse. </p>
+    <p>“I can offer aerial support,” Shadimon says, gesturing back at Dhakamari. “Good aim and good eyes, from high enough up that few can tell us from birds. Could circle wide and see if these scouts are evading.”</p>
+    <p>“Could help if one tries to… run,” Vesnia seems to have trouble with that sentence. She glances at the brand on her arm. </p>
+    <p>Embebi looks at Vesnia’s expression.  She may not feel at the moment, but she can still tell.  She points to another Aggro.  “Attend.  Tripletime.  Go get the goosenets.  The big ones.” Thudding feet disappear into the distance. </p>
+    <p>The Hunger pulls a series of vials from beneath his chiton. “All right,” he says. “We need a Wolf Elf temporarily. Any volunteers to sub in for Krassus?” He glances over to Leafstorm. “Barry?”</p>
+    <p>“Oh, sure, just because I’m the bard, that means I should have to be disguised as someone <i>all the time,</i>” Barry says.</p>
+    <p>Hunger pauses. “...I thought you liked getting into character. You’re an <i>actor</i>.”</p>
+    <p>“Well, yes, but that’s not the poi--” Barry starts.</p>
+    <p>“Oooh! Pick me! Pick me!” Vita says, dashing up from the stacked-high plate of food she’d been hiding behind.</p>
+    <p>“Seriously?” Barry says.</p>
+    <p>Hunger shrugs. “Whatever. Quaff these.” He hands the vials, in sequence, to Vita, who immediately drinks each one.</p>
+    <p>“<i>Seriously?</i>” Barry says again.</p>
+    <p>“You’ve got to keep up, Leafstorm,” Hunger replies.</p>
+    <p>First to change is Vita’s hair; it twists and shifts over her head, molding and reshaping like smoke until finally coalescing into fur and a pair of wolflike ears. Next, her bones twist, pushing her up and rewriting her face, until finally Krassus (or someone at least <i>mostly</i> like him) is standing where Vita had been.</p>
+    <p>Hunger steps closer, and applies a few quick touches of clay and paint around her eyes and nose. “Not my best,” he admits. “But good enough to work from a distance.” </p>
+    <p>“Right,” Vita says. “Who am I supposed to be, anyway?” </p>
+    <p>Hunger points to where the ice dome had been some seconds ago. </p>
+    <p>Embebi glances away from the spectacle back to Vesnia.  “So, anything else?”</p>
+    <p>Vesnia turns to look at Embebi. There is a deep weariness there, combined with loss and confusion. Vesnia doesn’t answer for a couple seconds. Suddenly, she lunges forward… and kisses Embebi right on her stupid little nose.</p>
+    <p>Vesnia stands.</p>
+    <p>“Let’s go.” </p>
+    <p>Embebi just kind of stares blankly, then shrugs.  Standing, she gestures to the assembled Aggro.  “Stalkers, let’s gaaaagghg-”</p>
+    <p>She grits her teeth as several seconds worth of built up emotion slam into her neocortex at full speed.  Her face contorts slightly, but ultimately settles on a wide grin.  That gets wider.  And wider.  And more… predatory.  </p>
+    <p>“<i>Stalkers.  We HUNT.</i>”</p>
+    <p>There is a surprising absence of noise as several dozen Aggro warriors file out of the Plaza, Vesnia and Vita carried along in their wake.</p>
+    <p>At the back of the Plaza, a single Crag goes largely unmoved by the events closer to the center.  Peering at and through the hole left by Echo’s maddened charge, Slabal sighs quietly. </p>
+    <p>Turning to the Fury, she gives the sorceress a level expression.</p>
+    <p>“When Lowlanders meet… Is it always like this?”</p>
+    <p>“It’s really not,” Fury says, glancing between Slabal and Lucinia behind her. “They can be kind of… dramatic… but this is new. I promise. There usually isn’t any fighting. Usually.” </p>
+    <p>Slabal pauses.  “In my very first travel into the Lowlands, I witnessed a woman nearly being decapitated, an Aggro challenge, and… Hrm.  No third thing. Oh well.  Are you certain your appraisal is accurate?”</p>
+    <p>“I am also concerned,” Lucinia says quietly, plucking at her arm.</p>
+    <p>“An abduction,” Slabal states.  “That was the third thing.  It seemed the least dramatic.” </p>
+    <p>“Two of those weren’t violent,” Fury protests. “And the third… well okay, Tsun did kind of challenge Ehra, but it’s not like that wasn’t a forgone conclusion… or like she died… Look, this isn’t normal, I swear!” </p>
+    <p>Slabal gazes at her for a moment, and then back to the ruin that is visible through the still slowly collapsing wall.  She blinks a couple times.  </p>
+    <p>“I do as well, on occasion.  This seems appropriate.  Shit.”</p>
+    <p>“My concern has only increased,” Lucinia states.</p>
+    <p>“...Fine. Then I’ll join you,” Fury says, ignoring Lucinia. “Crap. Cal’s… something. Seven damnations.” </p>
+    <p>Slabal looks back over at Fury.  Her eyebrow raises very slightly.  She then looks back.</p>
+    <p>“...Needs work.”</p>
+    <p class="center">-FIN-</p>
+    <p id="i">Once again, thank you everyone for your continued enthusiasm in keeping this game going! It has grown into something far better than I ever could have hoped!</p>
+    <p id="i">Once again, everyone gets one level up to distribute to a non-central leader of their choice.</p>
+    <p id="i">Vesnia and Embebi's mission is a success. They are able to capture the remaining scouts before they get the message out of Vesnia's treachery. A few of them even decide to join her. The future is uncertain as is what to do with both them and Vesnia, but for now she seems to be willing to join the Crag.</p>
+    <p id="i">The Crag have gained the Aspect <b>Traitor's Band</b>, representing Vensia and the scouts loyal to her.</p>
+    <p id="i">First, though, the Athlon… and some bits and pieces.</p>
+    
+    <h2 id="back2"><a href="">Bits and Pieces</a></h2>
+    <h2 id="back3"><a href="">Open Athlon I</a></h2>
 <?php
 if($_SESSION["YEAR"]<6){
     $_SESSION["YEAR"]=6;
