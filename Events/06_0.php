@@ -342,7 +342,7 @@
     <p>“Then we also appreciate your respect for our ways,” Shine notes in a slightly more serious tone, “For us, the Mystery is as important as the air we breathe.” </p>
     <p>“Then breathe deeply, for this is a Wisdom that our people both embrace… though the times have shown that, perhaps, it is a Wisdom that can stand to be tested, from time to time.” There is a softness to her words. A hopefulness.</p>
     <p>Shine stares at her momentarily. He glances back at Ink. Then, in lieu of an answer, he merely bows his head and steps backwards.</p>
-    <p id="jump"><a href="">Hunger and Shadimon have a ‘brief’ aside.</a></p>
+    <p id="jump"><a href="../Blade/Bonus/9_Bits and Pieces.php#1">Hunger and Shadimon have a ‘brief’ aside.</a></p>
     <p>Litoria spots Bryti over Sauver’s head and points the hippopotamus in that general direction.  It’s easy to clear a path when you have a large animal to do the wading for you. Bryti sees her coming in her direction, and does not move. </p>
     <p>Making up his mind, however, The First seems to choose this as the moment to make his move.  Before Litoria can arrive, he hustles next to Bryti, then hisses a low sentence to her.</p>
     <p>“<i>Seeker</i>.  We… should speak.  Ideally, somewhere less… crowded.” He jerks his head towards an unoccupied table, a little ways away from the general knot of elvenity.</p>
@@ -670,7 +670,7 @@
     <p id="i">The Crag have gained the Aspect <b>Traitor's Band</b>, representing Vensia and the scouts loyal to her.</p>
     <p id="i">First, though, the Athlon… and some bits and pieces.</p>
     
-    <h2 id="back2"><a href="">Bits and Pieces</a></h2>
+    <h2 id="back2"><a href="../Blade/Bonus/9_Bits and Pieces.php">Bits and Pieces</a></h2>
     <h2 id="back3"><a href="">Open Athlon I</a></h2>
 <?php
 if($_SESSION["YEAR"]<6){
