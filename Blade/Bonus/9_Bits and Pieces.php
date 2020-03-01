@@ -54,7 +54,7 @@
     <p>Shadimon looks thoughtful, “That...is a good idea. Ridiculously, the <i>Anarchists</i> are more organized, of the two groups. They might already have actual leadership. I’m lacking in armored enforcers, but blunt intimidation wouldn’t help the ‘tyrant’ impression anyway.” He sighs, “Thank you. I don’t know yet if it’ll work, but it’s much more than I had originally. I also have some ideas to undercut both groups and try to boost a more moderate middle ground, but I need information that I just don’t have. But truly, thank you.” </p>
     <p>The fire elf nods. “Happy to help. It sounds like you’re getting along pretty well, at the very least. They’re paying attention to you.” He pauses. “And watch the leadership of both sides. Especially with the Wolf Elves around.” </p>
     <p>Shadimon smiles a little, “You’ll like our countermeasures, I think.”</p>
-    <p class="center"><a href="#top">-FIN-</a></p>
+    <p class="center"><a href="../../Events/06_0.php#jump">-FIN-</a></p>
     <hr/>
     <h2 id="2">Bryti and First</h2>
     <p>After the general ruckus has calmed down, and it seems apparent that no more errant spell slinging was going to occur, The First finally emerges from the table he was crouched behind.  Scanning the plaza, he notices that the Seeker is currently generally unengaged… and for reasons known only to him, opts to approach with a small frown(or maybe rbf) on his face.  </p>
