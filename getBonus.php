@@ -15,6 +15,9 @@ function getBArray($elf){
             $arr[6] = "Bits and Pieces";
             $arr[7] = "A Man and a Dog";
             $arr[8] = "A Pair of Monsters";
+            $arr[9] = "Bits and Pieces";
+            $arr[10] = "A Relentless Ruckus";
+            $arr[11] = "Open Athlon I";
         break;
         case "Crag":
             $arr[0] = "A Seeker to Eschaton";
@@ -102,6 +105,11 @@ function getBArray($elf){
             $arr[27] = "A New Moon";
             $arr[28] = "An Uncharted Course";
             $arr[29] = "A Choice Made";
+            $arr[30] = "A Wandering River";
+            $arr[31] = "An Asavardian Night";
+            $arr[32] = "A Question of Justice";
+            $arr[33] = "A Difficult Lesson";
+            $arr[34] = "A Complicated Future";
         break;
         case "Winged":
             $arr[0] = "Summer";
