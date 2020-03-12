@@ -391,7 +391,7 @@
     <p>Bryti's plan apparently involves not so much stopping Echo as staying upright and directing the grapple away from other elves. </p>
     <p>Her plan succeeds with flying colors.  And is accompanied by flying colors.  Several decorative vases tumble, spilling their decorative plants, as the two enjoined combatants reach full steam.</p>
     <p>“<b>AAAAAAAAAAAAAAA-</b>” Echo emphasizes, as the two bowl past a gaggle of quickly dodging Samra.  Suddenly, there is nowhere left to go in the Plaza.  And so, with a loud whumpf and a cloud of masonry, Echo pushes the both of them through the border wall.</p>
-    <p id="back"><a href="">Oh, hey.  Even more flying colors. </a></p>
+    <p id="back"><a href="../Blade/Bonus/10_A Relentless Ruckus.php">Oh, hey.  Even more flying colors. </a></p>
     <p>The hippopotamus attempts to follow, but only succeeds in plugging the hole.</p>
     <p>Across the plaza, Shadimon swears violently, thrusts the baby into Baijani’s arms, and flings himself into the air to follow. </p>
     <p>Allophryne stands where he has been literally left in the dust and just quietly sighs.</p>
@@ -671,14 +671,14 @@
     <p id="i">First, though, the Athlon… and some bits and pieces.</p>
     
     <h2 id="back2"><a href="../Blade/Bonus/9_Bits and Pieces.php">Bits and Pieces</a></h2>
-    <h2 id="back3"><a href="">Open Athlon I</a></h2>
+    <h2 id="back3"><a href="../Blade/Bonus/11_Open Athlon I.php">Open Athlon I</a></h2>
 <?php
 if($_SESSION["YEAR"]<6){
     $_SESSION["YEAR"]=6;
 }
 include "../footer.php";
 echo getarrows(null,null);
-#settarget("Blade",null,null,6);
+settarget("Blade",null,null,11);
 echo goback();
 setlast("Events/06_0.php");
 ?>
