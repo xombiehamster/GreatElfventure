@@ -305,7 +305,7 @@
 <p>Finally, you manage to jar yourself into motion, giving three soft raps on the door.  Almost instantly, you can hear a commotion on the other side; it sounds like someone slamming a desk drawer shut.  Moments later, a voice keens through the door.</p>
 
 <p id="First"><i>“Yes? Who is it?”</i></p>
-<pid="Drivel">“Err… Uh…” </p>
+<p id="Drivel">“Err… Uh…” </p>
 <p>Oh, good.  Real smooth.</p>
 
 <p id="First">“<i>Drivel?  Is that you?  What do you want?</i>”</p>
@@ -377,7 +377,7 @@
     <p id="cline">ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc</p>    
 </div>
 <h2>Skill Usage</h2>
-<p><b>Economic:</b> <i>The lessons of the past, the demands of the future, and the numerous messages of the present all paint a unified picture; though the Crag have managed to survive the Extermination, and rid the land of their greatest foe, there is no shortage of twisted souls who would eagerly wield violence to meet their ends.  The fact that some of these souls are Crag does not escape the Layer.  This fact, and these recent events, have motivated her decisions about where next to dedicate her efforts, and those of the Onagi; the crumbling walls and ruined towers of Eschaton must be built anew, the great Stone Gates must be recast, and even the aging weapons and equipment that find use in the hands of youths in The Great Circle must be tended to.  It is all well and good that a people may survive, but to thrive, they must honor those who stand to protect them… even if that protection must come at another’s expense.<i></p>
+<p><b>Economic:</b> <i>The lessons of the past, the demands of the future, and the numerous messages of the present all paint a unified picture; though the Crag have managed to survive the Extermination, and rid the land of their greatest foe, there is no shortage of twisted souls who would eagerly wield violence to meet their ends.  The fact that some of these souls are Crag does not escape the Layer.  This fact, and these recent events, have motivated her decisions about where next to dedicate her efforts, and those of the Onagi; the crumbling walls and ruined towers of Eschaton must be built anew, the great Stone Gates must be recast, and even the aging weapons and equipment that find use in the hands of youths in The Great Circle must be tended to.  It is all well and good that a people may survive, but to thrive, they must honor those who stand to protect them… even if that protection must come at another’s expense.</i></p>
 <p>Attempting to use the <b>Infrastructure(Enrichment)</b> Skill to replace the aspect Cast the First Stone: Physiological with Cast the Second Stone: Safety on Eschaton.  Building upon their previous efforts, the Onagi once again call upon the Samra to aid in this endeavor, banking on the recuperation and renewal that they have benefitted from thanks to the Onagi’s prior endeavors.  Once again, these strong hands are pivotal in breaking, reshaping, and resurrecting the ancient fortifications; their efforts are Invoked from Cast the First Stone, providing an Upgrade to this check.</p>
 
 <p><b>Political:</b> <i>The Esteemed is ill at ease.  Few of the Elpahka truly understand what it is, exactly, that has her in such a state, but the instructions that she provides are clear.  While few would think it possible that Lowlanders, or other outsiders, could find a way among the Crag people, her advice is simple; better certain than sorrowful.  As such, the Elpahka once again go among the people… but this time, with a keen eye for those who may not be the people.  </i></p>
@@ -390,7 +390,7 @@
 <p>Attempting to use the <b>Mysticism(Creation)</b> Skill to create the technology Lowland Strains(Protatotype)... again, shockingly.  In fact, the fact that this project sees such little interference, meddling, and demands for progress is reminiscent of the slow, methodical pacing to which the Heads are actually accustomed.  As per the progress made last season, this check receives a Boost Die.  Additionally, spending a Fate Point, the Heads  Invoke Our Legacy is Set in Stone, providing an upgrade to this check, hoping to take this opportunity to conclusively prove that slow progress, is still progress.</p>
 
 
-<p>Results-</p>
+<h2>Results</h2>
 <p><b>Economic-</b> It seems that Slabal is not the only one concerned about safety. Rumors of the growing conflict far to the south have started to spread. Under normal circumstances, the news of a lowlander war many hundreds of miles away would be of no concern to the Crag, but it seems that they are feeling both more connected and more vulnerable than they ever have in the past. Many see it as a question of when not if Eschaton's location is revealed to the world. Slabal finds herself granted far more leeway, resources, and support than she was expecting.</p>
 
 <p>Once again, Slabal delivers on time and under budget. The Aspect Cast the Second Stone: Safety has been applied to Eschaton. Sturdy solid walls surround the settlement. Towers provide layered defenses in narrow passes according to centuries old battle plans. Gates are reinforced, emergency weapons are refreshed, and defensive plans are reviewed and adjusted. Eschaton is defensible once again, a fact that brings great comfort to the Crag.</p>
@@ -405,7 +405,7 @@
 
 <p>Ledret finds herself riding Miigra on the outskirts of Eschaton alone on a clear day. She has been asking some of the older stones at the very edges of Eschaton's territory what they have seen, some which have not been listened to in many years.</p>
 
-<p><i>I saw an animal I have not seen before, one of them speaks to her, it was strange, four legged, wide paws, heavy fur, and sharp of fang. It placed a paw upon me, stood still for some time, then turned around and left.</i> It takes some coaxing (rocks aren't the best at animal identification) but Ledret eventually figures it out.</p>
+<p><i>I saw an animal I have not seen before,</i> one of them speaks to her, <i>it was strange, four legged, wide paws, heavy fur, and sharp of fang. It placed a paw upon me, stood still for some time, then turned around and left.</i> It takes some coaxing (rocks aren't the best at animal identification) but Ledret eventually figures it out.</p>
 
 <p>This stone was touched by a wolf.</p>
 
@@ -452,7 +452,7 @@
 
 <?php
     include '../../settarget.php'; 
-    settarget("Crag",10,null,1);
+    settarget("Crag",10,null,null);
     include '../footer.php';
     echo getarrows("02_4_Crag.php","03_2_Crag.php");
     setlast("Year/03_1_Crag.php");?>
