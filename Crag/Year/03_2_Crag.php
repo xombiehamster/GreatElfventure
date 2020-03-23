@@ -37,7 +37,7 @@
 <p id="First">“Indeed, you have served admirably.  And, Ancestors willing, you will continue to do so.  While this shows significant improvement, now efforts must be made to see if this development can be paired with the ones I made last year;  While I have no doubt that these will take to artificial soil as easily as natural, there is only one way to be certain.</p>
 <p id="First">Drivel, as you have performed so well on this project, I’d like you to take charge of another.  As I’m sure you are aware, the outpost of Eparchy is currently reliant on shipments of food and forage from Eschaton… it was my hope that a newly designed strain as this, paired with my aforementioned loam, could serve to make that outpost, and potential future ones, far more self-sustaining.  As we now have both Earth and Root, it would seem that there is no time like the present to begin some practical experiments!  As you have made yourself familiar with the strengths of the various Heads of Studies, I’ll leave it to you to decide who may serve in that capacity best.  I’m certain the promise of such amazing new discoveries will trump any concerns they may have about the… humble conditions present at the outpost.  After all, what True Scholar would balk at any hardship if the promise of Knowledge is present?”</p>
 <p>You struggle to keep your grin warm, and not vicious, as you look into his face.  You can see the exhaustion and despair there, but again, you cannot help but admire how he keeps them in check.  He is silent for a moment, then finally responds.  </p>
-<p>“...Of course, First Among Scholars.  I relish the opportunity.  I will make the arrangements as soon as possible.”</p>
+<p id="Drivel">“...Of course, First Among Scholars.  I relish the opportunity.  I will make the arrangements as soon as possible.”</p>
 <p>...Now you struggle to keep your grin at all.  You had expected him to protest, or at least ask for some advice, but instead he just sounds… defeated.  Hrm.</p>
 <p>...Something about that twinges in the back of your head.  A long distant memory.  A memory of when you, yourself, took such a defeated tone.  To Sivens.</p>
 <p>...Shit.  Are you feeling <i>bad</i> for Drivel?</p>
@@ -150,7 +150,7 @@
 <p>A complication rests heavily on this check, however; The main source through which his knowledge is gained is none other than The Fire Elves, and in particular, their chief intellectual, The Hunger.  It may be conceivable that he has his own plans in mind for what the Crag should know, especially as the probing nature of the questions becomes more clear....</p>
 
 <p>End of Turn </p>
-<p>Results-</p>
+<h2>Results</h2>
 <p><b>Economic-</b> You have successfully replaced the Second stone with the Third, that of Belonging. Slabal continues to earn her reputation, and she is quickly becoming a central figure in the story of the restoration of the Crag. She has seen to it that the Crag have what they need to restore their bodies, and now she sees to it that they have what they need to restore their souls.</p>
 
 <p>Speaking of Belonging, that was something sorely needed this season. The Aggro have been restless and directionless for some time. Now, it finally feels like they are doing what they were supposed to do from the beginning: Protect the other bloodlines. Aggro morale improves in general.</p>
