@@ -39,7 +39,7 @@
 <p>...Just thinking it isn’t enough.</p>
 <p id="Embebi">“Crap.”</p>
 <p id="Embebi">“Crap crap crap crap crap.  Crap! Crapcrap! Crapping, crappy, crapped on cra-”</p>
-<p>“It would appear that I have come at a poor time.”</p>
+<p id="Esteemed">“It would appear that I have come at a poor time.”</p>
 <p>...shiiiiiit.</p>
 <hr>
 <p>The air is as sweet as the young Aggro’s language is foul.  There’s a curious wisdom to that.  </p>
@@ -162,12 +162,12 @@
 <p> The wealth of Eparchy’s veins was actually a surprise to you as well… it seemed the Bakshish who documented the site’s wealth did not exaggerate as much as you had suspected.  You should probably thank the First for that, when you go to speak to him later.  </p>
 
 <p id="Slabal">“Indeed.  In truth, it is that wealth that has advanced our timetable somewhat.  The amount currently produced well exceeds our promised tribute to the Swords, and now much of the material lays fallow.  This is of little concern, but as it gives me opportunity to advance my plans ahead of schedule, I can see little reason to delay… although, perhaps, that may be where wisdom lies.</p>
-<p>Ledret, I have not confided this yet, but I had planned for Eparchy to become more than just a mining outpost.  Indeed, it’s position above the Stream of Consciousness, and it’s proximity to areas that have already been visited by Lo- Otherelves gives allows it to function in a much more important capacity.”</p>
+<p id="Slabal">Ledret, I have not confided this yet, but I had planned for Eparchy to become more than just a mining outpost.  Indeed, it’s position above the Stream of Consciousness, and it’s proximity to areas that have already been visited by Lo- Otherelves gives allows it to function in a much more important capacity.”</p>
 <p>Ledret says nothing, but the quirk of her lips has decidedly abandoned the potential smile.  Oh well.</p>
 
 <p id="Slabal">“As you have mentioned in the past, Ledret, it is simply a matter of time before Otherelf curiosities lead them to seek out our home.  Even having traveled among them… or perhaps, because of that… even I still find such an outcome to be… disturbing.  Nowhere was that made more clear than with the incident we narrowly avoided with the Rivers.  Thus, my reasoning is as so: if we are likely to have Otherelf visitors regardless, why not act proactively in that regard?</p>
-<p>In summary, it is my intention to form Eparchy into a… a lure, of sorts.  A place intended, and designed, for the Otherelves to come into, and perhaps even remain inside of for a time.  By openly providing such a place, we will quell curiosities, allowing us more time before they identify our true home.  In addition, the new bounty of Eparchy will allow us to offer further enticement, as we can provide goods, both raw, refined, and crafted, so as to keep their attention focused entirely there.  </p>
-<p>However, my concern is this; I had intended for this to occur some time within the next several decades, after the Otherelves had already become somewhat settled with the conclusion of the conflict.  I had believed it would take that long for Eparchy to become sufficiently bountiful as to support my plans.  I have not fully considered the consequences of acting more swiftly… but as far, I can see no threat to doing so.  Can you, Ledret?”</p>
+<p id="Slabal">In summary, it is my intention to form Eparchy into a… a lure, of sorts.  A place intended, and designed, for the Otherelves to come into, and perhaps even remain inside of for a time.  By openly providing such a place, we will quell curiosities, allowing us more time before they identify our true home.  In addition, the new bounty of Eparchy will allow us to offer further enticement, as we can provide goods, both raw, refined, and crafted, so as to keep their attention focused entirely there.  </p>
+<p id="Slabal">However, my concern is this; I had intended for this to occur some time within the next several decades, after the Otherelves had already become somewhat settled with the conclusion of the conflict.  I had believed it would take that long for Eparchy to become sufficiently bountiful as to support my plans.  I have not fully considered the consequences of acting more swiftly… but as far, I can see no threat to doing so.  Can you, Ledret?”</p>
 
 <p>You use all of your powers of observation to attempt to parse the expression on Ledret’s face.  Unfortunately, as you feared she might, she has adopted her completely placid look; all that you can tell from that is that she is feeling <i>something</i>, and yet does not wish to show it.  Again, appearances.  This circumstance is wholly frustrating.</p>
 
@@ -178,7 +178,7 @@
 <p>It takes you a while to parse all the nested beliefs in Ledret’s response.  You think she’s saying she approves?</p>
 
 <p id="Esteemed">“With that being said, I must admit that the prospect you present does concern me… not in its wisdom, but rather its unknowns.  The accounts I have heard of the Lowland- the Otherelves is… mixed.  In truth, I cannot even truly expound upon the wisdom of attracting them so close to Eschaton, for there is so much unknown about them.</p>
-<p>...But, the Unknown is what seems to define our times.  And I <i>believe</i> the time for being wary of the Unknown, simply because it is Unknown, is passed.  By all means, Slabal, I encourage you along this path.  I am eager to hear what the results may be.”</p>
+<p id="Esteemed"> ...But, the Unknown is what seems to define our times.  And I <i>believe</i> the time for being wary of the Unknown, simply because it is Unknown, is passed.  By all means, Slabal, I encourage you along this path.  I am eager to hear what the results may be.”</p>
 
 <p>Well.  You honestly didn’t anticipate a response that positive.  The Esteemed has seemed to be in better spirits overall for the last several weeks, however.  Perhaps whatever was settling heavily upon her has truly lifted.  </p>
 <p>Unfortunately, that wholehearted acceptance has only made you more uncertain about the wisdom of this plan.  For all the wisdom you know that the Esteemed possesses, you know that she can become… overly optimistic seems a good way to put it.  However, in spite of this, you can see little logic in arresting your plans for Eparchy just because the Esteemed is in good cheer about it.  Very well.</p>
@@ -236,7 +236,7 @@
 
 <p id="First">“Ah, it warms my heart to hear that I, ehem, of course, <i>we</i> Bakshish could be of such assistance to the noble Onagi.  And if that find gratifies you, I actually have more delightful news; after conclusively reviewing the results, we have determined that our expedition yielded another incredible find!”</p>
 <p>She raises an eyebrow, ever unflappable.  Amazing.  Such composure.</p>
-< id="First"p>“It would seem that, to our north, a crater exists that is lined with a mysterious, difficult to understand substance that the ancient learnings have dubbed ‘noqual’... likely for it’s curious lack of any magical qualities!  Rather than just being arcanically neutral- as is, say, iron, or common stone- this substance actually absorbs, traps, and <i>dismisses</i> arcanic energies.  The applications of such a substance on that merit alone are innumerable… and that is without mentioning its unique combination of malleability, hardness, and density.  Light, but as workable as iron, it could be a fantastic substance for Eschaton’s industrial use!”</p>
+<p id="First"p>“It would seem that, to our north, a crater exists that is lined with a mysterious, difficult to understand substance that the ancient learnings have dubbed ‘noqual’... likely for it’s curious lack of any magical qualities!  Rather than just being arcanically neutral- as is, say, iron, or common stone- this substance actually absorbs, traps, and <i>dismisses</i> arcanic energies.  The applications of such a substance on that merit alone are innumerable… and that is without mentioning its unique combination of malleability, hardness, and density.  Light, but as workable as iron, it could be a fantastic substance for Eschaton’s industrial use!”</p>
 <p>The eyebrow lowers, and a distant look crosses her face.</p>
 <p id="Slabal">“Interesting.  Such a substance would have numerous possible applications.  But given how long it has taken to understand this substance, I would assume that it is difficult to isolate and obtain?”</p>
 <p>You twirl your hand dismissively.</p>
@@ -315,7 +315,8 @@
 <p>You sniff, indignantly.  </p>
 <p id="First">“I wouldn’t expect that you’d need to ask that.  As I recall, you yourself have seen how I can handle myself in unfamiliar terrain.”</p>
 <p id="Embebi">“All well and good! So, obvious solution; you can just go <i>with</i> the Euclast into the Lowlands.  Wherever they’re going, I’m sure that it’ll be a simple matter to get to your celebration once down there; plenty of those Lowlanders seem friendly sorts, like as much to give you a trail to follow alongside.”</p>
-<p>A chill runs through your stomach, and a sick feeling settles in your spine.   “...Are you suggesting that I <i>march</i>? With an Aggro War Column?  Heading towards even-ancestors-don’t-know-where?”</p>
+<p>A chill runs through your stomach, and a sick feeling settles inyour spine.   </p>
+<p id="First">“...Are you suggesting that I <i>march</i>? With an Aggro War Column?  Heading towards even-ancestors-don’t-know-where?”</p>
 <p>She shrugs, flippantly. </p>
 <p id="Embebi">“Truth told, it’s either that, or you try to find your own way, First.  I might like you, but my Word is solid as granite; Every remaining Aggro will have one and only task, and that is to protect Eschaton.  No matter how you reason or cajole, I will not bend on this.  That said, given your determination?  I’d actually give you even odds if you just decided to point yourself towards your destination, and ancestors help whatever beasts or Lowlanders got in your way.”</p>
 <p>You feel like you should be far more furious at her being so casual about your iron will, but for some reason, you can’t help but feel a little disarmed.  Truth is, upon consideration… the prospect of travelling once more with the Aggro is not <i>entirely</i> appalling.  After all, hard as it may have been, the endeavor was not entirely exhausting; you may be Bakshish, but the gifts of the Path are present even within your scholarly bloodline.  And Embebi’s logic, though you hesitate (but only a little) to call it that, is sound;  Eschaton <i>must</i> be defended, and if you <i>must</i> get to the potluck, then the only sensible option is to go with the reason that Eschaton has to be concerned with defense.  </p>
@@ -380,7 +381,7 @@
 <p>Attempting to use <b>Mysticism(Magic)</b> to develop, or at least begin to develop, a singular or series of ritual(s) which allows barren locations, such as Eparchy, where they currently experiment, to carry viable soil, capable of growing, among other things, the engineered protatotype.  With sufficient development, this new Mountain Loam could become a pivotal part of Crag re-expansion across the mountain peaks. </p>
 
 <p>End of Turn </p>
-<p>Results-</p>
+<h2>Results-</h2>
 <p><b>Economic-</b> Slabal has genuinely outdone herself this time. Apparently, this was her chance to really show what she is capable of. Eschaton is now a marvel, a testament to the skill of the Onagi and the dedication of one Slabal. It is a sight that would put the finest dwarven architects in awe, a work of art on par with the finest works of stonemasonry in the world. It is a monument to the unique abilities of the Crag, and indeed has wonders that would be outright impossible for other cultures to build. Eschaton has risen anew from the rubble, born again, and her wonders are perhaps greater than ever they were before.</p>
 
 <p>Also with Slabal being Slabal, it’s exceedingly practical.</p>
