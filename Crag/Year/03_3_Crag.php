@@ -405,7 +405,7 @@
 
 <?php
     include '../../settarget.php'; 
-    settarget("Crag",12,null,1);
+    settarget("Crag",12,null,null);
     include '../footer.php';
     echo getarrows("03_2_Crag.php","03_4_Crag.php");
     setlast("Year/03_3_Crag.php");?>

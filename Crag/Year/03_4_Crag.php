@@ -403,7 +403,7 @@
 <p>This produces results, but not exactly encouraging ones. The Elpahka find brief snippets of information. Like the brief glimpse of a wolf that the Esteemed got a few seasons ago, they are incomplete information that cannot be acted on, but make everyone nervous. Sandaled footfalls here, wolf prints there, the clink of metal… All telling signs of lowlanders, but no real proof.</p>
 
 <p>On the upside, it’s not just Ledret this time. Others find signs as well. In the end, nothing seriously bad happens, but the only information found just puts the Elpahka more on edge... </p>
-
+<h3 id="jump">Roleplay Event 3.4: <a href="../Bonus/2_A Game of Hide and Seek.php">A Game of Hide and Seek</a></h3>
 <p><b>Military-</b> Coyote War- The Battle of Riverhaven was a stunning success and a decisive victory. Coyote will no longer threaten you or your allies.</p>
 
 <p>The combined force of dreamdust elves, Vaquero elves, fire elves, winged elves, and Machakw win a decisive victory in defense of the city against a larger enemy force. The Terror’s excellent defensive plan, as well as outstanding leadership by allied commanders, and a little bit of luck (and a lot of bagpipes) allowed for the victory.</p>
@@ -554,10 +554,11 @@
 <p>In recognition of the rebuilt Eschaton and all the advancements in infrastructure brought with it, the gained skill point is distributed into Development.  </p>
 <p><i>But while Eschaton was reborn under the guidance of The Layre, another of Eschaton’s titled sought another rebirth.  Thrusting himself into the madness of the Lowlands, debasing himself, humbling himself, and ultimately, risking his own life to prove his worth, Echo of Blood has guided many of the Aggro through a similar reincarnation.  The Lessons of the Coyote War, to the Crag, are largely lessons that most other Lowlanders had already earned from untold centuries of life within their chaotic realm, but these were lessons sorely needed by the Aggro.  Through trial and tutelage, they have attained a strength thought lost to them; the strength to Change.</i></p>
 <p>For the Crag, the Lessons of the Coyote War are ones of learning and self-improvement; it confers a permanent upgrade to their Military Science Skill. </p>
-
+<h3><a href="../../Events/04_0.php">The Elves Gather for Their Annual Potluck</a></h3>
 <?php
     include '../../settarget.php'; 
-    settarget("Crag",13,null,1);
+    settarget("Crag",13,null,2);
+    if($_SESSION["YEAR"]<4){$_SESSION["YEAR"]=4;}
     include '../footer.php';
     echo getarrows("03_3_Crag.php","04_1_Crag.php");
     setlast("Year/03_4_Crag.php");?>
