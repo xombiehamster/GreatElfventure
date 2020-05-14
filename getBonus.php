@@ -22,7 +22,8 @@ function getBArray($elf){
         case "Crag":
             $arr[0] = "A Seeker to Eschaton";
             $arr[1] = "A Hunter's Prey";
-            $arr[2] = "A Game of Hide and Seek";
+            $arr[2] = "A Soldier and a Warrior";
+            $arr[3] = "A Game of Hide and Seek";
             $arr[19] = "A Rocky Shore";
             $arr[25] = "A Dependable Blade";
             $arr[26] = "A Safe Fortress";
