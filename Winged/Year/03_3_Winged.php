@@ -147,9 +147,9 @@
 
     <?php
         include '../../settarget.php'; 
-        settarget("Winged",12,null,null);
+        settarget("Winged",12,null,26);
         include '../footer.php';
-        echo getflapstory(null,"../Bonus/????.php");
+       // echo getflapstory(null,"../Bonus/????.php");
         echo getarrows("03_2_Winged.php","03_4_Winged.php");
         setlast("Year/03_3_Winged.php");
     ?>

@@ -110,7 +110,7 @@
       <?php
     #Update bonus sequence
     include '../../settarget.php'; 
-    settarget("Winged",null,null,12);
+    settarget("Winged",null,null,23);
     #Footer content
     include '../footer.php';
     echo getarrows("../Year/03_2_Winged.php#3","../Year/03_2_Winged.php#3");
