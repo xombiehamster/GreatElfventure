@@ -144,7 +144,7 @@ function getBArray($elf){
             $arr[27] = "Plan What Plan";
             $arr[28] = "A Scholarly Pursuit";
             $arr[29] = "Make Ready";
-            $arr[22] = "A Dark Secret";
+            $arr[30] = "A Dark Secret";
         break;
     }
     return $arr;
