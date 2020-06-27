@@ -27,43 +27,45 @@
         </tr>
         <tr>
             <th>Parager</th>
-            <td>(-14,-17)</td>
-            <td>Rock River</td>
+            <td>(-18,-17)</td>
+            <td>Asavardi</td>
         </tr>
         <tr>
             <th>Arpenter</th>
-            <td>(-20,14)</td>
-            <td>Marraine River</td>
+            <td>(-27,17)</td>
+            <td>Elfwatch</td>
         </tr>
         <tr>
             <th>Envoyer</th>
-            <td>(-2,3)</td>
-            <td>Winter Quarters</td>
+            <td>(11,3)</td>
+            <td>Chanceuse River</td>
         </tr>
     </table>
     <p>placeholder</p>
+    <h3 id="back">Roleplay Event 6.2.1: <a href="../Bonus/?_A Question of Justice.php">A Question of Justice</a></h3>
+    <h3 id="back">Roleplay Event 6.2.2: <a href="../Bonus/?_A Complicated Future.php">A Complicated Future</a></h3>
     <p><b>Economic:</b> placeholder</p>
+    <p><b>Economic - motivated:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
 	<p><b>Military: </b>placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <h3 id="back">Boxraft Children 5.2.1: <a href="../Bonus/21_A Shady Stowaway.php">A Shady Stowaway</a></h3>
+    <h3 id="back">Boxraft Children 6.2.3: <a href="../Bonus/?_A Difficult Lesson.php">A Difficult Lesson</a></h3>
     <p><b>Character:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
-    <h3 id="back2">Boxraft Children 5.2.2: <a href="../Bonus/22_A Dependable Blade.php">A Dependable Blade</a></h3>
-    <p><b>Misc:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
+    <h3>Feathernet</h3>
+    <p>placeholder</p>
     <h2>Results</h2>
-    <p><b>Economic:</b>placeholder</p>
+    <p><b>Economic - Gather Hippos:</b>placeholder</p>
+    <p><b>Special:</b> placeholder</p>
+    <p><b>Dark Elf Trade Agreement:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
-    <p><b>Military:</b>  placeholder</p>
-    <p><b>Mental:</b> placeholder</p>
-    <h4><b>Dilemma:</b> placeholder</h4>
-    <p><b>Status:</b> placeholder</p>
+    <p><b>Military - Scouts:</b>  placeholder</p>
+    <p><b>Mental - Building Codes:</b> placeholder</p>
+    <h3 id="back">Boxraft Children 6.2.4: <a href="../Bonus/?_A Rescued Stray.php">A Rescued Stray</a></h3>
+    <p>placeholder</p>
     <h3>Feathernet:</h3>
-    <p><b>Military Reaction:</b> placeholder</p>
-    <h3>Battle Summary</h3>
-    <p><b>Battle of Crag Marsh:</b> placeholder</p>
-    <p><b>Unit Report:</b> placeholder</p>
+    <p>placeholder</p>
     
     <?php
         include '../../settarget.php'; 

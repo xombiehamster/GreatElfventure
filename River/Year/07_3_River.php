@@ -6,12 +6,12 @@
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <link rel="stylesheet" type="text/css" href="../River.css">
     <title>
-        River Elf Year 6 - Spring
+        River Elf Year 7 - Winter
     </title>
 </head>
 
 <body>
-    <h1>Year 6 - Spring</h1>
+    <h1>Year 7 - Winter</h1>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -22,14 +22,13 @@
         </tr>
         <tr>
             <th>Fate Points</th>
-            <td>1/3 Refresh</td>
+            <td>2/3 Refresh</td>
             <td>0 Bonus</td>
         </tr>
         <tr>
             <th>Parager</th>
-            <td>(-11,12)</td>
-            <td>Gerdr</td>
-            <td><i>Besieged</i></td>
+            <td>(-2,3)</td>
+            <td>Winter Quarters</td>
         </tr>
         <tr>
             <th>Arpenter</th>
@@ -47,34 +46,26 @@
             <td>Winter Quarters</td>
         </tr>
     </table>
-    <p> placeholder</p>
-    <p><b>Economic (motivated):</b> placeholder</p>
+    <p>Placeholder</p>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
-    <p><b>Military: </b>placeholder</p>
-    <p><b>Military (motivated): </b>placeholder</p>
+    <p><b>Element:</b> placeholder</p>
+    <p><b>Military: </b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <p><b>Character:</b> placeholder</p>
+    <h3 id="back1">Roleplay Event 7.3.1: <a href="../Bonus/?_A Little Shade.php">A Little Shade</a></h3>
+    <h3 id="back2">Boxraft Children 7.3.2: <a href="../Bonus/?_A Family Trip.php">A Family Trip</a></h3>
     <h2>Results</h2>
-    <p>placeholder</p>
-    <p><b>Economic - Winter Quarters:</b> placeholder</p>
-    <p><b>Economic - Ankkh:</b> placeholder</p>
-    <p><b>Political - Cloak and Dagger:</b>placeholder</p>
-    <h3 id="back3">Roleplay Event 6.4: <a href="../Bonus/?_A Dubious Narrative.php">A Dubious Narrative</a></h3>
-    <p><b>Recruiting:</b> placeholder</p>
-    <p><b>Military - Gerdr/Amie Navire/Partager</b> placeholder</p>
+    <p><b>Economic:</b> placeholder</p>
+    <p><b>Political:</b> placeholder</p>
+    <p><b>Element:</b> placeholder</p>
+    <p><b>Military: </b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <p><b>Winged Mail Delivery:</b> placeholder</p>
-    <p><b>Vaqueros:</b> placeholder</p>
-    <h3><a href="../../Events/07_0.php">The Elves Gather for Their Annual Potluck</a></h3>
+        
     <?php
         include '../../settarget.php'; 
-        settarget("River",26,null,null);
-        if($_SESSION["YEAR"]<7){
-            $_SESSION["YEAR"] = 7;
-        }
+        settarget("River",29,null,27);
         include '../footer.php';
-        echo getarrows("06_3_River.php","07_1_River.php");
-        setlast("Year/06_1_River.php");
+        echo getarrows("07_2_River.php","07_4_River.php");
+        setlast("Year/07_3_River.php");
     ?>
 </body>

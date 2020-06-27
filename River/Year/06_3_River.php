@@ -41,28 +41,21 @@
             <td>Winter Quarters</td>
         </tr>
     </table>
-    <h3 id="back">Boxraft Children 5.3.1: <a href="../Bonus/23_A Strange Friend.php">A Strange Friend</a></h3>
     <p>Placeholder</p>
-    <h3 id="back2">Roleplay Event 5.3.2: <a href="../Bonus/24_A Second Chance.php">A Second Chance</a></h3>
+    <p><b>Character:</b> placeholder</p>
     <p><b>Economic:</b> placeholder</p>
+    <p><b>Economic - Elf Prime:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
     <p><b>Element:</b> placeholder</p>
     <p><b>Military: </b> placeholder</p>
+    <h3 id="back1">Roleplay Event  6.3.1: <a href="../Bonus/?_A Warmaster and a Soldier.php">A Warmaster and a Soldier</a></h3>
     <p><b>Mental:</b> placeholder</p>
-    <h3 id="back3">Boxraft Children  5.3.3: <a href="../Bonus/26_A Safe Fortress.php">A Safe Fortress</a></h3>
-    <p><b>Character:</b> placeholder</p>
-    <p><b>Character:</b> placeholder</p>
-    <p><b>Character:</b> placeholder</p>
     <h2>Results</h2>
-    <p>Combining <b>Event</b> and <b>Political</b> into one: placeholder</p>
-    <h4><b>Dilemma:</b> Just around the river bend</h4>
-    <p><b>New Era:</b> <i>placeholder</i></p>
-    <p><b>Status:</b> placeholder</p>
-    <h3 id="back2">Roleplay Event 5.3.4: <a href="../Bonus/27_A New Moon.php">A New Moon</a></h3>
-    <p><b>Economic:</b> placeholder</p>
-    <p><b>Military:</b> placeholder</p>
-    <p><b>Mental:</b> placeholder</p>
-    <p>placeholder</p>
+    <p><b>Gerdr:</b> placeholder</p>
+    <p><b>Winter Quarters:</b> placeholder</p>
+    <p><b>Amie Navire:</b> placeholder</p>
+    <h3 id="back2">Boxraft Children 6.3.2: <a href="../Bonus/?_A Just Punishment.php">A Just Punishment</a></h3>
+    <p><b>Misc Summary:</b> placeholder</p>
         
     <?php
         include '../../settarget.php'; 

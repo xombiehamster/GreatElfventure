@@ -12,7 +12,9 @@
 
 <body>
     <h1>Year 6 - Summer</h1>
-    <h2>Roleplay Event 6.0: <a href="../../Events/06_0.php">A Potluck with a View</a></h2>
+    <h2>Roleplay Event 6.0: <a href="../../Events/06_0.php">A Precipitous Potluck</a></h2>
+    <h3>Roleplay Event 6.0: <a href="../../Blade/Bonus/9_Bits and Pieces.php">Bits and Pieces</a></h3>
+    <h3>Roleplay Event 6.0: <a href="../../Blade/Bonus/11_Open Athlon I.php">Open Athlon I</a></h3>
     <table style="width:100%">
         <tr>
             <th>Stress</th>
@@ -29,34 +31,38 @@
         <tr>
             <th>Parager</th>
             <td>(-12,-8)</td>
-            <td>Burning Wolf River</td>
+            <td>Oarsman's Rest</td>
         </tr>
         <tr>
             <th>Arpenter</th>
-            <td>(-21,-7)</td>
+            <td>(-22,15)</td>
             <td>Marraine River</td>
         </tr>
         <tr>
             <th>Envoyer</th>
-            <td>(-2,3)</td>
-            <td>Winter Quarters</td>
+            <td>(10,1)</td>
+            <td>Eparchy</td>
         </tr>
     </table>
     <p>placeholder</p>
-    <h3 id="back">Boxraft Children 6.1: <a href="../Bonus/19_A Rocky Shore.php">A Rocky Shore</a></h3>
+    <h3 id="back">Boxraft Children 6.1: <a href="../Bonus/?_A Wandering River">A Wandering River</a></h3>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Economic - Stunt Use - Elf Prime:</b> placeholder</p>
+    <h3 id="back">Roleplay Event 6.1: <a href="../Bonus/?_An Asavardian Night.php">An Asavardian Night</a></h3>
     <p><b>Political:</b> placeholder</p>
     <p><b>Military: </b>placeholder</p>
+    <p><b>Military (FP Motivated): </b>placeholder</p>
     <p><b>Mental:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
-    <p><b>Character:</b> placeholder</p>
-    <h3 id="back">Roleplay Event 6.1: <a href="../Bonus/20_A Dark Secret.php">A Dark Secret</a></h3>
+    <h3>Feathernet</h3>
+    <p> placeholder</p>
     <h2>Results</h2>
-    <p><b>Economic:</b> placeholder</p>
-    <p><b>Economic:</b> placeholder</p>
+    <p><b>Economic - Bribe:</b> placeholder</p>
+    <p><b>Economic - Asavardi:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
-    <p><b>Military:</b> placeholder</p>
+    <p><b>Military - Badgers:</b> placeholder</p>
+    <p><b>Military - Hippos:</b> placeholder</p>
+    <p><b>The Expedition:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
     <p><b>Misc:</b> placeholder</p>
     <h4><b>Dilemma:</b> placeholder</h4>
