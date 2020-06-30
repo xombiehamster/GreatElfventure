@@ -66,7 +66,7 @@
                 <ul>
                     <li>Whatever it lands on</li>
                 </ul>
-            <ul>
+            </ul>
                 <li>Settlement Aspects:</li>
                 <ul>
                     <li><i>Ocean Nomads - Ironsides</i>: This flotilla has been created with heavy, durable ships made for resisting the absolute worst the ocean has to throw at them and going days or weeks on open water. They can move at their normal speed along coastlines, and unlike a normal flotilla they can cross deep ocean albeit at half speed.</li>
