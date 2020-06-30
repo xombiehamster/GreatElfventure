@@ -61,13 +61,23 @@
     <ul>
         <li><b>Name:</b>  Envoyer</li>
         <li>Aspects:</li>
-            <ul><li>Territory Aspects:</li>
-                <ul><li>Whatever it lands on</li></ul>
-            <ul><li>Settlement Aspects:</li>
-                <ul><li><i>Ocean Nomads - Ironsides</i>: This flotilla has been created with heavy, durable ships made for resisting the absolute worst the ocean has to throw at them and going days or weeks on open water. They can move at their normal speed along coastlines, and unlike a normal flotilla they can cross deep ocean albeit at half speed.</li>
-                    <ul><li><i>Ironsides</i> - Due to the unique and durable construction of these ships, Envoyer receives a boost die on any check made to resist physical damage to the flotilla, including Events and military attacks.</li></ul>
-                </ul><li>Empty Slot</li>
-        </ul><li><b>Size:</b> Village</li>
+            <ul>
+                <li>Territory Aspects:</li>
+                <ul>
+                    <li>Whatever it lands on</li>
+                </ul>
+            <ul>
+                <li>Settlement Aspects:</li>
+                <ul>
+                    <li><i>Ocean Nomads - Ironsides</i>: This flotilla has been created with heavy, durable ships made for resisting the absolute worst the ocean has to throw at them and going days or weeks on open water. They can move at their normal speed along coastlines, and unlike a normal flotilla they can cross deep ocean albeit at half speed.</li>
+                    <ul>
+                        <li><i>Ironsides</i> - Due to the unique and durable construction of these ships, Envoyer receives a boost die on any check made to resist physical damage to the flotilla, including Events and military attacks.</li>
+                    </ul>
+                </ul>
+                <li>Empty Slot</li>
+             </ul>
+                <li><b>Size:</b> Village</li>
+                </ul>
         <li><b>Garrison:</b>  1 slot empty </li>
         <li><b>Location:</b> (-2,3)</li>
     </ul>
