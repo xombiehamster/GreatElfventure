@@ -73,11 +73,9 @@
                     <ul>
                         <li><i>Ironsides</i> - Due to the unique and durable construction of these ships, Envoyer receives a boost die on any check made to resist physical damage to the flotilla, including Events and military attacks.</li>
                     </ul>
+                    <li>Empty Slot</li>
                 </ul>
-                <li>Empty Slot</li>
-             </ul>
-                <li><b>Size:</b> Village</li>
-                </ul>
+        <li><b>Size:</b> Village</li>
         <li><b>Garrison:</b>  1 slot empty </li>
         <li><b>Location:</b> (-2,3)</li>
     </ul>
