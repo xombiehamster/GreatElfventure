@@ -50,7 +50,7 @@
     <p>This is still rolling one shiny Proficiency die: <kbd>1 advantage, 1 successes, 0 triumphs</kbd>.</p>
     <p>Partager arrives at Hilt’Inn, flanked by its garrison of walking wounded soldiers.  They’re a little less enthusiastic than usual, but still happy to have successfully arrived at the destination with wares to trade.</p>
     <h3 id="back4">Roleplay Event 3.1.4: <a href="../../Blade/Bonus/2_A Plan Comes Together.php">A Plan Comes Together</a></h3>
-    <h3 id="back5">Play By Post 3.1.5: <a href="../../Blade/Bonus/3_Operation Birdcage.php">Operation Birdcage</a></h3>
+    <h3 id="back5">Play By Post 3.1.5: <a href="../../Blade/Bonus/4_Operation Birdcage.php">Operation Birdcage</a></h3>
     <h2>Results</h2>
     <p><b>Economic:</b> Shyrendora expresses her deep regrets that they did not get the silver to you in time for the battle. Indeed, there was a shipment of silver ore prepared for trade with you sitting here before the battle but they chose not to tell you about it. She explains that with all the spies and unknown factions acting in the background, the dark elves were not comfortable in revealing the existence of such a critical asset. They had not secured it at the time, and are still working to do so. She hopes that the silver vein can be a major asset to all allied elves in time, but for now wants to make sure it stays safe. By the time they knew about the horde, it was too late to do anything.</p>
     <p>While the logic makes sense, it still hurts that it’s one more thing the river elves weren’t told. </p>
@@ -69,7 +69,7 @@
     <img src="../Images/03_1b_Summer_WolfRider.png" class="center">
     <p><b>Mental:</b> Eina decided to take her time in getting this spell right, which turned out to be an issue when she was unexpectedly tapped for Operation Birdcage. Her staff attempted to keep the research going while she was busy, but without her guidance they didn't get too far.</p>
     <p>Still, the team is not discouraged. This is going to be an extremely important ritual, and they are fine with taking their time getting it right. Progress has been made, a few kinks have been worked out, and the ritual does seem attainable. It's just going to take more time.</p>
-    <h3 id="back6">Story 3.1.6: <a href="../../Blade/Bonus/4_A Broken Promise.php">A Broken Promise</a></h3>
+    <h3 id="back6">Story 3.1.6: <a href="../../Blade/Bonus/5_A Broken Promise.php">A Broken Promise</a></h3>
     <p><b>News Arrives:</b> Coyote Refugees</p>
     <p>Breaker arrives at Riverhaven, battered and weary. She bears numerous injuries, including several severe burns. She's not the only one. Her Cazadores are in rough shape, and they're down many of their numbers.</p>
     <p>"We had to fight our way out," she explains, "The hijueputa knew. I don't know how, but he fucking knew I was going to betray him. The bastard turned the horse into a banquet 'in my honor' for ‘valiantly defeating the trap and bringing back the loot.’ The son of a bitch was using it as a setup to kill me and the ones most loyal to me. He had to have figured out I was going to backstab him and decided to do me in first."</p>
