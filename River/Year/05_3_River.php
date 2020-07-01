@@ -49,7 +49,7 @@
     <p><b>Element:</b> placeholder</p>
     <p><b>Military: </b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <h3 id="back3">Boxraft Children  5.3.3: <a href="../Bonus/26_A Safe Fortress.php">A Safe Fortress</a></h3>
+    <h3 id="back4">Boxraft Children  5.3.3: <a href="../Bonus/26_A Safe Fortress.php">A Safe Fortress</a></h3>
     <p><b>Character:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
@@ -58,7 +58,7 @@
     <h4><b>Dilemma:</b> Just around the river bend</h4>
     <p><b>New Era:</b> <i>placeholder</i></p>
     <p><b>Status:</b> placeholder</p>
-    <h3 id="back2">Roleplay Event 5.3.4: <a href="../Bonus/27_A New Moon.php">A New Moon</a></h3>
+    <h3 id="back5">Roleplay Event 5.3.4: <a href="../Bonus/27_A New Moon.php">A New Moon</a></h3>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>

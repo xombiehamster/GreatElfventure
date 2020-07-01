@@ -53,7 +53,7 @@
     <p>Grim duties, all, but they must be done.</p>
     <p>Preferably before the bonfire.</p>
     <p>Everything already stinks of smoke.  It's enough to feel suffocating.  At least she's still alive. </p>
-    <br/>
+    <hr/>
     <p>Nyctimystes holds her sister’s hand in a tight grasp, their webs straining against each other as silent support.  They sit close to the bonfire's leaping flames, surrounded by others who took injury in the battle.  They are far from alone, and theirs are not the worst injuries.  Other elves give the sisters wide clearance, as it seems the worst of luck for both to have been so obviously bitten.</p>
     <p>The ground around the bonfire is already covered in ash and soapy lumps of clay.  It has churned to mud with all the webbed feet that traveled through it to prepare the pyre.  The spot was chosen for this purpose.  They cannot breathe this thick, airless soup of ash.</p>
     <p>Nyctimystes wishes she could be confident in the face of danger.  She wishes she had her sister’s courage.  Tonight there is no way for her to know more details.  The air between them does not transmit information the way water does.  She steals a glance toward her twin and catches her in the act of doing the same.</p>

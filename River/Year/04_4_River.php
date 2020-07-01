@@ -43,12 +43,12 @@
     </table>
     <p><b>Character:</b> When the flotilla part ways, for the first time, the leadership also separates.  Staurois, as is traditional, continues with Partager.  Smilisca and Acris also continue to travel with Partager.  Eina stays with her husband for this new journey and joins Envoyer.  Litoria follows Prosalirus to join Arpenter.</p>
     <p><b>Letter, mailed from Ft. Alfyr:</b></p>
-    <p id="StauroisLetter">To: Shadimon</p>
-    <p id="StauroisLetter">What works for us ain’t going to be a solution for you.  What works for you would likely be unbearable for us.</p>
-    <p id="StauroisLetter">I can’t tell you how to organize yourselves.  Y’all don’t move.  We only stay in one place that long when we’re dead.  All of our organizational systems exist to support a people who travel.</p>
-    <p id="StauroisLetter">I wish you luck with your endeavor.  Let me know how it turns out.</p>
-    <p id="StauroisLetter">Yours,</p>
-    <p id="StauroisLetter">Staurois</p>
+    <p class="StauroisLetter">To: Shadimon</p>
+    <p class="StauroisLetter">What works for us ain’t going to be a solution for you.  What works for you would likely be unbearable for us.</p>
+    <p class="StauroisLetter">I can’t tell you how to organize yourselves.  Y’all don’t move.  We only stay in one place that long when we’re dead.  All of our organizational systems exist to support a people who travel.</p>
+    <p class="StauroisLetter">I wish you luck with your endeavor.  Let me know how it turns out.</p>
+    <p class="StauroisLetter">Yours,</p>
+    <p class="StauroisLetter">Staurois</p>
     <h3 id="back">Boxraft Children 4.4.1: <a href="../Bonus/16_A Wild Ride.php">A Wild Ride</a></h3>
     <p><b>Economic:</b> It may be a long while coming, but Partager had promised to bring copper when they returned to Surt again.  And here they have their rafts laden with the heavy metal, drawing a low draft up the relatively calm and wide <i>Burning Wolf River</i>.  Sure, nobody likes the water from the Maar.  It’s smelly and feels gross on the skin.  But the tributaries to the Burning Wolf River are plenty safe to drink.</p>
     <p>Using their stunt <i>Elf Express</i>, Partager parks near Surt to complete a cooperative trade.  They deliver the promised copper shipment and request finished goods and tools in trade.  There is still a lot of goodwill left over from their previous visit to Surt, and the river elves are excited to see the city again.  This uses the <i>Merchants</i> trapping of <b>Trade</b> and rolls: 2 Ability dice, 1 Proficiency die, and 1 Bonus die: 2 advantage, 2 successes, 0 triumphs</p>
