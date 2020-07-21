@@ -49,7 +49,7 @@
 <p><strong>Economic Action</strong>:&nbsp;</p>
 <p>Infrastructure (Enrichment): Mountain Turnpike [the Hunger]</p>
 <p>The CPC has a new goal for this season -- road extensions.&nbsp;</p>
-<p>Its no secret that the Hunger plans on building another Surtian village before the end of the year, but with the lingering threat of Coyote raids, any construction that takes place will have to leave the village in a secure, defensible position that can be easily reinforced by local troops. To that end, the CPC is commissioned to design and order roadworks heading into the mountains to the Northwest, past the massive lava-lake that is reportedly a popular bathing spot with local dragons.</p>
+<p>Its no secret that the Hunger plans on building another Surtian village before the end of the year, but with the lingering threat of Coyote raids, any construction that takes place will have to leave the village in a secure, defensible position that can be easily reinforced by local troops. To that end, the CPC is commissioned to design and order roadworks heading into the mountains to the Northwest, past the massive lava-lake that is reportedly <a href="https://greatelfventure.azurewebsites.net/Fire/Bonus/25_Dragons in the Mist.php">a popular bathing spot with local dragons</a>.</p>
 <p>The endpoint of the road is kept a little more vague, to allow the designers leeway when village construction begins (and to allow for any large-scale fortification that comes with it).</p>
 <p><strong>Effect</strong>: All Roads Lead to Surt extended to 3+ pathfound squares</p>
 <p><a href="https://dev71687.service-now.com/nav_to.do?uri=x_339494_mdalpha_rolls.do?sys_id=aa2e178ddb7f3300e7a0a08a489619f2">Roll</a>: 5 advantage, 1 success</p>
@@ -100,7 +100,7 @@
 <p><em>So today, instead of digging for an impossible cure, or arguing over future plans, or plotting against each other, let&rsquo;s try the one thing that we know has worked. Let&rsquo;s try to change *the curse* again.</em></p>
 <p><em>If we could control it by giving it your mind, could we wipe it away entirely? Or at least bury it so deep it can never be physically detected.</em></p>
 <p><em>We have another twenty-four hours. Let&rsquo;s try, shall we?</em></p>
-<p><em>Yes,</em> replies the dog, <em>&nbsp;We shall.</em></p>
+<p><em>Yes,</em> replies the dog, <em>&nbsp;<a href="https://greatelfventure.azurewebsites.net/Fire/Bonus/24_Give me Domestication.php">We shall.</a></em></p>
 <p><strong>End of Turn </strong></p>
 <h3>Winter Year 3 Results</h3>
 <p><strong>Economic- </strong>The end is near for the Hunger. He can feel it in a way that he cannot explain. Instead of fear or dread, he feels&hellip; accomplished. At peace with it, even. Perhaps, to some degree, proud.</p>
