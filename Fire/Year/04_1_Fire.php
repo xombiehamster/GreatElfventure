@@ -56,6 +56,7 @@
 <p>Spycraft (Cloak and Dagger): The Hunt for Wolf October [Ashwalker Tsun]</p>
 <p>Finally, some political capital! Tsun doesn&rsquo;t want to screw this one up -- not this time -- so before she pushes at the Triumvirate and arrests the afflicted Hunger (and drives the Blade Elves from the city, yadda yadda yadda), she has to find evidence. And one strong source of evidence is the palace itself.</p>
 <p>With the Triumvirate still in the process of returning from the Potluck, Tsun tasks a few key Praesidium teams with interrogating palace workers and the Constabulary Guard, to hunt down evidence of missing palace employees, and look for any Blade Elf spies planted within either organization. She doesn&rsquo;t have a lot of time to do this, so there&rsquo;s no real chance to thoroughly search the palace for evidence -- instead, the Praesidium must use interrogation, pressure, and external investigation to find out whatever they can.&nbsp;</p>
+    <p>In the process, however, she discovers that <a href="https://greatelfventure.azurewebsites.net/Fire/Bonus/26_Honest Lies.php">Barrabus Leafstorm has bit off a bit more than he can swallow</a>.</p>
 <p><a href="https://dev71687.service-now.com/nav_to.do?uri=x_339494_mdalpha_rolls.do?sys_id=63b5c4b0db600010e7a0a08a48961930">Results</a>: 3 successes <em>(naturally, the Praesidium performs best when its &lsquo;investigating&rsquo; locals)</em></p>
 <p><strong>Military Action:</strong></p>
 <p>Military Science (Drill): Expansionary Guarding [the Terror]</p>
