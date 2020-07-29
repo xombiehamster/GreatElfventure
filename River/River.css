@@ -2,6 +2,8 @@
 @import "https://fonts.googleapis.com/css?family=Cedarville Cursive";
 @import "https://fonts.googleapis.com/css?family=Charmonman";
 @import "https://fonts.googleapis.com/css?family=Lobster";
+@import "https://fonts.googleapis.com/css?family=Shadows Into Light";
+@import "https://fonts.googleapis.com/css?family=Rock Salt";
 body {
     background-color: #ebfaf2;
 }
@@ -25,4 +27,12 @@ body {
 .stuff {
     font-family: 'Lobster', cursive;
     font-weight: bolder;
+}
+
+.ShadyMagic {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.NobodyMagic {
+    font-family: 'Rock Salt', cursive;
 }
