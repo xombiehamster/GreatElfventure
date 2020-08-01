@@ -52,7 +52,7 @@
 	<p><b>Military: </b>placeholder</p>
     <p><b>Military (motivated): </b>placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <h3 id="back">Roleplay Event 7.2.1: <a href="../Bonus/?_A Belated Date.php">A Belated Date</a></h3>
+    <h3 id="back">Roleplay Event 7.2.1: <a href="../Bonus/39_A Belated Date.php">A Belated Date</a></h3>
     <h2>Results</h2>
     <p><b>Economic:</b>placeholder</p>
     <p><b>Political:</b> placeholder</p>

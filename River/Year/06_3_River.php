@@ -48,18 +48,18 @@
     <p><b>Political:</b> placeholder</p>
     <p><b>Element:</b> placeholder</p>
     <p><b>Military: </b> placeholder</p>
-    <h3 id="back1">Roleplay Event  6.3.1: <a href="../Bonus/?_A Warmaster and a Soldier.php">A Warmaster and a Soldier</a></h3>
+    <h3 id="back1">Roleplay Event  6.3.1: <a href="../Bonus/36_A Warmaster and a Soldier.php">A Warmaster and a Soldier</a></h3>
     <p><b>Mental:</b> placeholder</p>
     <h2>Results</h2>
     <p><b>Gerdr:</b> placeholder</p>
     <p><b>Winter Quarters:</b> placeholder</p>
     <p><b>Amie Navire:</b> placeholder</p>
-    <h3 id="back2">Boxraft Children 6.3.2: <a href="../Bonus/?_A Just Punishment.php">A Just Punishment</a></h3>
+    <h3 id="back2">Boxraft Children 6.3.2: <a href="../Bonus/37_A Just Punishment.php">A Just Punishment</a></h3>
     <p><b>Misc Summary:</b> placeholder</p>
         
     <?php
         include '../../settarget.php'; 
-        settarget("River",25,null,27);
+        settarget("River",25,null,37);
         include '../footer.php';
         echo getarrows("06_2_River.php","06_4_River.php");
         setlast("Year/06_3_River.php");

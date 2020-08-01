@@ -42,14 +42,14 @@
         </tr>
     </table>
     <p>placeholder</p>
-    <h3 id="back">Roleplay Event 6.2.1: <a href="../Bonus/?_A Question of Justice.php">A Question of Justice</a></h3>
-    <h3 id="back">Roleplay Event 6.2.2: <a href="../Bonus/?_A Complicated Future.php">A Complicated Future</a></h3>
+    <h3 id="back">Roleplay Event 6.2.1: <a href="../Bonus/32_A Question of Justice.php">A Question of Justice</a></h3>
+    <h3 id="back1">Roleplay Event 6.2.2: <a href="../Bonus/33_A Complicated Future.php">A Complicated Future</a></h3>
     <p><b>Economic:</b> placeholder</p>
     <p><b>Economic - motivated:</b> placeholder</p>
     <p><b>Political:</b> placeholder</p>
 	<p><b>Military: </b>placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    <h3 id="back">Boxraft Children 6.2.3: <a href="../Bonus/?_A Difficult Lesson.php">A Difficult Lesson</a></h3>
+    <h3 id="back2">Boxraft Children 6.2.3: <a href="../Bonus/34_A Difficult Lesson.php">A Difficult Lesson</a></h3>
     <p><b>Character:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
     <p><b>Character:</b> placeholder</p>
@@ -62,14 +62,14 @@
     <p><b>Political:</b> placeholder</p>
     <p><b>Military - Scouts:</b>  placeholder</p>
     <p><b>Mental - Building Codes:</b> placeholder</p>
-    <h3 id="back">Boxraft Children 6.2.4: <a href="../Bonus/?_A Rescued Stray.php">A Rescued Stray</a></h3>
+    <h3 id="back3">Boxraft Children 6.2.4: <a href="../Bonus/35_A Rescued Stray.php">A Rescued Stray</a></h3>
     <p>placeholder</p>
     <h3>Feathernet:</h3>
     <p>placeholder</p>
     
     <?php
         include '../../settarget.php'; 
-        settarget("River",24,null,22);
+        settarget("River",24,null,35);
         include '../footer.php';
         echo getarrows("06_1_River.php","06_3_River.php");
         setlast("Year/06_2_River.php");

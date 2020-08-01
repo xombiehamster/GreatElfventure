@@ -60,7 +60,7 @@
     <p><b>Economic - Winter Quarters:</b> placeholder</p>
     <p><b>Economic - Ankkh:</b> placeholder</p>
     <p><b>Political - Cloak and Dagger:</b>placeholder</p>
-    <h3 id="back3">Roleplay Event 6.4: <a href="../Bonus/?_A Dubious Narrative.php">A Dubious Narrative</a></h3>
+    <h3 id="back3">Roleplay Event 6.4: <a href="../Bonus/38_A Dubious Narrative.php">A Dubious Narrative</a></h3>
     <p><b>Recruiting:</b> placeholder</p>
     <p><b>Military - Gerdr/Amie Navire/Partager</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
@@ -69,7 +69,7 @@
     <h3><a href="../../Events/07_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
-        settarget("River",26,null,null);
+        settarget("River",26,null,38);
         if($_SESSION["YEAR"]<7){
             $_SESSION["YEAR"] = 7;
         }
