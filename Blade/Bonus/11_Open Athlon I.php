@@ -323,7 +323,7 @@
     include "../footer.php";
     include '../../settarget.php';
     settarget("Blade",null,null,11);
-    echo getarrows("../../Events/06_0.php#jump","10_Open Athlon I.php");
-    #setlast("Bonus/4_Bits and Pieces.php");
+    echo getarrows("9_Bits and Pieces.php","../../Events/06_0.php#jump");
+    #setlast("Bonus/11_Open Athlon I.php");
     ?>
 </body>
