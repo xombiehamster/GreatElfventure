@@ -15,6 +15,9 @@ function getPotlucks($year){
     }
     if(!is_null($arr[2])){
         $str .= '<li><a href="'.$arr[2].'">Year 2: A New Year</a></li>';
+    }
+    if(!is_null($arr[7])){
+        $str .= '<li><a href="'.$arr[7].'">Year 7: A New Year</a></li>';
     }else{
         $str .= '</ul></td>';
     }
@@ -22,7 +25,7 @@ function getPotlucks($year){
     if($_SESSION["CRAG"]>0){
         $str .= '<td>';
         if(!is_null($arr[6])){
-            $str .= '<ul><li><a href="'.$arr[6].'">Year 6: A Placeholder Potluck</a></li></ul>';
+            $str .= '<ul><li><a href="'.$arr[6].'">Year 6: Precipitous Potluck</a></li></ul>';
         }
         $str .= '</td>';
     }

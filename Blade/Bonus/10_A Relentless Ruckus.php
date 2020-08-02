@@ -26,7 +26,7 @@
     <p>Bryti connects with a vicious headbutt directly to his nose. The blow actually draws blood, but the sheer impact briefly staggers both of them. Bryti shoves him off and shakes her head, snarling.</p>
     <p>"You don't get to <i>choose!</i>" She spits, "Duty doesn't end because someone is <i>annoying-</i>" </p>
     <p>As Echo’s head snaps forward, blood running freely from his nostrils, his expression is… <i>focused.</i>  The snarling and grunting are gone.  Now, it is only fury.</p>
-    <p>“<b>Who are you, to LECTURE ME, on <i>Duty? On Responsibility? What do you protect?  What is left</i> TO <i>Protect?</i>”  He launches his foot forward, aiming for her chest… but Bryti manages to react in time, seizing the massive limb.</p>
+    <p>“<b>Who are you, to LECTURE ME, on <i>Duty? On Responsibility? What do you protect?  What is left</i> TO <i>Protect?</i></b>”  He launches his foot forward, aiming for her chest… but Bryti manages to react in time, seizing the massive limb.</p>
     <p>"What I protect," Bryti snarls as she grabs his leg, "Is our <i>future!</i>"</p>
     <p>Echo feels the extremely unusual experience of being lifted bodily off the ground. Bryti literally throws him sideways, smashing him. through an unsuspecting lamp post. Bryti turns and takes a defensive stance again as he stands,</p>
     <p>"Because <i>that</i> is all that we have left." </p>
@@ -60,7 +60,7 @@
     <p>And with that, he begins making bounding leaps towards Bryti once more, scattering crumbled masonry as he goes. Bryti has not dropped her defensive stance. Echo did his level best to telegraph that strike as much as possible. Bryti drops to the side and elbows him in the ribs, but he is still able to get a strike in sideways, catching her in the cheek. She grunts and steps back, gauging him carefully.</p>
     <p>“Perhaps I <i>am</i> an <b>Animal</b>,” She growls, “But only one of us has tried to murder a crag today.” </p>
     <p>He clutches at his ribs.  While he took the same blow, many times before, it seems this one was more telling.  Echo grimaces.  “<b>And what do you believe Provoked that?  Do you think <i>me</i> mindless beast, as <i>he</i> does?  That was not the only of his transgressions.  It is not the last of his transgressions this <i>very day.</i>  All of this, and all it precipitates, is <i>his</i> doing.</b>”</p>
-    <p>He sounds… suddenly exhausted.  His words are robbed of much of the strength they had before.  “<b>Tell me, as you know us so well as to stand in Judgement on his behalf; Do you believe him to be <i>Truly</i> Crag?<b>” </p>
+    <p>He sounds… suddenly exhausted.  His words are robbed of much of the strength they had before.  “<b>Tell me, as you know us so well as to stand in Judgement on his behalf; Do you believe him to be <i>Truly</i> Crag?</b>” </p>
     <p>Bryti pauses. She watches him carefully, wary for another attempt to catch her off guard. She is right to worry… even now, he is looking for an opening.  Gauging. Bryti flexes her fingers. The aura that surrounds her still holds up.</p>
     <p>“You’re right,” she relents, “I know very little about the crag and your way of life. Why would he <i>not</i> be?” </p>
     <p>He seems somewhat surprised at this response.  However, he does not fail to answer.  “<b>To be a Crag… it is to serve The Crag.  To be a part of its people.  To Strive for them.  To Bleed for them.  You, who have only even seen a fragment of him that I have… Will you say he cares for any but <i>himself?</i></b>” Strength is returning to his words.</p>
