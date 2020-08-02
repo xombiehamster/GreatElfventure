@@ -54,7 +54,7 @@
 <p>Unfortunately, with the war to the south still ongoing, and issues within Surt still as complicated as ever, the Fury doesn&rsquo;t really have time to investigate for herself. And the CPC, lacking a Hunger to officiate, is looking for Triumvirate members to stand as official support for &ldquo;Project Disr,&rdquo; the plan to claim the (ostensibly) mineral rich mountains to the west north west.&nbsp;</p>
 <p>Fury is happy to provide official support, but has little time for most of the important planning and layout activities -- she&rsquo;s still locked up in overall coordination, civil defense planning, and of course another round of scanning rituals beneath Surt itself. She drags Barrabus into the mix, letting him and the Phoenix Imperialis sign off on CPC plans while she worries about the rest of the nation.</p>
 <p>The Council of Firebirds is unaware of the true bounty Disr would rest on, but is still generally eager to help, as this helps cement their political position, provides another settlement that will generally support them, and gives plenty of room for prospecting opportunities of their own. Barry keeps an eye on them, but stays mostly out of the actual civil planning work (apart from making certain there is room enough for walls, and adding a few artistic flourishes where appropriate).&nbsp;</p>
-<p>He is more concerned about the Hunger&rsquo;s absence -- and is, in fact, about to investigate, when a strange commotion <a href="https://greatelfventure.azurewebsites.net/Fire/Bonus/23_Bardnapping.php">interrupts the afternoon Council meeting</a>&hellip;</p>
+<p id="back">He is more concerned about the Hunger&rsquo;s absence -- and is, in fact, about to investigate, when a strange commotion <a href="../Bonus/14_Bardnapping.php">interrupts the afternoon Council meeting</a>&hellip;</p>
 <p><a href="https://dev71687.service-now.com/nav_to.do?uri=x_339494_mdalpha_rolls.do?sys_id=020c3ed2db000010e7a0a08a48961949">Result</a>: 3 advantage, 1 success</p>
 <p>But before that commotion occurs, there&rsquo;s a new problem. The terrain leading up to Disr is exceptionally treacherous, and supporting the work crews moving up to Disr&rsquo; site becomes increasingly difficult as time goes on. In an effort to push construction forward, Barrabus coordinates &ldquo;supply runs&rdquo; from Surt&rsquo;s prolific gardeners (adding the <strong>Verdant Rooftop Gardens</strong> bonus die to this check, as the food is passed to Disr&rsquo;s work crews and new settlers), and pushes to make extensive use of the CPC&rsquo;s roadplanning skills to make Disr as connected to Surt as possible (invoking <strong>All Roads lead to Surt / Fortified Roadways</strong>).</p>
 <p>Reroll: 5 advantage, 1 success</p>
@@ -226,7 +226,7 @@
 <p>The Fury&rsquo;s namesake may have powered the ritual, but the careful planning she has learned to do prevented a disaster.</p>
 <p>Now she just has to figure out what in Hell (hopefully not literally) caused that.</p>
 <p><br />On the upswing, channeling that much energy into the Deep Scan ritual make some flaws in its design apparent. Fury and her ritual staff are easily able to correct them now that they&rsquo;ve seen what the ritual does at maximum power. <strong>The difficulty of the Deep Scan ritual has been permanently reduced by one.</strong></p>
-<p><strong>The Hunger </strong>makes <a href="https://docs.google.com/document/d/1lhYBx3PQGAAI7KcRt1kFzaeEJIIC743qO1uJiZ6WJC0/edit?usp=drivesdk">a simple decision.</a></p>
+<p id="back"><strong>The Hunger </strong>makes <a href="../Bonus/15_A Simple Decision.php">a simple decision.</a></p>
 <p><strong>Congratulations!</strong> You have survived another year in your new homeland!</p>
 <p>You receive your usual skill point to be distributed as you wish (don't forget your tower,) but the end of this year marks a major occasion.</p>
 <p>The Coyotes posed a significant threat. This threat was addressed not just by one or two elven nations, but by all of you working together in a major combined operation. For the first time since the end of the war, you have displayed what you are capable of when the elves band together. Though your cooperation was tenuous at best and your ties still far from cemented, the display of force was quite impressive.</p>
@@ -269,7 +269,7 @@
     <h3><a href="../../Events/04_0.php">The Elves Gather for Their Annual Potluck</a></h3>
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",13,null,12);
+        settarget("Fire",13,null,15);
         if($_SESSION["YEAR"]<4){
             $_SESSION["YEAR"] = 4;
         }

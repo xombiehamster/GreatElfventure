@@ -65,16 +65,20 @@ function getBArray($elf){
             $arr[9] = "A Surtian Flight";
             $arr[10] = "A Blade's Edge";
             $arr[11] = "A Deal Burned";
-            $arr[12] = "A Simple Decision";
-            $arr[13] = "Ambush Predators";
-            $arr[14] = "A Tale Begins";
-            $arr[16] = "A Wild Ride";
-            $arr[17] = "A Surtian Confusion";
-            $arr[19] = "A Rocky Shore";
-            $arr[20] = "A Dark Secret";
-            $arr[25] = "A Dependable Blade";
-            $arr[26] = "A Safe Fortress";
-            $arr[27] = "An Uncharted Course";
+            $arr[12] = "Dragons in the Mist";
+            $arr[13] = "Give Me Domestication";
+            $arr[14] = "Bardnapping";
+            $arr[15] = "A Simple Decision";
+            $arr[16] = "Honest Lies";
+            $arr[17] = "Ambush Predators";
+            $arr[18] = "A Tale Begins";
+            $arr[19] = "A Wild Ride";
+            $arr[20] = "A Surtian Confusion";
+            $arr[21] = "A Rocky Shore";
+            $arr[22] = "A Dark Secret";
+            $arr[23] = "A Dependable Blade";
+            $arr[24] = "A Safe Fortress";
+            $arr[25] = "An Uncharted Course";
         break;
         case "River":
             $arr[0] = "A Measure of Hospitality";
@@ -110,8 +114,13 @@ function getBArray($elf){
             $arr[30] = "A Wandering River";
             $arr[31] = "An Asavardian Night";
             $arr[32] = "A Question of Justice";
-            $arr[33] = "A Difficult Lesson";
-            $arr[34] = "A Complicated Future";
+            $arr[33] = "A Complicated Future";
+            $arr[34] = "A Difficult Lesson";
+            $arr[35] = "A Rescued Stray";
+            $arr[36] = "A Warmaster and a Soldier";
+            $arr[37] = "A Just Punishment";
+            $arr[38] = "A Dubious Narrative";
+            $arr[39] = "A Belated Date";
         break;
         case "Winged":
             $arr[0] = "Summer";

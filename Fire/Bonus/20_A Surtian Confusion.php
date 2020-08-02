@@ -148,8 +148,8 @@
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("16_A Wild Ride.php","../Year/04_4_Fire.php#back2");
-        setlast("Bonus/17_A Surtian Confusion.php");
+        echo getarrows("19_A Wild Ride.php","../Year/04_4_Fire.php#back");
+        setlast("Bonus/20_A Surtian Confusion.php");
     ?>
 </body>
 </html>

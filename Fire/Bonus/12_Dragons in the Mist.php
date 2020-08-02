@@ -236,8 +236,8 @@
 
 <?php 
         include '../footer.php';
-        echo getarrows("../Year/05_2_Fire.php#back2","../Year/05_2_Fire.php#back2");
-        setlast("Bonus/22_A Dependable Blade.php");
+        echo getarrows("../Year/03_3_Fire.php#back2","../Year/03_3_Fire.php#back2");
+        setlast("Bonus/12_Dragons in the Mist.php");
     ?>
 </body>
 </html>

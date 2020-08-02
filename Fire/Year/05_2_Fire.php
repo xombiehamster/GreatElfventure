@@ -36,10 +36,11 @@
     <p><b>Political:</b> placeholder</p>
     <p><b>Military:</b>  placeholder</p>
     <p><b>Mental:</b> placeholder</p>
+    <p id="back"><a href="../Bonus/23_A Dependable Blade.php">A Dependable Blade</a></p>
     
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",19,null,null);
+        settarget("Fire",19,null,23);
         include '../footer.php';
         echo getarrows("05_1_Fire.php","05_3_Fire.php");
         setlast("Year/05_2_Fire.php");

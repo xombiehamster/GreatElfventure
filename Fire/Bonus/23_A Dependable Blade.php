@@ -64,7 +64,7 @@
     <?php 
         include '../footer.php';
         echo getarrows("../Year/05_2_Fire.php#back2","../Year/05_2_Fire.php#back2");
-        setlast("Bonus/22_A Dependable Blade.php");
+        setlast("Bonus/23_A Dependable Blade.php");
     ?>
 </body>
 </html>

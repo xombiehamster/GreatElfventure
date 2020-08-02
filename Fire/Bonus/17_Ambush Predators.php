@@ -215,8 +215,8 @@
     <p class="center">-ACTUAL FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/04_1_Fire.php#back","../Year/04_1_Fire.php#back");
-        setlast("Bonus/13_Ambush Predators.php");
+        echo getarrows("../Year/04_1_Fire.php#back2","../Year/04_1_Fire.php#back2");
+        setlast("Bonus/17_Ambush Predators.php");
     ?>
 </body>
 </html>

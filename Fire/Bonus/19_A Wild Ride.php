@@ -109,8 +109,8 @@
     <p class="center">-FIN-</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/04_4_Fire.php#back","17_A Surtian Confusion.php");
-        setlast("Bonus/16_A Wild Ride.php");
+        echo getarrows("../Year/04_4_Fire.php#back","20_A Surtian Confusion.php");
+        setlast("Bonus/19_A Wild Ride.php");
     ?>
 </body>
 </html>

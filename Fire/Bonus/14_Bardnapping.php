@@ -65,7 +65,7 @@
 <p>-FIN-</p>
 <?php 
         include '../footer.php';
-        echo getarrows("../Year/03_1_Fire.php#back2","../Year/05_2_Fire.php#back2");
-        setlast("Bonus/23_Bardnapping");
+        echo getarrows("../Year/03_4_Fire.php#back","../Year/03_4_Fire.php#back");
+        setlast("Bonus/14_Bardnapping");
     ?>
 </body>

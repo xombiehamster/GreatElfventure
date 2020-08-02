@@ -239,8 +239,8 @@
     <p id="i" class="center">That said, the archive puts solutions in play that would be otherwise impossible to achieve. Please consult me for your intended uses for the archive.</p>
     <?php 
         include '../footer.php';
-        echo getarrows("../Year/05_1_Fire.php#back","../Year/05_1_Fire.php#back");
-        setlast("Bonus/20_A Dark Secret.php");
+        echo getarrows("../Year/05_1_Fire.php#back2","../Year/05_1_Fire.php#back2");
+        setlast("Bonus/22_A Dark Secret.php");
     ?>
 </body>
 </html>

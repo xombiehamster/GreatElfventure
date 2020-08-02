@@ -361,8 +361,8 @@
 <p>-FIN-</p>
 <?php 
         include '../footer.php';
-        echo getarrows("../Year/04_1_Fire.php#back2","../Year/04_1_Fire.php#back2");
-        setlast("Bonus/26_Honest Lies.php");
+        echo getarrows("../Year/04_1_Fire.php#back","../Year/04_1_Fire.php#back");
+        setlast("Bonus/16_Honest Lies.php");
     ?>
 </body>
 </html>

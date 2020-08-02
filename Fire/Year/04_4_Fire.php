@@ -202,9 +202,10 @@
 </tr>
 </tbody>
 </table>
+<p id="back"><a href="../Bonus/19_A Wild Ride.php">A Wild Ride</a></p>
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",17,null,null);
+        settarget("Fire",17,null,20);
         if($_SESSION["YEAR"]<5){
             $_SESSION["YEAR"] = 5;
         }

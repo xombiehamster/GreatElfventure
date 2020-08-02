@@ -66,7 +66,8 @@
 
 <?php 
         include '../footer.php';
-        setlast("Bonus/24_Give me Domestication.php");
+        echo getarrows("../Year/03_3_Fire.php#back","../Year/03_3_Fire.php#back");
+        setlast("Bonus/13_Give me Domestication.php");
     ?>
 </body>
 </html>

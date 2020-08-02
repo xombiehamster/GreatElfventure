@@ -101,7 +101,7 @@
 
 <?php
     include '../footer.php';
-    echo getarrows("../Year/03_4_Fire.php#back","../Year/03_4_Fire.php#back");
+    echo getarrows("../Year/03_4_Fire.php#back2","../Year/03_4_Fire.php#back2");
     setlast("Bonus/12_A Simple Decision.php");?>
 </body>
 </html>

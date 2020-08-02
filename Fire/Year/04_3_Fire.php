@@ -160,11 +160,11 @@
 </tr>
 </tbody>
 </table>
-
+<p id="back"><a href="../Bonus/18_A Tale Begins.php">A Tale Begins</a></p>
         
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",16,null,null);
+        settarget("Fire",16,null,18);
         include '../footer.php';
         echo getarrows("04_2_Fire.php","04_4_Fire.php");
         setlast("Year/04_3_Fire.php");

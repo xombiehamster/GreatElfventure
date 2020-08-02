@@ -38,10 +38,11 @@
     <p><b>Political:</b> placeholder</p>
     <p><b>Military:</b> placeholder</p>
     <p><b>Mental:</b> placeholder</p>
-    
+    <p id="back"><a href="../Bonus/21_A Rocky Shore.php">A Rocky Shore</a></p>
+    <p id="back2"><a href="../Bonus/22_A Dark Secret.php">A Dark Secret</a></p>
     <?php
         include '../../settarget.php'; 
-        settarget("Fire",18,null,null);
+        settarget("Fire",18,null,22);
         include '../footer.php';
         echo getarrows("04_4_Fire.php","05_2_Fire.php");
         setlast("Year/05_1_Fire.php");
