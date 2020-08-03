@@ -18,6 +18,9 @@ function getPotlucks($year){
     }
     if(!is_null($arr[7])){
         $str .= '<li><a href="'.$arr[7].'">Year 7: A Potluck Disassembled</a></li>';
+    }
+    if(!is_null($arr[10])){
+        $str .= '<li><a href="'.$arr[10].'">Year 10: Placeholder Potluck</a></li>';
     }else{
         $str .= '</ul></td>';
     }
@@ -30,9 +33,17 @@ function getPotlucks($year){
         $str .= '</td>';
     }
     #DARK
-    $str .= '<td></td>';
+    $str .= '<td>';
+    if(!is_null($arr[9])){
+        $str .= '<ul><li><a href="'.$arr[9].'">Year 9: Placeholder Potluck</a></li>';
+    }
+    $str .= '</td>';
     #DREAMDUST
-    $str .= '<td></td>';
+    $str .= '<td>';
+    if(!is_null($arr[8])){
+        $str .= '<ul><li><a href="'.$arr[8].'">Year 8: Placeholder Potluck</a></li>';
+    }
+    $str .= '</td>';
     #FIRE
     $str .= '<td>';
     if(!is_null($arr[3])){
