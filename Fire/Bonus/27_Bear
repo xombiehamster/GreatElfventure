@@ -3,7 +3,7 @@
 
 <head><?php include '../../header.php'; ?>
     <title>
-        A Dependable Blade
+        Bear
     </title>
     <link rel="stylesheet" type="text/css" href="../../style.css">
     <link rel="stylesheet" type="text/css" href="../Fire.css">
