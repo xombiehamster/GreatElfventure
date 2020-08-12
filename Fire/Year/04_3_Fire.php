@@ -161,6 +161,7 @@
 </tbody>
 </table>
 <p id="back"><a href="../Bonus/18_A Tale Begins.php">A Tale Begins</a></p>
+<p id="back"><a href="../Bonus/27_Bear">Bear</a></p>
         
     <?php
         include '../../settarget.php'; 
