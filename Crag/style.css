@@ -72,6 +72,17 @@ p#blue {
     color: navy;
 }
 
+p#saddlebrown {
+    color: saddlebrown;
+}
+
+p#grey {
+    color: grey
+}
+
+p#white {
+    color: whitesmoke
+}
 
 /* Named Characters */
 
