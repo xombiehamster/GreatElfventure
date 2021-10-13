@@ -6,13 +6,14 @@
 
 <head>
 <?php include '../header.php'; ?>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../w3.css">
     <title>
         The Potluck
     </title>
 </head>
 
 <body>
+<div class="w3-panel w3-khaki">
     <p>Dusk has fallen on Fort Álfyr. The fort is abuzz with activity. The great potluck, for the past few hours, has been a great success. The subtle tension that has been running through the fort for the last few months has faded away. People are relaxed, smiling, chatting with each other. Caravans have been loaded, bags have been packed, the animals have been fed. The months of being stuck in too small a space are finally over. Friends from different groups of elves are saying goodbye. Enemies are avoiding each other. Any and all  food that can’t be packed for transport is being cooked or otherwise prepared and eaten. You have been with your people for most of the evening, but have a formal invitation to a dinner for just a handful of the leaders of the various groups.</p>
     <p>In the center of Fort Álfyr lies what was once the great hall. This two story building was once the home of a wealthy Skati, who ruled over this territory. Those days are long gone. What was once a greatroom for feasting Lycans nobility is now an open room for you to enjoy.</p>
     <p>On the second story of the great hall, this room has open arches allowing a stunning view of the stars slowly becoming visible over the ocean. The room has a high ceiling, with the blade elves having quite courteously placed hooded lanterns near the top casting their light upwards. The reflected light casts the room in a warm glow that’s bright enough for everyone to see, but not blindingly bright for the nocturnal ones.</p>
@@ -26,7 +27,9 @@
     <p>Siiri rolls her eyes, but nods as well.</p>
     <hr/>
     <p><a href="../Blade/0_Aspects and Goals.php">More about Blade Elves.</a></p>
+</div>
     <hr/>
+<div class="w3-panel w3-pale-green">
     <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. <?php echo firstcontact("Shadimon");?> and <?php echo firstcontact("Baijani");?> paused at the door to greet the blade elves, while <?php echo firstcontact("Anasatri");?> eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
     <p>Shadimon held out his hand to Ehra, looking up at the much taller elf, “A good party. I hope you haven’t spent it all in here?”</p>
     <p>Ehra smiles and takes Shadimon’s hand, “Not at all! I have managed to get around some, at least. Siiri seems to think I will fall apart if I move too much, but I have been able to see our people celebrating together. It warms my heart.”</p>
@@ -34,6 +37,7 @@
     <p>Baijani rolls her eyes, “These young people, yes? Thinking a stiff wind will blow you over, never mind that we got through everything just like they did, hm?”</p>
     <p>“A stiff wind <i>did</i> blow you over,” Anasatri added from her place arranging food on the table.</p>
     <p>“Details,” Baijani waved it off, going to find a seat herself.</p>
+</div>
     <hr/>
     <p><a href="../Winged/0_Aspects and Goals.php">More about Winged Elves</a></p>
     <hr/>
