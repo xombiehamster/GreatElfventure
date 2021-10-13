@@ -2,25 +2,29 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<?php include '../header.php'; ?>
+    <?php include '../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../w3.css">
     <title>
-        Dark Elf Pathfinder Race Statistics
+        Crag Elf Pathfinder Race Statistics
     </title>
 </head>
 <body>
-<div class="w3-container w3-blue-grey">
-    <H1> Dark Elves </H1>
+<div class="w3-container w3-dark-grey">
+    <H1> Crag Elves </H1>
     <div class="w3-panel">
         <table class="w3-table">
             <tr>
                 <th style="text-align: right">Placeholder for image</th>
                 <td style="width:60%">Placeholder for race summary and/or description</td>
             </tr>
+            <tr>
+                <th style="text-align: right"><H3>NOTE:</H3></th>
+                <td style="width:60%">Info below is for a different race.</td>
+            </tr>
         </table>
     </div>
     <div class='w3-panel'><!-- Placeholder for sub-document anchor -->
-        <div class="w3-panel w3-round-xlarge w3-teal">
+        <div class="w3-panel w3-round-xlarge w3-grey">
             <h3>Racial Details</h3>
             <table class="w3-table w3-white">
                 <tr class="w3-border-bottom w3-border-light-blue">
@@ -94,13 +98,13 @@
             <br>
         </div>
     </div>
-    
 
 
 
-<?php 
+
+    <?php
     include "../footer.php";
     echo getarrows(null,null);
-?>
+    ?>
 </div>
 </body>

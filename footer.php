@@ -6,7 +6,7 @@ function getarrows($back,$next){
     if(!is_null($back)){
         $str .= '<td><a href="'.$back.'">BACK</a></td>';
     }
-    $str .= '<td><a href="../index.php">Go home.</a></td>';
+    $str .= '<td><a href="./index.php">Go home.</a></td>';
     if(!is_null($next)){
         $str .= '<td><a href="'.$next.'">NEXT</a></td>';
     }

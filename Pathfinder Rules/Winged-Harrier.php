@@ -1,6 +1,6 @@
 <?php session_start(); ?>
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 <head>
 <?php include '../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../style.css">

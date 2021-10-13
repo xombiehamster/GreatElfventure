@@ -3,7 +3,7 @@
     $doc = "https://docs.google.com/document/d/e/2PACX-1vT7L3V34JReYxQYckTVjqCBM2ekTJOL1XzwVnA6Rkir0Ljr3j2RlPBRTgP6F1AZ1nAkDSkjz_wezCvs/pub?embedded=true";
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 <head>
 <?php include '../header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../style.css">
