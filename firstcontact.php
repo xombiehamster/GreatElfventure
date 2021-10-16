@@ -158,7 +158,7 @@ function getDescr($elf){
         # Blade Elves
         case "Ehra Indrek":
         case "Ehra":
-            $ret = 'Grandmaster oldman.<br/>Battle Grandpa<br/>Tends to ramble';
+            $ret = 'Ehra Indrek<br/>[race]<br/>Grandmaster oldman.<br/>Battle Grandpa<br/>Tends to ramble';
         break;
         case "Siiri Maar":
         case "Siiri":
@@ -308,11 +308,11 @@ function getDescr($elf){
 function firstContact($elf){
     $image = getImage($elf);
     $descr = getDescr($elf);
-    $ret = '<span class="tooltip">'.$elf.'<span class="tooltiptext">';
+    $ret = '<span class="tooltip"><span class="tooltiptext">';
     if(!is_null($image)){
-        $ret .= '<img class="avatar" src="'.$image.'">';
+        $ret .= '<div class="w3-container w3-cell"><img class="avatar" src="'.$image.'"></div>';
     }
-    $ret .= $descr.'</span></span>';
+    $ret .= '<div class="w3-container w3-cell">'.$descr.'</div></span></span>';
     return $ret;
 }
 
