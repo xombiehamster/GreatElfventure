@@ -35,13 +35,14 @@
 */
 ?>
 
+
 <div id="Ehra_Indrek" class="w3-modal">
     <div class="w3-modal-content w3-large w3-round-xxlarge w3-indigo w3-responsive">
         <header class="w3-container">
             <span onclick="document.getElementById('Ehra_Indrek').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Ehra Indrek" src="../Blade/Images/Grandmaster.png">
+            <img class="w3-padding-large" alt="Ehra Indrek" src="/Blade/Images/Grandmaster.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -62,7 +63,7 @@
         </header>
         <div class="w3-container">
             <div class="w3-container w3-cell" style='vertical-align:middle'>
-                <img class="avatar w3-center" alt="Siiri Maar" src="../Blade/Images/Corpsmaster.png">
+                <img class="avatar w3-center" alt="Siiri Maar" src="/Blade/Images/Corpsmaster.png">
             </div>
             <div class="w3-container w3-cell">
                 <ul class="w3-ul">
@@ -84,7 +85,7 @@
         </header>
         <div class="w3-container">
             <div class="w3-container w3-cell" style='vertical-align:middle'>
-                <img class="w3-center" alt="Katiin Paavi" src="../Blade/Images/Warmaster.png">
+                <img class="w3-center" alt="Katiin Paavi" src="/Blade/Images/Warmaster.png">
             </div>
             <div class="w3-container w3-cell">
                 <ul class="w3-ul">
@@ -105,7 +106,7 @@
             <span onclick="document.getElementById('Shadimon').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Shadimon" src="../Winged/Images/Shadimon.png">
+            <img class="w3-padding-large" alt="Shadimon" src="/Winged/Images/Shadimon.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -125,7 +126,7 @@
             <span onclick="document.getElementById('Baijani').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Baijani" src="../Winged/Images/Baijani.png">
+            <img class="w3-padding-large" alt="Baijani" src="/Winged/Images/Baijani.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -145,7 +146,7 @@
             <span onclick="document.getElementById('Anasatri').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Anasatri" src="../Winged/Images/Anasatri.png">
+            <img class="w3-padding-large" alt="Anasatri" src="/Winged/Images/Anasatri.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -165,7 +166,7 @@
             <span onclick="document.getElementById('Dust').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Dust" src="../Dreamdust/Images/Dust.png">
+            <img class="w3-padding-large" alt="Dust" src="/Dreamdust/Images/Dust.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -183,7 +184,7 @@
             <span onclick="document.getElementById('Pebble').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Pebble" src="../Dreamdust/Images/Pebble.png">
+            <img class="w3-padding-large" alt="Pebble" src="/Dreamdust/Images/Pebble.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -201,7 +202,7 @@
             <span onclick="document.getElementById('Dave').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Dave" src="../Dreamdust/Images/Dave.png">
+            <img class="w3-padding-large" alt="Dave" src="/Dreamdust/Images/Dave.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -220,7 +221,7 @@
             <span onclick="document.getElementById('Steve').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Steve" src="../Dreamdust/Images/Steve.png">
+            <img class="w3-padding-large" alt="Steve" src="/Dreamdust/Images/Steve.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -238,7 +239,7 @@
             <span onclick="document.getElementById('Staurois_Ranidae').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Staurois Ranidae" src="../River/Images/Leader.png">
+            <img class="w3-padding-large" alt="Staurois Ranidae" src="/River/Images/Leader.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -257,7 +258,7 @@
             <span onclick="document.getElementById('Litoria_Hylidae').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Litoria Hylidae" src="../River/Images/Military.png">
+            <img class="w3-padding-large" alt="Litoria Hylidae" src="/River/Images/Military.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -276,7 +277,7 @@
             <span onclick="document.getElementById('Edalorhina_Leptodactylidae').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Edalorhina Leptodactylidae" src="../River/Images/Faith.png">
+            <img class="w3-padding-large" alt="Edalorhina Leptodactylidae" src="/River/Images/Faith.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -295,7 +296,7 @@
             <span onclick="document.getElementById('Smilisca_Hylidae').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Smilisca Hylidae" src="../River/Images/Navigator.png">
+            <img class="w3-padding-large" alt="Smilisca Hylidae" src="/River/Images/Navigator.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -316,7 +317,7 @@
             <span onclick="document.getElementById('Greg').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Greg" src="../Dark/Images/Greg.png">
+            <img class="w3-padding-large" alt="Greg" src="/Dark/Images/Greg.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -336,7 +337,7 @@
             <span onclick="document.getElementById('Rasputin').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Rasputin" src="../Dark/Images/Rasputin.png">
+            <img class="w3-padding-large" alt="Rasputin" src="/Dark/Images/Rasputin.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">
@@ -356,7 +357,7 @@
             <span onclick="document.getElementById('Shyrendora').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
         <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
-            <img class="w3-padding-large" alt="Shyrendora" src="../Dark/Images/Shyrendora.png">
+            <img class="w3-padding-large" alt="Shyrendora" src="/Dark/Images/Shyrendora.png">
         </div>
         <div class="w3-container w3-cell">
             <ul class="w3-ul">

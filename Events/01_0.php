@@ -3,6 +3,49 @@
     include '../firstcontact.php';
     include '../rouges_gallery_popups.inc';
 ?>
+<script>
+    function nameTag(arg1, arg2, arg3) {
+        let color1;
+        let color2;
+
+        switch (arg3) {
+            case "B": //Blade Elves
+                color1 = " w3-indigo";
+                color2 = " w3-hover-blue";
+                break;
+            case "C": //Crag Elves
+                color1 = " w3-dark-grey";
+                color2 = " w3-hover-grey";
+                break;
+            case "DA": //Dark Elves
+                color1 = " w3-blue-grey";
+                color2 = " w3-hover-teal";
+                break;
+            case "DR": //Dreamdust Elves
+                color1 = " w3-deep-purple";
+                color2 = " w3-hover-purple";
+                break;
+            case "F": //Fire Elves
+                color1 = " w3-deep-orange";
+                color2 = " w3-hover-orange";
+                break;
+            case "R": //River Elves
+                color1 = " w3-green";
+                color2 = " w3-hover-light-green";
+                break;
+            case "W": //Winged Elves
+                color1 = " w3-cyan";
+                color2 = " ww3-hover-light-blue";
+                break;
+            default:
+                color1 = " w3-black";
+                color2 = " w3-white";
+        }
+
+        let result = "\"<span class='w3-tag w3-round\"" + color1 + color2 + "' onClick=\"document.getElementById('" + arg1 + "').style.display='inline'\">" + arg2 + "</span>";
+    }
+</script>
+
 <!DOCTYPE html>
 <head>
 <?php include '../header.php'; ?>
@@ -12,24 +55,20 @@
     </title>
 </head>
 <body>
+
+
+
 <div class="w3-container w3-padding-large w3-yellow">
     <h1 id="top">Potluck, Year 0</h1>
-    <div>
-        <table class="w3-table w3-tiny w3-padding-small w3-centered">
-            <tr><td colspan="12" span="12">Jump to a section below</td></tr>
-            <tr>
-                <td colspan="3"><a href="#blade"><span class="w3-tag w3-indigo">Blade</span></a></td>
-                <td colspan="3"><a href="#winged"><span class="w3-tag w3-cyan">Winged Elves</a></td>
-                <td colspan="3"><a href="#dreamdust"><span class="w3-tag w3-deep-purple">Dreamdust Elves</a></td>
-                <td colspan="3"><a href="#totem"><span class="w3-tag w3-gray">Totem Elves</a></td>
-            </tr>
-            <tr>
-                <td colspan="4"><a href="#fire"><span class="w3-tag w3-deep-orange">Fire Elves</a></td>
-                <td colspan="4"><a href="#river"><span class="w3-tag w3-green">River Elves</a></td>
-                <td colspan="4"><a href="#dark"><span class="w3-tag w3-blue-grey">Dark Elves</a></td>
-            </tr>
-            <tr><td colspan="12"><a href="#social"><span class="w3-tag w3-amber">The Party</a></td></tr>
-        </table>
+    <div class="w3-responsive w3-tiny w3-padding-small w3-centered" style="text-align: center">
+        <a href="#blade"><span class="w3-tag w3-indigo">Blade</span></a>
+        <a href="#winged"><span class="w3-tag w3-cyan">Winged Elves</span></a>
+        <a href="#dreamdust"><span class="w3-tag w3-deep-purple">Dreamdust Elves</span></a>
+        <a href="#totem"><span class="w3-tag w3-gray">Totem Elves</span></a>
+        <a href="#fire"><span class="w3-tag w3-deep-orange">Fire Elves</span></a>
+        <a href="#river"><span class="w3-tag w3-green">River Elves</span></a>
+        <a href="#dark"><span class="w3-tag w3-blue-grey">Dark Elves</span></a><br>
+        <a href="#social"><span class="w3-tag w3-amber">The Party</span></a>
     </div>
     <div class="w3-panel w3-round-xxlarge w3-khaki">
         <h3 id="blade">Blade Elves</h3>
@@ -41,7 +80,7 @@
             <p><button class='w3-button w3-indigo w3-hover-blue w3-round-xlarge' onclick="document.getElementById('Ehra_Indrek').style.display='inline'">Ehra Indrek</button> stands near the entrance, at his full height, dressed in his best blue robes with his mourning blade polished and sheathed at his back. <button class='w3-button w3-indigo w3-hover-blue w3-round-xlarge' onclick="document.getElementById('Siiri_Maar').style.display='inline'">Siiri Maar</button>, dressed in her official healer’s uniform, stands at his side supporting his arm. Katiin stands at military attention beside him, in her best dress uniform.</p>
             <p>“You should sit, grandfather, I know standing for too long hurts your back.” Siiri comments.</p>
             <p>“Nonsense,” he waves her off with a smile, “I’m old, not dying. I can stand for a few minutes  until guests arrive. What kind of host would I be, waving guests in from the table?”</p>
-            <p>“Sir, I can handle this part,” <button class='w3-button w3-indigo w3-hover-blue w3-round-xlarge' onclick="document.getElementById('Katiin_Paavi').style.display='inline'">Katiin Paavi</button> adds.</p>
+            <p>“Sir, I can handle this part,” <span class='w3-tag w3-indigo w3-hover-blue w3-round' onclick="document.getElementById('Katiin_Paavi').style.display='inline'">Katiin Paavi</span> adds.</p>
             <p>“Bah,” Ehra sighs, “I will sit just as soon as I greet the first few visitors, I promise. Allow me at least a little pride!”</p>
             <p>“Yes sir,” Katiin nods.</p>
             <p>Siiri rolls her eyes, but nods as well.</p>
@@ -49,7 +88,7 @@
         <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="../Blade/0_Aspects and Goals.php">More about Blade Elves.</a>]<br></div>
         <h3 id="winged">Winged Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
-            <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. <button class='w3-button w3-cyan w3-hover-blue w3-round-xlarge' onclick="document.getElementById('Shadimon').style.display='inline'">Shadimon</button> and <button class='w3-button w3-cyan w3-hover-blue w3-round-xlarge' onclick="document.getElementById('Baijani').style.display='inline'">Baijani</button> paused at the door to greet the blade elves, while <button class='w3-button w3-cyan w3-hover-blue w3-round-xlarge' onclick="document.getElementById('Anasatri').style.display='inline'">Anasatri</button> eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
+            <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Shadimon').style.display='inline'">Shadimon</span> and <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Baijani').style.display='inline'">Baijani</span> paused at the door to greet the blade elves, while <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Anasatri').style.display='inline'">Anasatri</span> eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
             <p>Shadimon held out his hand to Ehra, looking up at the much taller elf, “A good party. I hope you haven’t spent it all in here?”</p>
             <p>Ehra smiles and takes Shadimon’s hand, “Not at all! I have managed to get around some, at least. Siiri seems to think I will fall apart if I move too much, but I have been able to see our people celebrating together. It warms my heart.”</p>
             <p>At Ehra’s comment, Siiri mutters quietly. “<small>Grandfather…</small>”</p>
@@ -57,11 +96,11 @@
             <p>“A stiff wind <i>did</i> blow you over,” Anasatri added from her place arranging food on the table.</p>
             <p>“Details,” Baijani waved it off, going to find a seat herself.</p>
         </div>
-        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="../Winged/0_Aspects and Goals.php">More about Winged Elves.</a>]<br></div>
+        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Winged/0_Aspects and Goals.php">More about Winged Elves.</a>]<br></div>
         <h3 id="dreamdust">Dreamdust Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
             <p>A cluster of dreamdust elves enter, pausing to shove goats back out of the room, and approach.  They are in bright blues and yellows and reds, eyesearingly saturated.  </p>
-            <p><button class='w3-button w3-deep-purple w3-hover-purple w3-round-xlarge' onclick="document.getElementById('Dust').style.display='inline'">Dust</button> approaches first, waving <button class='w3-button w3-deep-purple w3-hover-purple w3-round-xlarge' onclick="document.getElementById('Pebble').style.display='inline'">Pebble</button> and <button class='w3-button w3-deep-purple w3-hover-purple w3-round-xlarge' onclick="document.getElementById('Dave').style.display='inline'">Dave</button> to set down the platters of flatbreads, goat cheese, and small pastries (carefully labeled “Drugged” and “Not drugged”).  <button class='w3-button w3-deep-purple w3-hover-purple w3-round-xlarge' onclick="document.getElementById('Steve').style.display='inline'">Steve</button> stands nearby, smiling pleasantly while staring off into the middle distance.  </p>
+            <p><span class='w3-tag w3-deep-purple w3-hover-purple w3-round' onclick="document.getElementById('Dust').style.display='inline'">Dust</span> approaches first, waving <span class='w3-tag w3-deep-purple w3-hover-purple w3-round' onclick="document.getElementById('Pebble').style.display='inline'">Pebble</span> and <span class='w3-tag w3-deep-purple w3-hover-purple w3-round' onclick="document.getElementById('Dave').style.display='inline'">Dave</span> to set down the platters of flatbreads, goat cheese, and small pastries (carefully labeled “Drugged” and “Not drugged”).  <span class='w3-tag w3-deep-purple w3-hover-purple w3-round' onclick="document.getElementById('Steve').style.display='inline'">Steve</span> stands nearby, smiling pleasantly while staring off into the middle distance.  </p>
             <p>“Thank you for the invitation.”  Dust starts.</p>
             <p>“Of course!” Ehra turns with a warm smile, “Where would we be without you?”</p>
             <p>Ehra glances at the pastries, and Siiri views them with apparently extreme suspicion. Regardless, Ehra waves her off slightly without the slightest waver in his smile.</p>
@@ -70,7 +109,7 @@
             <p>“I’m sure we’ll have a great time.”  Dust nods to the blade elves, then turns to Shadimon.  “I don’t, but Pebble still has one on her.”  He gestures, and Pebble indeed has a pouch with a kid in it slung under one arm, half-hidden by robes.  There is a tiny bleat. </p>
             <p>As the dreamdust elves step towards the table, Ehra sneaks a very small piece of the “special” pastries with lightning fast fingers, apparently too fast for Siiri to notice. He gives Dust a sly wink. </p>
         </div>
-        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="../Dreamdust/0_Aspects and Goals.php">More about Dreamdust Elves.</a>]<br></div>
+        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Dreamdust/0_Aspects and Goals.php">More about Dreamdust Elves.</a>]<br></div>
         <h3 id="totem">Totem Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
             <p>The totem elves arrive in their finest loin cloths and beads and the tail end of a conversation can be heard from Squirrel Boy and Rising Bear as they enter.</p>
@@ -96,28 +135,28 @@
         <div style="text-align:right">[<a href="#top">Return to top</a>]<br></div>
         <h3 id="fire">Fire Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
-            <div class="w3-panel w3-small w3-round-xxlarge w3-dark-gray"><p>Note: Records of the Fire Elves journey were not persented for record keeping.  They were rather mum about it in fact.</p></div>
+            <div class="w3-panel w3-small w3-round-xxlarge w3-dark-gray"><p>Note: Records of the Fire Elves journey were not presented for the permanent record.  They were rather mum about it in fact.</p></div>
         </div>
-        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="../Fire/0_Aspects.php">More about Fire Elves</a>]<br></div>
+        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Fire/0_Aspects.php">More about Fire Elves</a>]<br></div>
         <h3 id="river">River Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
-            <p>A small group of river elves arrives a bit belatedly.  <button class='w3-button w3-round-xlarge w3-green w3-hover-light-green' onclick="document.getElementById('Staurois_Ranidae').style.display='inline'">Staurois Ranidae</button> and <button class='w3-button w3-round-xlarge w3-green w3-hover-light-green' onclick="document.getElementById('Litoria_Hylidae').style.display='inline'">Litoria Hylidae</button> are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  <button class='w3-button w3-round-xlarge w3-green w3-hover-light-green' onclick="document.getElementById('Edalorhina_Leptodactylidae').style.display='inline'">Edalorhina Leptodactylidae</button> and <button class='w3-button w3-round-xlarge w3-green w3-hover-light-green' onclick="document.getElementById('Smilisca_Hylidae').style.display='inline'">Smilisca Hylidae</button> are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
+            <p>A small group of river elves arrives a bit belatedly.  <span class='w3-tag w3-round w3-green w3-hover-light-green' onclick="document.getElementById('Staurois_Ranidae').style.display='inline'">Staurois Ranidae</span> and <span class='w3-tag w3-round w3-green w3-hover-light-green' onclick="document.getElementById('Litoria_Hylidae').style.display='inline'">Litoria Hylidae</span> are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  <span class='w3-tag w3-round w3-green w3-hover-light-green' onclick="document.getElementById('Edalorhina_Leptodactylidae').style.display='inline'">Edalorhina Leptodactylidae</span> and <span class='w3-tag w3-round w3-green w3-hover-light-green' onclick="document.getElementById('Smilisca_Hylidae').style.display='inline'">Smilisca Hylidae</span> are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
             <p>"Pfoo-wee!" Staurois exclaims, "I hope the party ain't all over a-ready!"  He rubs the spots on his bald head, smiling but clearly exhausted from the task.  Litoria absently pats the hippopotamus on the nose, scratching her coarse whiskers.  She and Eina shrug at each other.  Smilisca's eyes dart around the room hopefully, but he appears somewhat disappointed by what he doesn't see, and he puts a bundle of large leaves on the table next to the crock.</p>
             <p>Eina pops the lid to the crock and she and Staurois start to remove raw crabs from the crock and arrange them carefully on the leaves.</p>
         </div>
-        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="../River/0_Aspects and Goals.php">More about River Elves</a>]<br></div>
+        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/River/0_Aspects and Goals.php">More about River Elves</a>]<br></div>
         <h3 id="dark">Dark Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
             <p>Trailing behind the armored figure (by a few minutes it seems) is a much smaller man, also in a mask, but this time unarmored and carrying a large tray of actively smoking meats and vegetables. "Ah! How lovely. Thank you for this delightful idea, Ehra." He gives the general a quick glance, before turning to haul his tray to the nearest table. "...And there are goats for some reason. Wonderful." </p>
             <p>The dark elves finally slink in, all wearing their dark surface garb though it looks like some of the usual equipment was forgon for looser garments on the two taller figures.  The tallest of them, in fact, looked to be bouncing like an excited child while holding a rather large basket that...was   slightly glowing?</p>
-            <p>The shortest one in the front turns with a raised finger to her companions.  “Behave, Uncle.”  She thinks about that for a moment before turning the finger to the other.  “Make sure he behaves, <button class='w3-button w3-round-xlarge w3-blue-grey w3-hover-teal' onclick="document.getElementById('Greg').style.display='inline'">Greg</button></p>
+            <p>The shortest one in the front turns with a raised finger to her companions.  “Behave, Uncle.”  She thinks about that for a moment before turning the finger to the other.  “Make sure he behaves, <span class='w3-tag w3-round w3-blue-grey w3-hover-teal' onclick="document.getElementById('Greg').style.display='inline'">Greg</span></p>
             <p>At the long suffering sigh from Greg, she turns back to the others clustered in the room and moves their little group forward to add the large basket of various glowing mushrooms to the growing food on the table.  </p>
-            <p>Greg smacks <button class='w3-button w3-round-xlarge w3-blue-grey w3-hover-teal' onclick="document.getElementById('Rasputin').style.display='inline'">Rasputin</button>’s hand as it not so subtly tries to reach for the specialty labeled pastries.</p>
+            <p>Greg smacks <span class='w3-tag w3-round w3-blue-grey w3-hover-teal' onclick="document.getElementById('Rasputin').style.display='inline'">Rasputin</span>’s hand as it not so subtly tries to reach for the specialty labeled pastries.</p>
             <p>“But they smell like fun and rainbows!”</p>
             <p>“No.  I’m not dealing with that again.”</p>
-            <p><button class='w3-button w3-round-xlarge w3-blue-grey w3-hover-teal' onclick="document.getElementById('Shyrendora').style.display='inline'">Shyrendora</button> ignores them and respectfully begins to remove her hood and mask while resolutely not making eye contact with anyone else occupying the room.  “Greetings all.” </p>
+            <p><span class='w3-tag w3-round w3-blue-grey w3-hover-teal' onclick="document.getElementById('Shyrendora').style.display='inline'">Shyrendora</span> ignores them and respectfully begins to remove her hood and mask while resolutely not making eye contact with anyone else occupying the room.  “Greetings all.” </p>
         </div>
-        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="../Dark/0_Aspects and Goals.php">More about Dark Elves</a>]<br></div>
+        <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Dark/0_Aspects and Goals.php">More about Dark Elves</a>]<br></div>
     </div>
 <!-- After everyone is here, the sections are less organized -->
     <h1 id="social">'Round the tables and fires...</h1>
@@ -140,7 +179,7 @@
             <p>With that, the blade elves take their plates and begin to sample the various foods in front of them. Against Siiri’s protests, Ehra even samples the sausages the Cryptid brought. He makes… an interesting face, but smiles afterwards.</p>
             <p>“Very savory!”</p>
         </div>
-        <div id="jump" style="text-align:right">[<a href="#top">Return to top</a>][<a href="../Blade/0_Cryptids.php">What even are Cryptid Elves?</a>]<br></div>
+        <div id="jump" style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Blade/0_Cryptids.php">What even are Cryptid Elves?</a>]<br></div>
         <div class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>The dreamdust elves get up, helping themselves to the food. They stare at the raw crabs with some confusion. Dust pokes at one but adds it to his plate with some doubt. Food acquired, the four scatter across the room. Dust heads for the river elves, Pebble heads for the cryptid elf, Dave heads for Baijani with the winged elves, and Steve wanders in an apparently random direction, winding up by the dark elves.</p>
             <p>Rasputin seems to eagerly pile bits of everything onto his plate, Greg only half-heartedly trying to convince him not to while being a bit more picky with his own.</p>
