@@ -1,14 +1,10 @@
 <?php
-//Master Dramatis Personae quick reference
-//Sandor Dosa October 2021
-//This include replaces firstcontact.php
-
 /*
  Use the following HTML tag to create a button that links here:
-    <button class='w3-button [race main color] [Race accent color as hover color] w3-round-xlarge' onclick="document.getElementById('[id_tag]').style.display='inline'">[displated name]</button>
- NOTE: This button uses a temporary link that cannot be nested in PHP code.
+    <span class='w3-tag w3-round [race main color] [Race accent color as hover color]' onclick="document.getElementById('[id_tag]').style.display='inline'">[displayed name]</span>
+ NOTE: This code cannot be nested in PHP code, must be in HTML.
 
- Templete for adding charaters.  Replace squared bracketed items with character details.
+ Templete for adding employees.  Replace squared bracketed items with employee details.
 
 [Firstname_Lastname] is the id-lookup for the popup, you must replace spaces with underscores.  In the case of characters with only one name, there is nothing to alter.
 [path to image] is relative to the document this include is called from, not the include file's location in the file tree.  That limits the usefulness of this include from other paths.
@@ -33,6 +29,46 @@
     </div>
 </div>
 */
+
+function nametag($id_tag,$alias,$race_tag) {
+    switch ($race_tag) { //This only sets the correct colors for the button.
+        case "B": //Blade Elves
+            $color1 = " w3-indigo";
+            $color2 = " w3-hover-blue";
+            break;
+        case "C": //Crag Elves
+            $color1 = " w3-dark-grey";
+            $color2 = " w3-hover-grey";
+            break;
+        case "DA": //Dark Elves
+            $color1 = " w3-blue-grey";
+            $color2 = " w3-hover-teal";
+            break;
+        case "DR": //Dreamdust Elves
+            $color1 = " w3-deep-purple";
+            $color2 = " w3-hover-purple";
+            break;
+        case "F": //Fire Elves
+            $color1 = " w3-deep-orange";
+            $color2 = " w3-hover-orange";
+            break;
+        case "R": //River Elves
+            $color1 = " w3-green";
+            $color2 = " w3-hover-light-green";
+            break;
+        case "W": //Winged Elves
+            $color1 = " w3-cyan";
+            $color2 = " ww3-hover-light-blue";
+            break;
+        default:
+            $color1 = " w3-black";
+            $color2 = " w3-white";
+    }
+    $r1 = "<span class=\' w3-tag w3-round".$color1.$color2."\' onclick=\"document.getElementById(\'".$id_tag."\').style.display=\'block\'\">".$alias."</span>";
+    echo "\n".stripslashes($r1)."\n";
+
+}
+
 ?>
 
 
@@ -41,7 +77,7 @@
         <header class="w3-container">
             <span onclick="document.getElementById('Ehra_Indrek').style.display='none'" class="w3-button w3-display-topright">&times;</span>
         </header>
-        <div class="w3-container w3-padding-large w3-cell" style='vertical-align:middle'>
+        <div class="w3-container w3-cell" style='vertical-align:middle'>
             <img class="w3-padding-large" alt="Ehra Indrek" src="/Blade/Images/Grandmaster.png">
         </div>
         <div class="w3-container w3-cell">
@@ -373,55 +409,80 @@
 </div>
 
 
+<!--
+
+The project has a number of huge word wall pages where its desirable to tag various persons with a popup with their extended info, several dozen per page.  After I finish my work on the site, I expect less skilled operators to add content at a later time, so I want to automate as much of the process as I can to prevent typos breaking the pages.
+
+There ought to be a way...   There really ought to be a way where I can put this....
+
+<button class='w3-button w3-round [Lookup color from argument 3] [lookup hover-color from argument 3]' onclick="document.getElementById('[argument 1]').style.display='inline'">[argument 2]</span>
+
+    into a shortcut function call like....
+
+    <script> nameTag(john_doe123, John, A); </script>
+
+    Where the output sent to the browser engine is this:
+
+    <button class='w3-button w3-round w3-red w3-hover-blue' onclick="document.getElementById('john_doe123').style.display='inline'">John</span>
+
+        There really must be a viable way to not hand code every single instance of those button calls...  How do I do it?   Every method I've devised so far doesn't work.  I feel like the solution is mockingly close too.
+
+        <script>
+            funtion nameTag(a, b, c) {
+                //assume code here for taking 'C' above and calculating what colors to use//
+                let color1 = "w3-red";
+                let color2 = "w3-hover-blue";
+                let result = "\"<span class='w3-tag w3-round\"" + color1 + color2 + "' onClick=\"document.getElementById('" + arg1 + "').style.display='inline'\">" + arg2 + "</span>";
+            }
+        </script>
+
+        Which isn't returning anything.  I've thought myself into a corner and need help.
 
 
+        ​
+
+        First off, thank you.    I appreciate your efforts, but I'm still missing something.
+
+        Do I need to fill the array with all of the potential datasets on the page?   I seems like unwarranted injection of complexity.
+
+        Right now the link:
+
+        <span class='w3-button w3-round w3-red w3-hover-blue' onclick="document.getElementById('john_doe123').style.display='inline'">John</span>
+
+        Thats 137 characters and four places to fill in data that will need to be changed if copied and pasted for use elsewhere.    On one of the word walls its triggered 40 times.
+        When it triggers onclick it grabs this code from and PHP included file:
+
+        <div id="john_doe123" class="w3-modal">
+            <div class="w3-modal-content w3-large w3-round-xxlarge w3-red w3-responsive">
+                <header class="w3-container">
+                    <span onclick="document.getElementById('john_doe123').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+                </header>
+                <div class="w3-container w3-cell" style='vertical-align:middle'>
+                    <img class="w3-padding-large" alt="John Doe" src="/employees/images/john_doe123_1.png">
+                </div>
+                <div class="w3-container w3-cell">
+                    <ul class="w3-ul">
+                        <li><h3>John Doe</h3></li>
+                        <li>Grounds Security 2</li>
+                        <li>CPR and First Responder raated</li>
+                        <li>Anniversasry of hire: October 2019</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
 
+        <script> nameTag("john_doe123","John","C");</script>
 
+        Is 52 characters and much easier to get right and debug when your calling it all over the place.  Especially when the data doing into the function is supplied by the person updateing the page when they call the function.
 
+        <script>
+            nameTagArr[ ["John123",123,"John","w3-red","w3-hover-blue"],["Josh456",456,"Josh","w3-blue",w3-hover-red"], (plus 38 others)]
 
+            nameTag(nameTag(nameTagArr[0][0]));
+        </script>
 
-<!--  HTML Scraps and misc here...
+        Is even less fren
+
 
 -->
-<?php // PHP Scraps and misc here...
-    /*
-     * function nametag($id_tag,$alias,$race_tag) {
-    switch ($race_tag) { //This only sets the correct colors for the button.
-        case "B": //Blade Elves
-            $color1 = " w3-indigo";
-            $color2 = " w3-hover-blue";
-            break;
-        case "C": //Crag Elves
-            $color1 = " w3-dark-grey";
-            $color2 = " w3-hover-grey";
-            break;
-        case "DA": //Dark Elves
-            $color1 = " w3-blue-grey";
-            $color2 = " w3-hover-teal";
-            break;
-        case "DR": //Dreamdust Elves
-            $color1 = " w3-deep-purple";
-            $color2 = " w3-hover-purple";
-            break;
-        case "F": //Fire Elves
-            $color1 = " w3-deep-orange";
-            $color2 = " w3-hover-orange";
-            break;
-        case "R": //River Elves
-            $color1 = " w3-green";
-            $color2 = " w3-hover-light-green";
-            break;
-        case "W": //Winged Elves
-            $color1 = " w3-cyan";
-            $color2 = " ww3-hover-light-blue";
-            break;
-        default:
-            $color1 = " w3-black";
-            $color2 = " w3-white";
-    }
-    $ret = "<button class=/' w3-button w3-round-xlarge".$color1.$color2."/' onclick=/"document.getElementById(/'".$id_tag."/').style.display=/'inline/'/">".$alias."</button>";
-    return $ret;
-     */
-
-?>

@@ -2,50 +2,8 @@
     session_start(); 
     include '../firstcontact.php';
     include '../rouges_gallery_popups.inc';
+
 ?>
-<script>
-    function nameTag(arg1, arg2, arg3) {
-        let color1;
-        let color2;
-
-        switch (arg3) {
-            case "B": //Blade Elves
-                color1 = " w3-indigo";
-                color2 = " w3-hover-blue";
-                break;
-            case "C": //Crag Elves
-                color1 = " w3-dark-grey";
-                color2 = " w3-hover-grey";
-                break;
-            case "DA": //Dark Elves
-                color1 = " w3-blue-grey";
-                color2 = " w3-hover-teal";
-                break;
-            case "DR": //Dreamdust Elves
-                color1 = " w3-deep-purple";
-                color2 = " w3-hover-purple";
-                break;
-            case "F": //Fire Elves
-                color1 = " w3-deep-orange";
-                color2 = " w3-hover-orange";
-                break;
-            case "R": //River Elves
-                color1 = " w3-green";
-                color2 = " w3-hover-light-green";
-                break;
-            case "W": //Winged Elves
-                color1 = " w3-cyan";
-                color2 = " ww3-hover-light-blue";
-                break;
-            default:
-                color1 = " w3-black";
-                color2 = " w3-white";
-        }
-
-        let result = "\"<span class='w3-tag w3-round\"" + color1 + color2 + "' onClick=\"document.getElementById('" + arg1 + "').style.display='inline'\">" + arg2 + "</span>";
-    }
-</script>
-
 <!DOCTYPE html>
 <head>
 <?php include '../header.php'; ?>
@@ -61,6 +19,7 @@
 <div class="w3-container w3-padding-large w3-yellow">
     <h1 id="top">Potluck, Year 0</h1>
     <div class="w3-responsive w3-tiny w3-padding-small w3-centered" style="text-align: center">
+        <p>Delegations in order of arrival:</p>
         <a href="#blade"><span class="w3-tag w3-indigo">Blade</span></a>
         <a href="#winged"><span class="w3-tag w3-cyan">Winged Elves</span></a>
         <a href="#dreamdust"><span class="w3-tag w3-deep-purple">Dreamdust Elves</span></a>
@@ -68,25 +27,25 @@
         <a href="#fire"><span class="w3-tag w3-deep-orange">Fire Elves</span></a>
         <a href="#river"><span class="w3-tag w3-green">River Elves</span></a>
         <a href="#dark"><span class="w3-tag w3-blue-grey">Dark Elves</span></a><br>
-        <a href="#social"><span class="w3-tag w3-amber">The Party</span></a>
+        The potluck in full attendance: <a href="#social"><span class="w3-tag w3-amber">The Party</span></a>
     </div>
     <div class="w3-panel w3-round-xxlarge w3-khaki">
-        <h3 id="blade">Blade Elves</h3>
+        <h3 id="blade">Blade Elves were first</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
             <p>Dusk has fallen on Fort Álfyr. The fort is abuzz with activity. The great potluck, for the past few hours, has been a great success. The subtle tension that has been running through the fort for the last few months has faded away. People are relaxed, smiling, chatting with each other. Caravans have been loaded, bags have been packed, the animals have been fed. The months of being stuck in too small a space are finally over. Friends from different groups of elves are saying goodbye. Enemies are avoiding each other. Any and all  food that can’t be packed for transport is being cooked or otherwise prepared and eaten. You have been with your people for most of the evening, but have a formal invitation to a dinner for just a handful of the leaders of the various groups.</p>
             <p>In the center of Fort Álfyr lies what was once the great hall. This two story building was once the home of a wealthy Skati, who ruled over this territory. Those days are long gone. What was once a greatroom for feasting Lycans nobility is now an open room for you to enjoy.</p>
             <p>On the second story of the great hall, this room has open arches allowing a stunning view of the stars slowly becoming visible over the ocean. The room has a high ceiling, with the blade elves having quite courteously placed hooded lanterns near the top casting their light upwards. The reflected light casts the room in a warm glow that’s bright enough for everyone to see, but not blindingly bright for the nocturnal ones.</p>
             <p>The center of the room is dominated by a large circular table that is covered in a blue table cloth. It has many plates of various foods prepared by the blade elves. Thankfully, their cooking has improved a bit. Small roast potatoes, a few chargrilled oysters, and grilled fish- simple fare still, but at least they know how to season things now.</p>
-            <p><button class='w3-button w3-indigo w3-hover-blue w3-round-xlarge' onclick="document.getElementById('Ehra_Indrek').style.display='inline'">Ehra Indrek</button> stands near the entrance, at his full height, dressed in his best blue robes with his mourning blade polished and sheathed at his back. <button class='w3-button w3-indigo w3-hover-blue w3-round-xlarge' onclick="document.getElementById('Siiri_Maar').style.display='inline'">Siiri Maar</button>, dressed in her official healer’s uniform, stands at his side supporting his arm. Katiin stands at military attention beside him, in her best dress uniform.</p>
+            <p><?php nameTag("Ehra_Indrek","Ehra Indrek","B");?> stands near the entrance, at his full height, dressed in his best blue robes with his mourning blade polished and sheathed at his back. <?php nameTag("Siiri_Maar","Siiri Maar","B");?>, dressed in her official healer’s uniform, stands at his side supporting his arm.<?php nameTag("Katiin_Paavi","Katiin Paavi","B"); ?> stands at military attention beside him, in her best dress uniform.</p>
             <p>“You should sit, grandfather, I know standing for too long hurts your back.” Siiri comments.</p>
             <p>“Nonsense,” he waves her off with a smile, “I’m old, not dying. I can stand for a few minutes  until guests arrive. What kind of host would I be, waving guests in from the table?”</p>
-            <p>“Sir, I can handle this part,” <span class='w3-tag w3-indigo w3-hover-blue w3-round' onclick="document.getElementById('Katiin_Paavi').style.display='inline'">Katiin Paavi</span> adds.</p>
+            <p>“Sir, I can handle this part,” Katiin Paavi adds.</p>
             <p>“Bah,” Ehra sighs, “I will sit just as soon as I greet the first few visitors, I promise. Allow me at least a little pride!”</p>
             <p>“Yes sir,” Katiin nods.</p>
             <p>Siiri rolls her eyes, but nods as well.</p>
         </div>
         <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="../Blade/0_Aspects and Goals.php">More about Blade Elves.</a>]<br></div>
-        <h3 id="winged">Winged Elves</h3>
+        <h3 id="winged">Next came the Winged Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
             <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Shadimon').style.display='inline'">Shadimon</span> and <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Baijani').style.display='inline'">Baijani</span> paused at the door to greet the blade elves, while <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Anasatri').style.display='inline'">Anasatri</span> eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
             <p>Shadimon held out his hand to Ehra, looking up at the much taller elf, “A good party. I hope you haven’t spent it all in here?”</p>
@@ -158,7 +117,7 @@
         </div>
         <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Dark/0_Aspects and Goals.php">More about Dark Elves</a>]<br></div>
     </div>
-<!-- After everyone is here, the sections are less organized -->
+    <!-- After everyone is here, the sections are less organized -->
     <h1 id="social">'Round the tables and fires...</h1>
     <div class="w3-panel w3-round-xxlarge w3-light-green">
         <div class="w3-panel w3-round-xxlarge w3-pale-green">
@@ -422,7 +381,7 @@
             <p>The Terror hadn't moved, save for almost imperceptibly rolling her eyes. She gently nudged the second box back into the Fury's arms with her elbow, and then marched forward, giving Staurois an ever-so-slight nod as she passed.</p>
         </div>
 
-    <?php
+        <?php
         if(is_null($_SESSION["YEAR"]) or $_SESSION["YEAR"]<=1){
             $_SESSION["YEAR"] = 1;
             $_SESSION["BLADE"] = 1;
@@ -436,7 +395,7 @@
         echo getarrows(null,null);
         echo goback();
         setlast("Events/01_0.php");
-    ?>
+        ?>
 
     </div>
 </div>
