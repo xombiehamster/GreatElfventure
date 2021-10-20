@@ -18,137 +18,137 @@ function getImage($elf){
         break;
         case "Katiin Paavi":
         case "Katiin":
-            $ret = '../Blade/Images/Warmaster.png';
+            $ret = '../Blade/Images/Warmaster.png'; #Katiin - Blade - f
         break;
         case "Taavet Rein":
         case "Taavet":
-            $ret = '../Blade/Images/Bowmaster.png';
+            $ret = '../Blade/Images/Bowmaster.png'; #Taavet - Blade - m
         break;
         # Crag Elves
         case "Embebi":
-            $ret = '../Crag/Images/Embebi.png';
+            $ret = '../Crag/Images/Embebi.png'; #Embebi - Crag - f
         break;
         case "Slabal":
-            $ret = '../Crag/Images/Slabal.png';
+            $ret = '../Crag/Images/Slabal.png'; #Slabal - Crag - f
         break;
         # Cryptid Elves
         case "Ink":
-            $ret = '../Blade/Images/Ink.png';
+            $ret = '../Blade/Images/Ink.png'; #Ink - Cryptid - m
         break;
         case "Skulk":
-            $ret = '../Blade/Images/Skulk.png';
+            $ret = '../Blade/Images/Skulk.png'; #Skulk - Cryptid - f
         break;
         # Dark Elves
         case "Amenidal":
-            $ret = '../Dark/Images/Amenidal.png';
+            $ret = '../Dark/Images/Amenidal.png'; #Amenidal - Dark - m
         break;
         case "Greg":
-            $ret = '../Dark/Images/Greg.png';
+            $ret = '../Dark/Images/Greg.png'; #Greg - Dark - m
         break;
         case "Rasputin":
-            $ret = '../Dark/Images/Rasputin.png';
+            $ret = '../Dark/Images/Rasputin.png'; #Rasputin - Dark - m
         break;
         case "Shyrendora":
-            $ret = '../Dark/Images/Shyrendora.png';
+            $ret = '../Dark/Images/Shyrendora.png'; #Shyrendora - Dark - f
         break;
         case "Trischal":
-            $ret = '../Dark/Images/Trischal.png';
+            $ret = '../Dark/Images/Trischal.png'; #Trischal - Dark - f
         break;
         # Dreamdust Elves
         case "Dave":
-            $ret = '../Dreamdust/Images/Dave.png';
+            $ret = '../Dreamdust/Images/Dave.png'; #Dave - Dream - f?
         break;
         case "Dust":
-            $ret = '../Dreamdust/Images/Dust.png';
+            $ret = '../Dreamdust/Images/Dust.png'; #Dust - Dream - m
         break;
         case "Pebble":
-            $ret = '../Dreamdust/Images/Pebble.png';
+            $ret = '../Dreamdust/Images/Pebble.png'; #Pebble - Dream - f
         break;
         case "Steve":
-            $ret = '../Dreamdust/Images/Steve.png';
+            $ret = '../Dreamdust/Images/Steve.png'; #Steve - Dream - m?
         break;
         case "Tik'Tak":
-            $ret = '../Dreamdust/Images/TikTak.png';
+            $ret = '../Dreamdust/Images/TikTak.png'; #Tik'Tak - Dream/lizard - m
         break;
         # Fire Elves
         case "The Fury":
         case "Fury":
-            $ret = '../Fire/Images/Fury.png';
+            $ret = '../Fire/Images/Fury.png'; #Fury - Fire - f
         break;
         case "The Hunger":
         case "Hunger":
-            $ret = '../Fire/Images/Hunger.png';
+            $ret = '../Fire/Images/Hunger.png'; #Hunger - Fire - m
         break;
         case "Barrabus Leafstorm":
         case "Barrabus":
         case "Barry":
-            $ret = '../Fire/Images/Barrabus Leafstorm.png';
+            $ret = '../Fire/Images/Barrabus Leafstorm.png'; #Barry - Fire - m
         break;
         case "The Terror":
         case "Terror":
-            $ret = '../Fire/Images/Terror.png';
+            $ret = '../Fire/Images/Terror.png'; #Terror - Fire - f
         break;
         case "Auburn Tsun":
         case "Tsun":
-            $ret = '../Fire/Images/Auburn Tsun.png';
+            $ret = '../Fire/Images/Auburn Tsun.png'; #Tsun - Fire - f
         break;
         case "Smoke":
         case "Vita":
         case "Vita Grassforest":
-            $ret = '../Fire/Images/Smoke.png';
+            $ret = '../Fire/Images/Smoke.png'; #Vita - Fire - f
         break;
         # River Elves
         case "Acris Hylidae":
         case "Acris":
-            $ret = '../River/Images/Apprentice.png';
+            $ret = '../River/Images/Apprentice.png'; #Acris - River - m
         break;
         case "Litoria Hylidae":
         case "Litoria":
-            $ret = '../River/Images/Military.png';
+            $ret = '../River/Images/Military.png'; #Litoria - River - f
         break;
         case "Smilisca Hylidae":
         case "Smilisca":
-            $ret = '../River/Images/Navigator.png';
+            $ret = '../River/Images/Navigator.png'; #Smilisca - River - m
         break;
         case "Edalorhina Leptodactylidae":
         case "Eina":
-            $ret = '../River/Images/Faith.png';
+            $ret = '../River/Images/Faith.png'; #Eina - River - f
         break;
         case "Staurois Ranidae":
         case "Staurois":
-            $ret = '../River/Images/Leader.png';
+            $ret = '../River/Images/Leader.png'; #Staurois - River - m
         break;
         # Totem Elves
-        case "Fierce Moose":
+        case "Fierce Moose": #Moose - Totem - ?
             $ret = null;
         break;
-        case "Mad Wolf":
+        case "Mad Wolf": #Wolf - Totem - ?
             $ret = null;
         break;
-        case "Rising Bear":
+        case "Rising Bear": #Bear - Totem ?
             $ret = null;
         break;
-        case "Squirrel Boy":
+        case "Squirrel Boy": #Squirrel - Totem - m
             $ret = null;
         break;
         # Winged Elves:
         case "Anasatri":
-            $ret = '../Winged/Images/Anasatri.png';
+            $ret = '../Winged/Images/Anasatri.png'; #Anasatri - Winged - f
         break;
         case "Baijani":
-            $ret ='../Winged/Images/Baijani.png';
+            $ret ='../Winged/Images/Baijani.png'; #Baijani - Winged - f
         break;
         case "Dhakamari":
-            $ret = '../Winged/Images/Dhakamari.png';
+            $ret = '../Winged/Images/Dhakamari.png'; #Dhakamari - Winged - m
         break;
         case "Shadimon":
-            $ret = '../Winged/Images/Shadimon.png';
+            $ret = '../Winged/Images/Shadimon.png'; #Shadimon - Winged - m
         break;
         case "Shrike":
-            $ret = '../Winged/Images/Shrike.png';
+            $ret = '../Winged/Images/Shrike.png'; #Shrike - Winged - f
         break;
         case "Varna":
-            $ret = '../Winged/Images/Varna.png';
+            $ret = '../Winged/Images/Varna.png'; #Varna - Winged - m?
         break;
     }
     return $ret;
