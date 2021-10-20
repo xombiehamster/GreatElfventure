@@ -3,17 +3,18 @@
 function getImage($elf){
     $ret = null;
     switch($elf){
+        #Blade Elves
         case "Ehra Indrek":
         case "Ehra":
-            $ret = '../Blade/Images/Grandmaster.png';
+            $ret = '../Blade/Images/Grandmaster.png'; #Ehra - Blade - m
         break;
         case "Siiri Maar":
         case "Siiri":
-            $ret = '../Blade/Images/Corpsmaster.png';
+            $ret = '../Blade/Images/Corpsmaster.png'; #Siiri - Blade - f
         break;
         case "Terje Paavi":
         case "Terje":
-            $ret = '../Blade/Images/Quartermaster.png';
+            $ret = '../Blade/Images/Quartermaster.png'; #Terje - Blade - m
         break;
         case "Katiin Paavi":
         case "Katiin":
