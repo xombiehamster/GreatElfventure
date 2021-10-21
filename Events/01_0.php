@@ -27,7 +27,20 @@
         <a href="#fire"><span class="w3-tag w3-deep-orange">Fire Elves</span></a>
         <a href="#river"><span class="w3-tag w3-green">River Elves</span></a>
         <a href="#dark"><span class="w3-tag w3-blue-grey">Dark Elves</span></a><br>
-        The potluck in full attendance: <a href="#social"><span class="w3-tag w3-amber">The Party</span></a>
+        <p>The potluck in full attendance:</p>
+        <a href="#p1"><span class="w3-tag w3-amber">1</span></a>
+        <a href="#p2"><span class="w3-tag w3-amber">2</span></a>
+        <a href="#p3"><span class="w3-tag w3-amber">3</span></a>
+        <a href="#p4"><span class="w3-tag w3-amber">4</span></a>
+        <a href="#p5"><span class="w3-tag w3-amber">5</span></a>
+        <a href="#p6"><span class="w3-tag w3-amber">6</span></a>
+        <a href="#p7"><span class="w3-tag w3-amber">7</span></a>
+        <a href="#p8"><span class="w3-tag w3-amber">8</span></a>
+        <a href="#p9"><span class="w3-tag w3-amber">9</span></a>
+        <a href="#pa"><span class="w3-tag w3-amber">10</span></a>
+        <a href="#pb"><span class="w3-tag w3-amber">11</span></a>
+        <a href="#pc"><span class="w3-tag w3-amber">12</span></a>
+
     </div>
     <div class="w3-panel w3-round-xxlarge w3-khaki">
         <h3 id="blade">Blade Elves were first</h3>
@@ -47,7 +60,7 @@
         <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="../Blade/0_Aspects and Goals.php">More about Blade Elves.</a>]<br></div>
         <h3 id="winged">Next came the Winged Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
-            <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Shadimon').style.display='inline'">Shadimon</span> and <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Baijani').style.display='inline'">Baijani</span> paused at the door to greet the blade elves, while <span class='w3-tag w3-cyan w3-hover-blue w3-round' onclick="document.getElementById('Anasatri').style.display='inline'">Anasatri</span> eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
+            <p>The winged elves were the first to arrive, wearing bright colors and paint in their feathers. <?php nameTag('Shadimon','Shadimon', 'W'); ?> and <?php nameTag('Baijani','Baijani','W');?> paused at the door to greet the blade elves, while <?php nameTag('Anasatri','Anasatri','W');?> eased around them to set down the basket she was carrying. “Venison meatballs!” she announced. “With every spice we could get our hands on. Also bread.</p>
             <p>Shadimon held out his hand to Ehra, looking up at the much taller elf, “A good party. I hope you haven’t spent it all in here?”</p>
             <p>Ehra smiles and takes Shadimon’s hand, “Not at all! I have managed to get around some, at least. Siiri seems to think I will fall apart if I move too much, but I have been able to see our people celebrating together. It warms my heart.”</p>
             <p>At Ehra’s comment, Siiri mutters quietly. “<small>Grandfather…</small>”</p>
@@ -56,10 +69,10 @@
             <p>“Details,” Baijani waved it off, going to find a seat herself.</p>
         </div>
         <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Winged/0_Aspects and Goals.php">More about Winged Elves.</a>]<br></div>
-        <h3 id="dreamdust">Dreamdust Elves</h3>
+        <h3 id="dreamdust">The Dreamdust Elves were third</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
             <p>A cluster of dreamdust elves enter, pausing to shove goats back out of the room, and approach.  They are in bright blues and yellows and reds, eyesearingly saturated.  </p>
-            <p><span class='w3-tag w3-deep-purple w3-hover-purple w3-round' onclick="document.getElementById('Dust').style.display='inline'">Dust</span> approaches first, waving <span class='w3-tag w3-deep-purple w3-hover-purple w3-round' onclick="document.getElementById('Pebble').style.display='inline'">Pebble</span> and <span class='w3-tag w3-deep-purple w3-hover-purple w3-round' onclick="document.getElementById('Dave').style.display='inline'">Dave</span> to set down the platters of flatbreads, goat cheese, and small pastries (carefully labeled “Drugged” and “Not drugged”).  <span class='w3-tag w3-deep-purple w3-hover-purple w3-round' onclick="document.getElementById('Steve').style.display='inline'">Steve</span> stands nearby, smiling pleasantly while staring off into the middle distance.  </p>
+            <p><?php nameTag('Dust','Dust','DR');?> approaches first, waving <?php nameTag('Pebble','Pebble','DR');?> and <?php nameTag('Dave','Dave','DR');?> to set down the platters of flatbreads, goat cheese, and small pastries (carefully labeled “Drugged” and “Not drugged”).  <?php nameTag('Steve','Steve','DR');?> stands nearby, smiling pleasantly while staring off into the middle distance.  </p>
             <p>“Thank you for the invitation.”  Dust starts.</p>
             <p>“Of course!” Ehra turns with a warm smile, “Where would we be without you?”</p>
             <p>Ehra glances at the pastries, and Siiri views them with apparently extreme suspicion. Regardless, Ehra waves her off slightly without the slightest waver in his smile.</p>
@@ -99,7 +112,7 @@
         <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Fire/0_Aspects.php">More about Fire Elves</a>]<br></div>
         <h3 id="river">River Elves</h3>
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
-            <p>A small group of river elves arrives a bit belatedly.  <span class='w3-tag w3-round w3-green w3-hover-light-green' onclick="document.getElementById('Staurois_Ranidae').style.display='inline'">Staurois Ranidae</span> and <span class='w3-tag w3-round w3-green w3-hover-light-green' onclick="document.getElementById('Litoria_Hylidae').style.display='inline'">Litoria Hylidae</span> are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  <span class='w3-tag w3-round w3-green w3-hover-light-green' onclick="document.getElementById('Edalorhina_Leptodactylidae').style.display='inline'">Edalorhina Leptodactylidae</span> and <span class='w3-tag w3-round w3-green w3-hover-light-green' onclick="document.getElementById('Smilisca_Hylidae').style.display='inline'">Smilisca Hylidae</span> are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
+            <p>A small group of river elves arrives a bit belatedly.  <?php nameTag('Staurois_Ranidae','Staurois Ranidae','R');?> and <?php nameTag('Litoria_Hylidae','Litoria Hylidae','R');?> are carrying an enormous earthenware crock between them, Staurois clearly struggling with the burden and Litoria clearly not.  <?php nameTag('Edalorhina_Leptodactylidae','Edalorhina Leptodactylidae','R');?> and <?php nameTag('Smilisca_Hylidae','Smilisca Hylidae','R');?> are tasked with opening the door and guiding them carefully.  They plop the crock on the ground next to the table with a heavy thud.  A small hippopotamus follows at Litoria's heels, and when she straightens from depositing the heavy burden on the ground she nudges her way under the grey elf's webbed hand.</p>
             <p>"Pfoo-wee!" Staurois exclaims, "I hope the party ain't all over a-ready!"  He rubs the spots on his bald head, smiling but clearly exhausted from the task.  Litoria absently pats the hippopotamus on the nose, scratching her coarse whiskers.  She and Eina shrug at each other.  Smilisca's eyes dart around the room hopefully, but he appears somewhat disappointed by what he doesn't see, and he puts a bundle of large leaves on the table next to the crock.</p>
             <p>Eina pops the lid to the crock and she and Staurois start to remove raw crabs from the crock and arrange them carefully on the leaves.</p>
         </div>
@@ -108,17 +121,17 @@
         <div class="w3-panel w3-round-xxlarge w3-pale-yellow">
             <p>Trailing behind the armored figure (by a few minutes it seems) is a much smaller man, also in a mask, but this time unarmored and carrying a large tray of actively smoking meats and vegetables. "Ah! How lovely. Thank you for this delightful idea, Ehra." He gives the general a quick glance, before turning to haul his tray to the nearest table. "...And there are goats for some reason. Wonderful." </p>
             <p>The dark elves finally slink in, all wearing their dark surface garb though it looks like some of the usual equipment was forgon for looser garments on the two taller figures.  The tallest of them, in fact, looked to be bouncing like an excited child while holding a rather large basket that...was   slightly glowing?</p>
-            <p>The shortest one in the front turns with a raised finger to her companions.  “Behave, Uncle.”  She thinks about that for a moment before turning the finger to the other.  “Make sure he behaves, <span class='w3-tag w3-round w3-blue-grey w3-hover-teal' onclick="document.getElementById('Greg').style.display='inline'">Greg</span></p>
+            <p>The shortest one in the front turns with a raised finger to her companions.  “Behave, Uncle.”  She thinks about that for a moment before turning the finger to the other.  “Make sure he behaves, <?php nameTag('Greg','Greg','DA');?></p>
             <p>At the long suffering sigh from Greg, she turns back to the others clustered in the room and moves their little group forward to add the large basket of various glowing mushrooms to the growing food on the table.  </p>
-            <p>Greg smacks <span class='w3-tag w3-round w3-blue-grey w3-hover-teal' onclick="document.getElementById('Rasputin').style.display='inline'">Rasputin</span>’s hand as it not so subtly tries to reach for the specialty labeled pastries.</p>
+            <p>Greg smacks <?php nameTag('Rasputin','Rasputin','DA');?>’s hand as it not so subtly tries to reach for the specialty labeled pastries.</p>
             <p>“But they smell like fun and rainbows!”</p>
             <p>“No.  I’m not dealing with that again.”</p>
-            <p><span class='w3-tag w3-round w3-blue-grey w3-hover-teal' onclick="document.getElementById('Shyrendora').style.display='inline'">Shyrendora</span> ignores them and respectfully begins to remove her hood and mask while resolutely not making eye contact with anyone else occupying the room.  “Greetings all.” </p>
+            <p><?php nameTag('Shyrendora','Shyrendora','DA');?> ignores them and respectfully begins to remove her hood and mask while resolutely not making eye contact with anyone else occupying the room.  “Greetings all.” </p>
         </div>
         <div style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Dark/0_Aspects and Goals.php">More about Dark Elves</a>]<br></div>
     </div>
     <!-- After everyone is here, the sections are less organized -->
-    <h1 id="social">'Round the tables and fires...</h1>
+    <h1 id="p1">'Round the tables and fires...</h1>
     <div class="w3-panel w3-round-xxlarge w3-light-green">
         <div class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>The dreamdust elves wave at the new arrivals. </p>
@@ -138,13 +151,13 @@
             <p>With that, the blade elves take their plates and begin to sample the various foods in front of them. Against Siiri’s protests, Ehra even samples the sausages the Cryptid brought. He makes… an interesting face, but smiles afterwards.</p>
             <p>“Very savory!”</p>
         </div>
-        <div id="jump" style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Blade/0_Cryptids.php">What even are Cryptid Elves?</a>]<br></div>
+        <div id="p2" style="text-align:right">[<a href="#top">Return to top</a>][<a href="/Blade/0_Cryptids.php">What even are Cryptid Elves?</a>]<br></div>
         <div class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>The dreamdust elves get up, helping themselves to the food. They stare at the raw crabs with some confusion. Dust pokes at one but adds it to his plate with some doubt. Food acquired, the four scatter across the room. Dust heads for the river elves, Pebble heads for the cryptid elf, Dave heads for Baijani with the winged elves, and Steve wanders in an apparently random direction, winding up by the dark elves.</p>
             <p>Rasputin seems to eagerly pile bits of everything onto his plate, Greg only half-heartedly trying to convince him not to while being a bit more picky with his own.</p>
             <p>Shyrendora quietly slides some pastries onto both of their plates and smiles at Greg’s aggravated look. He pointedly shifts them off of Rasputin’s growing pile and plops them back onto Shyrendora’s plate.</p>
             <p>Staurois samples a bit of everything, but the other river elves pointedly avoid everything that looks to contain cheese.  They partake of the drugged pastries only in very small quantities.</p>
-            <p>For their part, the two masked Fire Elves seem uninterested in the food. <?php echo firstcontact("The Terror");?> seems content to stand in front of the hearth, placing her back to the party in general, and instead focus on the flames. <?php echo firstcontact("The Hunger");?>, meanwhile, slid himself down across the table from Ehra (plus or minus a few seats), and propped his head up on his elbows. “That’s not cinnamon, is it?” he said, pointing towards a pastry or two on Ehra’s plate. “Smells positively divine.” </p>
+            <p>For their part, the two masked Fire Elves seem uninterested in the food. <?php nameTag('The_Terror','The Terror','F');?> seems content to stand in front of the hearth, placing her back to the party in general, and instead focus on the flames. <?php nameTag('The_Hunger','The Hunger','F');?>, meanwhile, slid himself down across the table from Ehra (plus or minus a few seats), and propped his head up on his elbows. “That’s not cinnamon, is it?” he said, pointing towards a pastry or two on Ehra’s plate. “Smells positively divine.” </p>
             <p>Ehra picks one of the confections up off his plate (assuming it’s not the drugged one from earlier, that’s long gone) and sniffs it.</p>
             <p>“Yes, actually I think it is. I didn’t think we had any left.”</p>
             <p>Ehra pulls the pastry into two pieces,</p>
@@ -193,7 +206,7 @@
             <p>“That’s a word, yes. Has anyone seen Shyrendora? I had a question for her too.” </p>
             <p>“Over there, last I saw…”</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="p3" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>Staurois offers chopsticks to the Cryptid elf.  “Sorry if’n they gave ya the wrong utensils.  Lemee know if ya want some more crabs er anything.”  He pointedly takes a bite of the sausage from his plate.</p>
             <p>Thankfully the river elves’ somewhat eclectic diet prepares you for this experience. This appears to be some kind of blood sausage, except it appears to be cured in some kind of high-salt sauce. It is in fact completely uncooked, and has a sharp metallic taste contrasted with salty flavors and savory spices that you can’t place. It is… something of an experience.</p>
             <p>The cryptid elf takes the chopsticks with deft hands. You don’t know if it’s ever used them before, but it handles them like a pro despite having fingers longer than the chopsticks themselves. It takes a few bites of crab and places them in its mouth, chewing quietly for a few moments. Suddenly, its eyes go wide. It pauses for a few moments, then basically gobbles up everything but the shell in a few seconds.</p>
@@ -201,7 +214,7 @@
             <p>Staurois has eaten a lot of odd food in his lifetime, but this “sausage” is sure something else.  He manages to not make a face, somehow, and grins joyfully when the cryptid proclaims that it likes their crabs.</p>
             <p>The cryptid elf is not much one for small talk, but unlike usual, it stays standing where it is for several minutes eating before ghosting instead of doing so the second your back is turned.</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="p4" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>Dave sits down next to Baijani, ducking past a wing.  She sets a bottle of alcohol on the table and nudges it towards the winged elf.  “So, how much bullshit have you dealt with this week?”</p>
             <p>Baijani takes the bottle and pours a generous amount into her cup, “Enough for a lifetime, and I say this as an old woman. You’ll note our scoutmaster isn’t here. He’s off doing last-minute wrangling and getting his corp ready to move at dawn. You?” </p>
             <p>Dave laughs.  “I hear you.  It’s been crazy among us, too.  Steve keeps going on about omens, Dust expects the impossible, Pebble is irrationally cheerful and I want to strangle her, and the goats are their usual stubborn selves.”  She pours a similarly large cup.  “To safe travels.”  </p>
@@ -209,7 +222,7 @@
             <p>“Oh, I know Dust was planning to offer, if you need a hand with pack animals so you don’t have to walk with them, we’re going to be following the river for the first leg, and should have people to spare after to take them to your destination.  We’d ask for some mapwork in return, and if you come across anyone with interesting dyes, can you let us know?”</p>
             <p>“Ah absolutely. Shadimon was going to ask Staurois about traveling with them for awhile. We may have three groups heading the same way, which is fine by me.” She reaches for the bottle and refills both their cups, and anyone walking by for the next while hears an exciting amount of profanity and complaining.</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="p5" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>And speaking of alcohol, the river elf Navigator Smilisca, is deep into his cups, drinking without being paid any attention to.</p>
             <p>“I apologize for the delay,” the Hunger says, carrying over a plate loaded with turnips. He slips back into his seat and drops the plate off near Ehra. “Be careful. I warmed it up a bit.”</p>
             <p>“No worry at all!”</p>
@@ -222,7 +235,7 @@
             <p>“Don’t you…” Katiin starts to comment,</p>
             <p>“Nevermind,” Ehra waves at her, “I think I’m going to simply enjoy my turnip for a few moments.”</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="p6" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>Eina leans over to the Totem Elf she’s seated next to and offers a hug.</p>
             <p>“Mon cher, it’s good to see yall before we roll away.  I do hope it won’t be too long before we see you again, me.”</p>
             <p>The blond female smiles warmly and takes the hug with exuberance. “Of course, small friend! It won’t be long at all! Do not worry, our paths will cross again soon!”</p>
@@ -235,7 +248,7 @@
             <p>Fierce Moose smiles back in kind. "You give good hugs! I like that! You will be seeing us at New Year unless our alpha says nay! And I look forward to another hug then!" </p>
             <p>“I look forward to it, me!”  Eina grins happily.  “Is there any whats yall wan us to keep a peep out for on the way?  We ken git all kindsa great stuff.”</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="p7" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>Shyrendora is now hovering off to the side of the room, her back leaning against a wall.  She seems content to people watch while taking sips from a bland flask that was very likely nabbed from Greg before they split off.</p>
             <p>“I’m sure the dreamdust elves could do something to make that flask more interesting,” Shadimon comments, coming over to stand with her.</p>
             <p>A wiry smile crosses her lips as she responds, “I’m sure, but Greg does have a curious way with his alcohol.”  She takes another sip before holding it out in open invitation.  “What brings you to my corner of lurking, good Shadimon?” </p>
@@ -243,10 +256,10 @@
             <p>“A wise choice,” there is a hint of a chuckle to her words as she takes the flask back.  She tilts her head and thinks for a moment about the question, weighing options in her mind.  “We had plans to try and make it to the caldera just further north of the river canyon system you speak of.  As my people are not well versed with surface traveling, it would be wise for us to join you.  If you don't mind us taking up space while searching for tunnels, we will be more than happy to help with any building related tasks you require.” </p>
             <p>Shadimon laughed, “We’re already going to be traveling with the river elves and dreamdust elves, what’s one more group? Well, we can work out details on the way, but thank you.”</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="p8" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>Entirely unconcerned at the tension surrounding the interactions between the Fire Elves and the Blade Elves, Staurois calmly packs doggy bags for the masked leadership.  He makes sure to include go-cups so they don’t miss out on the provided alcoholic beverages as well.</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div class="w3-panel w3-round-xxlarge w3-pale-green"> <!-- Skipped tagging this as the above is tiny-->
             <p>Katiin, apparently bored with poking at fire elves, sits down at the table next to Litoria. She pats the baby hippo on the snout absently and smiles.</p>
             <p>“It’s good to see Sauver. I’m glad she’s growing well. How are you?”</p>
             <p>Litoria gives her fellow Warmaster the closest thing she has to a smile while slipping the emotional support hippopotamus another stalk of celery.</p>
@@ -263,22 +276,22 @@
             <p>“Sometime I don’ actually believe yall two are relatives.  An’ then I see ya fightin at a family fete and it’s obvious yall are.”</p>
             <p>Katiin opens her mouth as if to protest, then looks over at the Hunger across the table.</p>
             <p>“Okay, actually, I see your point. That makes it seem a little more surmountable. I just don’t get them, but… well, I guess there’s a good reason why.” </p>
-            <p>“Just yall don’ <span class="tooltip">casser<span class="tooltiptext">Cajun-French: To break up a party specificially by starting a fight.</span></span> this one.”  Litoria gives her opposite another almost smile.  “We don’ need to leave all <span class="tooltip">honte<span class="tooltiptext">Cajun-French: shame</span></span>.”</p>
+            <p>“Just yall don’ <span class="w3-tooltip">casser<span class="w3-text">Cajun-French: To break up a party specificially by starting a fight.</span></span> this one.”  Litoria gives her opposite another almost smile.  “We don’ need to leave all <span class="w3-tooltip">honte<span class="w3-text">Cajun-French: shame</span></span>.”</p>
             <p>Katiin gives an extremely puzzled look, “Uhm, no we... sure don’t. I don’t think they actually want to cause trouble, but well, maybe with all they’ve been through they just don’t want to be ignored. I think I can understand that.”</p>
             <p>“I think we can acknowledge the pain without rollin’ in it like dogs, me.”  Litoria sighs.  “Is what I’m workin’ on anyway.”</p>
             <p>“That, my friend, is a damn good goal. I’ll join you in that.”</p>
             <p>Litoria raises her mouthful of turnip in toast.  And in doing so, catches a glimpse of the navigator looking a little more tipsy than he ought to be the night before an important task of his.  Her chopsticks snap as she grips them a bit too hard.</p>
             <p>“Excuse.”  She stands and heads in Smilisca’s direction with an aggressive posture, pausing to grab a cup of water on the way.</p>
-            <p>Katiin glances towards Smilisca, then to Litoria as she passes, “Hey, if you’re talking to Smilisca, I think <?php echo firstcontact("Terje");?> was looking for him, sounded important…”</p>
+            <p>Katiin glances towards Smilisca, then to Litoria as she passes, “Hey, if you’re talking to Smilisca, I think <?php nameTag("Terje","Terje",'F');?> was looking for him, sounded important…”</p>
             <p>She trails off as Litoria storms towards the drunk navigator. Katiin shakes her head and takes a bite of turnip.</p>
             <p>“Family is right….”</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="p9" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>Pebble sat down in a chair beside the Cryptid elf.  “Hello again!”  There was a small bleat from under her arm.  “I’m not sure we were ever formally introduced.  I’m Pebble.  This is Namib.”  She patted the kid.  “What’s your name?  Are you enjoying the food?”</p>
             <p>The cryptid pauses for a moment, considering Pebble's words.</p>
             <p>“Yes, this is… good.”</p>
             <p>He stares at Pebbles for a few seconds more.</p>
-            <p>“Please call me <?php echo firstcontact("Ink");?>.”</p>
+            <p>“Please call me <?php nameTag('Ink','Ink','F');?>.”</p>
             <p>“Ink, huh?  Good to meet you!”  She waved her fingers at the cryptid elf.  “So, I think a bunch of us-- the winged elves, and river elves, maybe the dark elves?-- are all heading south from here.  Have you decided where you’re headed?”</p>
             <p>“Yes,” Ink answers rather flatly.</p>
             <p>“Oh good!  Can you tell me where?  Or is it a secret?”</p>
@@ -302,12 +315,12 @@
             <p>Ink relaxes a little, almost deflating a bit as attention is turned away from him. He snacks.</p>
             <p>“Yes!  It’ll be fun!  I’m looking forward to traveling with everyone!”  Her enthusiasm is palpable.</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="pa" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>The doors slap back open, as if pushed by a hurricane, and a half-dozen ornate food trays -- clearly claimed from a fancy Lycan kitchen -- float into the room, accompanied by a wave of warm, dry wind, tinted with the smell of charcoal. A red-haired Fire Elf saunters in just behind them, a flame-shaped bronze mask obscuring the top half of her face; the tassels on the edges of her chiton glow orange as she steps inside, flickering out a second later and leaving thin lines of smoke trailing after her.</p>
             <p>"Sorry I'm late," she says, grinning, as if addressing the whole room. "I lost track of time."</p>
             <p>She waves an arm at the blue table, and the trays slowly meander to it, dropping into a few of the remaining open spots. Two of them feature meat -- an assortment of shanks and steaks, most rare to the point of almost being raw. A couple more feature slices of thick, hard bread, as well as a seasoned oily dipping sauce, and a thick chickpea-heavy paste on the side; the Blade Elves among the party recognize the bread as a variation on old ration bread, which, hard and semi-inedible in the best of times, appears to have been baked harder still. The last two carried some type of flat, crumbly pastry, covered in pomegranate seeds and sticky with honey.</p>
             <p>Her first stop is not the seating area, but rather the elf packing doggie bags in the back. "Staurois!" she says. "Packing up already? I'm not that late, am I?" </p>
-            <p>“Oh <?php echo firstcontact("Fury");?>!  I’m excited to see you!” Staurois grins and snags some additional food from the newly arrived trays.  “Can’t have them two missin’ out what with the masks an all.  There’s so much ta try, an sure they’ll want a bit of it all.” </p>
+            <p>“Oh <?php nameTag('Fury','Fury','F');?>!  I’m excited to see you!” Staurois grins and snags some additional food from the newly arrived trays.  “Can’t have them two missin’ out what with the masks an all.  There’s so much ta try, an sure they’ll want a bit of it all.” </p>
             <p>“I’d be careful with that,” the Hunger says, stepping behind Staurois from around the table and gesturing to the crumbly pastry he has just grabbed. “That’s mostly cheese.”</p>
             <p>"Oh, I'm sure they'll thank you -- and it all looks so lovely!" Her eyes dart around the table. "...Are there any of those Dreamdust Elf pastries left? I love those!"</p>
             <p>The Hunger eyes Staurois, and shakes his head insistently. </p>
@@ -320,7 +333,7 @@
             <p>He looks over toward the Smilisca and Litoria.  The latter is pushing a cup of water on the former, who to his credit, looks a lot less intoxicated than the empty jug next to him might indicate.</p>
             <p>“Mayhaps, not tonight, no.”</p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="pb" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>With the fire elves distracted, Shadimon slides back into one of the seats across from Ehra and pushes a plate of innocent-seeming pastries over. “All of us leaving should take the pressure off of you now. Will you all be alright here?”</p>
             <p>Ehra turns to Shadimon, apparently having been giving the Terror's back a contemplative look, “Thanks to you, I believe so. There are… going to be challenges, but getting enough to eat won't be one of them. I believe we will be stable enough here, at least for the immediate future. Long term… that remains to be seen.” </p>
             <p>“That at least is true for all of us. The next few years are going to be...exciting.” He looks around the room at the others, “We aren’t all going to be impossibly far away. If you need help…”</p>
@@ -338,7 +351,7 @@
             <p>Siiri shrugs, “I go where you need me, grandfather.”</p>
             <p>“... we would be glad to come, once we are able.”<p>
         </div>
-        <div class="w3-panel w3-round-xxlarge w3-pale-green">
+        <div id="pc" class="w3-panel w3-round-xxlarge w3-pale-green">
             <p>As he sees the conversations start to wind down, Ehra looks over the rest of the group pensively. He takes a moment to look at each group of elves- and give another quiet consideration to the Terror. He turns back to the rest of the group. </p>
             <p>Ehra places his hands on the table and slowly stands.</p>
             <p>“Friends,” He begins in a voice loud enough to carry over the whole room. He pauses briefly to let conversation die down.</p>
