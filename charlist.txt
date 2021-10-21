@@ -1,9 +1,9 @@
 Type B - Blade:
-    case "Ehra Indrek":+
-    case "Siiri Maar":+
-    case "Terje Paavi":+
-    case "Katiin Paavi":+
-    case "Taavet Rein":+
+    case "Ehra_Indrek":+
+    case "Siiri_Maar":+
+    case "Terje_Paavi":+
+    case "Katiin_Paavi":+
+    case "Taavet_Rein":+
 Cryptid: // tag as Blade
     case "Ink":+
     case "Skulk":+
@@ -21,25 +21,20 @@ Type DR - Dreamdust:
     case "Dust":+
     case "Pebble":+
     case "Steve":+
-    case "Tik'Tak":+
+    case "Tik_Tak":+
 Type F - Fire:
-    case "The Fury":+
-    case "The Hunger":+
-    case "Barrabus Leafstorm":+
-    case "The Terror":+
-    case "Auburn Tsun":+
-    case "Vita Grassforest":+
+    case "The_Fury":+
+    case "The_Hunger":+
+    case "Barrabus_Leafstorm":+
+    case "The_Terror":+
+    case "Auburn_Tsun":+
+    case "Vita_Grassforest":+
 Type R - River:
-    case "Acris Hylidae":+
-    case "Litoria Hylidae":+
-    case "Smilisca Hylidae":+
-    case "Edalorhina Leptodactylidae":+
-    case "Staurois Ranidae":+
-Type T - Totem: // probably not needed, not sure if they are ever tagged
-    case "Fierce Moose":
-    case "Mad Wolf":
-    case "Rising Bear":
-    case "Squirrel Boy":
+    case "Acris_Hylidae":+
+    case "Litoria_Hylidae":+
+    case "Smilisca_Hylidae":+
+    case "Edalorhina_Leptodactylidae":+
+    case "Staurois_Ranidae":+
 Type W - Winged:
     case "Anasatri":+
     case "Baijani":+
