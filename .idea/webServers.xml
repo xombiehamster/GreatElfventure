@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b39dfd9b-0e4f-4440-9317-90ed308f93c8" name="DO-CV_FT" url="http://206.189.192.124">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="143.198.112.139" port="22" sshConfigId="9d8ddd2e-fbe8-47fb-8c45-46485ac004f0" sshConfig="root@143.198.112.139:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
