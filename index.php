@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <?php include 'header.html'; ?>
+    <?php include 'header.php'; ?>
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>
         Great Elfventure
